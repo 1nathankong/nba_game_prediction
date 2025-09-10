@@ -1,0 +1,1114 @@
+game_id,date,status,home_team_id,home_team_name,home_team_abbrev,home_score,away_team_id,away_team_name,away_team_abbrev,away_score,venue,attendance,season
+401266805,2020-12-23T00:00Z,Final,17,Brooklyn Nets,BKN,125,9,Golden State Warriors,GS,99,Barclays Center,0,2020-21
+401266806,2020-12-23T03:00Z,Final,13,Los Angeles Lakers,LAL,109,12,LA Clippers,LAC,116,crypto.com Arena,0,2020-21
+401267150,2020-12-24T00:00Z,Final,5,Cleveland Cavaliers,CLE,121,30,Charlotte Hornets,CHA,114,Rocket Arena,300,2020-21
+401267151,2020-12-24T00:00Z,Final,11,Indiana Pacers,IND,121,18,New York Knicks,NY,107,Gainbridge Fieldhouse,0,2020-21
+401267152,2020-12-24T00:00Z,Final,19,Orlando Magic,ORL,113,14,Miami Heat,MIA,107,Kia Center,3396,2020-21
+401267173,2020-12-24T00:00Z,Final,20,Philadelphia 76ers,PHI,113,27,Washington Wizards,WSH,107,Xfinity Mobile Arena,0,2020-21
+401266804,2020-12-24T00:30Z,Final,2,Boston Celtics,BOS,122,15,Milwaukee Bucks,MIL,121,TD Garden,0,2020-21
+401267174,2020-12-24T00:30Z,Final,28,Toronto Raptors,TOR,99,3,New Orleans Pelicans,NO,113,Benchmark International Arena,3800,2020-21
+401267175,2020-12-24T01:00Z,Final,4,Chicago Bulls,CHI,104,1,Atlanta Hawks,ATL,124,United Center,0,2020-21
+401267176,2020-12-24T01:00Z,Postponed,10,Houston Rockets,HOU,0,25,Oklahoma City Thunder,OKC,0,Toyota Center (Houston),0,2020-21
+401267177,2020-12-24T01:00Z,Final,29,Memphis Grizzlies,MEM,119,24,San Antonio Spurs,SA,131,FedExForum,0,2020-21
+401267178,2020-12-24T01:00Z,Final,16,Minnesota Timberwolves,MIN,111,8,Detroit Pistons,DET,101,Target Center,0,2020-21
+401267179,2020-12-24T02:00Z,Final,7,Denver Nuggets,DEN,122,23,Sacramento Kings,SAC,124,Ball Arena,0,2020-21
+401267180,2020-12-24T03:00Z,Final,22,Portland Trail Blazers,POR,100,26,Utah Jazz,UTAH,120,Moda Center,0,2020-21
+401266796,2020-12-24T03:30Z,Final,21,Phoenix Suns,PHX,106,6,Dallas Mavericks,DAL,102,PHX Arena,0,2020-21
+401266794,2020-12-25T17:00Z,Final,14,Miami Heat,MIA,111,3,New Orleans Pelicans,NO,98,Kaseya Center,0,2020-21
+401266797,2020-12-25T19:30Z,Final,15,Milwaukee Bucks,MIL,138,9,Golden State Warriors,GS,99,Fiserv Forum,0,2020-21
+401266798,2020-12-25T22:00Z,Final,2,Boston Celtics,BOS,95,17,Brooklyn Nets,BKN,123,TD Garden,0,2020-21
+401266799,2020-12-26T01:00Z,Final,13,Los Angeles Lakers,LAL,138,6,Dallas Mavericks,DAL,115,crypto.com Arena,0,2020-21
+401266795,2020-12-26T03:30Z,Final,7,Denver Nuggets,DEN,108,12,LA Clippers,LAC,121,Ball Arena,0,2020-21
+401267181,2020-12-26T22:00Z,Final,29,Memphis Grizzlies,MEM,112,1,Atlanta Hawks,ATL,122,FedExForum,0,2020-21
+401267182,2020-12-27T00:00Z,Final,30,Charlotte Hornets,CHA,107,25,Oklahoma City Thunder,OKC,109,Spectrum Center,0,2020-21
+401267183,2020-12-27T00:00Z,Final,8,Detroit Pistons,DET,119,5,Cleveland Cavaliers,CLE,128,Little Caesars Arena,0,2020-21
+401267184,2020-12-27T00:00Z,Final,27,Washington Wizards,WSH,120,19,Orlando Magic,ORL,130,Capital One Arena,0,2020-21
+401267185,2020-12-27T00:30Z,Final,18,New York Knicks,NY,89,20,Philadelphia 76ers,PHI,109,Madison Square Garden,0,2020-21
+401267186,2020-12-27T01:00Z,Final,4,Chicago Bulls,CHI,106,11,Indiana Pacers,IND,125,United Center,0,2020-21
+401267187,2020-12-27T01:30Z,Final,24,San Antonio Spurs,SA,119,28,Toronto Raptors,TOR,114,Frost Bank Center,0,2020-21
+401267188,2020-12-27T02:00Z,Final,26,Utah Jazz,UTAH,111,16,Minnesota Timberwolves,MIN,116,Delta Center,1932,2020-21
+401267189,2020-12-27T03:00Z,Final,22,Portland Trail Blazers,POR,128,10,Houston Rockets,HOU,126,Moda Center,0,2020-21
+401267190,2020-12-27T03:00Z,Final,23,Sacramento Kings,SAC,106,21,Phoenix Suns,PHX,103,Golden 1 Center,0,2020-21
+401267191,2020-12-27T20:30Z,Final,12,LA Clippers,LAC,73,6,Dallas Mavericks,DAL,124,crypto.com Arena,0,2020-21
+401267192,2020-12-28T00:00Z,Final,30,Charlotte Hornets,CHA,106,17,Brooklyn Nets,BKN,104,Spectrum Center,0,2020-21
+401267193,2020-12-28T00:00Z,Final,27,Washington Wizards,WSH,113,19,Orlando Magic,ORL,120,Capital One Arena,0,2020-21
+401267194,2020-12-28T00:00Z,Final,3,New Orleans Pelicans,NO,98,24,San Antonio Spurs,SA,95,Smoothie King Center,750,2020-21
+401267195,2020-12-28T00:30Z,Final,5,Cleveland Cavaliers,CLE,118,20,Philadelphia 76ers,PHI,94,Rocket Arena,300,2020-21
+401267196,2020-12-28T00:30Z,Final,18,New York Knicks,NY,130,15,Milwaukee Bucks,MIL,110,Madison Square Garden,0,2020-21
+401267197,2020-12-28T01:00Z,Final,11,Indiana Pacers,IND,108,2,Boston Celtics,BOS,107,Gainbridge Fieldhouse,0,2020-21
+401267198,2020-12-28T01:00Z,Final,4,Chicago Bulls,CHI,128,9,Golden State Warriors,GS,129,United Center,0,2020-21
+401267199,2020-12-28T02:00Z,Final,23,Sacramento Kings,SAC,100,21,Phoenix Suns,PHX,116,Golden 1 Center,0,2020-21
+401267200,2020-12-28T03:00Z,Final,13,Los Angeles Lakers,LAL,127,16,Minnesota Timberwolves,MIN,91,crypto.com Arena,0,2020-21
+401267201,2020-12-29T00:30Z,Final,1,Atlanta Hawks,ATL,128,8,Detroit Pistons,DET,120,State Farm Arena,0,2020-21
+401267202,2020-12-29T00:30Z,Final,17,Brooklyn Nets,BKN,111,29,Memphis Grizzlies,MEM,116,Barclays Center,0,2020-21
+401267203,2020-12-29T01:00Z,Final,25,Oklahoma City Thunder,OKC,109,26,Utah Jazz,UTAH,110,Paycom Center,0,2020-21
+401267204,2020-12-29T02:00Z,Final,7,Denver Nuggets,DEN,124,10,Houston Rockets,HOU,111,Ball Arena,0,2020-21
+401267205,2020-12-29T03:00Z,Final,13,Los Angeles Lakers,LAL,107,22,Portland Trail Blazers,POR,115,crypto.com Arena,0,2020-21
+401267206,2020-12-30T00:00Z,Final,5,Cleveland Cavaliers,CLE,86,18,New York Knicks,NY,95,Rocket Arena,300,2020-21
+401267207,2020-12-30T00:00Z,Final,8,Detroit Pistons,DET,106,9,Golden State Warriors,GS,116,Little Caesars Arena,0,2020-21
+401267208,2020-12-30T00:00Z,Final,11,Indiana Pacers,IND,111,2,Boston Celtics,BOS,116,Gainbridge Fieldhouse,0,2020-21
+401267209,2020-12-30T00:00Z,Final,20,Philadelphia 76ers,PHI,100,28,Toronto Raptors,TOR,93,Xfinity Mobile Arena,0,2020-21
+401267210,2020-12-30T00:00Z,Final,27,Washington Wizards,WSH,107,4,Chicago Bulls,CHI,115,Capital One Arena,0,2020-21
+401267211,2020-12-30T00:30Z,Final,14,Miami Heat,MIA,97,15,Milwaukee Bucks,MIL,144,Kaseya Center,0,2020-21
+401267212,2020-12-30T01:00Z,Final,25,Oklahoma City Thunder,OKC,107,19,Orlando Magic,ORL,118,Paycom Center,0,2020-21
+401267213,2020-12-30T03:00Z,Final,21,Phoenix Suns,PHX,111,3,New Orleans Pelicans,NO,86,PHX Arena,0,2020-21
+401267214,2020-12-30T03:00Z,Final,12,LA Clippers,LAC,124,16,Minnesota Timberwolves,MIN,101,crypto.com Arena,0,2020-21
+401267215,2020-12-30T03:00Z,Final,23,Sacramento Kings,SAC,125,7,Denver Nuggets,DEN,115,Golden 1 Center,0,2020-21
+401267216,2020-12-31T00:30Z,Final,2,Boston Celtics,BOS,126,29,Memphis Grizzlies,MEM,107,TD Garden,0,2020-21
+401267217,2020-12-31T00:30Z,Final,17,Brooklyn Nets,BKN,145,1,Atlanta Hawks,ATL,141,Barclays Center,0,2020-21
+401267218,2020-12-31T00:30Z,Final,14,Miami Heat,MIA,119,15,Milwaukee Bucks,MIL,108,Kaseya Center,0,2020-21
+401267219,2020-12-31T01:30Z,Final,6,Dallas Mavericks,DAL,99,30,Charlotte Hornets,CHA,118,American Airlines Center,0,2020-21
+401267220,2020-12-31T01:30Z,Final,24,San Antonio Spurs,SA,107,13,Los Angeles Lakers,LAL,121,Frost Bank Center,0,2020-21
+401267221,2020-12-31T03:00Z,Final,12,LA Clippers,LAC,128,22,Portland Trail Blazers,POR,105,crypto.com Arena,0,2020-21
+401267222,2020-12-31T20:00Z,Final,11,Indiana Pacers,IND,119,5,Cleveland Cavaliers,CLE,99,Gainbridge Fieldhouse,0,2020-21
+401267223,2020-12-31T22:00Z,Final,27,Washington Wizards,WSH,130,4,Chicago Bulls,CHI,133,Capital One Arena,0,2020-21
+401267224,2020-12-31T23:30Z,Final,19,Orlando Magic,ORL,92,20,Philadelphia 76ers,PHI,116,Kia Center,3247,2020-21
+401267225,2021-01-01T00:00Z,Final,10,Houston Rockets,HOU,122,23,Sacramento Kings,SAC,119,Toyota Center (Houston),3247,2020-21
+401267226,2021-01-01T00:30Z,Final,28,Toronto Raptors,TOR,100,18,New York Knicks,NY,83,Benchmark International Arena,3449,2020-21
+401267227,2021-01-01T01:00Z,Final,25,Oklahoma City Thunder,OKC,80,3,New Orleans Pelicans,NO,113,Paycom Center,0,2020-21
+401267228,2021-01-01T02:00Z,Final,26,Utah Jazz,UTAH,95,21,Phoenix Suns,PHX,106,Delta Center,1932,2020-21
+401267229,2021-01-02T00:00Z,Final,30,Charlotte Hornets,CHA,93,29,Memphis Grizzlies,MEM,108,Spectrum Center,0,2020-21
+401267230,2021-01-02T00:00Z,Final,8,Detroit Pistons,DET,96,2,Boston Celtics,BOS,93,Little Caesars Arena,0,2020-21
+401267231,2021-01-02T00:00Z,Final,6,Dallas Mavericks,DAL,93,14,Miami Heat,MIA,83,American Airlines Center,0,2020-21
+401267232,2021-01-02T00:30Z,Final,17,Brooklyn Nets,BKN,96,1,Atlanta Hawks,ATL,114,Barclays Center,0,2020-21
+401267233,2021-01-02T01:00Z,Final,15,Milwaukee Bucks,MIL,126,4,Chicago Bulls,CHI,96,Fiserv Forum,0,2020-21
+401267234,2021-01-02T01:00Z,Final,16,Minnesota Timberwolves,MIN,109,27,Washington Wizards,WSH,130,Target Center,0,2020-21
+401267235,2021-01-02T01:00Z,Final,24,San Antonio Spurs,SA,103,13,Los Angeles Lakers,LAL,109,Frost Bank Center,0,2020-21
+401267236,2021-01-02T02:00Z,Final,7,Denver Nuggets,DEN,103,21,Phoenix Suns,PHX,106,Ball Arena,0,2020-21
+401267237,2021-01-02T02:00Z,Final,26,Utah Jazz,UTAH,106,12,LA Clippers,LAC,100,Delta Center,1932,2020-21
+401267238,2021-01-02T03:30Z,Final,9,Golden State Warriors,GS,98,22,Portland Trail Blazers,POR,123,Chase Center,0,2020-21
+401267239,2021-01-02T22:00Z,Final,10,Houston Rockets,HOU,102,23,Sacramento Kings,SAC,94,Toyota Center (Houston),3065,2020-21
+401267240,2021-01-03T00:00Z,Final,11,Indiana Pacers,IND,102,18,New York Knicks,NY,106,Gainbridge Fieldhouse,0,2020-21
+401267241,2021-01-03T00:00Z,Final,19,Orlando Magic,ORL,99,25,Oklahoma City Thunder,OKC,108,Kia Center,3339,2020-21
+401267242,2021-01-03T00:00Z,Final,20,Philadelphia 76ers,PHI,127,30,Charlotte Hornets,CHA,112,Xfinity Mobile Arena,0,2020-21
+401267243,2021-01-03T00:30Z,Final,1,Atlanta Hawks,ATL,91,5,Cleveland Cavaliers,CLE,96,State Farm Arena,0,2020-21
+401267244,2021-01-03T00:30Z,Final,3,New Orleans Pelicans,NO,120,28,Toronto Raptors,TOR,116,Smoothie King Center,750,2020-21
+401267245,2021-01-03T20:00Z,Final,8,Detroit Pistons,DET,120,2,Boston Celtics,BOS,122,Little Caesars Arena,0,2020-21
+401267246,2021-01-03T23:00Z,Final,17,Brooklyn Nets,BKN,122,27,Washington Wizards,WSH,123,Barclays Center,0,2020-21
+401267247,2021-01-03T23:00Z,Final,29,Memphis Grizzlies,MEM,94,13,Los Angeles Lakers,LAL,108,FedExForum,0,2020-21
+401267248,2021-01-04T00:00Z,Final,16,Minnesota Timberwolves,MIN,109,7,Denver Nuggets,DEN,124,Target Center,0,2020-21
+401267249,2021-01-04T00:00Z,Final,24,San Antonio Spurs,SA,109,26,Utah Jazz,UTAH,130,Frost Bank Center,0,2020-21
+401267250,2021-01-04T01:00Z,Final,4,Chicago Bulls,CHI,118,6,Dallas Mavericks,DAL,108,United Center,0,2020-21
+401267251,2021-01-04T01:00Z,Final,21,Phoenix Suns,PHX,107,12,LA Clippers,LAC,112,PHX Arena,0,2020-21
+401267252,2021-01-04T01:30Z,Final,9,Golden State Warriors,GS,137,22,Portland Trail Blazers,POR,122,Chase Center,0,2020-21
+401267253,2021-01-05T00:00Z,Final,19,Orlando Magic,ORL,103,5,Cleveland Cavaliers,CLE,83,Kia Center,2726,2020-21
+401267254,2021-01-05T00:00Z,Final,20,Philadelphia 76ers,PHI,118,30,Charlotte Hornets,CHA,101,Xfinity Mobile Arena,0,2020-21
+401267255,2021-01-05T00:30Z,Final,1,Atlanta Hawks,ATL,108,18,New York Knicks,NY,113,State Farm Arena,0,2020-21
+401267256,2021-01-05T00:30Z,Final,14,Miami Heat,MIA,118,25,Oklahoma City Thunder,OKC,90,Kaseya Center,0,2020-21
+401267257,2021-01-05T00:30Z,Final,28,Toronto Raptors,TOR,114,2,Boston Celtics,BOS,126,Benchmark International Arena,3740,2020-21
+401267258,2021-01-05T01:00Z,Final,10,Houston Rockets,HOU,100,6,Dallas Mavericks,DAL,113,Toyota Center (Houston),3070,2020-21
+401267259,2021-01-05T01:00Z,Final,15,Milwaukee Bucks,MIL,125,8,Detroit Pistons,DET,115,Fiserv Forum,0,2020-21
+401267260,2021-01-05T01:00Z,Final,3,New Orleans Pelicans,NO,116,11,Indiana Pacers,IND,118,Smoothie King Center,750,2020-21
+401267261,2021-01-05T03:00Z,Final,9,Golden State Warriors,GS,137,23,Sacramento Kings,SAC,106,Chase Center,0,2020-21
+401267262,2021-01-06T00:30Z,Final,17,Brooklyn Nets,BKN,130,26,Utah Jazz,UTAH,96,Barclays Center,0,2020-21
+401267263,2021-01-06T01:00Z,Final,29,Memphis Grizzlies,MEM,92,13,Los Angeles Lakers,LAL,94,FedExForum,0,2020-21
+401267264,2021-01-06T02:00Z,Final,7,Denver Nuggets,DEN,123,16,Minnesota Timberwolves,MIN,116,Ball Arena,0,2020-21
+401267265,2021-01-06T03:00Z,Final,12,LA Clippers,LAC,113,24,San Antonio Spurs,SA,116,crypto.com Arena,0,2020-21
+401267266,2021-01-06T03:30Z,Final,22,Portland Trail Blazers,POR,108,4,Chicago Bulls,CHI,111,Moda Center,0,2020-21
+401267267,2021-01-07T00:00Z,Final,11,Indiana Pacers,IND,114,10,Houston Rockets,HOU,107,Gainbridge Fieldhouse,0,2020-21
+401267268,2021-01-07T00:00Z,Final,19,Orlando Magic,ORL,105,5,Cleveland Cavaliers,CLE,94,Kia Center,2948,2020-21
+401267269,2021-01-07T00:00Z,Final,20,Philadelphia 76ers,PHI,141,27,Washington Wizards,WSH,136,Xfinity Mobile Arena,0,2020-21
+401267270,2021-01-07T00:30Z,Final,1,Atlanta Hawks,ATL,94,30,Charlotte Hornets,CHA,102,State Farm Arena,0,2020-21
+401267271,2021-01-07T00:30Z,Final,14,Miami Heat,MIA,105,2,Boston Celtics,BOS,107,Kaseya Center,0,2020-21
+401267272,2021-01-07T00:30Z,Final,18,New York Knicks,NY,112,26,Utah Jazz,UTAH,100,Madison Square Garden,0,2020-21
+401267273,2021-01-07T01:00Z,Final,15,Milwaukee Bucks,MIL,130,8,Detroit Pistons,DET,115,Fiserv Forum,0,2020-21
+401267274,2021-01-07T01:00Z,Final,3,New Orleans Pelicans,NO,110,25,Oklahoma City Thunder,OKC,111,Smoothie King Center,750,2020-21
+401267275,2021-01-07T02:00Z,Final,21,Phoenix Suns,PHX,123,28,Toronto Raptors,TOR,115,PHX Arena,0,2020-21
+401267276,2021-01-07T03:00Z,Final,9,Golden State Warriors,GS,101,12,LA Clippers,LAC,108,Chase Center,0,2020-21
+401267277,2021-01-07T03:00Z,Final,23,Sacramento Kings,SAC,128,4,Chicago Bulls,CHI,124,Golden 1 Center,0,2020-21
+401267278,2021-01-08T00:30Z,Final,17,Brooklyn Nets,BKN,122,20,Philadelphia 76ers,PHI,109,Barclays Center,0,2020-21
+401267279,2021-01-08T01:00Z,Final,29,Memphis Grizzlies,MEM,90,5,Cleveland Cavaliers,CLE,94,FedExForum,0,2020-21
+401267280,2021-01-08T03:00Z,Final,7,Denver Nuggets,DEN,117,6,Dallas Mavericks,DAL,124,Ball Arena,0,2020-21
+401267281,2021-01-08T03:00Z,Final,13,Los Angeles Lakers,LAL,109,24,San Antonio Spurs,SA,118,crypto.com Arena,0,2020-21
+401267282,2021-01-08T03:00Z,Final,22,Portland Trail Blazers,POR,135,16,Minnesota Timberwolves,MIN,117,Moda Center,0,2020-21
+401267283,2021-01-09T00:00Z,Final,8,Detroit Pistons,DET,110,21,Phoenix Suns,PHX,105,Little Caesars Arena,0,2020-21
+401267284,2021-01-09T00:30Z,Final,2,Boston Celtics,BOS,116,27,Washington Wizards,WSH,107,TD Garden,0,2020-21
+401267285,2021-01-09T00:30Z,Final,18,New York Knicks,NY,89,25,Oklahoma City Thunder,OKC,101,Madison Square Garden,0,2020-21
+401267286,2021-01-09T00:30Z,Final,3,New Orleans Pelicans,NO,110,30,Charlotte Hornets,CHA,118,Smoothie King Center,750,2020-21
+401267287,2021-01-09T01:00Z,Final,10,Houston Rockets,HOU,132,19,Orlando Magic,ORL,90,Toyota Center (Houston),3039,2020-21
+401267288,2021-01-09T01:00Z,Final,29,Memphis Grizzlies,MEM,115,17,Brooklyn Nets,BKN,110,FedExForum,0,2020-21
+401267289,2021-01-09T01:00Z,Final,15,Milwaukee Bucks,MIL,118,26,Utah Jazz,UTAH,131,Fiserv Forum,0,2020-21
+401267290,2021-01-09T03:00Z,Final,9,Golden State Warriors,GS,115,12,LA Clippers,LAC,105,Chase Center,0,2020-21
+401267291,2021-01-09T03:00Z,Final,13,Los Angeles Lakers,LAL,117,4,Chicago Bulls,CHI,115,crypto.com Arena,0,2020-21
+401267292,2021-01-09T03:00Z,Final,23,Sacramento Kings,SAC,123,28,Toronto Raptors,TOR,144,Golden 1 Center,0,2020-21
+401267293,2021-01-09T20:00Z,Final,20,Philadelphia 76ers,PHI,103,7,Denver Nuggets,DEN,115,Xfinity Mobile Arena,0,2020-21
+401267294,2021-01-10T00:00Z,Final,30,Charlotte Hornets,CHA,113,1,Atlanta Hawks,ATL,105,Spectrum Center,0,2020-21
+401267295,2021-01-10T00:00Z,Final,11,Indiana Pacers,IND,117,21,Phoenix Suns,PHX,125,Gainbridge Fieldhouse,0,2020-21
+401267296,2021-01-10T00:00Z,Final,27,Washington Wizards,WSH,124,14,Miami Heat,MIA,128,Capital One Arena,0,2020-21
+401267297,2021-01-10T01:00Z,Final,15,Milwaukee Bucks,MIL,100,5,Cleveland Cavaliers,CLE,90,Fiserv Forum,0,2020-21
+401267298,2021-01-10T01:00Z,Final,16,Minnesota Timberwolves,MIN,122,24,San Antonio Spurs,SA,125,Target Center,0,2020-21
+401267299,2021-01-10T01:30Z,Final,6,Dallas Mavericks,DAL,112,19,Orlando Magic,ORL,98,American Airlines Center,0,2020-21
+401267300,2021-01-10T03:00Z,Final,23,Sacramento Kings,SAC,99,22,Portland Trail Blazers,POR,125,Golden 1 Center,0,2020-21
+401267301,2021-01-10T20:00Z,Final,8,Detroit Pistons,DET,86,26,Utah Jazz,UTAH,96,Little Caesars Arena,0,2020-21
+401267302,2021-01-10T21:00Z,Final,12,LA Clippers,LAC,130,4,Chicago Bulls,CHI,127,crypto.com Arena,0,2020-21
+401267303,2021-01-10T23:00Z,Final,17,Brooklyn Nets,BKN,116,25,Oklahoma City Thunder,OKC,129,Barclays Center,0,2020-21
+401267304,2021-01-10T23:00Z,Final,18,New York Knicks,NY,89,7,Denver Nuggets,DEN,114,Madison Square Garden,0,2020-21
+401267305,2021-01-11T00:00Z,Postponed,2,Boston Celtics,BOS,0,14,Miami Heat,MIA,0,TD Garden,0,2020-21
+401267306,2021-01-11T00:00Z,Final,10,Houston Rockets,HOU,102,13,Los Angeles Lakers,LAL,120,Toyota Center (Houston),3327,2020-21
+401267307,2021-01-11T01:00Z,Final,16,Minnesota Timberwolves,MIN,96,24,San Antonio Spurs,SA,88,Target Center,0,2020-21
+401267308,2021-01-11T01:30Z,Final,9,Golden State Warriors,GS,106,28,Toronto Raptors,TOR,105,Chase Center,0,2020-21
+401267309,2021-01-12T00:00Z,Final,30,Charlotte Hornets,CHA,109,18,New York Knicks,NY,88,Spectrum Center,0,2020-21
+401267310,2021-01-12T00:00Z,Final,5,Cleveland Cavaliers,CLE,91,29,Memphis Grizzlies,MEM,101,Rocket Arena,1944,2020-21
+401267311,2021-01-12T00:00Z,Final,19,Orlando Magic,ORL,99,15,Milwaukee Bucks,MIL,121,Kia Center,3248,2020-21
+401267312,2021-01-12T00:00Z,Final,27,Washington Wizards,WSH,128,21,Phoenix Suns,PHX,107,Capital One Arena,0,2020-21
+401267313,2021-01-12T00:30Z,Final,1,Atlanta Hawks,ATL,112,20,Philadelphia 76ers,PHI,94,State Farm Arena,0,2020-21
+401267314,2021-01-12T01:30Z,Postponed,6,Dallas Mavericks,DAL,0,3,New Orleans Pelicans,NO,0,American Airlines Center,0,2020-21
+401267315,2021-01-12T03:00Z,Final,22,Portland Trail Blazers,POR,112,28,Toronto Raptors,TOR,111,Moda Center,0,2020-21
+401267316,2021-01-12T03:00Z,Final,23,Sacramento Kings,SAC,127,11,Indiana Pacers,IND,122,Golden 1 Center,0,2020-21
+401267317,2021-01-13T00:00Z,Final,20,Philadelphia 76ers,PHI,137,14,Miami Heat,MIA,134,Xfinity Mobile Arena,0,2020-21
+401267318,2021-01-13T00:30Z,Final,17,Brooklyn Nets,BKN,122,7,Denver Nuggets,DEN,116,Barclays Center,0,2020-21
+401267319,2021-01-13T00:30Z,Final,5,Cleveland Cavaliers,CLE,87,26,Utah Jazz,UTAH,117,Rocket Arena,1944,2020-21
+401267320,2021-01-13T01:00Z,Postponed,4,Chicago Bulls,CHI,0,2,Boston Celtics,BOS,0,United Center,0,2020-21
+401267321,2021-01-13T01:00Z,Final,10,Houston Rockets,HOU,100,13,Los Angeles Lakers,LAL,117,Toyota Center (Houston),3221,2020-21
+401267322,2021-01-13T01:00Z,Final,25,Oklahoma City Thunder,OKC,102,24,San Antonio Spurs,SA,112,Paycom Center,0,2020-21
+401267323,2021-01-13T03:30Z,Final,9,Golden State Warriors,GS,95,11,Indiana Pacers,IND,104,Chase Center,0,2020-21
+401267324,2021-01-14T00:00Z,Final,30,Charlotte Hornets,CHA,93,6,Dallas Mavericks,DAL,104,Spectrum Center,0,2020-21
+401267325,2021-01-14T00:00Z,Final,8,Detroit Pistons,DET,101,15,Milwaukee Bucks,MIL,110,Little Caesars Arena,0,2020-21
+401267326,2021-01-14T00:00Z,Postponed,27,Washington Wizards,WSH,0,26,Utah Jazz,UTAH,0,Capital One Arena,0,2020-21
+401267327,2021-01-14T00:30Z,Postponed,2,Boston Celtics,BOS,0,19,Orlando Magic,ORL,0,TD Garden,0,2020-21
+401267328,2021-01-14T00:30Z,Final,18,New York Knicks,NY,109,17,Brooklyn Nets,BKN,116,Madison Square Garden,0,2020-21
+401267329,2021-01-14T01:00Z,Final,16,Minnesota Timberwolves,MIN,107,29,Memphis Grizzlies,MEM,118,Target Center,0,2020-21
+401267330,2021-01-14T01:00Z,Final,25,Oklahoma City Thunder,OKC,99,13,Los Angeles Lakers,LAL,128,Paycom Center,0,2020-21
+401267331,2021-01-14T02:00Z,Postponed,21,Phoenix Suns,PHX,0,1,Atlanta Hawks,ATL,0,PHX Arena,0,2020-21
+401267332,2021-01-14T03:00Z,Final,12,LA Clippers,LAC,111,3,New Orleans Pelicans,NO,106,crypto.com Arena,0,2020-21
+401267333,2021-01-14T03:00Z,Final,23,Sacramento Kings,SAC,126,22,Portland Trail Blazers,POR,132,Golden 1 Center,0,2020-21
+401267334,2021-01-15T00:00Z,Final,20,Philadelphia 76ers,PHI,125,14,Miami Heat,MIA,108,Xfinity Mobile Arena,0,2020-21
+401267335,2021-01-15T00:30Z,Final,28,Toronto Raptors,TOR,111,30,Charlotte Hornets,CHA,108,Benchmark International Arena,0,2020-21
+401267336,2021-01-15T00:30Z,Final,24,San Antonio Spurs,SA,105,10,Houston Rockets,HOU,109,Frost Bank Center,0,2020-21
+401267337,2021-01-15T03:00Z,Final,7,Denver Nuggets,DEN,114,9,Golden State Warriors,GS,104,Ball Arena,0,2020-21
+401267338,2021-01-15T03:00Z,Final,22,Portland Trail Blazers,POR,87,11,Indiana Pacers,IND,111,Moda Center,0,2020-21
+401267339,2021-01-16T00:00Z,Postponed,8,Detroit Pistons,DET,0,27,Washington Wizards,WSH,0,Little Caesars Arena,0,2020-21
+401267340,2021-01-16T00:30Z,Final,2,Boston Celtics,BOS,124,19,Orlando Magic,ORL,97,TD Garden,0,2020-21
+401267341,2021-01-16T00:30Z,Final,5,Cleveland Cavaliers,CLE,106,18,New York Knicks,NY,103,Rocket Arena,1944,2020-21
+401267342,2021-01-16T00:30Z,Final,15,Milwaukee Bucks,MIL,112,6,Dallas Mavericks,DAL,109,Fiserv Forum,0,2020-21
+401267343,2021-01-16T01:00Z,Postponed,16,Minnesota Timberwolves,MIN,0,29,Memphis Grizzlies,MEM,0,Target Center,0,2020-21
+401267344,2021-01-16T01:00Z,Final,25,Oklahoma City Thunder,OKC,127,4,Chicago Bulls,CHI,125,Paycom Center,0,2020-21
+401267345,2021-01-16T02:00Z,Postponed,21,Phoenix Suns,PHX,0,9,Golden State Warriors,GS,0,PHX Arena,0,2020-21
+401267346,2021-01-16T02:00Z,Final,26,Utah Jazz,UTAH,116,1,Atlanta Hawks,ATL,92,Delta Center,1932,2020-21
+401267347,2021-01-16T03:00Z,Final,13,Los Angeles Lakers,LAL,112,3,New Orleans Pelicans,NO,95,crypto.com Arena,0,2020-21
+401267348,2021-01-16T03:00Z,Final,23,Sacramento Kings,SAC,100,12,LA Clippers,LAC,138,Golden 1 Center,0,2020-21
+401267349,2021-01-16T22:00Z,Final,24,San Antonio Spurs,SA,103,10,Houston Rockets,HOU,91,Frost Bank Center,0,2020-21
+401267350,2021-01-16T23:00Z,Final,17,Brooklyn Nets,BKN,122,19,Orlando Magic,ORL,115,Barclays Center,0,2020-21
+401267351,2021-01-17T00:30Z,Final,28,Toronto Raptors,TOR,116,30,Charlotte Hornets,CHA,113,Benchmark International Arena,0,2020-21
+401267352,2021-01-17T01:00Z,Final,14,Miami Heat,MIA,100,8,Detroit Pistons,DET,120,Kaseya Center,0,2020-21
+401267353,2021-01-17T01:00Z,Final,29,Memphis Grizzlies,MEM,106,20,Philadelphia 76ers,PHI,104,FedExForum,206,2020-21
+401267354,2021-01-17T02:00Z,Postponed,21,Phoenix Suns,PHX,0,11,Indiana Pacers,IND,0,PHX Arena,0,2020-21
+401267355,2021-01-17T03:00Z,Final,22,Portland Trail Blazers,POR,112,1,Atlanta Hawks,ATL,106,Moda Center,0,2020-21
+401267356,2021-01-17T18:00Z,Final,2,Boston Celtics,BOS,75,18,New York Knicks,NY,105,TD Garden,0,2020-21
+401267357,2021-01-17T19:00Z,Postponed,27,Washington Wizards,WSH,0,5,Cleveland Cavaliers,CLE,0,Capital One Arena,0,2020-21
+401267358,2021-01-17T20:00Z,Final,6,Dallas Mavericks,DAL,101,4,Chicago Bulls,CHI,117,American Airlines Center,0,2020-21
+401267359,2021-01-18T00:00Z,Postponed,25,Oklahoma City Thunder,OKC,0,20,Philadelphia 76ers,PHI,0,Paycom Center,0,2020-21
+401267360,2021-01-18T01:00Z,Final,7,Denver Nuggets,DEN,105,26,Utah Jazz,UTAH,109,Ball Arena,0,2020-21
+401267361,2021-01-18T02:00Z,Final,23,Sacramento Kings,SAC,123,3,New Orleans Pelicans,NO,128,Golden 1 Center,0,2020-21
+401267362,2021-01-18T03:00Z,Final,12,LA Clippers,LAC,129,11,Indiana Pacers,IND,96,crypto.com Arena,0,2020-21
+401267363,2021-01-18T17:00Z,Final,18,New York Knicks,NY,91,19,Orlando Magic,ORL,84,Madison Square Garden,0,2020-21
+401267364,2021-01-18T19:00Z,Postponed,27,Washington Wizards,WSH,0,5,Cleveland Cavaliers,CLE,0,Capital One Arena,0,2020-21
+401267365,2021-01-18T19:30Z,Final,1,Atlanta Hawks,ATL,108,16,Minnesota Timberwolves,MIN,97,State Farm Arena,0,2020-21
+401267367,2021-01-18T20:00Z,Final,22,Portland Trail Blazers,POR,104,24,San Antonio Spurs,SA,125,Moda Center,0,2020-21
+401267368,2021-01-18T22:00Z,Final,29,Memphis Grizzlies,MEM,108,21,Phoenix Suns,PHX,104,FedExForum,204,2020-21
+401267369,2021-01-19T00:30Z,Final,17,Brooklyn Nets,BKN,125,15,Milwaukee Bucks,MIL,123,Barclays Center,0,2020-21
+401267370,2021-01-19T00:30Z,Final,28,Toronto Raptors,TOR,116,6,Dallas Mavericks,DAL,93,Benchmark International Arena,0,2020-21
+401267366,2021-01-19T01:00Z,Final,14,Miami Heat,MIA,113,8,Detroit Pistons,DET,107,Kaseya Center,0,2020-21
+401267371,2021-01-19T01:00Z,Final,4,Chicago Bulls,CHI,125,10,Houston Rockets,HOU,120,United Center,0,2020-21
+401267372,2021-01-19T03:00Z,Final,13,Los Angeles Lakers,LAL,113,9,Golden State Warriors,GS,115,crypto.com Arena,0,2020-21
+401267373,2021-01-20T02:00Z,Final,7,Denver Nuggets,DEN,119,25,Oklahoma City Thunder,OKC,101,Ball Arena,0,2020-21
+401267374,2021-01-20T02:00Z,Final,26,Utah Jazz,UTAH,118,3,New Orleans Pelicans,NO,102,Delta Center,1932,2020-21
+401267375,2021-01-21T00:00Z,Postponed,30,Charlotte Hornets,CHA,0,27,Washington Wizards,WSH,0,Spectrum Center,0,2020-21
+401267376,2021-01-21T00:00Z,Final,5,Cleveland Cavaliers,CLE,147,17,Brooklyn Nets,BKN,135,Rocket Arena,1944,2020-21
+401267377,2021-01-21T00:00Z,Final,11,Indiana Pacers,IND,112,6,Dallas Mavericks,DAL,124,Gainbridge Fieldhouse,0,2020-21
+401267378,2021-01-21T00:00Z,Final,20,Philadelphia 76ers,PHI,117,2,Boston Celtics,BOS,109,Xfinity Mobile Arena,0,2020-21
+401267379,2021-01-21T00:30Z,Final,1,Atlanta Hawks,ATL,123,8,Detroit Pistons,DET,115,State Farm Arena,0,2020-21
+401267380,2021-01-21T00:30Z,Final,28,Toronto Raptors,TOR,102,14,Miami Heat,MIA,111,Benchmark International Arena,0,2020-21
+401267381,2021-01-21T01:00Z,Final,16,Minnesota Timberwolves,MIN,96,19,Orlando Magic,ORL,97,Target Center,0,2020-21
+401267382,2021-01-21T02:30Z,Final,10,Houston Rockets,HOU,103,21,Phoenix Suns,PHX,109,Toyota Center (Houston),3022,2020-21
+401267383,2021-01-21T03:00Z,Final,9,Golden State Warriors,GS,121,24,San Antonio Spurs,SA,99,Chase Center,0,2020-21
+401267384,2021-01-21T03:00Z,Final,12,LA Clippers,LAC,115,23,Sacramento Kings,SAC,96,crypto.com Arena,0,2020-21
+401267385,2021-01-21T03:00Z,Postponed,22,Portland Trail Blazers,POR,0,29,Memphis Grizzlies,MEM,0,Moda Center,0,2020-21
+401267386,2021-01-22T00:30Z,Final,15,Milwaukee Bucks,MIL,106,13,Los Angeles Lakers,LAL,113,Fiserv Forum,0,2020-21
+401267387,2021-01-22T03:00Z,Final,26,Utah Jazz,UTAH,129,3,New Orleans Pelicans,NO,118,Delta Center,1932,2020-21
+401267388,2021-01-22T03:00Z,Final,9,Golden State Warriors,GS,104,18,New York Knicks,NY,119,Chase Center,0,2020-21
+401267389,2021-01-23T00:00Z,Final,30,Charlotte Hornets,CHA,110,4,Chicago Bulls,CHI,123,Spectrum Center,0,2020-21
+401267390,2021-01-23T00:00Z,Final,8,Detroit Pistons,DET,102,10,Houston Rockets,HOU,103,Little Caesars Arena,0,2020-21
+401267391,2021-01-23T00:00Z,Final,11,Indiana Pacers,IND,120,19,Orlando Magic,ORL,118,Gainbridge Fieldhouse,0,2020-21
+401267392,2021-01-23T00:30Z,Final,5,Cleveland Cavaliers,CLE,125,17,Brooklyn Nets,BKN,113,Rocket Arena,1944,2020-21
+401267393,2021-01-23T00:30Z,Final,20,Philadelphia 76ers,PHI,122,2,Boston Celtics,BOS,110,Xfinity Mobile Arena,0,2020-21
+401267394,2021-01-23T00:30Z,Final,28,Toronto Raptors,TOR,101,14,Miami Heat,MIA,81,Benchmark International Arena,0,2020-21
+401267395,2021-01-23T01:00Z,Postponed,15,Milwaukee Bucks,MIL,0,27,Washington Wizards,WSH,0,Fiserv Forum,0,2020-21
+401267396,2021-01-23T01:00Z,Final,16,Minnesota Timberwolves,MIN,98,1,Atlanta Hawks,ATL,116,Target Center,0,2020-21
+401267397,2021-01-23T01:30Z,Final,24,San Antonio Spurs,SA,117,6,Dallas Mavericks,DAL,122,Frost Bank Center,0,2020-21
+401267398,2021-01-23T03:00Z,Final,21,Phoenix Suns,PHX,126,7,Denver Nuggets,DEN,130,PHX Arena,0,2020-21
+401267399,2021-01-23T03:00Z,Final,12,LA Clippers,LAC,120,25,Oklahoma City Thunder,OKC,106,crypto.com Arena,0,2020-21
+401267400,2021-01-23T03:00Z,Postponed,22,Portland Trail Blazers,POR,0,29,Memphis Grizzlies,MEM,0,Moda Center,0,2020-21
+401267401,2021-01-23T03:00Z,Final,23,Sacramento Kings,SAC,103,18,New York Knicks,NY,94,Golden 1 Center,0,2020-21
+401267403,2021-01-24T01:00Z,Final,8,Detroit Pistons,DET,110,20,Philadelphia 76ers,PHI,114,Little Caesars Arena,0,2020-21
+401267404,2021-01-24T01:00Z,Final,17,Brooklyn Nets,BKN,128,14,Miami Heat,MIA,124,Barclays Center,0,2020-21
+401267406,2021-01-24T01:00Z,Final,16,Minnesota Timberwolves,MIN,120,3,New Orleans Pelicans,NO,110,Target Center,0,2020-21
+401267402,2021-01-24T02:00Z,Final,26,Utah Jazz,UTAH,127,9,Golden State Warriors,GS,108,Delta Center,1932,2020-21
+401267405,2021-01-24T02:00Z,Final,4,Chicago Bulls,CHI,90,13,Los Angeles Lakers,LAL,101,United Center,0,2020-21
+401267407,2021-01-24T02:00Z,Final,6,Dallas Mavericks,DAL,108,10,Houston Rockets,HOU,133,American Airlines Center,0,2020-21
+401267408,2021-01-24T02:00Z,Final,21,Phoenix Suns,PHX,112,7,Denver Nuggets,DEN,120,PHX Arena,0,2020-21
+401267409,2021-01-24T18:00Z,Final,11,Indiana Pacers,IND,102,28,Toronto Raptors,TOR,107,Gainbridge Fieldhouse,0,2020-21
+401267411,2021-01-24T21:00Z,Final,12,LA Clippers,LAC,108,25,Oklahoma City Thunder,OKC,100,crypto.com Arena,0,2020-21
+401267410,2021-01-25T00:00Z,Final,2,Boston Celtics,BOS,141,5,Cleveland Cavaliers,CLE,103,TD Garden,0,2020-21
+401267412,2021-01-25T00:00Z,Final,19,Orlando Magic,ORL,104,30,Charlotte Hornets,CHA,107,Kia Center,3507,2020-21
+401267413,2021-01-25T01:00Z,Final,24,San Antonio Spurs,SA,121,27,Washington Wizards,WSH,101,Frost Bank Center,0,2020-21
+401267414,2021-01-25T01:00Z,Final,15,Milwaukee Bucks,MIL,129,1,Atlanta Hawks,ATL,115,Fiserv Forum,0,2020-21
+401267415,2021-01-25T01:00Z,Postponed,29,Memphis Grizzlies,MEM,0,23,Sacramento Kings,SAC,0,FedExForum,0,2020-21
+401267416,2021-01-25T03:00Z,Final,22,Portland Trail Blazers,POR,116,18,New York Knicks,NY,113,Moda Center,0,2020-21
+401267417,2021-01-26T00:00Z,Final,8,Detroit Pistons,DET,119,20,Philadelphia 76ers,PHI,104,Little Caesars Arena,0,2020-21
+401267418,2021-01-26T00:00Z,Final,11,Indiana Pacers,IND,129,28,Toronto Raptors,TOR,114,Gainbridge Fieldhouse,0,2020-21
+401267419,2021-01-26T00:00Z,Final,19,Orlando Magic,ORL,117,30,Charlotte Hornets,CHA,108,Kia Center,3167,2020-21
+401267420,2021-01-26T00:30Z,Final,17,Brooklyn Nets,BKN,98,14,Miami Heat,MIA,85,Barclays Center,0,2020-21
+401267421,2021-01-26T01:00Z,Final,5,Cleveland Cavaliers,CLE,108,13,Los Angeles Lakers,LAL,115,Rocket Arena,0,2020-21
+401267423,2021-01-26T01:00Z,Postponed,29,Memphis Grizzlies,MEM,0,23,Sacramento Kings,SAC,0,FedExForum,0,2020-21
+401267425,2021-01-26T01:30Z,Final,6,Dallas Mavericks,DAL,113,7,Denver Nuggets,DEN,117,American Airlines Center,0,2020-21
+401267422,2021-01-26T02:00Z,Final,4,Chicago Bulls,CHI,103,2,Boston Celtics,BOS,119,United Center,0,2020-21
+401267424,2021-01-26T02:00Z,Postponed,3,New Orleans Pelicans,NO,0,24,San Antonio Spurs,SA,0,Smoothie King Center,0,2020-21
+401267426,2021-01-26T03:00Z,Final,9,Golden State Warriors,GS,130,16,Minnesota Timberwolves,MIN,108,Chase Center,0,2020-21
+401267427,2021-01-26T03:00Z,Final,22,Portland Trail Blazers,POR,122,25,Oklahoma City Thunder,OKC,125,Moda Center,0,2020-21
+401267428,2021-01-27T00:30Z,Final,1,Atlanta Hawks,ATL,108,12,LA Clippers,LAC,99,State Farm Arena,1180,2020-21
+401267429,2021-01-27T01:00Z,Final,10,Houston Rockets,HOU,107,27,Washington Wizards,WSH,88,Toyota Center (Houston),2996,2020-21
+401267430,2021-01-27T02:00Z,Final,26,Utah Jazz,UTAH,108,18,New York Knicks,NY,94,Delta Center,1932,2020-21
+401267431,2021-01-28T00:00Z,Final,30,Charlotte Hornets,CHA,106,11,Indiana Pacers,IND,116,Spectrum Center,0,2020-21
+401267432,2021-01-28T00:00Z,Final,5,Cleveland Cavaliers,CLE,122,8,Detroit Pistons,DET,107,Rocket Arena,1944,2020-21
+401267433,2021-01-28T00:00Z,Final,19,Orlando Magic,ORL,107,23,Sacramento Kings,SAC,121,Kia Center,3216,2020-21
+401267434,2021-01-28T00:30Z,Final,1,Atlanta Hawks,ATL,128,17,Brooklyn Nets,BKN,132,State Farm Arena,1008,2020-21
+401267435,2021-01-28T00:30Z,Final,14,Miami Heat,MIA,82,7,Denver Nuggets,DEN,109,Kaseya Center,0,2020-21
+401267436,2021-01-28T00:30Z,Final,20,Philadelphia 76ers,PHI,107,13,Los Angeles Lakers,LAL,106,Xfinity Mobile Arena,0,2020-21
+401267437,2021-01-28T00:30Z,Final,28,Toronto Raptors,TOR,108,15,Milwaukee Bucks,MIL,115,Benchmark International Arena,0,2020-21
+401267438,2021-01-28T01:00Z,Postponed,29,Memphis Grizzlies,MEM,0,4,Chicago Bulls,CHI,0,FedExForum,0,2020-21
+401267440,2021-01-28T01:30Z,Final,24,San Antonio Spurs,SA,110,2,Boston Celtics,BOS,106,Frost Bank Center,0,2020-21
+401267439,2021-01-28T02:00Z,Final,3,New Orleans Pelicans,NO,124,27,Washington Wizards,WSH,106,Smoothie King Center,750,2020-21
+401267441,2021-01-28T02:00Z,Final,21,Phoenix Suns,PHX,97,25,Oklahoma City Thunder,OKC,102,PHX Arena,0,2020-21
+401267442,2021-01-28T02:00Z,Final,26,Utah Jazz,UTAH,116,6,Dallas Mavericks,DAL,104,Delta Center,0,2020-21
+401267443,2021-01-28T03:00Z,Final,9,Golden State Warriors,GS,123,16,Minnesota Timberwolves,MIN,111,Chase Center,0,2020-21
+401267447,2021-01-29T00:30Z,Final,10,Houston Rockets,HOU,104,22,Portland Trail Blazers,POR,101,Toyota Center (Houston),3154,2020-21
+401267444,2021-01-29T01:00Z,Final,8,Detroit Pistons,DET,107,13,Los Angeles Lakers,LAL,92,Little Caesars Arena,0,2020-21
+401267445,2021-01-29T01:00Z,Final,14,Miami Heat,MIA,105,12,LA Clippers,LAC,109,Kaseya Center,0,2020-21
+401267446,2021-01-29T03:00Z,Final,21,Phoenix Suns,PHX,114,9,Golden State Warriors,GS,93,PHX Arena,0,2020-21
+401267448,2021-01-30T00:00Z,Final,30,Charlotte Hornets,CHA,108,11,Indiana Pacers,IND,105,Spectrum Center,0,2020-21
+401267450,2021-01-30T00:00Z,Final,27,Washington Wizards,WSH,100,1,Atlanta Hawks,ATL,116,Capital One Arena,0,2020-21
+401267451,2021-01-30T00:30Z,Final,18,New York Knicks,NY,102,5,Cleveland Cavaliers,CLE,81,Madison Square Garden,0,2020-21
+401267452,2021-01-30T00:30Z,Final,28,Toronto Raptors,TOR,124,23,Sacramento Kings,SAC,126,Benchmark International Arena,0,2020-21
+401267453,2021-01-30T00:30Z,Final,3,New Orleans Pelicans,NO,131,15,Milwaukee Bucks,MIL,126,Smoothie King Center,1440,2020-21
+401267449,2021-01-30T01:00Z,Final,19,Orlando Magic,ORL,90,12,LA Clippers,LAC,116,Kia Center,3763,2020-21
+401267454,2021-01-30T01:00Z,Final,16,Minnesota Timberwolves,MIN,94,20,Philadelphia 76ers,PHI,118,Target Center,0,2020-21
+401267455,2021-01-30T01:00Z,Final,25,Oklahoma City Thunder,OKC,125,17,Brooklyn Nets,BKN,147,Paycom Center,0,2020-21
+401267456,2021-01-30T01:30Z,Final,24,San Antonio Spurs,SA,119,7,Denver Nuggets,DEN,109,Frost Bank Center,0,2020-21
+401267457,2021-01-30T03:00Z,Final,26,Utah Jazz,UTAH,120,6,Dallas Mavericks,DAL,101,Delta Center,1932,2020-21
+401267458,2021-01-31T01:00Z,Final,4,Chicago Bulls,CHI,122,22,Portland Trail Blazers,POR,123,United Center,0,2020-21
+401267459,2021-01-31T01:00Z,Final,30,Charlotte Hornets,CHA,126,15,Milwaukee Bucks,MIL,114,Spectrum Center,0,2020-21
+401267460,2021-01-31T01:00Z,Final,3,New Orleans Pelicans,NO,112,10,Houston Rockets,HOU,126,Smoothie King Center,1440,2020-21
+401267461,2021-01-31T01:00Z,Final,14,Miami Heat,MIA,105,23,Sacramento Kings,SAC,104,Kaseya Center,0,2020-21
+401267462,2021-01-31T01:30Z,Final,2,Boston Celtics,BOS,95,13,Los Angeles Lakers,LAL,96,TD Garden,0,2020-21
+401267464,2021-01-31T01:30Z,Final,24,San Antonio Spurs,SA,112,29,Memphis Grizzlies,MEM,129,Frost Bank Center,0,2020-21
+401267463,2021-01-31T02:00Z,Final,6,Dallas Mavericks,DAL,105,21,Phoenix Suns,PHX,111,American Airlines Center,0,2020-21
+401267465,2021-01-31T03:00Z,Final,9,Golden State Warriors,GS,118,8,Detroit Pistons,DET,91,Chase Center,0,2020-21
+401267468,2021-01-31T18:00Z,Final,18,New York Knicks,NY,115,12,LA Clippers,LAC,129,Madison Square Garden,0,2020-21
+401267466,2021-01-31T20:30Z,Final,7,Denver Nuggets,DEN,128,26,Utah Jazz,UTAH,117,Ball Arena,0,2020-21
+401267467,2021-02-01T00:00Z,Final,11,Indiana Pacers,IND,110,20,Philadelphia 76ers,PHI,119,Gainbridge Fieldhouse,0,2020-21
+401267469,2021-02-01T00:00Z,Final,28,Toronto Raptors,TOR,115,19,Orlando Magic,ORL,102,Benchmark International Arena,0,2020-21
+401267470,2021-02-01T00:00Z,Final,27,Washington Wizards,WSH,149,17,Brooklyn Nets,BKN,146,Capital One Arena,0,2020-21
+401267471,2021-02-01T01:00Z,Final,16,Minnesota Timberwolves,MIN,109,5,Cleveland Cavaliers,CLE,104,Target Center,0,2020-21
+401267473,2021-02-02T00:30Z,Final,1,Atlanta Hawks,ATL,99,13,Los Angeles Lakers,LAL,107,State Farm Arena,1341,2020-21
+401267474,2021-02-02T00:30Z,Final,14,Miami Heat,MIA,121,30,Charlotte Hornets,CHA,129,Kaseya Center,0,2020-21
+401267472,2021-02-02T01:00Z,Final,5,Cleveland Cavaliers,CLE,100,16,Minnesota Timberwolves,MIN,98,Rocket Arena,0,2020-21
+401267475,2021-02-02T01:00Z,Final,4,Chicago Bulls,CHI,110,18,New York Knicks,NY,102,United Center,0,2020-21
+401267476,2021-02-02T01:00Z,Final,15,Milwaukee Bucks,MIL,134,22,Portland Trail Blazers,POR,106,Fiserv Forum,0,2020-21
+401267477,2021-02-02T01:00Z,Final,3,New Orleans Pelicans,NO,109,23,Sacramento Kings,SAC,118,Smoothie King Center,1440,2020-21
+401267478,2021-02-02T01:00Z,Final,25,Oklahoma City Thunder,OKC,106,10,Houston Rockets,HOU,136,Paycom Center,0,2020-21
+401267479,2021-02-02T01:30Z,Final,6,Dallas Mavericks,DAL,108,21,Phoenix Suns,PHX,109,American Airlines Center,0,2020-21
+401267480,2021-02-02T01:30Z,Final,24,San Antonio Spurs,SA,102,29,Memphis Grizzlies,MEM,133,Frost Bank Center,0,2020-21
+401267481,2021-02-02T02:00Z,Postponed,7,Denver Nuggets,DEN,0,8,Detroit Pistons,DET,0,Ball Arena,3556,2020-21
+401267483,2021-02-03T00:00Z,Final,19,Orlando Magic,ORL,108,28,Toronto Raptors,TOR,123,Kia Center,3211,2020-21
+401267484,2021-02-03T00:30Z,Final,17,Brooklyn Nets,BKN,124,12,LA Clippers,LAC,120,Barclays Center,0,2020-21
+401267482,2021-02-03T01:00Z,Final,11,Indiana Pacers,IND,134,29,Memphis Grizzlies,MEM,116,Gainbridge Fieldhouse,0,2020-21
+401282283,2021-02-03T01:00Z,Final,27,Washington Wizards,WSH,121,22,Portland Trail Blazers,POR,132,Capital One Arena,0,2020-21
+401267485,2021-02-03T03:00Z,Final,26,Utah Jazz,UTAH,117,8,Detroit Pistons,DET,105,Delta Center,3902,2020-21
+401267486,2021-02-03T03:00Z,Final,9,Golden State Warriors,GS,107,2,Boston Celtics,BOS,111,Chase Center,0,2020-21
+401267487,2021-02-04T00:00Z,Final,30,Charlotte Hornets,CHA,111,20,Philadelphia 76ers,PHI,118,Spectrum Center,0,2020-21
+401267489,2021-02-04T00:00Z,Final,15,Milwaukee Bucks,MIL,130,11,Indiana Pacers,IND,110,Fiserv Forum,0,2020-21
+401267490,2021-02-04T00:30Z,Final,1,Atlanta Hawks,ATL,116,6,Dallas Mavericks,DAL,122,State Farm Arena,1259,2020-21
+401267488,2021-02-04T01:00Z,Final,5,Cleveland Cavaliers,CLE,99,12,LA Clippers,LAC,121,Rocket Arena,1944,2020-21
+401267491,2021-02-04T01:00Z,Final,14,Miami Heat,MIA,100,27,Washington Wizards,WSH,103,Kaseya Center,0,2020-21
+401267492,2021-02-04T01:00Z,Final,4,Chicago Bulls,CHI,103,18,New York Knicks,NY,107,United Center,0,2020-21
+401267493,2021-02-04T01:00Z,Final,25,Oklahoma City Thunder,OKC,104,10,Houston Rockets,HOU,87,Paycom Center,0,2020-21
+401267494,2021-02-04T01:30Z,Final,24,San Antonio Spurs,SA,111,16,Minnesota Timberwolves,MIN,108,Frost Bank Center,0,2020-21
+401267495,2021-02-04T02:30Z,Final,3,New Orleans Pelicans,NO,123,21,Phoenix Suns,PHX,101,Smoothie King Center,1440,2020-21
+401267496,2021-02-04T03:00Z,Final,23,Sacramento Kings,SAC,116,2,Boston Celtics,BOS,111,Golden 1 Center,0,2020-21
+401267498,2021-02-05T00:30Z,Final,1,Atlanta Hawks,ATL,91,26,Utah Jazz,UTAH,112,State Farm Arena,1261,2020-21
+401267499,2021-02-05T00:30Z,Final,6,Dallas Mavericks,DAL,116,9,Golden State Warriors,GS,147,American Airlines Center,0,2020-21
+401267497,2021-02-05T01:00Z,Final,20,Philadelphia 76ers,PHI,105,22,Portland Trail Blazers,POR,121,Xfinity Mobile Arena,0,2020-21
+401267500,2021-02-05T02:00Z,Final,29,Memphis Grizzlies,MEM,103,10,Houston Rockets,HOU,115,FedExForum,1762,2020-21
+401267501,2021-02-05T03:00Z,Final,13,Los Angeles Lakers,LAL,114,7,Denver Nuggets,DEN,93,crypto.com Arena,0,2020-21
+401267503,2021-02-06T00:00Z,Final,11,Indiana Pacers,IND,113,3,New Orleans Pelicans,NO,114,Gainbridge Fieldhouse,0,2020-21
+401267504,2021-02-06T00:00Z,Final,19,Orlando Magic,ORL,123,4,Chicago Bulls,CHI,119,Kia Center,3535,2020-21
+401267505,2021-02-06T00:30Z,Final,17,Brooklyn Nets,BKN,117,28,Toronto Raptors,TOR,123,Barclays Center,0,2020-21
+401267506,2021-02-06T00:30Z,Final,5,Cleveland Cavaliers,CLE,105,15,Milwaukee Bucks,MIL,123,Rocket Arena,2720,2020-21
+401267502,2021-02-06T01:00Z,Final,30,Charlotte Hornets,CHA,121,26,Utah Jazz,UTAH,138,Spectrum Center,0,2020-21
+401267507,2021-02-06T01:00Z,Final,14,Miami Heat,MIA,122,27,Washington Wizards,WSH,95,Kaseya Center,0,2020-21
+401267508,2021-02-06T01:00Z,Final,25,Oklahoma City Thunder,OKC,103,16,Minnesota Timberwolves,MIN,106,Paycom Center,0,2020-21
+401267509,2021-02-06T02:00Z,Final,21,Phoenix Suns,PHX,109,8,Detroit Pistons,DET,92,PHX Arena,0,2020-21
+401267510,2021-02-06T03:00Z,Final,12,LA Clippers,LAC,115,2,Boston Celtics,BOS,119,crypto.com Arena,0,2020-21
+401267511,2021-02-06T18:00Z,Final,18,New York Knicks,NY,110,22,Portland Trail Blazers,POR,99,Madison Square Garden,0,2020-21
+401267512,2021-02-06T22:00Z,Final,23,Sacramento Kings,SAC,119,7,Denver Nuggets,DEN,114,Golden 1 Center,0,2020-21
+401267513,2021-02-07T00:00Z,Final,19,Orlando Magic,ORL,92,4,Chicago Bulls,CHI,118,Kia Center,3880,2020-21
+401267514,2021-02-07T01:00Z,Final,20,Philadelphia 76ers,PHI,124,17,Brooklyn Nets,BKN,108,Xfinity Mobile Arena,0,2020-21
+401267516,2021-02-07T01:00Z,Final,1,Atlanta Hawks,ATL,132,28,Toronto Raptors,TOR,121,State Farm Arena,991,2020-21
+401267517,2021-02-07T01:00Z,Final,5,Cleveland Cavaliers,CLE,99,15,Milwaukee Bucks,MIL,124,Rocket Arena,2720,2020-21
+401267518,2021-02-07T01:00Z,Final,10,Houston Rockets,HOU,106,24,San Antonio Spurs,SA,111,Toyota Center (Houston),3313,2020-21
+401267519,2021-02-07T01:00Z,Final,25,Oklahoma City Thunder,OKC,120,16,Minnesota Timberwolves,MIN,118,Paycom Center,0,2020-21
+401267520,2021-02-07T01:30Z,Final,6,Dallas Mavericks,DAL,134,9,Golden State Warriors,GS,132,American Airlines Center,0,2020-21
+401267515,2021-02-07T02:00Z,Final,3,New Orleans Pelicans,NO,118,29,Memphis Grizzlies,MEM,109,Smoothie King Center,1440,2020-21
+401267521,2021-02-07T03:00Z,Final,13,Los Angeles Lakers,LAL,135,8,Detroit Pistons,DET,129,crypto.com Arena,0,2020-21
+401267523,2021-02-07T18:00Z,Final,11,Indiana Pacers,IND,95,26,Utah Jazz,UTAH,103,Gainbridge Fieldhouse,0,2020-21
+401267524,2021-02-07T18:00Z,Final,18,New York Knicks,NY,103,14,Miami Heat,MIA,109,Madison Square Garden,0,2020-21
+401282286,2021-02-07T18:00Z,Final,30,Charlotte Hornets,CHA,119,27,Washington Wizards,WSH,97,Spectrum Center,0,2020-21
+401267525,2021-02-07T19:00Z,Final,21,Phoenix Suns,PHX,100,2,Boston Celtics,BOS,91,PHX Arena,1493,2020-21
+401267526,2021-02-07T20:00Z,Final,12,LA Clippers,LAC,110,23,Sacramento Kings,SAC,113,crypto.com Arena,0,2020-21
+401267527,2021-02-09T00:00Z,Final,30,Charlotte Hornets,CHA,119,10,Houston Rockets,HOU,94,Spectrum Center,0,2020-21
+401267528,2021-02-09T01:00Z,Final,4,Chicago Bulls,CHI,101,27,Washington Wizards,WSH,105,United Center,0,2020-21
+401267529,2021-02-09T01:00Z,Final,29,Memphis Grizzlies,MEM,113,28,Toronto Raptors,TOR,128,FedExForum,1844,2020-21
+401267530,2021-02-09T01:30Z,Final,6,Dallas Mavericks,DAL,127,16,Minnesota Timberwolves,MIN,122,American Airlines Center,1000,2020-21
+401267531,2021-02-09T01:30Z,Final,24,San Antonio Spurs,SA,105,9,Golden State Warriors,GS,100,Frost Bank Center,0,2020-21
+401267532,2021-02-09T02:00Z,Final,21,Phoenix Suns,PHX,119,5,Cleveland Cavaliers,CLE,113,PHX Arena,1485,2020-21
+401267533,2021-02-09T02:30Z,Final,7,Denver Nuggets,DEN,112,15,Milwaukee Bucks,MIL,125,Ball Arena,0,2020-21
+401267534,2021-02-09T03:00Z,Final,13,Los Angeles Lakers,LAL,119,25,Oklahoma City Thunder,OKC,112,crypto.com Arena,0,2020-21
+401267535,2021-02-10T00:00Z,Final,8,Detroit Pistons,DET,122,17,Brooklyn Nets,BKN,111,Little Caesars Arena,0,2020-21
+401267536,2021-02-10T00:30Z,Final,14,Miami Heat,MIA,98,18,New York Knicks,NY,96,Kaseya Center,0,2020-21
+401267537,2021-02-10T00:30Z,Final,3,New Orleans Pelicans,NO,130,10,Houston Rockets,HOU,101,Smoothie King Center,1900,2020-21
+401267538,2021-02-10T01:30Z,Final,24,San Antonio Spurs,SA,91,9,Golden State Warriors,GS,114,Frost Bank Center,0,2020-21
+401267539,2021-02-10T03:00Z,Final,26,Utah Jazz,UTAH,122,2,Boston Celtics,BOS,108,Delta Center,3902,2020-21
+401267540,2021-02-10T03:00Z,Final,22,Portland Trail Blazers,POR,106,19,Orlando Magic,ORL,97,Moda Center,0,2020-21
+401267541,2021-02-10T03:00Z,Final,23,Sacramento Kings,SAC,111,20,Philadelphia 76ers,PHI,119,Golden 1 Center,0,2020-21
+401267542,2021-02-11T00:00Z,Final,27,Washington Wizards,WSH,115,28,Toronto Raptors,TOR,137,Capital One Arena,0,2020-21
+401267544,2021-02-11T00:30Z,Final,6,Dallas Mavericks,DAL,118,1,Atlanta Hawks,ATL,117,American Airlines Center,1000,2020-21
+401267543,2021-02-11T01:00Z,Final,17,Brooklyn Nets,BKN,104,11,Indiana Pacers,IND,94,Barclays Center,0,2020-21
+401267546,2021-02-11T01:00Z,Final,29,Memphis Grizzlies,MEM,130,30,Charlotte Hornets,CHA,114,FedExForum,1830,2020-21
+401267547,2021-02-11T01:00Z,Final,16,Minnesota Timberwolves,MIN,112,12,LA Clippers,LAC,119,Target Center,0,2020-21
+401267545,2021-02-11T02:00Z,Final,4,Chicago Bulls,CHI,129,3,New Orleans Pelicans,NO,116,United Center,0,2020-21
+401267548,2021-02-11T02:00Z,Final,7,Denver Nuggets,DEN,133,5,Cleveland Cavaliers,CLE,95,Ball Arena,0,2020-21
+401267549,2021-02-11T03:00Z,Final,21,Phoenix Suns,PHX,125,15,Milwaukee Bucks,MIL,124,PHX Arena,1491,2020-21
+401267550,2021-02-11T03:00Z,Final,13,Los Angeles Lakers,LAL,114,25,Oklahoma City Thunder,OKC,113,crypto.com Arena,0,2020-21
+401267552,2021-02-12T00:30Z,Final,10,Houston Rockets,HOU,94,14,Miami Heat,MIA,101,Toyota Center (Houston),3251,2020-21
+401267558,2021-02-12T00:30Z,Final,2,Boston Celtics,BOS,120,28,Toronto Raptors,TOR,106,TD Garden,0,2020-21
+401267551,2021-02-12T01:00Z,Final,8,Detroit Pistons,DET,95,11,Indiana Pacers,IND,111,Little Caesars Arena,0,2020-21
+401267553,2021-02-12T03:00Z,Final,9,Golden State Warriors,GS,111,19,Orlando Magic,ORL,105,Chase Center,0,2020-21
+401267554,2021-02-12T03:00Z,Final,22,Portland Trail Blazers,POR,118,20,Philadelphia 76ers,PHI,114,Moda Center,0,2020-21
+401267555,2021-02-13T00:00Z,Final,30,Charlotte Hornets,CHA,120,16,Minnesota Timberwolves,MIN,114,Spectrum Center,0,2020-21
+401267556,2021-02-13T00:00Z,Final,27,Washington Wizards,WSH,91,18,New York Knicks,NY,109,Capital One Arena,0,2020-21
+401267557,2021-02-13T00:30Z,Final,1,Atlanta Hawks,ATL,114,24,San Antonio Spurs,SA,125,State Farm Arena,1451,2020-21
+401267559,2021-02-13T00:30Z,Final,6,Dallas Mavericks,DAL,143,3,New Orleans Pelicans,NO,130,American Airlines Center,1514,2020-21
+401267560,2021-02-13T01:00Z,Final,4,Chicago Bulls,CHI,106,12,LA Clippers,LAC,125,United Center,0,2020-21
+401267572,2021-02-13T01:00Z,Final,2,Boston Celtics,BOS,102,8,Detroit Pistons,DET,108,TD Garden,0,2020-21
+401267561,2021-02-13T02:00Z,Final,7,Denver Nuggets,DEN,97,25,Oklahoma City Thunder,OKC,95,Ball Arena,0,2020-21
+401267562,2021-02-13T02:00Z,Final,26,Utah Jazz,UTAH,129,15,Milwaukee Bucks,MIL,115,Delta Center,3902,2020-21
+401267563,2021-02-13T03:00Z,Final,13,Los Angeles Lakers,LAL,115,29,Memphis Grizzlies,MEM,105,crypto.com Arena,0,2020-21
+401267564,2021-02-13T03:00Z,Final,22,Portland Trail Blazers,POR,129,5,Cleveland Cavaliers,CLE,110,Moda Center,0,2020-21
+401267565,2021-02-13T03:00Z,Final,23,Sacramento Kings,SAC,112,19,Orlando Magic,ORL,123,Golden 1 Center,0,2020-21
+401267566,2021-02-13T20:00Z,Final,21,Phoenix Suns,PHX,120,20,Philadelphia 76ers,PHI,111,PHX Arena,1652,2020-21
+401267567,2021-02-14T00:30Z,Final,1,Atlanta Hawks,ATL,113,11,Indiana Pacers,IND,125,State Farm Arena,1393,2020-21
+401267568,2021-02-14T01:00Z,Final,18,New York Knicks,NY,121,10,Houston Rockets,HOU,99,Madison Square Garden,0,2020-21
+401267569,2021-02-14T01:30Z,Final,9,Golden State Warriors,GS,117,17,Brooklyn Nets,BKN,134,Chase Center,0,2020-21
+401267570,2021-02-14T02:00Z,Final,26,Utah Jazz,UTAH,112,14,Miami Heat,MIA,94,Delta Center,3902,2020-21
+401282752,2021-02-14T18:00Z,Final,27,Washington Wizards,WSH,104,2,Boston Celtics,BOS,91,Capital One Arena,0,2020-21
+401267573,2021-02-15T00:00Z,Final,28,Toronto Raptors,TOR,112,16,Minnesota Timberwolves,MIN,116,Benchmark International Arena,0,2020-21
+401267574,2021-02-15T00:00Z,Final,30,Charlotte Hornets,CHA,110,24,San Antonio Spurs,SA,122,Spectrum Center,0,2020-21
+401282833,2021-02-15T00:00Z,Final,8,Detroit Pistons,DET,123,3,New Orleans Pelicans,NO,112,Little Caesars Arena,0,2020-21
+401267571,2021-02-15T00:30Z,Final,6,Dallas Mavericks,DAL,118,22,Portland Trail Blazers,POR,121,American Airlines Center,2211,2020-21
+401267575,2021-02-15T01:00Z,Final,25,Oklahoma City Thunder,OKC,114,15,Milwaukee Bucks,MIL,109,Paycom Center,0,2020-21
+401267577,2021-02-15T02:00Z,Final,21,Phoenix Suns,PHX,109,19,Orlando Magic,ORL,90,PHX Arena,1732,2020-21
+401267576,2021-02-15T03:00Z,Final,7,Denver Nuggets,DEN,122,13,Los Angeles Lakers,LAL,105,Ball Arena,0,2020-21
+401267578,2021-02-15T03:00Z,Final,23,Sacramento Kings,SAC,110,29,Memphis Grizzlies,MEM,124,Golden 1 Center,0,2020-21
+401267579,2021-02-15T03:00Z,Final,12,LA Clippers,LAC,128,5,Cleveland Cavaliers,CLE,111,crypto.com Arena,0,2020-21
+401267580,2021-02-16T00:00Z,Final,11,Indiana Pacers,IND,112,4,Chicago Bulls,CHI,120,Gainbridge Fieldhouse,0,2020-21
+401267581,2021-02-16T00:00Z,Final,27,Washington Wizards,WSH,131,10,Houston Rockets,HOU,119,Capital One Arena,0,2020-21
+401267582,2021-02-16T00:30Z,Final,18,New York Knicks,NY,123,1,Atlanta Hawks,ATL,112,Madison Square Garden,0,2020-21
+401267583,2021-02-16T02:00Z,Final,26,Utah Jazz,UTAH,134,20,Philadelphia 76ers,PHI,123,Delta Center,3902,2020-21
+401267584,2021-02-16T03:00Z,Final,9,Golden State Warriors,GS,129,5,Cleveland Cavaliers,CLE,98,Chase Center,0,2020-21
+401267585,2021-02-16T03:00Z,Final,12,LA Clippers,LAC,125,14,Miami Heat,MIA,118,crypto.com Arena,0,2020-21
+401267586,2021-02-16T03:00Z,Final,23,Sacramento Kings,SAC,125,17,Brooklyn Nets,BKN,136,Golden 1 Center,0,2020-21
+401267587,2021-02-17T00:00Z,Final,2,Boston Celtics,BOS,112,7,Denver Nuggets,DEN,99,TD Garden,0,2020-21
+401267588,2021-02-17T00:00Z,Postponed,8,Detroit Pistons,DET,0,24,San Antonio Spurs,SA,0,Little Caesars Arena,0,2020-21
+401267589,2021-02-17T01:00Z,Final,29,Memphis Grizzlies,MEM,113,3,New Orleans Pelicans,NO,144,FedExForum,1982,2020-21
+401267590,2021-02-17T01:00Z,Final,15,Milwaukee Bucks,MIL,113,28,Toronto Raptors,TOR,124,Fiserv Forum,250,2020-21
+401267591,2021-02-17T01:00Z,Final,16,Minnesota Timberwolves,MIN,104,13,Los Angeles Lakers,LAL,112,Target Center,0,2020-21
+401267592,2021-02-17T01:00Z,Final,25,Oklahoma City Thunder,OKC,104,22,Portland Trail Blazers,POR,115,Paycom Center,0,2020-21
+401267593,2021-02-17T03:30Z,Final,21,Phoenix Suns,PHX,124,17,Brooklyn Nets,BKN,128,PHX Arena,3181,2020-21
+401267596,2021-02-18T00:00Z,Final,19,Orlando Magic,ORL,107,18,New York Knicks,NY,89,Kia Center,4249,2020-21
+401267598,2021-02-18T00:30Z,Final,2,Boston Celtics,BOS,114,1,Atlanta Hawks,ATL,122,TD Garden,0,2020-21
+401267599,2021-02-18T00:30Z,Final,20,Philadelphia 76ers,PHI,118,10,Houston Rockets,HOU,113,Xfinity Mobile Arena,0,2020-21
+401267595,2021-02-18T01:00Z,Postponed,5,Cleveland Cavaliers,CLE,0,24,San Antonio Spurs,SA,0,Rocket Arena,0,2020-21
+401267597,2021-02-18T01:00Z,Final,27,Washington Wizards,WSH,130,7,Denver Nuggets,DEN,128,Capital One Arena,0,2020-21
+401267600,2021-02-18T01:00Z,Final,16,Minnesota Timberwolves,MIN,128,11,Indiana Pacers,IND,134,Target Center,0,2020-21
+401299015,2021-02-18T01:00Z,Final,4,Chicago Bulls,CHI,105,8,Detroit Pistons,DET,102,United Center,0,2020-21
+401267601,2021-02-18T02:00Z,Final,3,New Orleans Pelicans,NO,124,22,Portland Trail Blazers,POR,126,Smoothie King Center,1940,2020-21
+401283399,2021-02-18T02:00Z,Final,29,Memphis Grizzlies,MEM,122,25,Oklahoma City Thunder,OKC,113,FedExForum,0,2020-21
+401267603,2021-02-18T03:00Z,Final,9,Golden State Warriors,GS,120,14,Miami Heat,MIA,112,Chase Center,0,2020-21
+401267604,2021-02-18T03:00Z,Final,12,LA Clippers,LAC,96,26,Utah Jazz,UTAH,114,crypto.com Arena,0,2020-21
+401267605,2021-02-19T00:30Z,Final,15,Milwaukee Bucks,MIL,96,28,Toronto Raptors,TOR,110,Fiserv Forum,500,2020-21
+401267606,2021-02-19T03:00Z,Final,13,Los Angeles Lakers,LAL,98,17,Brooklyn Nets,BKN,109,crypto.com Arena,0,2020-21
+401267607,2021-02-19T03:00Z,Final,23,Sacramento Kings,SAC,110,14,Miami Heat,MIA,118,Golden 1 Center,0,2020-21
+401267609,2021-02-20T00:00Z,Final,19,Orlando Magic,ORL,124,9,Golden State Warriors,GS,120,Kia Center,4287,2020-21
+401297409,2021-02-20T00:00Z,Final,5,Cleveland Cavaliers,CLE,103,7,Denver Nuggets,DEN,120,Rocket Arena,2720,2020-21
+401267610,2021-02-20T00:30Z,Final,20,Philadelphia 76ers,PHI,112,4,Chicago Bulls,CHI,105,Xfinity Mobile Arena,0,2020-21
+401267611,2021-02-20T00:30Z,Final,2,Boston Celtics,BOS,121,1,Atlanta Hawks,ATL,109,TD Garden,0,2020-21
+401267612,2021-02-20T01:00Z,Final,29,Memphis Grizzlies,MEM,109,8,Detroit Pistons,DET,95,FedExForum,1795,2020-21
+401267613,2021-02-20T01:00Z,Final,15,Milwaukee Bucks,MIL,98,25,Oklahoma City Thunder,OKC,85,Fiserv Forum,750,2020-21
+401267615,2021-02-20T01:00Z,Final,3,New Orleans Pelicans,NO,114,21,Phoenix Suns,PHX,132,Smoothie King Center,1940,2020-21
+401267616,2021-02-20T01:00Z,Postponed,10,Houston Rockets,HOU,0,6,Dallas Mavericks,DAL,0,Toyota Center (Houston),0,2020-21
+401267614,2021-02-20T02:00Z,Final,16,Minnesota Timberwolves,MIN,81,28,Toronto Raptors,TOR,86,Target Center,0,2020-21
+401267617,2021-02-20T03:00Z,Final,12,LA Clippers,LAC,116,26,Utah Jazz,UTAH,112,crypto.com Arena,0,2020-21
+401267618,2021-02-20T18:00Z,Postponed,18,New York Knicks,NY,0,24,San Antonio Spurs,SA,0,Madison Square Garden,0,2020-21
+401267619,2021-02-21T01:00Z,Final,30,Charlotte Hornets,CHA,102,9,Golden State Warriors,GS,100,Spectrum Center,0,2020-21
+401267621,2021-02-21T01:00Z,Postponed,10,Houston Rockets,HOU,0,11,Indiana Pacers,IND,0,Toyota Center (Houston),0,2020-21
+401267623,2021-02-21T01:30Z,Final,13,Los Angeles Lakers,LAL,94,14,Miami Heat,MIA,96,crypto.com Arena,0,2020-21
+401267620,2021-02-21T02:00Z,Final,4,Chicago Bulls,CHI,122,23,Sacramento Kings,SAC,114,United Center,0,2020-21
+401267622,2021-02-21T02:00Z,Final,29,Memphis Grizzlies,MEM,97,21,Phoenix Suns,PHX,128,FedExForum,1994,2020-21
+401267624,2021-02-21T03:00Z,Final,22,Portland Trail Blazers,POR,111,27,Washington Wizards,WSH,118,Moda Center,0,2020-21
+401267625,2021-02-21T20:30Z,Final,3,New Orleans Pelicans,NO,120,2,Boston Celtics,BOS,115,Smoothie King Center,1940,2020-21
+401267626,2021-02-22T00:00Z,Final,5,Cleveland Cavaliers,CLE,101,25,Oklahoma City Thunder,OKC,117,Rocket Arena,2720,2020-21
+401267627,2021-02-22T00:00Z,Final,19,Orlando Magic,ORL,105,8,Detroit Pistons,DET,96,Kia Center,4002,2020-21
+401267628,2021-02-22T00:00Z,Final,28,Toronto Raptors,TOR,110,20,Philadelphia 76ers,PHI,103,Benchmark International Arena,0,2020-21
+401267629,2021-02-22T00:00Z,Final,18,New York Knicks,NY,103,16,Minnesota Timberwolves,MIN,99,Madison Square Garden,0,2020-21
+401267630,2021-02-22T00:30Z,Final,1,Atlanta Hawks,ATL,123,7,Denver Nuggets,DEN,115,State Farm Arena,1362,2020-21
+401267632,2021-02-22T01:00Z,Final,12,LA Clippers,LAC,108,17,Brooklyn Nets,BKN,112,crypto.com Arena,0,2020-21
+401267631,2021-02-22T02:00Z,Final,15,Milwaukee Bucks,MIL,128,23,Sacramento Kings,SAC,115,Fiserv Forum,1800,2020-21
+401267633,2021-02-23T00:00Z,Postponed,11,Indiana Pacers,IND,0,24,San Antonio Spurs,SA,0,Gainbridge Fieldhouse,0,2020-21
+401267634,2021-02-23T01:00Z,Final,10,Houston Rockets,HOU,100,4,Chicago Bulls,CHI,120,Toyota Center (Houston),3025,2020-21
+401267636,2021-02-23T01:30Z,Final,6,Dallas Mavericks,DAL,102,29,Memphis Grizzlies,MEM,92,American Airlines Center,2099,2020-21
+401267635,2021-02-23T02:00Z,Final,25,Oklahoma City Thunder,OKC,94,14,Miami Heat,MIA,108,Paycom Center,0,2020-21
+401267637,2021-02-23T02:00Z,Final,21,Phoenix Suns,PHX,132,22,Portland Trail Blazers,POR,100,PHX Arena,3213,2020-21
+401267638,2021-02-23T02:00Z,Final,26,Utah Jazz,UTAH,132,30,Charlotte Hornets,CHA,110,Delta Center,3902,2020-21
+401267639,2021-02-23T03:00Z,Final,13,Los Angeles Lakers,LAL,124,27,Washington Wizards,WSH,127,crypto.com Arena,0,2020-21
+401267640,2021-02-24T00:00Z,Final,5,Cleveland Cavaliers,CLE,112,1,Atlanta Hawks,ATL,111,Rocket Arena,2720,2020-21
+401267641,2021-02-24T00:00Z,Final,19,Orlando Magic,ORL,93,8,Detroit Pistons,DET,105,Kia Center,3631,2020-21
+401267642,2021-02-24T00:30Z,Final,17,Brooklyn Nets,BKN,127,23,Sacramento Kings,SAC,118,Barclays Center,324,2020-21
+401267643,2021-02-24T00:30Z,Final,18,New York Knicks,NY,106,9,Golden State Warriors,GS,114,Madison Square Garden,1981,2020-21
+401267644,2021-02-24T00:30Z,Final,28,Toronto Raptors,TOR,102,20,Philadelphia 76ers,PHI,109,Benchmark International Arena,0,2020-21
+401267645,2021-02-24T00:30Z,Final,6,Dallas Mavericks,DAL,110,2,Boston Celtics,BOS,107,American Airlines Center,3338,2020-21
+401267646,2021-02-24T01:00Z,Final,15,Milwaukee Bucks,MIL,139,16,Minnesota Timberwolves,MIN,112,Fiserv Forum,1800,2020-21
+401267647,2021-02-24T03:00Z,Final,7,Denver Nuggets,DEN,111,22,Portland Trail Blazers,POR,106,Ball Arena,0,2020-21
+401267648,2021-02-24T03:00Z,Final,12,LA Clippers,LAC,135,27,Washington Wizards,WSH,116,crypto.com Arena,0,2020-21
+401267649,2021-02-25T00:30Z,Final,11,Indiana Pacers,IND,107,9,Golden State Warriors,GS,111,Gainbridge Fieldhouse,0,2020-21
+401267650,2021-02-25T00:30Z,Final,1,Atlanta Hawks,ATL,127,2,Boston Celtics,BOS,112,State Farm Arena,1537,2020-21
+401267651,2021-02-25T00:30Z,Final,5,Cleveland Cavaliers,CLE,112,10,Houston Rockets,HOU,96,Rocket Arena,2720,2020-21
+401267652,2021-02-25T01:00Z,Final,14,Miami Heat,MIA,116,28,Toronto Raptors,TOR,108,Kaseya Center,0,2020-21
+401267653,2021-02-25T01:00Z,Final,4,Chicago Bulls,CHI,133,16,Minnesota Timberwolves,MIN,126,United Center,0,2020-21
+401267654,2021-02-25T01:00Z,Final,3,New Orleans Pelicans,NO,128,8,Detroit Pistons,DET,118,Smoothie King Center,2700,2020-21
+401267655,2021-02-25T01:00Z,Final,25,Oklahoma City Thunder,OKC,102,24,San Antonio Spurs,SA,99,Paycom Center,0,2020-21
+401267656,2021-02-25T02:00Z,Final,21,Phoenix Suns,PHX,121,30,Charlotte Hornets,CHA,124,PHX Arena,3296,2020-21
+401267657,2021-02-25T03:00Z,Final,26,Utah Jazz,UTAH,114,13,Los Angeles Lakers,LAL,89,Delta Center,4912,2020-21
+401267658,2021-02-26T00:00Z,Final,20,Philadelphia 76ers,PHI,111,6,Dallas Mavericks,DAL,97,Xfinity Mobile Arena,0,2020-21
+401267659,2021-02-26T00:30Z,Final,17,Brooklyn Nets,BKN,129,19,Orlando Magic,ORL,92,Barclays Center,327,2020-21
+401267660,2021-02-26T00:30Z,Final,18,New York Knicks,NY,140,23,Sacramento Kings,SAC,121,Madison Square Garden,1981,2020-21
+401267661,2021-02-26T01:00Z,Final,29,Memphis Grizzlies,MEM,122,12,LA Clippers,LAC,94,FedExForum,1896,2020-21
+401267662,2021-02-26T02:00Z,Final,7,Denver Nuggets,DEN,110,27,Washington Wizards,WSH,112,Ball Arena,0,2020-21
+401267663,2021-02-26T02:30Z,Final,15,Milwaukee Bucks,MIL,129,3,New Orleans Pelicans,NO,125,Fiserv Forum,1800,2020-21
+401267665,2021-02-27T00:30Z,Final,2,Boston Celtics,BOS,118,11,Indiana Pacers,IND,112,TD Garden,0,2020-21
+401267666,2021-02-27T00:30Z,Final,28,Toronto Raptors,TOR,122,10,Houston Rockets,HOU,111,Benchmark International Arena,0,2020-21
+401267664,2021-02-27T01:00Z,Final,8,Detroit Pistons,DET,107,23,Sacramento Kings,SAC,110,Little Caesars Arena,0,2020-21
+401267667,2021-02-27T01:00Z,Final,14,Miami Heat,MIA,124,26,Utah Jazz,UTAH,116,Kaseya Center,0,2020-21
+401267668,2021-02-27T01:00Z,Final,4,Chicago Bulls,CHI,97,21,Phoenix Suns,PHX,106,United Center,0,2020-21
+401267669,2021-02-27T01:00Z,Final,29,Memphis Grizzlies,MEM,99,12,LA Clippers,LAC,119,FedExForum,2039,2020-21
+401267670,2021-02-27T01:00Z,Final,25,Oklahoma City Thunder,OKC,118,1,Atlanta Hawks,ATL,109,Paycom Center,0,2020-21
+401267671,2021-02-27T03:00Z,Final,9,Golden State Warriors,GS,130,30,Charlotte Hornets,CHA,121,Chase Center,0,2020-21
+401267672,2021-02-27T03:00Z,Final,13,Los Angeles Lakers,LAL,102,22,Portland Trail Blazers,POR,93,crypto.com Arena,0,2020-21
+401267673,2021-02-28T00:00Z,Final,20,Philadelphia 76ers,PHI,109,5,Cleveland Cavaliers,CLE,112,Xfinity Mobile Arena,0,2020-21
+401267677,2021-02-28T00:00Z,Final,27,Washington Wizards,WSH,128,16,Minnesota Timberwolves,MIN,112,Capital One Arena,0,2020-21
+401267674,2021-02-28T01:00Z,Final,24,San Antonio Spurs,SA,117,3,New Orleans Pelicans,NO,114,Frost Bank Center,0,2020-21
+401267675,2021-02-28T01:00Z,Final,18,New York Knicks,NY,110,11,Indiana Pacers,IND,107,Madison Square Garden,1981,2020-21
+401267676,2021-02-28T01:00Z,Final,19,Orlando Magic,ORL,109,26,Utah Jazz,UTAH,124,Kia Center,4242,2020-21
+401267678,2021-02-28T01:00Z,Final,25,Oklahoma City Thunder,OKC,96,7,Denver Nuggets,DEN,126,Paycom Center,0,2020-21
+401267679,2021-02-28T01:30Z,Final,17,Brooklyn Nets,BKN,98,6,Dallas Mavericks,DAL,115,Barclays Center,684,2020-21
+401267680,2021-02-28T20:30Z,Final,15,Milwaukee Bucks,MIL,105,12,LA Clippers,LAC,100,Fiserv Forum,1800,2020-21
+401267683,2021-03-01T00:00Z,Postponed,28,Toronto Raptors,TOR,0,4,Chicago Bulls,CHI,0,Benchmark International Arena,0,2020-21
+401267684,2021-03-01T00:00Z,Final,2,Boston Celtics,BOS,111,27,Washington Wizards,WSH,110,TD Garden,0,2020-21
+401267681,2021-03-01T01:00Z,Final,8,Detroit Pistons,DET,90,18,New York Knicks,NY,109,Little Caesars Arena,0,2020-21
+401267682,2021-03-01T01:00Z,Final,14,Miami Heat,MIA,109,1,Atlanta Hawks,ATL,99,Kaseya Center,0,2020-21
+401267685,2021-03-01T01:00Z,Final,10,Houston Rockets,HOU,84,29,Memphis Grizzlies,MEM,133,Toyota Center (Houston),3284,2020-21
+401267687,2021-03-01T01:00Z,Final,13,Los Angeles Lakers,LAL,117,9,Golden State Warriors,GS,91,crypto.com Arena,0,2020-21
+401267686,2021-03-01T02:00Z,Final,16,Minnesota Timberwolves,MIN,99,21,Phoenix Suns,PHX,118,Target Center,0,2020-21
+401267688,2021-03-01T03:00Z,Final,23,Sacramento Kings,SAC,126,30,Charlotte Hornets,CHA,127,Golden 1 Center,0,2020-21
+401267689,2021-03-02T00:00Z,Final,19,Orlando Magic,ORL,124,6,Dallas Mavericks,DAL,130,Kia Center,3766,2020-21
+401267690,2021-03-02T00:00Z,Final,20,Philadelphia 76ers,PHI,130,11,Indiana Pacers,IND,114,Xfinity Mobile Arena,0,2020-21
+401267691,2021-03-02T01:00Z,Final,4,Chicago Bulls,CHI,112,7,Denver Nuggets,DEN,118,United Center,0,2020-21
+401267693,2021-03-02T01:00Z,Final,3,New Orleans Pelicans,NO,129,26,Utah Jazz,UTAH,124,Smoothie King Center,2700,2020-21
+401267694,2021-03-02T01:30Z,Final,24,San Antonio Spurs,SA,113,17,Brooklyn Nets,BKN,124,Frost Bank Center,0,2020-21
+401267692,2021-03-02T02:00Z,Final,10,Houston Rockets,HOU,90,5,Cleveland Cavaliers,CLE,101,Toyota Center (Houston),3046,2020-21
+401267695,2021-03-02T03:30Z,Final,22,Portland Trail Blazers,POR,123,30,Charlotte Hornets,CHA,111,Moda Center,0,2020-21
+401267696,2021-03-03T00:00Z,Final,27,Washington Wizards,WSH,111,29,Memphis Grizzlies,MEM,125,Capital One Arena,0,2020-21
+401267697,2021-03-03T00:30Z,Final,2,Boston Celtics,BOS,117,12,LA Clippers,LAC,112,TD Garden,0,2020-21
+401267698,2021-03-03T00:30Z,Final,14,Miami Heat,MIA,80,1,Atlanta Hawks,ATL,94,Kaseya Center,0,2020-21
+401267699,2021-03-03T00:30Z,Postponed,28,Toronto Raptors,TOR,0,8,Detroit Pistons,DET,0,Benchmark International Arena,0,2020-21
+401267701,2021-03-03T01:30Z,Final,24,San Antonio Spurs,SA,119,18,New York Knicks,NY,93,Frost Bank Center,0,2020-21
+401267700,2021-03-03T02:00Z,Final,15,Milwaukee Bucks,MIL,97,7,Denver Nuggets,DEN,128,Fiserv Forum,1800,2020-21
+401267702,2021-03-03T03:00Z,Final,13,Los Angeles Lakers,LAL,104,21,Phoenix Suns,PHX,114,crypto.com Arena,0,2020-21
+401267703,2021-03-04T00:00Z,Final,5,Cleveland Cavaliers,CLE,111,11,Indiana Pacers,IND,114,Rocket Arena,2720,2020-21
+401267705,2021-03-04T00:00Z,Final,20,Philadelphia 76ers,PHI,131,26,Utah Jazz,UTAH,123,Xfinity Mobile Arena,0,2020-21
+401309754,2021-03-04T00:00Z,Final,28,Toronto Raptors,TOR,105,8,Detroit Pistons,DET,129,Benchmark International Arena,0,2020-21
+401267706,2021-03-04T00:30Z,Final,10,Houston Rockets,HOU,114,17,Brooklyn Nets,BKN,132,Toyota Center (Houston),3615,2020-21
+401267704,2021-03-04T01:00Z,Final,19,Orlando Magic,ORL,112,1,Atlanta Hawks,ATL,115,Kia Center,3969,2020-21
+401267707,2021-03-04T01:00Z,Final,16,Minnesota Timberwolves,MIN,102,30,Charlotte Hornets,CHA,135,Target Center,0,2020-21
+401267708,2021-03-04T01:00Z,Final,3,New Orleans Pelicans,NO,124,4,Chicago Bulls,CHI,128,Smoothie King Center,2700,2020-21
+401267709,2021-03-04T01:30Z,Final,6,Dallas Mavericks,DAL,87,25,Oklahoma City Thunder,OKC,78,American Airlines Center,3508,2020-21
+401267710,2021-03-04T03:00Z,Final,22,Portland Trail Blazers,POR,108,9,Golden State Warriors,GS,106,Moda Center,0,2020-21
+401267711,2021-03-04T03:00Z,Final,23,Sacramento Kings,SAC,123,13,Los Angeles Lakers,LAL,120,Golden 1 Center,0,2020-21
+401267712,2021-03-05T00:00Z,Final,2,Boston Celtics,BOS,132,28,Toronto Raptors,TOR,125,TD Garden,0,2020-21
+401267714,2021-03-05T00:00Z,Final,27,Washington Wizards,WSH,119,12,LA Clippers,LAC,117,Capital One Arena,0,2020-21
+401302775,2021-03-05T00:30Z,Final,18,New York Knicks,NY,114,8,Detroit Pistons,DET,104,Madison Square Garden,1981,2020-21
+401267713,2021-03-05T01:00Z,Final,11,Indiana Pacers,IND,103,7,Denver Nuggets,DEN,113,Gainbridge Fieldhouse,0,2020-21
+401267715,2021-03-05T01:00Z,Final,29,Memphis Grizzlies,MEM,111,15,Milwaukee Bucks,MIL,112,FedExForum,1961,2020-21
+401267717,2021-03-05T01:30Z,Final,3,New Orleans Pelicans,NO,93,14,Miami Heat,MIA,103,Smoothie King Center,2700,2020-21
+401267716,2021-03-05T02:00Z,Final,24,San Antonio Spurs,SA,102,25,Oklahoma City Thunder,OKC,107,Frost Bank Center,1000,2020-21
+401267718,2021-03-05T03:00Z,Final,22,Portland Trail Blazers,POR,123,23,Sacramento Kings,SAC,119,Moda Center,0,2020-21
+401283400,2021-03-05T03:00Z,Final,21,Phoenix Suns,PHX,120,9,Golden State Warriors,GS,98,PHX Arena,3233,2020-21
+401306581,2021-03-08T01:00Z,Final,123554,Team Durant,DUR,150,111353,Team LeBron,LEB,170,State Farm Arena,0,2020-21
+401307309,2021-03-11T01:00Z,Final,29,Memphis Grizzlies,MEM,127,27,Washington Wizards,WSH,112,FedExForum,1912,2020-21
+401307310,2021-03-11T01:30Z,Final,6,Dallas Mavericks,DAL,115,24,San Antonio Spurs,SA,104,American Airlines Center,3813,2020-21
+401307311,2021-03-12T00:00Z,Final,30,Charlotte Hornets,CHA,105,8,Detroit Pistons,DET,102,Spectrum Center,0,2020-21
+401307312,2021-03-12T00:30Z,Final,17,Brooklyn Nets,BKN,121,2,Boston Celtics,BOS,109,Barclays Center,1374,2020-21
+401307353,2021-03-12T00:30Z,Final,28,Toronto Raptors,TOR,120,1,Atlanta Hawks,ATL,121,Benchmark International Arena,0,2020-21
+401307354,2021-03-12T01:00Z,Final,14,Miami Heat,MIA,111,19,Orlando Magic,ORL,103,Kaseya Center,0,2020-21
+401307355,2021-03-12T01:00Z,Final,4,Chicago Bulls,CHI,105,20,Philadelphia 76ers,PHI,127,United Center,0,2020-21
+401307356,2021-03-12T01:00Z,Final,15,Milwaukee Bucks,MIL,134,18,New York Knicks,NY,101,Fiserv Forum,1800,2020-21
+401307357,2021-03-12T01:00Z,Final,3,New Orleans Pelicans,NO,105,16,Minnesota Timberwolves,MIN,135,Smoothie King Center,3700,2020-21
+401307358,2021-03-12T02:00Z,Final,25,Oklahoma City Thunder,OKC,116,6,Dallas Mavericks,DAL,108,Paycom Center,0,2020-21
+401307359,2021-03-12T03:00Z,Final,12,LA Clippers,LAC,130,9,Golden State Warriors,GS,104,crypto.com Arena,0,2020-21
+401307360,2021-03-12T03:00Z,Final,22,Portland Trail Blazers,POR,121,21,Phoenix Suns,PHX,127,Moda Center,0,2020-21
+401307361,2021-03-12T03:00Z,Final,23,Sacramento Kings,SAC,125,10,Houston Rockets,HOU,105,Golden 1 Center,0,2020-21
+401307362,2021-03-13T01:00Z,Final,27,Washington Wizards,WSH,101,20,Philadelphia 76ers,PHI,127,Capital One Arena,0,2020-21
+401307363,2021-03-13T01:00Z,Final,29,Memphis Grizzlies,MEM,102,7,Denver Nuggets,DEN,103,FedExForum,2160,2020-21
+401307364,2021-03-13T01:00Z,Final,3,New Orleans Pelicans,NO,116,5,Cleveland Cavaliers,CLE,82,Smoothie King Center,3700,2020-21
+401307365,2021-03-13T02:00Z,Final,4,Chicago Bulls,CHI,90,14,Miami Heat,MIA,101,United Center,0,2020-21
+401307366,2021-03-13T02:00Z,Final,24,San Antonio Spurs,SA,104,19,Orlando Magic,ORL,77,Frost Bank Center,3241,2020-21
+401307367,2021-03-13T03:00Z,Final,26,Utah Jazz,UTAH,114,10,Houston Rockets,HOU,99,Delta Center,5546,2020-21
+401307368,2021-03-13T03:30Z,Final,13,Los Angeles Lakers,LAL,105,11,Indiana Pacers,IND,100,crypto.com Arena,0,2020-21
+401307369,2021-03-13T19:00Z,Final,25,Oklahoma City Thunder,OKC,97,18,New York Knicks,NY,119,Paycom Center,0,2020-21
+401307370,2021-03-14T00:00Z,Final,17,Brooklyn Nets,BKN,100,8,Detroit Pistons,DET,95,Barclays Center,1364,2020-21
+401307371,2021-03-14T00:00Z,Final,30,Charlotte Hornets,CHA,114,28,Toronto Raptors,TOR,104,Spectrum Center,2861,2020-21
+401307372,2021-03-14T00:00Z,Final,27,Washington Wizards,WSH,119,15,Milwaukee Bucks,MIL,125,Capital One Arena,0,2020-21
+401307373,2021-03-14T00:30Z,Final,1,Atlanta Hawks,ATL,121,23,Sacramento Kings,SAC,106,State Farm Arena,2347,2020-21
+401307374,2021-03-14T01:00Z,Final,16,Minnesota Timberwolves,MIN,121,22,Portland Trail Blazers,POR,125,Target Center,0,2020-21
+401307375,2021-03-14T03:00Z,Final,7,Denver Nuggets,DEN,103,6,Dallas Mavericks,DAL,116,Ball Arena,0,2020-21
+401307376,2021-03-14T03:00Z,Final,21,Phoenix Suns,PHX,111,11,Indiana Pacers,IND,122,PHX Arena,3166,2020-21
+401307377,2021-03-14T18:00Z,Final,25,Oklahoma City Thunder,OKC,128,29,Memphis Grizzlies,MEM,122,Paycom Center,0,2020-21
+401307378,2021-03-14T20:00Z,Final,9,Golden State Warriors,GS,131,26,Utah Jazz,UTAH,119,Chase Center,0,2020-21
+401307379,2021-03-14T22:30Z,Final,20,Philadelphia 76ers,PHI,134,24,San Antonio Spurs,SA,99,Xfinity Mobile Arena,3071,2020-21
+401307380,2021-03-14T23:00Z,Final,19,Orlando Magic,ORL,97,14,Miami Heat,MIA,102,Kia Center,3264,2020-21
+401307381,2021-03-14T23:30Z,Final,1,Atlanta Hawks,ATL,100,5,Cleveland Cavaliers,CLE,82,State Farm Arena,2322,2020-21
+401307382,2021-03-15T00:00Z,Final,10,Houston Rockets,HOU,107,2,Boston Celtics,BOS,134,Toyota Center (Houston),3264,2020-21
+401307383,2021-03-15T00:00Z,Final,16,Minnesota Timberwolves,MIN,114,22,Portland Trail Blazers,POR,112,Target Center,0,2020-21
+401307384,2021-03-15T01:00Z,Final,4,Chicago Bulls,CHI,118,28,Toronto Raptors,TOR,95,United Center,0,2020-21
+401307385,2021-03-15T01:00Z,Final,3,New Orleans Pelicans,NO,135,12,LA Clippers,LAC,115,Smoothie King Center,3700,2020-21
+401307386,2021-03-15T23:00Z,Final,30,Charlotte Hornets,CHA,122,23,Sacramento Kings,SAC,116,Spectrum Center,2861,2020-21
+401307387,2021-03-15T23:00Z,Final,27,Washington Wizards,WSH,122,15,Milwaukee Bucks,MIL,133,Capital One Arena,0,2020-21
+401307388,2021-03-16T00:00Z,Final,17,Brooklyn Nets,BKN,117,18,New York Knicks,NY,112,Barclays Center,1637,2020-21
+401307389,2021-03-16T00:00Z,Final,8,Detroit Pistons,DET,99,24,San Antonio Spurs,SA,109,Little Caesars Arena,0,2020-21
+401307390,2021-03-16T01:00Z,Final,6,Dallas Mavericks,DAL,99,12,LA Clippers,LAC,109,American Airlines Center,3945,2020-21
+401307391,2021-03-16T02:00Z,Final,7,Denver Nuggets,DEN,121,11,Indiana Pacers,IND,106,Ball Arena,0,2020-21
+401307392,2021-03-16T02:00Z,Final,21,Phoenix Suns,PHX,122,29,Memphis Grizzlies,MEM,99,PHX Arena,3188,2020-21
+401307393,2021-03-16T02:30Z,Final,9,Golden State Warriors,GS,97,13,Los Angeles Lakers,LAL,128,Chase Center,0,2020-21
+401307394,2021-03-16T23:30Z,Final,2,Boston Celtics,BOS,109,26,Utah Jazz,UTAH,117,TD Garden,0,2020-21
+401307395,2021-03-17T00:00Z,Final,14,Miami Heat,MIA,113,5,Cleveland Cavaliers,CLE,98,Kaseya Center,0,2020-21
+401307396,2021-03-17T00:00Z,Final,20,Philadelphia 76ers,PHI,99,18,New York Knicks,NY,96,Xfinity Mobile Arena,3071,2020-21
+401307397,2021-03-17T00:00Z,Final,4,Chicago Bulls,CHI,123,25,Oklahoma City Thunder,OKC,102,United Center,0,2020-21
+401307398,2021-03-17T00:00Z,Final,10,Houston Rockets,HOU,107,1,Atlanta Hawks,ATL,119,Toyota Center (Houston),3069,2020-21
+401307399,2021-03-17T02:00Z,Final,22,Portland Trail Blazers,POR,125,3,New Orleans Pelicans,NO,124,Moda Center,0,2020-21
+401307400,2021-03-17T02:30Z,Final,13,Los Angeles Lakers,LAL,137,16,Minnesota Timberwolves,MIN,121,crypto.com Arena,0,2020-21
+401307401,2021-03-17T23:00Z,Final,8,Detroit Pistons,DET,116,28,Toronto Raptors,TOR,112,Little Caesars Arena,750,2020-21
+401307402,2021-03-17T23:00Z,Final,11,Indiana Pacers,IND,115,17,Brooklyn Nets,BKN,124,Gainbridge Fieldhouse,0,2020-21
+401307403,2021-03-17T23:00Z,Final,20,Philadelphia 76ers,PHI,105,15,Milwaukee Bucks,MIL,109,Xfinity Mobile Arena,3071,2020-21
+401307404,2021-03-17T23:00Z,Final,27,Washington Wizards,WSH,119,23,Sacramento Kings,SAC,121,Capital One Arena,0,2020-21
+401307405,2021-03-18T00:00Z,Final,5,Cleveland Cavaliers,CLE,117,2,Boston Celtics,BOS,110,Rocket Arena,4100,2020-21
+401307406,2021-03-18T00:00Z,Final,4,Chicago Bulls,CHI,99,24,San Antonio Spurs,SA,106,United Center,0,2020-21
+401307407,2021-03-18T00:00Z,Final,10,Houston Rockets,HOU,94,9,Golden State Warriors,GS,108,Toyota Center (Houston),3259,2020-21
+401307408,2021-03-18T01:00Z,Final,29,Memphis Grizzlies,MEM,89,14,Miami Heat,MIA,85,FedExForum,2217,2020-21
+401307409,2021-03-18T01:00Z,Final,7,Denver Nuggets,DEN,129,30,Charlotte Hornets,CHA,104,Ball Arena,0,2020-21
+401307410,2021-03-18T01:30Z,Final,6,Dallas Mavericks,DAL,105,12,LA Clippers,LAC,89,American Airlines Center,3975,2020-21
+401307411,2021-03-18T23:00Z,Final,27,Washington Wizards,WSH,131,26,Utah Jazz,UTAH,122,Capital One Arena,0,2020-21
+401307412,2021-03-18T23:30Z,Final,1,Atlanta Hawks,ATL,116,25,Oklahoma City Thunder,OKC,93,State Farm Arena,2621,2020-21
+401307413,2021-03-18T23:30Z,Final,18,New York Knicks,NY,94,19,Orlando Magic,ORL,93,Madison Square Garden,1531,2020-21
+401307414,2021-03-19T02:00Z,Final,21,Phoenix Suns,PHX,119,16,Minnesota Timberwolves,MIN,123,PHX Arena,3172,2020-21
+401307415,2021-03-19T02:00Z,Final,22,Portland Trail Blazers,POR,101,3,New Orleans Pelicans,NO,93,Moda Center,0,2020-21
+401307416,2021-03-19T02:30Z,Final,13,Los Angeles Lakers,LAL,116,30,Charlotte Hornets,CHA,105,crypto.com Arena,0,2020-21
+401307417,2021-03-19T23:30Z,Final,2,Boston Celtics,BOS,96,23,Sacramento Kings,SAC,107,TD Garden,0,2020-21
+401307418,2021-03-19T23:30Z,Final,5,Cleveland Cavaliers,CLE,110,24,San Antonio Spurs,SA,116,Rocket Arena,0,2020-21
+401307419,2021-03-20T00:00Z,Final,14,Miami Heat,MIA,110,11,Indiana Pacers,IND,137,Kaseya Center,0,2020-21
+401307420,2021-03-20T00:00Z,Final,19,Orlando Magic,ORL,121,17,Brooklyn Nets,BKN,113,Kia Center,3665,2020-21
+401307421,2021-03-20T00:00Z,Final,28,Toronto Raptors,TOR,112,26,Utah Jazz,UTAH,115,Benchmark International Arena,0,2020-21
+401307422,2021-03-20T00:00Z,Final,10,Houston Rockets,HOU,100,8,Detroit Pistons,DET,113,Toyota Center (Houston),3061,2020-21
+401307423,2021-03-20T00:00Z,Final,29,Memphis Grizzlies,MEM,103,9,Golden State Warriors,GS,116,FedExForum,2716,2020-21
+401307424,2021-03-20T01:00Z,Final,7,Denver Nuggets,DEN,131,4,Chicago Bulls,CHI,127,Ball Arena,0,2020-21
+401307425,2021-03-20T02:00Z,Final,21,Phoenix Suns,PHX,113,16,Minnesota Timberwolves,MIN,101,PHX Arena,3124,2020-21
+401307426,2021-03-20T02:00Z,Final,22,Portland Trail Blazers,POR,125,6,Dallas Mavericks,DAL,119,Moda Center,0,2020-21
+401307427,2021-03-20T19:30Z,Final,13,Los Angeles Lakers,LAL,94,1,Atlanta Hawks,ATL,99,crypto.com Arena,0,2020-21
+401307428,2021-03-21T00:00Z,Final,20,Philadelphia 76ers,PHI,129,23,Sacramento Kings,SAC,105,Xfinity Mobile Arena,3071,2020-21
+401307429,2021-03-21T00:00Z,Final,29,Memphis Grizzlies,MEM,111,9,Golden State Warriors,GS,103,FedExForum,0,2020-21
+401307430,2021-03-21T01:00Z,Final,15,Milwaukee Bucks,MIL,120,24,San Antonio Spurs,SA,113,Fiserv Forum,3280,2020-21
+401307431,2021-03-21T02:00Z,Final,12,LA Clippers,LAC,125,30,Charlotte Hornets,CHA,98,crypto.com Arena,0,2020-21
+401307432,2021-03-21T17:00Z,Final,14,Miami Heat,MIA,106,11,Indiana Pacers,IND,109,Kaseya Center,0,2020-21
+401307433,2021-03-21T18:00Z,Final,10,Houston Rockets,HOU,112,25,Oklahoma City Thunder,OKC,114,Toyota Center (Houston),3297,2020-21
+401307434,2021-03-21T19:00Z,Final,7,Denver Nuggets,DEN,108,3,New Orleans Pelicans,NO,113,Ball Arena,0,2020-21
+401307435,2021-03-21T19:30Z,Final,2,Boston Celtics,BOS,112,19,Orlando Magic,ORL,96,TD Garden,0,2020-21
+401307436,2021-03-21T23:00Z,Final,17,Brooklyn Nets,BKN,113,27,Washington Wizards,WSH,106,Barclays Center,1773,2020-21
+401307437,2021-03-21T23:00Z,Final,5,Cleveland Cavaliers,CLE,116,28,Toronto Raptors,TOR,105,Rocket Arena,0,2020-21
+401307438,2021-03-21T23:00Z,Final,8,Detroit Pistons,DET,86,4,Chicago Bulls,CHI,100,Little Caesars Arena,750,2020-21
+401307439,2021-03-22T00:00Z,Final,18,New York Knicks,NY,100,20,Philadelphia 76ers,PHI,101,Madison Square Garden,1981,2020-21
+401307440,2021-03-22T02:00Z,Final,21,Phoenix Suns,PHX,111,13,Los Angeles Lakers,LAL,94,PHX Arena,3190,2020-21
+401307441,2021-03-22T02:00Z,Final,22,Portland Trail Blazers,POR,92,6,Dallas Mavericks,DAL,132,Moda Center,0,2020-21
+401307442,2021-03-22T23:30Z,Final,5,Cleveland Cavaliers,CLE,105,23,Sacramento Kings,SAC,119,Rocket Arena,4100,2020-21
+401307443,2021-03-23T00:00Z,Final,16,Minnesota Timberwolves,MIN,103,25,Oklahoma City Thunder,OKC,112,Target Center,0,2020-21
+401307444,2021-03-23T00:30Z,Final,24,San Antonio Spurs,SA,97,30,Charlotte Hornets,CHA,100,Frost Bank Center,3222,2020-21
+401307445,2021-03-23T01:00Z,Final,4,Chicago Bulls,CHI,95,26,Utah Jazz,UTAH,120,United Center,0,2020-21
+401307446,2021-03-23T01:00Z,Final,10,Houston Rockets,HOU,117,28,Toronto Raptors,TOR,99,Toyota Center (Houston),2965,2020-21
+401307447,2021-03-23T01:00Z,Final,29,Memphis Grizzlies,MEM,132,2,Boston Celtics,BOS,126,FedExForum,2319,2020-21
+401307448,2021-03-23T01:00Z,Final,15,Milwaukee Bucks,MIL,140,11,Indiana Pacers,IND,113,Fiserv Forum,3280,2020-21
+401307449,2021-03-23T02:00Z,Final,12,LA Clippers,LAC,119,1,Atlanta Hawks,ATL,110,crypto.com Arena,0,2020-21
+401307450,2021-03-23T23:00Z,Final,19,Orlando Magic,ORL,99,7,Denver Nuggets,DEN,110,Kia Center,3485,2020-21
+401307451,2021-03-23T23:30Z,Final,18,New York Knicks,NY,131,27,Washington Wizards,WSH,113,Madison Square Garden,1589,2020-21
+401307452,2021-03-23T23:30Z,Final,3,New Orleans Pelicans,NO,128,13,Los Angeles Lakers,LAL,111,Smoothie King Center,3700,2020-21
+401307453,2021-03-24T00:00Z,Final,14,Miami Heat,MIA,100,21,Phoenix Suns,PHX,110,Kaseya Center,0,2020-21
+401307454,2021-03-24T02:00Z,Final,9,Golden State Warriors,GS,98,20,Philadelphia 76ers,PHI,108,Chase Center,0,2020-21
+401307455,2021-03-24T02:00Z,Final,22,Portland Trail Blazers,POR,112,17,Brooklyn Nets,BKN,116,Moda Center,0,2020-21
+401307456,2021-03-24T23:00Z,Final,11,Indiana Pacers,IND,116,8,Detroit Pistons,DET,111,Gainbridge Fieldhouse,0,2020-21
+401307457,2021-03-24T23:30Z,Final,15,Milwaukee Bucks,MIL,121,2,Boston Celtics,BOS,119,Fiserv Forum,3280,2020-21
+401307459,2021-03-24T23:30Z,Final,28,Toronto Raptors,TOR,135,7,Denver Nuggets,DEN,111,Benchmark International Arena,1578,2020-21
+401307458,2021-03-25T00:00Z,Final,19,Orlando Magic,ORL,112,21,Phoenix Suns,PHX,111,Kia Center,3891,2020-21
+401307460,2021-03-25T00:00Z,Final,4,Chicago Bulls,CHI,94,5,Cleveland Cavaliers,CLE,103,United Center,0,2020-21
+401307461,2021-03-25T00:00Z,Final,10,Houston Rockets,HOU,97,30,Charlotte Hornets,CHA,122,Toyota Center (Houston),3163,2020-21
+401307462,2021-03-25T00:00Z,Final,16,Minnesota Timberwolves,MIN,108,6,Dallas Mavericks,DAL,128,Target Center,0,2020-21
+401307463,2021-03-25T00:00Z,Final,25,Oklahoma City Thunder,OKC,107,29,Memphis Grizzlies,MEM,116,Paycom Center,0,2020-21
+401307464,2021-03-25T00:30Z,Final,24,San Antonio Spurs,SA,101,12,LA Clippers,LAC,134,Frost Bank Center,3224,2020-21
+401307465,2021-03-25T02:00Z,Final,26,Utah Jazz,UTAH,118,17,Brooklyn Nets,BKN,88,Delta Center,5546,2020-21
+401307466,2021-03-25T02:00Z,Final,23,Sacramento Kings,SAC,110,1,Atlanta Hawks,ATL,108,Golden 1 Center,0,2020-21
+401307467,2021-03-25T23:30Z,Final,14,Miami Heat,MIA,122,22,Portland Trail Blazers,POR,125,Kaseya Center,0,2020-21
+401307468,2021-03-25T23:30Z,Final,18,New York Knicks,NY,106,27,Washington Wizards,WSH,102,Madison Square Garden,1817,2020-21
+401307469,2021-03-26T00:30Z,Final,24,San Antonio Spurs,SA,85,12,LA Clippers,LAC,98,Frost Bank Center,3225,2020-21
+401307470,2021-03-26T02:00Z,Final,13,Los Angeles Lakers,LAL,101,20,Philadelphia 76ers,PHI,109,crypto.com Arena,0,2020-21
+401307471,2021-03-26T02:00Z,Final,23,Sacramento Kings,SAC,141,9,Golden State Warriors,GS,119,Golden 1 Center,0,2020-21
+401307472,2021-03-26T23:00Z,Final,8,Detroit Pistons,DET,111,17,Brooklyn Nets,BKN,113,Little Caesars Arena,750,2020-21
+401307473,2021-03-26T23:30Z,Final,28,Toronto Raptors,TOR,100,21,Phoenix Suns,PHX,104,Benchmark International Arena,0,2020-21
+401307474,2021-03-26T23:30Z,Final,15,Milwaukee Bucks,MIL,114,2,Boston Celtics,BOS,122,Fiserv Forum,3280,2020-21
+401307475,2021-03-27T00:00Z,Final,30,Charlotte Hornets,CHA,110,14,Miami Heat,MIA,105,Spectrum Center,4215,2020-21
+401307476,2021-03-27T00:00Z,Final,19,Orlando Magic,ORL,105,22,Portland Trail Blazers,POR,112,Kia Center,3827,2020-21
+401307477,2021-03-27T00:00Z,Final,16,Minnesota Timberwolves,MIN,107,10,Houston Rockets,HOU,101,Target Center,0,2020-21
+401307478,2021-03-27T00:00Z,Final,3,New Orleans Pelicans,NO,108,7,Denver Nuggets,DEN,113,Smoothie King Center,3700,2020-21
+401307479,2021-03-27T00:30Z,Final,6,Dallas Mavericks,DAL,94,11,Indiana Pacers,IND,109,American Airlines Center,4132,2020-21
+401307480,2021-03-27T01:00Z,Final,26,Utah Jazz,UTAH,117,29,Memphis Grizzlies,MEM,114,Delta Center,5546,2020-21
+401307481,2021-03-27T02:00Z,Final,9,Golden State Warriors,GS,108,1,Atlanta Hawks,ATL,124,Chase Center,0,2020-21
+401307482,2021-03-27T02:30Z,Final,13,Los Angeles Lakers,LAL,100,5,Cleveland Cavaliers,CLE,86,crypto.com Arena,0,2020-21
+401307483,2021-03-28T00:00Z,Final,27,Washington Wizards,WSH,106,8,Detroit Pistons,DET,92,Capital One Arena,0,2020-21
+401307484,2021-03-28T00:00Z,Final,15,Milwaukee Bucks,MIL,96,18,New York Knicks,NY,102,Fiserv Forum,3280,2020-21
+401307485,2021-03-28T00:00Z,Final,16,Minnesota Timberwolves,MIN,107,10,Houston Rockets,HOU,129,Target Center,0,2020-21
+401307486,2021-03-28T00:30Z,Final,24,San Antonio Spurs,SA,120,4,Chicago Bulls,CHI,104,Frost Bank Center,3334,2020-21
+401307487,2021-03-28T01:00Z,Final,3,New Orleans Pelicans,NO,112,6,Dallas Mavericks,DAL,103,Smoothie King Center,3700,2020-21
+401307488,2021-03-28T01:00Z,Final,25,Oklahoma City Thunder,OKC,94,2,Boston Celtics,BOS,111,Paycom Center,0,2020-21
+401307489,2021-03-28T01:00Z,Final,26,Utah Jazz,UTAH,126,29,Memphis Grizzlies,MEM,110,Delta Center,5546,2020-21
+401307490,2021-03-28T02:00Z,Final,12,LA Clippers,LAC,122,20,Philadelphia 76ers,PHI,112,crypto.com Arena,0,2020-21
+401307491,2021-03-28T02:00Z,Final,23,Sacramento Kings,SAC,100,5,Cleveland Cavaliers,CLE,98,Golden 1 Center,0,2020-21
+401307492,2021-03-28T17:00Z,Final,30,Charlotte Hornets,CHA,97,21,Phoenix Suns,PHX,101,Spectrum Center,3850,2020-21
+401307493,2021-03-28T23:00Z,Final,28,Toronto Raptors,TOR,117,22,Portland Trail Blazers,POR,122,Benchmark International Arena,2021,2020-21
+401307494,2021-03-29T01:00Z,Final,7,Denver Nuggets,DEN,126,1,Atlanta Hawks,ATL,102,Ball Arena,0,2020-21
+401307495,2021-03-29T02:00Z,Final,13,Los Angeles Lakers,LAL,96,19,Orlando Magic,ORL,93,crypto.com Arena,0,2020-21
+401307496,2021-03-29T23:00Z,Final,27,Washington Wizards,WSH,132,11,Indiana Pacers,IND,124,Capital One Arena,0,2020-21
+401307497,2021-03-29T23:30Z,Final,2,Boston Celtics,BOS,109,3,New Orleans Pelicans,NO,115,TD Garden,2298,2020-21
+401307498,2021-03-29T23:30Z,Final,17,Brooklyn Nets,BKN,112,16,Minnesota Timberwolves,MIN,107,Barclays Center,1732,2020-21
+401307499,2021-03-29T23:30Z,Final,18,New York Knicks,NY,88,14,Miami Heat,MIA,98,Madison Square Garden,1981,2020-21
+401307500,2021-03-30T00:00Z,Final,8,Detroit Pistons,DET,118,28,Toronto Raptors,TOR,104,Little Caesars Arena,750,2020-21
+401307501,2021-03-30T00:00Z,Final,10,Houston Rockets,HOU,110,29,Memphis Grizzlies,MEM,120,Toyota Center (Houston),3319,2020-21
+401307502,2021-03-30T00:00Z,Final,25,Oklahoma City Thunder,OKC,106,6,Dallas Mavericks,DAL,127,Paycom Center,0,2020-21
+401307503,2021-03-30T00:30Z,Final,24,San Antonio Spurs,SA,115,23,Sacramento Kings,SAC,132,Frost Bank Center,2876,2020-21
+401307504,2021-03-30T01:00Z,Final,26,Utah Jazz,UTAH,114,5,Cleveland Cavaliers,CLE,75,Delta Center,5546,2020-21
+401307505,2021-03-30T02:00Z,Final,9,Golden State Warriors,GS,116,4,Chicago Bulls,CHI,102,Chase Center,0,2020-21
+401307506,2021-03-30T02:00Z,Final,12,LA Clippers,LAC,129,15,Milwaukee Bucks,MIL,105,crypto.com Arena,0,2020-21
+401307507,2021-03-30T23:00Z,Final,27,Washington Wizards,WSH,104,30,Charlotte Hornets,CHA,114,Capital One Arena,0,2020-21
+401307508,2021-03-31T01:00Z,Final,7,Denver Nuggets,DEN,104,20,Philadelphia 76ers,PHI,95,Ball Arena,3574,2020-21
+401307509,2021-03-31T02:00Z,Final,12,LA Clippers,LAC,96,19,Orlando Magic,ORL,103,crypto.com Arena,0,2020-21
+401307510,2021-03-31T02:00Z,Final,21,Phoenix Suns,PHX,117,1,Atlanta Hawks,ATL,110,PHX Arena,3173,2020-21
+401307511,2021-03-31T23:00Z,Final,8,Detroit Pistons,DET,101,22,Portland Trail Blazers,POR,124,Little Caesars Arena,750,2020-21
+401307512,2021-03-31T23:00Z,Final,11,Indiana Pacers,IND,87,14,Miami Heat,MIA,92,Gainbridge Fieldhouse,0,2020-21
+401307513,2021-03-31T23:30Z,Final,2,Boston Celtics,BOS,108,6,Dallas Mavericks,DAL,113,TD Garden,2298,2020-21
+401307514,2021-03-31T23:30Z,Final,17,Brooklyn Nets,BKN,120,10,Houston Rockets,HOU,108,Barclays Center,1773,2020-21
+401307515,2021-04-01T00:00Z,Final,29,Memphis Grizzlies,MEM,107,26,Utah Jazz,UTAH,111,FedExForum,2314,2020-21
+401307516,2021-04-01T00:00Z,Final,16,Minnesota Timberwolves,MIN,102,18,New York Knicks,NY,101,Target Center,0,2020-21
+401307517,2021-04-01T00:00Z,Final,25,Oklahoma City Thunder,OKC,113,28,Toronto Raptors,TOR,103,Paycom Center,0,2020-21
+401307518,2021-04-01T00:30Z,Final,24,San Antonio Spurs,SA,120,23,Sacramento Kings,SAC,106,Frost Bank Center,2802,2020-21
+401307519,2021-04-01T02:00Z,Final,13,Los Angeles Lakers,LAL,97,15,Milwaukee Bucks,MIL,112,crypto.com Arena,0,2020-21
+401307520,2021-04-01T02:00Z,Final,21,Phoenix Suns,PHX,121,4,Chicago Bulls,CHI,116,PHX Arena,3459,2020-21
+401307521,2021-04-01T23:00Z,Final,5,Cleveland Cavaliers,CLE,94,20,Philadelphia 76ers,PHI,114,Rocket Arena,4100,2020-21
+401307522,2021-04-01T23:00Z,Final,8,Detroit Pistons,DET,120,27,Washington Wizards,WSH,91,Little Caesars Arena,750,2020-21
+401307523,2021-04-01T23:30Z,Final,17,Brooklyn Nets,BKN,111,30,Charlotte Hornets,CHA,89,Barclays Center,1773,2020-21
+401307524,2021-04-02T00:00Z,Final,14,Miami Heat,MIA,116,9,Golden State Warriors,GS,109,Kaseya Center,0,2020-21
+401307525,2021-04-02T00:00Z,Final,3,New Orleans Pelicans,NO,110,19,Orlando Magic,ORL,115,Smoothie King Center,3700,2020-21
+401307526,2021-04-02T00:30Z,Final,24,San Antonio Spurs,SA,129,1,Atlanta Hawks,ATL,134,Frost Bank Center,2949,2020-21
+401307527,2021-04-02T02:00Z,Final,12,LA Clippers,LAC,94,7,Denver Nuggets,DEN,101,crypto.com Arena,0,2020-21
+401307531,2021-04-02T23:00Z,Final,28,Toronto Raptors,TOR,130,9,Golden State Warriors,GS,77,Benchmark International Arena,3085,2020-21
+401307528,2021-04-02T23:30Z,Final,2,Boston Celtics,BOS,118,10,Houston Rockets,HOU,102,TD Garden,0,2020-21
+401307529,2021-04-02T23:30Z,Final,18,New York Knicks,NY,86,6,Dallas Mavericks,DAL,99,Madison Square Garden,1981,2020-21
+401307530,2021-04-03T00:00Z,Final,11,Indiana Pacers,IND,97,30,Charlotte Hornets,CHA,114,Gainbridge Fieldhouse,0,2020-21
+401307532,2021-04-03T00:00Z,Final,29,Memphis Grizzlies,MEM,120,16,Minnesota Timberwolves,MIN,108,FedExForum,2987,2020-21
+401307533,2021-04-03T01:00Z,Final,3,New Orleans Pelicans,NO,103,1,Atlanta Hawks,ATL,126,Smoothie King Center,3700,2020-21
+401307534,2021-04-03T01:00Z,Final,26,Utah Jazz,UTAH,113,4,Chicago Bulls,CHI,106,Delta Center,5546,2020-21
+401307535,2021-04-03T02:00Z,Final,21,Phoenix Suns,PHX,140,25,Oklahoma City Thunder,OKC,103,PHX Arena,3422,2020-21
+401307536,2021-04-03T02:00Z,Final,22,Portland Trail Blazers,POR,109,15,Milwaukee Bucks,MIL,127,Moda Center,0,2020-21
+401307537,2021-04-03T02:00Z,Final,23,Sacramento Kings,SAC,94,13,Los Angeles Lakers,LAL,115,Golden 1 Center,0,2020-21
+401307538,2021-04-03T23:00Z,Final,27,Washington Wizards,WSH,87,6,Dallas Mavericks,DAL,109,Capital One Arena,0,2020-21
+401307539,2021-04-04T00:00Z,Final,8,Detroit Pistons,DET,81,18,New York Knicks,NY,125,Little Caesars Arena,750,2020-21
+401307540,2021-04-04T00:00Z,Final,14,Miami Heat,MIA,115,5,Cleveland Cavaliers,CLE,101,Kaseya Center,0,2020-21
+401307541,2021-04-04T00:00Z,Final,20,Philadelphia 76ers,PHI,122,16,Minnesota Timberwolves,MIN,113,Xfinity Mobile Arena,3071,2020-21
+401307542,2021-04-04T01:00Z,Final,24,San Antonio Spurs,SA,133,11,Indiana Pacers,IND,139,Frost Bank Center,3276,2020-21
+401307543,2021-04-04T01:00Z,Final,26,Utah Jazz,UTAH,137,19,Orlando Magic,ORL,91,Delta Center,5546,2020-21
+401307544,2021-04-04T02:00Z,Final,22,Portland Trail Blazers,POR,133,25,Oklahoma City Thunder,OKC,85,Moda Center,0,2020-21
+401307545,2021-04-04T02:00Z,Final,23,Sacramento Kings,SAC,128,15,Milwaukee Bucks,MIL,129,Golden 1 Center,0,2020-21
+401307546,2021-04-04T18:00Z,Final,4,Chicago Bulls,CHI,115,17,Brooklyn Nets,BKN,107,United Center,0,2020-21
+401307548,2021-04-04T19:30Z,Final,12,LA Clippers,LAC,104,13,Los Angeles Lakers,LAL,86,crypto.com Arena,0,2020-21
+401307547,2021-04-04T22:00Z,Final,2,Boston Celtics,BOS,116,30,Charlotte Hornets,CHA,86,TD Garden,0,2020-21
+401307549,2021-04-04T23:00Z,Final,20,Philadelphia 76ers,PHI,100,29,Memphis Grizzlies,MEM,116,Xfinity Mobile Arena,4094,2020-21
+401307550,2021-04-04T23:30Z,Final,1,Atlanta Hawks,ATL,117,9,Golden State Warriors,GS,111,State Farm Arena,2937,2020-21
+401307551,2021-04-05T00:00Z,Final,10,Houston Rockets,HOU,115,3,New Orleans Pelicans,NO,122,Toyota Center (Houston),3268,2020-21
+401307552,2021-04-05T02:00Z,Final,7,Denver Nuggets,DEN,119,19,Orlando Magic,ORL,109,Ball Arena,3927,2020-21
+401307553,2021-04-05T23:00Z,Final,28,Toronto Raptors,TOR,103,27,Washington Wizards,WSH,101,Benchmark International Arena,1620,2020-21
+401307554,2021-04-05T23:00Z,Final,17,Brooklyn Nets,BKN,114,18,New York Knicks,NY,112,Barclays Center,1773,2020-21
+401307555,2021-04-05T23:00Z,Final,6,Dallas Mavericks,DAL,111,26,Utah Jazz,UTAH,103,American Airlines Center,4261,2020-21
+401307557,2021-04-05T23:00Z,Final,16,Minnesota Timberwolves,MIN,116,23,Sacramento Kings,SAC,106,Target Center,1436,2020-21
+401307558,2021-04-05T23:00Z,Final,25,Oklahoma City Thunder,OKC,108,8,Detroit Pistons,DET,132,Paycom Center,0,2020-21
+401307559,2021-04-05T23:00Z,Final,24,San Antonio Spurs,SA,101,5,Cleveland Cavaliers,CLE,125,Frost Bank Center,2482,2020-21
+401307556,2021-04-06T00:00Z,Final,10,Houston Rockets,HOU,130,21,Phoenix Suns,PHX,133,Toyota Center (Houston),3093,2020-21
+401307560,2021-04-06T23:00Z,Final,11,Indiana Pacers,IND,97,4,Chicago Bulls,CHI,113,Gainbridge Fieldhouse,0,2020-21
+401307561,2021-04-06T23:30Z,Final,1,Atlanta Hawks,ATL,123,3,New Orleans Pelicans,NO,107,State Farm Arena,2816,2020-21
+401307562,2021-04-06T23:30Z,Final,2,Boston Celtics,BOS,96,20,Philadelphia 76ers,PHI,106,TD Garden,2298,2020-21
+401307563,2021-04-06T23:30Z,Final,28,Toronto Raptors,TOR,101,13,Los Angeles Lakers,LAL,110,Benchmark International Arena,0,2020-21
+401307564,2021-04-07T00:00Z,Final,14,Miami Heat,MIA,112,29,Memphis Grizzlies,MEM,124,Kaseya Center,0,2020-21
+401307565,2021-04-07T01:00Z,Final,7,Denver Nuggets,DEN,134,8,Detroit Pistons,DET,119,Ball Arena,3556,2020-21
+401307566,2021-04-07T02:00Z,Final,9,Golden State Warriors,GS,122,15,Milwaukee Bucks,MIL,121,Chase Center,0,2020-21
+401307567,2021-04-07T02:00Z,Final,12,LA Clippers,LAC,133,22,Portland Trail Blazers,POR,116,crypto.com Arena,0,2020-21
+401307568,2021-04-07T23:00Z,Final,11,Indiana Pacers,IND,141,16,Minnesota Timberwolves,MIN,137,Gainbridge Fieldhouse,0,2020-21
+401307569,2021-04-07T23:00Z,Final,19,Orlando Magic,ORL,116,27,Washington Wizards,WSH,131,Kia Center,3991,2020-21
+401307570,2021-04-07T23:30Z,Final,2,Boston Celtics,BOS,101,18,New York Knicks,NY,99,TD Garden,2298,2020-21
+401307571,2021-04-07T23:30Z,Final,17,Brooklyn Nets,BKN,139,3,New Orleans Pelicans,NO,111,Barclays Center,1773,2020-21
+401307572,2021-04-08T00:00Z,Final,1,Atlanta Hawks,ATL,113,29,Memphis Grizzlies,MEM,131,State Farm Arena,2774,2020-21
+401307573,2021-04-08T00:00Z,Final,10,Houston Rockets,HOU,102,6,Dallas Mavericks,DAL,93,Toyota Center (Houston),3399,2020-21
+401307574,2021-04-08T00:00Z,Final,25,Oklahoma City Thunder,OKC,102,30,Charlotte Hornets,CHA,113,Paycom Center,0,2020-21
+401307575,2021-04-08T01:00Z,Final,7,Denver Nuggets,DEN,106,24,San Antonio Spurs,SA,96,Ball Arena,3715,2020-21
+401307576,2021-04-08T02:00Z,Final,21,Phoenix Suns,PHX,117,26,Utah Jazz,UTAH,113,PHX Arena,5110,2020-21
+401307577,2021-04-08T23:30Z,Final,14,Miami Heat,MIA,110,13,Los Angeles Lakers,LAL,104,Kaseya Center,0,2020-21
+401313155,2021-04-08T23:30Z,Final,28,Toronto Raptors,TOR,113,4,Chicago Bulls,CHI,122,Scotiabank Arena,0,2020-21
+401307578,2021-04-09T00:00Z,Final,25,Oklahoma City Thunder,OKC,102,5,Cleveland Cavaliers,CLE,129,Paycom Center,0,2020-21
+401307579,2021-04-09T01:00Z,Final,6,Dallas Mavericks,DAL,116,15,Milwaukee Bucks,MIL,101,American Airlines Center,4190,2020-21
+401307580,2021-04-09T02:00Z,Final,26,Utah Jazz,UTAH,122,22,Portland Trail Blazers,POR,103,Delta Center,5546,2020-21
+401307581,2021-04-09T02:00Z,Final,12,LA Clippers,LAC,113,21,Phoenix Suns,PHX,103,crypto.com Arena,0,2020-21
+401307582,2021-04-09T02:00Z,Final,23,Sacramento Kings,SAC,101,8,Detroit Pistons,DET,113,Golden 1 Center,0,2020-21
+401307583,2021-04-09T23:00Z,Final,19,Orlando Magic,ORL,106,11,Indiana Pacers,IND,111,Kia Center,3777,2020-21
+401307585,2021-04-09T23:30Z,Final,2,Boston Celtics,BOS,145,16,Minnesota Timberwolves,MIN,136,TD Garden,2298,2020-21
+401307586,2021-04-09T23:30Z,Final,18,New York Knicks,NY,133,29,Memphis Grizzlies,MEM,129,Madison Square Garden,1912,2020-21
+401307584,2021-04-10T00:00Z,Final,1,Atlanta Hawks,ATL,120,4,Chicago Bulls,CHI,108,State Farm Arena,996,2020-21
+401307588,2021-04-10T00:00Z,Final,3,New Orleans Pelicans,NO,101,20,Philadelphia 76ers,PHI,94,Smoothie King Center,3700,2020-21
+401307589,2021-04-10T01:00Z,Final,15,Milwaukee Bucks,MIL,119,30,Charlotte Hornets,CHA,127,Fiserv Forum,3280,2020-21
+401307590,2021-04-10T01:00Z,Final,7,Denver Nuggets,DEN,121,24,San Antonio Spurs,SA,119,Ball Arena,3750,2020-21
+401307591,2021-04-10T02:00Z,Final,9,Golden State Warriors,GS,107,27,Washington Wizards,WSH,110,Chase Center,0,2020-21
+401307592,2021-04-10T02:00Z,Final,12,LA Clippers,LAC,126,10,Houston Rockets,HOU,109,crypto.com Arena,0,2020-21
+401307587,2021-04-10T23:30Z,Final,5,Cleveland Cavaliers,CLE,115,28,Toronto Raptors,TOR,135,Rocket Arena,4148,2020-21
+401307593,2021-04-11T00:30Z,Final,17,Brooklyn Nets,BKN,101,13,Los Angeles Lakers,LAL,126,Barclays Center,1773,2020-21
+401307594,2021-04-11T01:00Z,Final,25,Oklahoma City Thunder,OKC,93,20,Philadelphia 76ers,PHI,117,Paycom Center,0,2020-21
+401307595,2021-04-11T01:00Z,Final,26,Utah Jazz,UTAH,128,23,Sacramento Kings,SAC,112,Delta Center,5546,2020-21
+401307596,2021-04-11T02:00Z,Final,9,Golden State Warriors,GS,125,10,Houston Rockets,HOU,109,Chase Center,0,2020-21
+401307597,2021-04-11T02:00Z,Final,21,Phoenix Suns,PHX,134,27,Washington Wizards,WSH,106,PHX Arena,5028,2020-21
+401307598,2021-04-11T02:00Z,Final,22,Portland Trail Blazers,POR,118,8,Detroit Pistons,DET,103,Moda Center,0,2020-21
+401307599,2021-04-11T17:00Z,Final,30,Charlotte Hornets,CHA,101,1,Atlanta Hawks,ATL,105,Spectrum Center,4148,2020-21
+401307600,2021-04-11T19:00Z,Final,7,Denver Nuggets,DEN,87,2,Boston Celtics,BOS,105,Ball Arena,4023,2020-21
+401307601,2021-04-11T23:00Z,Final,5,Cleveland Cavaliers,CLE,109,3,New Orleans Pelicans,NO,116,Rocket Arena,4148,2020-21
+401307602,2021-04-11T23:00Z,Final,19,Orlando Magic,ORL,87,15,Milwaukee Bucks,MIL,124,Kia Center,3316,2020-21
+401307603,2021-04-12T00:00Z,Final,18,New York Knicks,NY,102,28,Toronto Raptors,TOR,96,Madison Square Garden,1833,2020-21
+401307604,2021-04-12T00:00Z,Final,6,Dallas Mavericks,DAL,117,24,San Antonio Spurs,SA,119,American Airlines Center,4054,2020-21
+401307605,2021-04-12T00:00Z,Final,29,Memphis Grizzlies,MEM,125,11,Indiana Pacers,IND,132,FedExForum,2341,2020-21
+401307606,2021-04-12T00:00Z,Final,16,Minnesota Timberwolves,MIN,121,4,Chicago Bulls,CHI,117,Target Center,1436,2020-21
+401307607,2021-04-12T02:00Z,Final,12,LA Clippers,LAC,131,8,Detroit Pistons,DET,124,crypto.com Arena,0,2020-21
+401307608,2021-04-12T02:00Z,Final,22,Portland Trail Blazers,POR,98,14,Miami Heat,MIA,107,Moda Center,0,2020-21
+401307609,2021-04-12T23:30Z,Final,18,New York Knicks,NY,111,13,Los Angeles Lakers,LAL,96,Madison Square Garden,1981,2020-21
+401307612,2021-04-12T23:30Z,Final,6,Dallas Mavericks,DAL,95,20,Philadelphia 76ers,PHI,113,American Airlines Center,4016,2020-21
+401307610,2021-04-13T00:00Z,Final,19,Orlando Magic,ORL,97,24,San Antonio Spurs,SA,120,Kia Center,3107,2020-21
+401307611,2021-04-13T00:00Z,Postponed,16,Minnesota Timberwolves,MIN,0,17,Brooklyn Nets,BKN,0,Target Center,0,2020-21
+401307613,2021-04-13T01:00Z,Final,29,Memphis Grizzlies,MEM,101,4,Chicago Bulls,CHI,90,FedExForum,2194,2020-21
+401307614,2021-04-13T01:00Z,Final,3,New Orleans Pelicans,NO,117,23,Sacramento Kings,SAC,110,Smoothie King Center,3700,2020-21
+401307615,2021-04-13T01:00Z,Final,26,Utah Jazz,UTAH,121,27,Washington Wizards,WSH,125,Delta Center,5546,2020-21
+401307616,2021-04-13T02:00Z,Final,9,Golden State Warriors,GS,116,7,Denver Nuggets,DEN,107,Chase Center,0,2020-21
+401307617,2021-04-13T02:00Z,Final,21,Phoenix Suns,PHX,126,10,Houston Rockets,HOU,120,PHX Arena,4145,2020-21
+401320524,2021-04-13T20:00Z,Final,16,Minnesota Timberwolves,MIN,97,17,Brooklyn Nets,BKN,127,Target Center,0,2020-21
+401307618,2021-04-13T23:30Z,Final,11,Indiana Pacers,IND,115,12,LA Clippers,LAC,126,Gainbridge Fieldhouse,0,2020-21
+401307619,2021-04-13T23:30Z,Final,28,Toronto Raptors,TOR,103,1,Atlanta Hawks,ATL,108,Benchmark International Arena,1427,2020-21
+401307620,2021-04-14T00:00Z,Final,30,Charlotte Hornets,CHA,93,13,Los Angeles Lakers,LAL,101,Spectrum Center,3676,2020-21
+401307621,2021-04-14T01:00Z,Final,26,Utah Jazz,UTAH,106,25,Oklahoma City Thunder,OKC,96,Delta Center,5546,2020-21
+401307622,2021-04-14T02:00Z,Final,21,Phoenix Suns,PHX,106,14,Miami Heat,MIA,86,PHX Arena,5024,2020-21
+401307623,2021-04-14T02:00Z,Final,22,Portland Trail Blazers,POR,115,2,Boston Celtics,BOS,116,Moda Center,0,2020-21
+401307629,2021-04-14T20:30Z,Final,16,Minnesota Timberwolves,MIN,105,15,Milwaukee Bucks,MIL,130,Target Center,0,2020-21
+401307624,2021-04-14T23:00Z,Final,30,Charlotte Hornets,CHA,90,5,Cleveland Cavaliers,CLE,103,Spectrum Center,2955,2020-21
+401307625,2021-04-14T23:00Z,Final,20,Philadelphia 76ers,PHI,123,17,Brooklyn Nets,BKN,117,Xfinity Mobile Arena,4094,2020-21
+401307626,2021-04-14T23:30Z,Final,28,Toronto Raptors,TOR,117,24,San Antonio Spurs,SA,112,Benchmark International Arena,1184,2020-21
+401307627,2021-04-15T00:00Z,Final,8,Detroit Pistons,DET,98,12,LA Clippers,LAC,100,Little Caesars Arena,750,2020-21
+401307628,2021-04-15T00:00Z,Final,4,Chicago Bulls,CHI,106,19,Orlando Magic,ORL,115,United Center,0,2020-21
+401307630,2021-04-15T00:00Z,Final,3,New Orleans Pelicans,NO,106,18,New York Knicks,NY,116,Smoothie King Center,3700,2020-21
+401307631,2021-04-15T01:00Z,Final,10,Houston Rockets,HOU,124,11,Indiana Pacers,IND,132,Toyota Center (Houston),3293,2020-21
+401307632,2021-04-15T01:00Z,Final,25,Oklahoma City Thunder,OKC,109,9,Golden State Warriors,GS,147,Paycom Center,0,2020-21
+401307633,2021-04-15T01:30Z,Final,29,Memphis Grizzlies,MEM,113,6,Dallas Mavericks,DAL,114,FedExForum,2141,2020-21
+401307634,2021-04-15T02:00Z,Final,7,Denver Nuggets,DEN,123,14,Miami Heat,MIA,106,Ball Arena,4017,2020-21
+401307635,2021-04-15T02:00Z,Final,23,Sacramento Kings,SAC,111,27,Washington Wizards,WSH,123,Golden 1 Center,0,2020-21
+401307636,2021-04-15T23:30Z,Final,1,Atlanta Hawks,ATL,109,15,Milwaukee Bucks,MIL,120,State Farm Arena,0,2020-21
+401307637,2021-04-16T00:00Z,Final,5,Cleveland Cavaliers,CLE,101,9,Golden State Warriors,GS,119,Rocket Arena,4148,2020-21
+401307638,2021-04-16T02:00Z,Final,13,Los Angeles Lakers,LAL,113,2,Boston Celtics,BOS,121,crypto.com Arena,1915,2020-21
+401307639,2021-04-16T02:00Z,Final,21,Phoenix Suns,PHX,122,23,Sacramento Kings,SAC,114,PHX Arena,4568,2020-21
+401307640,2021-04-16T19:00Z,Final,26,Utah Jazz,UTAH,119,11,Indiana Pacers,IND,111,Delta Center,5546,2020-21
+401307641,2021-04-16T23:00Z,Final,8,Detroit Pistons,DET,110,25,Oklahoma City Thunder,OKC,104,Little Caesars Arena,750,2020-21
+401307642,2021-04-16T23:00Z,Final,20,Philadelphia 76ers,PHI,106,12,LA Clippers,LAC,103,Xfinity Mobile Arena,4094,2020-21
+401307643,2021-04-16T23:00Z,Final,27,Washington Wizards,WSH,117,3,New Orleans Pelicans,NO,115,Capital One Arena,0,2020-21
+401307644,2021-04-16T23:30Z,Final,17,Brooklyn Nets,BKN,130,30,Charlotte Hornets,CHA,115,Barclays Center,1773,2020-21
+401307645,2021-04-16T23:30Z,Final,28,Toronto Raptors,TOR,113,19,Orlando Magic,ORL,102,Benchmark International Arena,0,2020-21
+401307646,2021-04-17T00:00Z,Final,4,Chicago Bulls,CHI,115,29,Memphis Grizzlies,MEM,126,United Center,0,2020-21
+401307647,2021-04-17T00:00Z,Final,10,Houston Rockets,HOU,99,7,Denver Nuggets,DEN,128,Toyota Center (Houston),3342,2020-21
+401307648,2021-04-17T00:00Z,Final,16,Minnesota Timberwolves,MIN,119,14,Miami Heat,MIA,111,Target Center,1638,2020-21
+401307649,2021-04-17T00:30Z,Final,24,San Antonio Spurs,SA,106,22,Portland Trail Blazers,POR,107,Frost Bank Center,4303,2020-21
+401307650,2021-04-17T01:30Z,Final,6,Dallas Mavericks,DAL,109,18,New York Knicks,NY,117,American Airlines Center,4246,2020-21
+401307651,2021-04-17T20:30Z,Final,13,Los Angeles Lakers,LAL,127,26,Utah Jazz,UTAH,115,crypto.com Arena,1710,2020-21
+401307652,2021-04-18T00:00Z,Final,27,Washington Wizards,WSH,121,8,Detroit Pistons,DET,100,Capital One Arena,0,2020-21
+401307653,2021-04-18T00:00Z,Final,4,Chicago Bulls,CHI,106,5,Cleveland Cavaliers,CLE,96,United Center,0,2020-21
+401307654,2021-04-18T00:30Z,Final,2,Boston Celtics,BOS,119,9,Golden State Warriors,GS,114,TD Garden,2298,2020-21
+401307655,2021-04-18T01:00Z,Final,15,Milwaukee Bucks,MIL,115,29,Memphis Grizzlies,MEM,128,Fiserv Forum,3280,2020-21
+401307656,2021-04-18T02:00Z,Final,21,Phoenix Suns,PHX,85,24,San Antonio Spurs,SA,111,PHX Arena,5078,2020-21
+401307657,2021-04-18T17:00Z,Final,1,Atlanta Hawks,ATL,129,11,Indiana Pacers,IND,117,State Farm Arena,0,2020-21
+401307658,2021-04-18T17:00Z,Final,18,New York Knicks,NY,122,3,New Orleans Pelicans,NO,112,Madison Square Garden,1981,2020-21
+401307659,2021-04-18T19:30Z,Final,14,Miami Heat,MIA,109,17,Brooklyn Nets,BKN,107,Kaseya Center,0,2020-21
+401307660,2021-04-18T23:00Z,Final,30,Charlotte Hornets,CHA,109,22,Portland Trail Blazers,POR,101,Spectrum Center,3880,2020-21
+401307661,2021-04-18T23:00Z,Final,19,Orlando Magic,ORL,110,10,Houston Rockets,HOU,114,Kia Center,3772,2020-21
+401307662,2021-04-18T23:00Z,Final,28,Toronto Raptors,TOR,112,25,Oklahoma City Thunder,OKC,106,Benchmark International Arena,0,2020-21
+401307663,2021-04-18T23:30Z,Final,6,Dallas Mavericks,DAL,107,23,Sacramento Kings,SAC,121,American Airlines Center,4193,2020-21
+401307664,2021-04-19T02:00Z,Final,12,LA Clippers,LAC,124,16,Minnesota Timberwolves,MIN,105,crypto.com Arena,1734,2020-21
+401307665,2021-04-19T23:00Z,Final,8,Detroit Pistons,DET,109,5,Cleveland Cavaliers,CLE,105,Little Caesars Arena,750,2020-21
+401307666,2021-04-19T23:30Z,Final,2,Boston Celtics,BOS,96,4,Chicago Bulls,CHI,102,TD Garden,0,2020-21
+401307667,2021-04-19T23:30Z,Final,20,Philadelphia 76ers,PHI,96,9,Golden State Warriors,GS,107,Xfinity Mobile Arena,4094,2020-21
+401307668,2021-04-20T00:00Z,Final,11,Indiana Pacers,IND,94,24,San Antonio Spurs,SA,109,Gainbridge Fieldhouse,0,2020-21
+401307669,2021-04-20T00:00Z,Final,14,Miami Heat,MIA,113,10,Houston Rockets,HOU,91,Kaseya Center,0,2020-21
+401307670,2021-04-20T00:00Z,Final,27,Washington Wizards,WSH,119,25,Oklahoma City Thunder,OKC,107,Capital One Arena,0,2020-21
+401307671,2021-04-20T00:00Z,Final,15,Milwaukee Bucks,MIL,127,21,Phoenix Suns,PHX,128,Fiserv Forum,3280,2020-21
+401307672,2021-04-20T01:00Z,Final,7,Denver Nuggets,DEN,139,29,Memphis Grizzlies,MEM,137,Ball Arena,4005,2020-21
+401307673,2021-04-20T02:00Z,Final,13,Los Angeles Lakers,LAL,97,26,Utah Jazz,UTAH,111,crypto.com Arena,1709,2020-21
+401307674,2021-04-20T23:30Z,Final,1,Atlanta Hawks,ATL,112,19,Orlando Magic,ORL,96,State Farm Arena,2219,2020-21
+401307675,2021-04-20T23:30Z,Final,18,New York Knicks,NY,109,30,Charlotte Hornets,CHA,97,Madison Square Garden,1753,2020-21
+401307676,2021-04-20T23:30Z,Final,3,New Orleans Pelicans,NO,129,17,Brooklyn Nets,BKN,134,Smoothie King Center,3700,2020-21
+401307677,2021-04-21T02:00Z,Final,22,Portland Trail Blazers,POR,112,12,LA Clippers,LAC,113,Moda Center,0,2020-21
+401307678,2021-04-21T02:00Z,Final,23,Sacramento Kings,SAC,120,16,Minnesota Timberwolves,MIN,134,Golden 1 Center,0,2020-21
+401307679,2021-04-21T23:00Z,Final,5,Cleveland Cavaliers,CLE,121,4,Chicago Bulls,CHI,105,Rocket Arena,0,2020-21
+401307680,2021-04-21T23:00Z,Final,11,Indiana Pacers,IND,122,25,Oklahoma City Thunder,OKC,116,Gainbridge Fieldhouse,0,2020-21
+401307681,2021-04-21T23:00Z,Final,20,Philadelphia 76ers,PHI,113,21,Phoenix Suns,PHX,116,Xfinity Mobile Arena,4094,2020-21
+401307682,2021-04-21T23:00Z,Final,27,Washington Wizards,WSH,118,9,Golden State Warriors,GS,114,Capital One Arena,2133,2020-21
+401307684,2021-04-21T23:00Z,Final,28,Toronto Raptors,TOR,114,17,Brooklyn Nets,BKN,103,Benchmark International Arena,0,2020-21
+401307683,2021-04-22T00:00Z,Final,18,New York Knicks,NY,137,1,Atlanta Hawks,ATL,127,Madison Square Garden,1981,2020-21
+401307685,2021-04-22T00:00Z,Final,10,Houston Rockets,HOU,89,26,Utah Jazz,UTAH,112,Toyota Center (Houston),3253,2020-21
+401307686,2021-04-22T00:30Z,Final,6,Dallas Mavericks,DAL,127,8,Detroit Pistons,DET,117,American Airlines Center,4043,2020-21
+401307687,2021-04-22T00:30Z,Final,24,San Antonio Spurs,SA,87,14,Miami Heat,MIA,107,Frost Bank Center,4229,2020-21
+401307688,2021-04-22T02:00Z,Final,12,LA Clippers,LAC,117,29,Memphis Grizzlies,MEM,105,crypto.com Arena,1782,2020-21
+401307689,2021-04-22T02:00Z,Final,22,Portland Trail Blazers,POR,105,7,Denver Nuggets,DEN,106,Moda Center,0,2020-21
+401307690,2021-04-22T02:00Z,Final,23,Sacramento Kings,SAC,128,16,Minnesota Timberwolves,MIN,125,Golden 1 Center,0,2020-21
+401307691,2021-04-22T23:00Z,Final,2,Boston Celtics,BOS,99,21,Phoenix Suns,PHX,86,TD Garden,2298,2020-21
+401307692,2021-04-22T23:00Z,Final,19,Orlando Magic,ORL,100,3,New Orleans Pelicans,NO,135,Kia Center,3411,2020-21
+401307693,2021-04-22T23:00Z,Final,15,Milwaukee Bucks,MIL,124,20,Philadelphia 76ers,PHI,117,Fiserv Forum,3280,2020-21
+401307694,2021-04-23T00:30Z,Final,24,San Antonio Spurs,SA,106,8,Detroit Pistons,DET,91,Frost Bank Center,3334,2020-21
+401307695,2021-04-23T01:00Z,Final,4,Chicago Bulls,CHI,108,30,Charlotte Hornets,CHA,91,United Center,0,2020-21
+401307696,2021-04-23T01:30Z,Final,6,Dallas Mavericks,DAL,115,13,Los Angeles Lakers,LAL,110,American Airlines Center,4443,2020-21
+401307697,2021-04-23T23:30Z,Final,1,Atlanta Hawks,ATL,118,14,Miami Heat,MIA,103,State Farm Arena,2985,2020-21
+401307698,2021-04-23T23:30Z,Final,17,Brooklyn Nets,BKN,109,2,Boston Celtics,BOS,104,Barclays Center,1773,2020-21
+401307699,2021-04-24T00:00Z,Final,30,Charlotte Hornets,CHA,108,5,Cleveland Cavaliers,CLE,102,Spectrum Center,4060,2020-21
+401307700,2021-04-24T00:00Z,Final,10,Houston Rockets,HOU,104,12,LA Clippers,LAC,109,Toyota Center (Houston),3313,2020-21
+401307701,2021-04-24T00:00Z,Final,25,Oklahoma City Thunder,OKC,109,27,Washington Wizards,WSH,129,Paycom Center,0,2020-21
+401307702,2021-04-24T02:00Z,Final,9,Golden State Warriors,GS,118,7,Denver Nuggets,DEN,97,Chase Center,1935,2020-21
+401307703,2021-04-24T02:00Z,Final,22,Portland Trail Blazers,POR,128,29,Memphis Grizzlies,MEM,130,Moda Center,0,2020-21
+401307704,2021-04-24T17:00Z,Final,18,New York Knicks,NY,120,28,Toronto Raptors,TOR,103,Madison Square Garden,1981,2020-21
+401307705,2021-04-24T19:30Z,Final,15,Milwaukee Bucks,MIL,132,20,Philadelphia 76ers,PHI,94,Fiserv Forum,3280,2020-21
+401307706,2021-04-24T23:00Z,Final,11,Indiana Pacers,IND,115,8,Detroit Pistons,DET,109,Gainbridge Fieldhouse,0,2020-21
+401307707,2021-04-25T00:00Z,Final,14,Miami Heat,MIA,106,4,Chicago Bulls,CHI,101,Kaseya Center,0,2020-21
+401307708,2021-04-25T00:00Z,Final,3,New Orleans Pelicans,NO,108,24,San Antonio Spurs,SA,110,Smoothie King Center,3700,2020-21
+401307709,2021-04-25T00:30Z,Final,6,Dallas Mavericks,DAL,108,13,Los Angeles Lakers,LAL,93,American Airlines Center,4561,2020-21
+401307710,2021-04-25T01:00Z,Final,26,Utah Jazz,UTAH,96,16,Minnesota Timberwolves,MIN,101,Delta Center,0,2020-21
+401307711,2021-04-25T02:00Z,Final,7,Denver Nuggets,DEN,129,10,Houston Rockets,HOU,116,Ball Arena,4035,2020-21
+401307712,2021-04-25T17:00Z,Final,30,Charlotte Hornets,CHA,125,2,Boston Celtics,BOS,104,Spectrum Center,4493,2020-21
+401307713,2021-04-25T19:30Z,Final,17,Brooklyn Nets,BKN,128,21,Phoenix Suns,PHX,119,Barclays Center,1773,2020-21
+401307714,2021-04-25T20:00Z,Final,22,Portland Trail Blazers,POR,113,29,Memphis Grizzlies,MEM,120,Moda Center,0,2020-21
+401307715,2021-04-25T23:00Z,Final,27,Washington Wizards,WSH,119,5,Cleveland Cavaliers,CLE,110,Capital One Arena,2133,2020-21
+401307716,2021-04-25T23:30Z,Final,1,Atlanta Hawks,ATL,111,15,Milwaukee Bucks,MIL,104,State Farm Arena,3010,2020-21
+401307717,2021-04-26T00:00Z,Final,19,Orlando Magic,ORL,112,11,Indiana Pacers,IND,131,Kia Center,3519,2020-21
+401307718,2021-04-26T02:00Z,Final,9,Golden State Warriors,GS,117,23,Sacramento Kings,SAC,113,Chase Center,3252,2020-21
+401307719,2021-04-26T23:00Z,Final,8,Detroit Pistons,DET,100,1,Atlanta Hawks,ATL,86,Little Caesars Arena,750,2020-21
+401307720,2021-04-26T23:00Z,Final,19,Orlando Magic,ORL,103,13,Los Angeles Lakers,LAL,114,Kia Center,4099,2020-21
+401307721,2021-04-26T23:00Z,Final,20,Philadelphia 76ers,PHI,121,25,Oklahoma City Thunder,OKC,90,Xfinity Mobile Arena,4094,2020-21
+401307722,2021-04-26T23:00Z,Final,27,Washington Wizards,WSH,143,24,San Antonio Spurs,SA,146,Capital One Arena,2133,2020-21
+401307723,2021-04-26T23:30Z,Final,18,New York Knicks,NY,110,21,Phoenix Suns,PHX,118,Madison Square Garden,1981,2020-21
+401307725,2021-04-26T23:30Z,Final,28,Toronto Raptors,TOR,112,5,Cleveland Cavaliers,CLE,96,Benchmark International Arena,1626,2020-21
+401307724,2021-04-27T00:00Z,Final,14,Miami Heat,MIA,102,4,Chicago Bulls,CHI,110,Kaseya Center,0,2020-21
+401307726,2021-04-27T00:00Z,Final,16,Minnesota Timberwolves,MIN,105,26,Utah Jazz,UTAH,104,Target Center,1638,2020-21
+401307727,2021-04-27T00:00Z,Final,3,New Orleans Pelicans,NO,120,12,LA Clippers,LAC,103,Smoothie King Center,3700,2020-21
+401307728,2021-04-27T01:00Z,Final,7,Denver Nuggets,DEN,120,29,Memphis Grizzlies,MEM,96,Ball Arena,3823,2020-21
+401307729,2021-04-27T02:00Z,Final,23,Sacramento Kings,SAC,113,6,Dallas Mavericks,DAL,106,Golden 1 Center,0,2020-21
+401307730,2021-04-27T23:00Z,Final,2,Boston Celtics,BOS,115,25,Oklahoma City Thunder,OKC,119,TD Garden,2298,2020-21
+401307731,2021-04-27T23:00Z,Final,30,Charlotte Hornets,CHA,104,15,Milwaukee Bucks,MIL,114,Spectrum Center,3240,2020-21
+401307732,2021-04-27T23:00Z,Final,11,Indiana Pacers,IND,112,22,Portland Trail Blazers,POR,133,Gainbridge Fieldhouse,0,2020-21
+401307733,2021-04-27T23:30Z,Final,28,Toronto Raptors,TOR,103,17,Brooklyn Nets,BKN,116,Benchmark International Arena,0,2020-21
+401307734,2021-04-28T01:00Z,Final,10,Houston Rockets,HOU,107,16,Minnesota Timberwolves,MIN,114,Toyota Center (Houston),3225,2020-21
+401307735,2021-04-28T01:30Z,Final,9,Golden State Warriors,GS,103,6,Dallas Mavericks,DAL,133,Chase Center,3613,2020-21
+401307736,2021-04-28T23:00Z,Final,5,Cleveland Cavaliers,CLE,104,19,Orlando Magic,ORL,109,Rocket Arena,4148,2020-21
+401307737,2021-04-28T23:00Z,Final,20,Philadelphia 76ers,PHI,127,1,Atlanta Hawks,ATL,83,Xfinity Mobile Arena,4094,2020-21
+401307738,2021-04-28T23:30Z,Final,27,Washington Wizards,WSH,116,13,Los Angeles Lakers,LAL,107,Capital One Arena,2133,2020-21
+401307739,2021-04-28T23:30Z,Final,2,Boston Celtics,BOS,120,30,Charlotte Hornets,CHA,111,TD Garden,2298,2020-21
+401307740,2021-04-28T23:30Z,Final,18,New York Knicks,NY,113,4,Chicago Bulls,CHI,94,Madison Square Garden,1981,2020-21
+401307741,2021-04-29T00:00Z,Final,14,Miami Heat,MIA,116,24,San Antonio Spurs,SA,111,Kaseya Center,0,2020-21
+401307742,2021-04-29T01:00Z,Final,29,Memphis Grizzlies,MEM,109,22,Portland Trail Blazers,POR,130,FedExForum,3427,2020-21
+401307743,2021-04-29T01:00Z,Final,7,Denver Nuggets,DEN,114,3,New Orleans Pelicans,NO,112,Ball Arena,4022,2020-21
+401307744,2021-04-29T02:00Z,Final,21,Phoenix Suns,PHX,109,12,LA Clippers,LAC,101,PHX Arena,5917,2020-21
+401307745,2021-04-29T02:00Z,Final,23,Sacramento Kings,SAC,105,26,Utah Jazz,UTAH,154,Golden 1 Center,0,2020-21
+401307746,2021-04-29T23:00Z,Final,8,Detroit Pistons,DET,105,6,Dallas Mavericks,DAL,115,Little Caesars Arena,750,2020-21
+401307747,2021-04-29T23:00Z,Final,11,Indiana Pacers,IND,113,17,Brooklyn Nets,BKN,130,Gainbridge Fieldhouse,0,2020-21
+401307748,2021-04-30T00:00Z,Final,10,Houston Rockets,HOU,143,15,Milwaukee Bucks,MIL,136,Toyota Center (Houston),3232,2020-21
+401307749,2021-04-30T00:00Z,Final,16,Minnesota Timberwolves,MIN,126,9,Golden State Warriors,GS,114,Target Center,1638,2020-21
+401307750,2021-04-30T01:00Z,Final,25,Oklahoma City Thunder,OKC,95,3,New Orleans Pelicans,NO,109,Paycom Center,0,2020-21
+401307751,2021-04-30T01:00Z,Final,7,Denver Nuggets,DEN,121,28,Toronto Raptors,TOR,111,Ball Arena,4025,2020-21
+401307752,2021-04-30T23:00Z,Final,20,Philadelphia 76ers,PHI,126,1,Atlanta Hawks,ATL,104,Xfinity Mobile Arena,4094,2020-21
+401307753,2021-04-30T23:30Z,Final,2,Boston Celtics,BOS,143,24,San Antonio Spurs,SA,140,TD Garden,2298,2020-21
+401307754,2021-04-30T23:30Z,Final,5,Cleveland Cavaliers,CLE,93,27,Washington Wizards,WSH,122,Rocket Arena,4148,2020-21
+401307755,2021-05-01T00:00Z,Final,17,Brooklyn Nets,BKN,109,22,Portland Trail Blazers,POR,128,Barclays Center,1773,2020-21
+401307756,2021-05-01T00:00Z,Final,29,Memphis Grizzlies,MEM,92,19,Orlando Magic,ORL,75,FedExForum,2850,2020-21
+401307757,2021-05-01T01:00Z,Final,4,Chicago Bulls,CHI,98,15,Milwaukee Bucks,MIL,108,United Center,0,2020-21
+401307758,2021-05-01T02:00Z,Final,21,Phoenix Suns,PHX,121,26,Utah Jazz,UTAH,100,PHX Arena,6065,2020-21
+401307759,2021-05-01T02:30Z,Final,13,Los Angeles Lakers,LAL,106,23,Sacramento Kings,SAC,110,crypto.com Arena,2691,2020-21
+401307760,2021-05-01T23:00Z,Final,30,Charlotte Hornets,CHA,107,8,Detroit Pistons,DET,94,Spectrum Center,3766,2020-21
+401307761,2021-05-01T23:30Z,Final,10,Houston Rockets,HOU,87,9,Golden State Warriors,GS,113,Toyota Center (Houston),3702,2020-21
+401307762,2021-05-02T00:00Z,Final,1,Atlanta Hawks,ATL,108,4,Chicago Bulls,CHI,97,State Farm Arena,3053,2020-21
+401307763,2021-05-02T00:00Z,Final,5,Cleveland Cavaliers,CLE,107,14,Miami Heat,MIA,124,Rocket Arena,4148,2020-21
+401307764,2021-05-02T00:00Z,Final,19,Orlando Magic,ORL,112,29,Memphis Grizzlies,MEM,111,Kia Center,3924,2020-21
+401307765,2021-05-02T00:00Z,Final,16,Minnesota Timberwolves,MIN,136,3,New Orleans Pelicans,NO,140,Target Center,1638,2020-21
+401307766,2021-05-02T00:00Z,Final,25,Oklahoma City Thunder,OKC,95,11,Indiana Pacers,IND,152,Paycom Center,0,2020-21
+401307767,2021-05-02T01:00Z,Final,6,Dallas Mavericks,DAL,125,27,Washington Wizards,WSH,124,American Airlines Center,4351,2020-21
+401307768,2021-05-02T02:00Z,Final,26,Utah Jazz,UTAH,106,28,Toronto Raptors,TOR,102,Delta Center,6506,2020-21
+401307769,2021-05-02T02:00Z,Final,12,LA Clippers,LAC,104,7,Denver Nuggets,DEN,110,crypto.com Arena,2818,2020-21
+401307770,2021-05-02T19:30Z,Final,15,Milwaukee Bucks,MIL,117,17,Brooklyn Nets,BKN,114,Fiserv Forum,3280,2020-21
+401307771,2021-05-02T23:30Z,Final,2,Boston Celtics,BOS,119,22,Portland Trail Blazers,POR,129,TD Garden,0,2020-21
+401307772,2021-05-03T00:00Z,Final,30,Charlotte Hornets,CHA,111,14,Miami Heat,MIA,121,Spectrum Center,4095,2020-21
+401307773,2021-05-03T00:00Z,Final,6,Dallas Mavericks,DAL,99,23,Sacramento Kings,SAC,111,American Airlines Center,4268,2020-21
+401307774,2021-05-03T00:00Z,Final,10,Houston Rockets,HOU,97,18,New York Knicks,NY,122,Toyota Center (Houston),3431,2020-21
+401307775,2021-05-03T00:00Z,Final,25,Oklahoma City Thunder,OKC,120,21,Phoenix Suns,PHX,123,Paycom Center,0,2020-21
+401307776,2021-05-03T00:00Z,Final,24,San Antonio Spurs,SA,111,20,Philadelphia 76ers,PHI,113,Frost Bank Center,3978,2020-21
+401307777,2021-05-03T02:00Z,Final,13,Los Angeles Lakers,LAL,114,28,Toronto Raptors,TOR,121,crypto.com Arena,2053,2020-21
+401307778,2021-05-03T23:00Z,Final,8,Detroit Pistons,DET,112,19,Orlando Magic,ORL,119,Little Caesars Arena,750,2020-21
+401307779,2021-05-03T23:00Z,Final,27,Washington Wizards,WSH,154,11,Indiana Pacers,IND,141,Capital One Arena,2133,2020-21
+401307780,2021-05-03T23:30Z,Final,3,New Orleans Pelicans,NO,108,9,Golden State Warriors,GS,123,Smoothie King Center,3700,2020-21
+401307781,2021-05-04T00:00Z,Final,1,Atlanta Hawks,ATL,123,22,Portland Trail Blazers,POR,114,State Farm Arena,3091,2020-21
+401307782,2021-05-04T01:00Z,Final,4,Chicago Bulls,CHI,94,20,Philadelphia 76ers,PHI,106,United Center,0,2020-21
+401307783,2021-05-04T01:00Z,Final,29,Memphis Grizzlies,MEM,104,18,New York Knicks,NY,118,FedExForum,2789,2020-21
+401307784,2021-05-04T02:00Z,Final,26,Utah Jazz,UTAH,110,24,San Antonio Spurs,SA,99,Delta Center,6506,2020-21
+401307785,2021-05-04T02:20Z,Final,13,Los Angeles Lakers,LAL,93,7,Denver Nuggets,DEN,89,crypto.com Arena,2454,2020-21
+401307786,2021-05-04T23:00Z,Final,5,Cleveland Cavaliers,CLE,118,21,Phoenix Suns,PHX,134,Rocket Arena,4148,2020-21
+401307787,2021-05-04T23:00Z,Final,8,Detroit Pistons,DET,99,30,Charlotte Hornets,CHA,102,Little Caesars Arena,750,2020-21
+401307788,2021-05-04T23:30Z,Final,15,Milwaukee Bucks,MIL,124,17,Brooklyn Nets,BKN,118,Fiserv Forum,3280,2020-21
+401307789,2021-05-05T00:00Z,Final,14,Miami Heat,MIA,113,6,Dallas Mavericks,DAL,127,Kaseya Center,0,2020-21
+401307790,2021-05-05T00:00Z,Final,3,New Orleans Pelicans,NO,108,9,Golden State Warriors,GS,103,Smoothie King Center,3700,2020-21
+401307791,2021-05-05T00:00Z,Final,25,Oklahoma City Thunder,OKC,99,23,Sacramento Kings,SAC,103,Paycom Center,0,2020-21
+401307792,2021-05-05T02:00Z,Final,12,LA Clippers,LAC,105,28,Toronto Raptors,TOR,100,crypto.com Arena,1714,2020-21
+401307794,2021-05-05T23:00Z,Final,19,Orlando Magic,ORL,96,2,Boston Celtics,BOS,132,Kia Center,4249,2020-21
+401307793,2021-05-05T23:30Z,Final,5,Cleveland Cavaliers,CLE,105,22,Portland Trail Blazers,POR,141,Rocket Arena,4148,2020-21
+401307795,2021-05-06T00:00Z,Final,1,Atlanta Hawks,ATL,135,21,Phoenix Suns,PHX,103,State Farm Arena,3205,2020-21
+401307796,2021-05-06T00:00Z,Final,11,Indiana Pacers,IND,93,23,Sacramento Kings,SAC,104,Gainbridge Fieldhouse,0,2020-21
+401307797,2021-05-06T00:00Z,Final,10,Houston Rockets,HOU,115,20,Philadelphia 76ers,PHI,135,Toyota Center (Houston),3583,2020-21
+401307798,2021-05-06T00:00Z,Final,15,Milwaukee Bucks,MIL,135,27,Washington Wizards,WSH,134,Fiserv Forum,3280,2020-21
+401307799,2021-05-06T00:00Z,Final,16,Minnesota Timberwolves,MIN,135,29,Memphis Grizzlies,MEM,139,Target Center,1436,2020-21
+401307800,2021-05-06T01:00Z,Final,7,Denver Nuggets,DEN,113,18,New York Knicks,NY,97,Ball Arena,4038,2020-21
+401307801,2021-05-06T01:00Z,Final,26,Utah Jazz,UTAH,126,24,San Antonio Spurs,SA,94,Delta Center,6506,2020-21
+401307802,2021-05-06T23:00Z,Final,30,Charlotte Hornets,CHA,99,4,Chicago Bulls,CHI,120,Spectrum Center,3769,2020-21
+401307803,2021-05-06T23:30Z,Final,6,Dallas Mavericks,DAL,113,17,Brooklyn Nets,BKN,109,American Airlines Center,4602,2020-21
+401307806,2021-05-06T23:30Z,Final,28,Toronto Raptors,TOR,129,27,Washington Wizards,WSH,131,Benchmark International Arena,2494,2020-21
+401307804,2021-05-07T00:00Z,Final,8,Detroit Pistons,DET,111,29,Memphis Grizzlies,MEM,97,Little Caesars Arena,750,2020-21
+401307805,2021-05-07T00:00Z,Final,11,Indiana Pacers,IND,133,1,Atlanta Hawks,ATL,126,Gainbridge Fieldhouse,0,2020-21
+401307807,2021-05-07T02:00Z,Final,9,Golden State Warriors,GS,118,25,Oklahoma City Thunder,OKC,97,Chase Center,3621,2020-21
+401307808,2021-05-07T02:00Z,Final,12,LA Clippers,LAC,118,13,Los Angeles Lakers,LAL,94,crypto.com Arena,3275,2020-21
+401307809,2021-05-07T23:00Z,Final,20,Philadelphia 76ers,PHI,109,3,New Orleans Pelicans,NO,107,Xfinity Mobile Arena,5119,2020-21
+401307810,2021-05-07T23:30Z,Final,4,Chicago Bulls,CHI,121,2,Boston Celtics,BOS,99,United Center,3399,2020-21
+401307811,2021-05-08T00:00Z,Final,30,Charlotte Hornets,CHA,122,19,Orlando Magic,ORL,112,Spectrum Center,3751,2020-21
+401307812,2021-05-08T00:00Z,Final,14,Miami Heat,MIA,121,16,Minnesota Timberwolves,MIN,112,Kaseya Center,0,2020-21
+401307813,2021-05-08T00:00Z,Final,15,Milwaukee Bucks,MIL,141,10,Houston Rockets,HOU,133,Fiserv Forum,3280,2020-21
+401307814,2021-05-08T00:30Z,Final,6,Dallas Mavericks,DAL,110,5,Cleveland Cavaliers,CLE,90,American Airlines Center,4220,2020-21
+401307815,2021-05-08T01:00Z,Final,26,Utah Jazz,UTAH,127,7,Denver Nuggets,DEN,120,Delta Center,6506,2020-21
+401307816,2021-05-08T02:00Z,Final,21,Phoenix Suns,PHX,128,18,New York Knicks,NY,105,PHX Arena,8063,2020-21
+401307817,2021-05-08T02:00Z,Final,22,Portland Trail Blazers,POR,106,13,Los Angeles Lakers,LAL,101,Moda Center,1939,2020-21
+401307818,2021-05-08T02:00Z,Final,23,Sacramento Kings,SAC,104,24,San Antonio Spurs,SA,113,Golden 1 Center,0,2020-21
+401307820,2021-05-08T23:00Z,Final,11,Indiana Pacers,IND,132,27,Washington Wizards,WSH,133,Gainbridge Fieldhouse,0,2020-21
+401307821,2021-05-08T23:00Z,Final,20,Philadelphia 76ers,PHI,118,8,Detroit Pistons,DET,104,Xfinity Mobile Arena,5119,2020-21
+401307819,2021-05-08T23:30Z,Final,28,Toronto Raptors,TOR,99,29,Memphis Grizzlies,MEM,109,Benchmark International Arena,0,2020-21
+401307822,2021-05-09T02:00Z,Final,7,Denver Nuggets,DEN,119,17,Brooklyn Nets,BKN,125,Ball Arena,4044,2020-21
+401307823,2021-05-09T02:00Z,Final,26,Utah Jazz,UTAH,124,10,Houston Rockets,HOU,116,Delta Center,6506,2020-21
+401307824,2021-05-09T02:00Z,Final,9,Golden State Warriors,GS,136,25,Oklahoma City Thunder,OKC,97,Chase Center,4155,2020-21
+401307825,2021-05-09T02:00Z,Final,22,Portland Trail Blazers,POR,124,24,San Antonio Spurs,SA,102,Moda Center,1939,2020-21
+401307826,2021-05-09T17:00Z,Final,2,Boston Celtics,BOS,124,14,Miami Heat,MIA,130,TD Garden,2298,2020-21
+401307827,2021-05-09T19:30Z,Final,12,LA Clippers,LAC,100,18,New York Knicks,NY,106,crypto.com Arena,2578,2020-21
+401307828,2021-05-09T23:00Z,Final,30,Charlotte Hornets,CHA,110,3,New Orleans Pelicans,NO,112,Spectrum Center,4196,2020-21
+401307829,2021-05-09T23:00Z,Final,5,Cleveland Cavaliers,CLE,97,6,Dallas Mavericks,DAL,124,Rocket Arena,4148,2020-21
+401307830,2021-05-09T23:00Z,Final,19,Orlando Magic,ORL,96,16,Minnesota Timberwolves,MIN,128,Kia Center,4086,2020-21
+401307831,2021-05-10T00:00Z,Final,8,Detroit Pistons,DET,96,4,Chicago Bulls,CHI,108,Little Caesars Arena,750,2020-21
+401307832,2021-05-10T02:00Z,Final,13,Los Angeles Lakers,LAL,123,21,Phoenix Suns,PHX,110,crypto.com Arena,3144,2020-21
+401307833,2021-05-10T02:00Z,Final,23,Sacramento Kings,SAC,126,25,Oklahoma City Thunder,OKC,98,Golden 1 Center,0,2020-21
+401307834,2021-05-10T23:30Z,Final,5,Cleveland Cavaliers,CLE,102,11,Indiana Pacers,IND,111,Rocket Arena,4148,2020-21
+401307835,2021-05-10T23:30Z,Final,1,Atlanta Hawks,ATL,125,27,Washington Wizards,WSH,124,State Farm Arena,3054,2020-21
+401307836,2021-05-11T00:00Z,Final,29,Memphis Grizzlies,MEM,115,3,New Orleans Pelicans,NO,110,FedExForum,2507,2020-21
+401307837,2021-05-11T00:30Z,Final,24,San Antonio Spurs,SA,146,15,Milwaukee Bucks,MIL,125,Frost Bank Center,3992,2020-21
+401307838,2021-05-11T02:00Z,Final,9,Golden State Warriors,GS,119,26,Utah Jazz,UTAH,116,Chase Center,4155,2020-21
+401307839,2021-05-11T02:00Z,Final,22,Portland Trail Blazers,POR,140,10,Houston Rockets,HOU,129,Moda Center,1939,2020-21
+401307841,2021-05-11T23:00Z,Final,30,Charlotte Hornets,CHA,112,7,Denver Nuggets,DEN,117,Spectrum Center,3997,2020-21
+401307842,2021-05-11T23:00Z,Final,8,Detroit Pistons,DET,100,16,Minnesota Timberwolves,MIN,119,Little Caesars Arena,750,2020-21
+401307840,2021-05-11T23:30Z,Final,2,Boston Celtics,BOS,121,14,Miami Heat,MIA,129,TD Garden,4789,2020-21
+401307843,2021-05-11T23:30Z,Final,28,Toronto Raptors,TOR,96,12,LA Clippers,LAC,115,Benchmark International Arena,0,2020-21
+401307844,2021-05-12T00:00Z,Final,11,Indiana Pacers,IND,103,20,Philadelphia 76ers,PHI,94,Gainbridge Fieldhouse,0,2020-21
+401307845,2021-05-12T00:00Z,Final,4,Chicago Bulls,CHI,107,17,Brooklyn Nets,BKN,115,United Center,3434,2020-21
+401307846,2021-05-12T00:00Z,Final,29,Memphis Grizzlies,MEM,133,6,Dallas Mavericks,DAL,104,FedExForum,2684,2020-21
+401307847,2021-05-12T01:00Z,Final,15,Milwaukee Bucks,MIL,114,19,Orlando Magic,ORL,102,Fiserv Forum,3280,2020-21
+401307848,2021-05-12T02:00Z,Final,9,Golden State Warriors,GS,122,21,Phoenix Suns,PHX,116,Chase Center,4155,2020-21
+401307849,2021-05-12T02:00Z,Final,23,Sacramento Kings,SAC,122,25,Oklahoma City Thunder,OKC,106,Golden 1 Center,0,2020-21
+401307850,2021-05-12T02:00Z,Final,13,Los Angeles Lakers,LAL,101,18,New York Knicks,NY,99,crypto.com Arena,3550,2020-21
+401307851,2021-05-12T23:00Z,Final,1,Atlanta Hawks,ATL,120,27,Washington Wizards,WSH,116,State Farm Arena,3120,2020-21
+401307852,2021-05-13T00:00Z,Final,17,Brooklyn Nets,BKN,128,24,San Antonio Spurs,SA,116,Barclays Center,1773,2020-21
+401307853,2021-05-13T00:00Z,Final,5,Cleveland Cavaliers,CLE,102,2,Boston Celtics,BOS,94,Rocket Arena,4148,2020-21
+401307854,2021-05-13T01:00Z,Final,6,Dallas Mavericks,DAL,125,3,New Orleans Pelicans,NO,107,American Airlines Center,4373,2020-21
+401307855,2021-05-13T01:30Z,Final,26,Utah Jazz,UTAH,98,22,Portland Trail Blazers,POR,105,Delta Center,6506,2020-21
+401307856,2021-05-13T02:30Z,Final,13,Los Angeles Lakers,LAL,124,10,Houston Rockets,HOU,122,crypto.com Arena,4087,2020-21
+401307857,2021-05-13T23:00Z,Final,30,Charlotte Hornets,CHA,90,12,LA Clippers,LAC,113,Spectrum Center,4442,2020-21
+401307858,2021-05-13T23:00Z,Final,11,Indiana Pacers,IND,133,15,Milwaukee Bucks,MIL,142,Gainbridge Fieldhouse,0,2020-21
+401307859,2021-05-13T23:30Z,Final,1,Atlanta Hawks,ATL,116,19,Orlando Magic,ORL,93,State Farm Arena,2910,2020-21
+401307860,2021-05-13T23:30Z,Final,14,Miami Heat,MIA,106,20,Philadelphia 76ers,PHI,94,Kaseya Center,0,2020-21
+401307861,2021-05-13T23:30Z,Final,18,New York Knicks,NY,102,24,San Antonio Spurs,SA,98,Madison Square Garden,1981,2020-21
+401307862,2021-05-14T00:00Z,Final,4,Chicago Bulls,CHI,114,28,Toronto Raptors,TOR,102,United Center,3395,2020-21
+401307863,2021-05-14T00:00Z,Final,29,Memphis Grizzlies,MEM,116,23,Sacramento Kings,SAC,110,FedExForum,2876,2020-21
+401307864,2021-05-14T00:00Z,Final,16,Minnesota Timberwolves,MIN,103,7,Denver Nuggets,DEN,114,Target Center,1638,2020-21
+401307865,2021-05-14T02:00Z,Final,21,Phoenix Suns,PHX,118,22,Portland Trail Blazers,POR,117,PHX Arena,8359,2020-21
+401307866,2021-05-14T23:00Z,Final,27,Washington Wizards,WSH,120,5,Cleveland Cavaliers,CLE,105,Capital One Arena,5333,2020-21
+401307867,2021-05-15T00:00Z,Final,8,Detroit Pistons,DET,91,7,Denver Nuggets,DEN,104,Little Caesars Arena,750,2020-21
+401307868,2021-05-15T00:00Z,Final,20,Philadelphia 76ers,PHI,122,19,Orlando Magic,ORL,97,Xfinity Mobile Arena,5119,2020-21
+401307869,2021-05-15T00:00Z,Final,25,Oklahoma City Thunder,OKC,93,26,Utah Jazz,UTAH,109,Paycom Center,0,2020-21
+401307870,2021-05-15T01:00Z,Final,6,Dallas Mavericks,DAL,114,28,Toronto Raptors,TOR,110,American Airlines Center,4493,2020-21
+401307871,2021-05-15T01:00Z,Final,10,Houston Rockets,HOU,122,12,LA Clippers,LAC,115,Toyota Center (Houston),3803,2020-21
+401307872,2021-05-15T01:00Z,Final,29,Memphis Grizzlies,MEM,107,23,Sacramento Kings,SAC,106,FedExForum,3502,2020-21
+401307873,2021-05-15T01:30Z,Final,9,Golden State Warriors,GS,125,3,New Orleans Pelicans,NO,122,Chase Center,4155,2020-21
+401307874,2021-05-15T17:00Z,Final,17,Brooklyn Nets,BKN,105,4,Chicago Bulls,CHI,91,Barclays Center,1773,2020-21
+401307875,2021-05-15T17:00Z,Final,11,Indiana Pacers,IND,115,13,Los Angeles Lakers,LAL,122,Gainbridge Fieldhouse,0,2020-21
+401307878,2021-05-15T17:00Z,Final,18,New York Knicks,NY,118,30,Charlotte Hornets,CHA,109,Madison Square Garden,1981,2020-21
+401307877,2021-05-15T18:00Z,Final,16,Minnesota Timberwolves,MIN,108,2,Boston Celtics,BOS,124,Target Center,1638,2020-21
+401307879,2021-05-15T18:00Z,Final,24,San Antonio Spurs,SA,103,21,Phoenix Suns,PHX,140,Frost Bank Center,4848,2020-21
+401307876,2021-05-16T00:00Z,Final,15,Milwaukee Bucks,MIL,122,14,Miami Heat,MIA,108,Fiserv Forum,3280,2020-21
+401307887,2021-05-16T17:00Z,Final,18,New York Knicks,NY,96,2,Boston Celtics,BOS,92,Madison Square Garden,1981,2020-21
+401307893,2021-05-16T17:00Z,Final,28,Toronto Raptors,TOR,113,11,Indiana Pacers,IND,125,Benchmark International Arena,0,2020-21
+401307894,2021-05-16T17:00Z,Final,27,Washington Wizards,WSH,115,30,Charlotte Hornets,CHA,110,Capital One Arena,5333,2020-21
+401307892,2021-05-16T18:00Z,Final,24,San Antonio Spurs,SA,121,21,Phoenix Suns,PHX,123,Frost Bank Center,4738,2020-21
+401307884,2021-05-16T19:30Z,Final,9,Golden State Warriors,GS,113,29,Memphis Grizzlies,MEM,101,Chase Center,4416,2020-21
+401307880,2021-05-16T23:00Z,Final,1,Atlanta Hawks,ATL,124,10,Houston Rockets,HOU,95,State Farm Arena,3045,2020-21
+401307881,2021-05-16T23:00Z,Final,17,Brooklyn Nets,BKN,123,5,Cleveland Cavaliers,CLE,109,Barclays Center,1773,2020-21
+401307889,2021-05-16T23:00Z,Final,20,Philadelphia 76ers,PHI,128,19,Orlando Magic,ORL,117,Xfinity Mobile Arena,5119,2020-21
+401307883,2021-05-17T00:00Z,Final,8,Detroit Pistons,DET,107,14,Miami Heat,MIA,120,Little Caesars Arena,750,2020-21
+401307882,2021-05-17T01:00Z,Final,4,Chicago Bulls,CHI,118,15,Milwaukee Bucks,MIL,112,United Center,3427,2020-21
+401307885,2021-05-17T01:00Z,Final,16,Minnesota Timberwolves,MIN,136,6,Dallas Mavericks,DAL,121,Target Center,1638,2020-21
+401307886,2021-05-17T01:00Z,Final,3,New Orleans Pelicans,NO,98,13,Los Angeles Lakers,LAL,110,Smoothie King Center,3700,2020-21
+401307888,2021-05-17T01:00Z,Final,25,Oklahoma City Thunder,OKC,117,12,LA Clippers,LAC,112,Paycom Center,0,2020-21
+401307890,2021-05-17T01:00Z,Final,22,Portland Trail Blazers,POR,132,7,Denver Nuggets,DEN,116,Moda Center,1939,2020-21
+401307891,2021-05-17T01:00Z,Final,23,Sacramento Kings,SAC,99,26,Utah Jazz,UTAH,121,Golden 1 Center,0,2020-21

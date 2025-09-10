@@ -1,0 +1,1230 @@
+game_id,date,status,home_team_id,home_team_name,home_team_abbrev,home_score,away_team_id,away_team_name,away_team_abbrev,away_score,venue,attendance,season
+401468016,2022-10-18T23:30Z,Final,2,Boston Celtics,BOS,126,20,Philadelphia 76ers,PHI,117,TD Garden,19156,2022-23
+401468017,2022-10-19T02:00Z,Final,9,Golden State Warriors,GS,123,13,Los Angeles Lakers,LAL,109,Chase Center,18064,2022-23
+401468018,2022-10-19T23:00Z,Final,8,Detroit Pistons,DET,113,19,Orlando Magic,ORL,109,Little Caesars Arena,20190,2022-23
+401468019,2022-10-19T23:00Z,Final,11,Indiana Pacers,IND,107,27,Washington Wizards,WSH,114,Gainbridge Fieldhouse,15027,2022-23
+401468020,2022-10-19T23:30Z,Final,1,Atlanta Hawks,ATL,117,10,Houston Rockets,HOU,107,State Farm Arena,17878,2022-23
+401468021,2022-10-19T23:30Z,Final,17,Brooklyn Nets,BKN,108,3,New Orleans Pelicans,NO,130,Barclays Center,18003,2022-23
+401468022,2022-10-19T23:30Z,Final,14,Miami Heat,MIA,108,4,Chicago Bulls,CHI,116,Kaseya Center,19600,2022-23
+401468023,2022-10-19T23:30Z,Final,28,Toronto Raptors,TOR,108,5,Cleveland Cavaliers,CLE,105,Scotiabank Arena,19800,2022-23
+401468024,2022-10-19T23:30Z,Final,29,Memphis Grizzlies,MEM,115,18,New York Knicks,NY,112,FedExForum,18202,2022-23
+401468025,2022-10-20T00:00Z,Final,16,Minnesota Timberwolves,MIN,115,25,Oklahoma City Thunder,OKC,108,Target Center,17136,2022-23
+401468026,2022-10-20T00:00Z,Final,24,San Antonio Spurs,SA,102,30,Charlotte Hornets,CHA,129,Frost Bank Center,16236,2022-23
+401468027,2022-10-20T01:00Z,Final,26,Utah Jazz,UTAH,123,7,Denver Nuggets,DEN,102,Delta Center,18206,2022-23
+401468028,2022-10-20T02:00Z,Final,21,Phoenix Suns,PHX,107,6,Dallas Mavericks,DAL,105,PHX Arena,17071,2022-23
+401468029,2022-10-20T02:00Z,Final,23,Sacramento Kings,SAC,108,22,Portland Trail Blazers,POR,115,Golden 1 Center,17611,2022-23
+401468170,2022-10-20T23:30Z,Final,20,Philadelphia 76ers,PHI,88,15,Milwaukee Bucks,MIL,90,Xfinity Mobile Arena,20060,2022-23
+401468171,2022-10-21T02:00Z,Final,13,Los Angeles Lakers,LAL,97,12,LA Clippers,LAC,103,crypto.com Arena,18997,2022-23
+401468172,2022-10-21T23:00Z,Final,30,Charlotte Hornets,CHA,112,3,New Orleans Pelicans,NO,124,Spectrum Center,19287,2022-23
+401468173,2022-10-21T23:00Z,Final,11,Indiana Pacers,IND,134,24,San Antonio Spurs,SA,137,Gainbridge Fieldhouse,12073,2022-23
+401468174,2022-10-21T23:00Z,Final,27,Washington Wizards,WSH,102,4,Chicago Bulls,CHI,100,Capital One Arena,20476,2022-23
+401468175,2022-10-21T23:30Z,Final,1,Atlanta Hawks,ATL,108,19,Orlando Magic,ORL,98,State Farm Arena,17822,2022-23
+401468176,2022-10-21T23:30Z,Final,17,Brooklyn Nets,BKN,109,28,Toronto Raptors,TOR,105,Barclays Center,17732,2022-23
+401468177,2022-10-21T23:30Z,Final,14,Miami Heat,MIA,104,2,Boston Celtics,BOS,111,Kaseya Center,19600,2022-23
+401468178,2022-10-21T23:30Z,Final,18,New York Knicks,NY,130,8,Detroit Pistons,DET,106,Madison Square Garden,19812,2022-23
+401468179,2022-10-22T00:00Z,Final,10,Houston Rockets,HOU,122,29,Memphis Grizzlies,MEM,129,Toyota Center (Houston),18055,2022-23
+401468180,2022-10-22T00:00Z,Final,16,Minnesota Timberwolves,MIN,126,26,Utah Jazz,UTAH,132,Target Center,17136,2022-23
+401468181,2022-10-22T02:00Z,Final,9,Golden State Warriors,GS,123,7,Denver Nuggets,DEN,128,Chase Center,18064,2022-23
+401468182,2022-10-22T02:00Z,Final,22,Portland Trail Blazers,POR,113,21,Phoenix Suns,PHX,111,Moda Center,19393,2022-23
+401468183,2022-10-22T22:00Z,Final,20,Philadelphia 76ers,PHI,105,24,San Antonio Spurs,SA,114,Xfinity Mobile Arena,19822,2022-23
+401468184,2022-10-22T23:00Z,Final,11,Indiana Pacers,IND,124,8,Detroit Pistons,DET,115,Gainbridge Fieldhouse,16056,2022-23
+401468185,2022-10-22T23:00Z,Final,19,Orlando Magic,ORL,120,2,Boston Celtics,BOS,126,Kia Center,19299,2022-23
+401468186,2022-10-23T00:00Z,Final,14,Miami Heat,MIA,112,28,Toronto Raptors,TOR,109,Kaseya Center,19600,2022-23
+401468187,2022-10-23T00:00Z,Final,4,Chicago Bulls,CHI,96,5,Cleveland Cavaliers,CLE,128,United Center,21089,2022-23
+401468188,2022-10-23T00:00Z,Final,15,Milwaukee Bucks,MIL,125,10,Houston Rockets,HOU,105,Fiserv Forum,17341,2022-23
+401468189,2022-10-23T00:30Z,Final,6,Dallas Mavericks,DAL,137,29,Memphis Grizzlies,MEM,96,American Airlines Center,20377,2022-23
+401468190,2022-10-23T01:00Z,Final,7,Denver Nuggets,DEN,122,25,Oklahoma City Thunder,OKC,117,Ball Arena,19983,2022-23
+401468191,2022-10-23T02:00Z,Final,23,Sacramento Kings,SAC,109,12,LA Clippers,LAC,111,Golden 1 Center,16296,2022-23
+401468192,2022-10-23T19:30Z,Final,13,Los Angeles Lakers,LAL,104,22,Portland Trail Blazers,POR,106,crypto.com Arena,18997,2022-23
+401468193,2022-10-23T21:00Z,Final,1,Atlanta Hawks,ATL,109,30,Charlotte Hornets,CHA,126,State Farm Arena,17383,2022-23
+401468194,2022-10-23T23:00Z,Final,5,Cleveland Cavaliers,CLE,117,27,Washington Wizards,WSH,107,Rocket Arena,19432,2022-23
+401468195,2022-10-23T23:00Z,Final,3,New Orleans Pelicans,NO,121,26,Utah Jazz,UTAH,122,Smoothie King Center,18665,2022-23
+401468196,2022-10-24T00:00Z,Final,25,Oklahoma City Thunder,OKC,106,16,Minnesota Timberwolves,MIN,116,Paycom Center,15044,2022-23
+401468197,2022-10-24T00:30Z,Final,9,Golden State Warriors,GS,130,23,Sacramento Kings,SAC,125,Chase Center,18064,2022-23
+401468198,2022-10-24T02:00Z,Final,12,LA Clippers,LAC,95,21,Phoenix Suns,PHX,112,crypto.com Arena,19068,2022-23
+401468199,2022-10-24T23:00Z,Final,20,Philadelphia 76ers,PHI,120,11,Indiana Pacers,IND,106,Xfinity Mobile Arena,19786,2022-23
+401468200,2022-10-24T23:30Z,Final,14,Miami Heat,MIA,90,28,Toronto Raptors,TOR,98,Kaseya Center,19600,2022-23
+401468201,2022-10-24T23:30Z,Final,18,New York Knicks,NY,115,19,Orlando Magic,ORL,102,Madison Square Garden,18800,2022-23
+401468202,2022-10-25T00:00Z,Final,4,Chicago Bulls,CHI,120,2,Boston Celtics,BOS,102,United Center,17673,2022-23
+401468203,2022-10-25T00:00Z,Final,10,Houston Rockets,HOU,114,26,Utah Jazz,UTAH,108,Toyota Center (Houston),16260,2022-23
+401468204,2022-10-25T00:00Z,Final,29,Memphis Grizzlies,MEM,134,17,Brooklyn Nets,BKN,124,FedExForum,17392,2022-23
+401468205,2022-10-25T00:00Z,Final,16,Minnesota Timberwolves,MIN,106,24,San Antonio Spurs,SA,115,Target Center,15347,2022-23
+401468206,2022-10-25T02:00Z,Final,22,Portland Trail Blazers,POR,135,7,Denver Nuggets,DEN,110,Moda Center,18111,2022-23
+401468207,2022-10-25T23:00Z,Final,27,Washington Wizards,WSH,120,8,Detroit Pistons,DET,99,Capital One Arena,13196,2022-23
+401468208,2022-10-25T23:30Z,Final,3,New Orleans Pelicans,NO,113,6,Dallas Mavericks,DAL,111,Smoothie King Center,14020,2022-23
+401468209,2022-10-26T00:00Z,Final,25,Oklahoma City Thunder,OKC,108,12,LA Clippers,LAC,94,Paycom Center,13105,2022-23
+401468210,2022-10-26T02:00Z,Final,21,Phoenix Suns,PHX,134,9,Golden State Warriors,GS,105,PHX Arena,0,2022-23
+401468211,2022-10-26T23:00Z,Final,5,Cleveland Cavaliers,CLE,103,19,Orlando Magic,ORL,92,Rocket Arena,0,2022-23
+401468212,2022-10-26T23:00Z,Final,8,Detroit Pistons,DET,113,1,Atlanta Hawks,ATL,118,Little Caesars Arena,17987,2022-23
+401468213,2022-10-26T23:30Z,Final,18,New York Knicks,NY,134,30,Charlotte Hornets,CHA,131,Madison Square Garden,19812,2022-23
+401468214,2022-10-26T23:30Z,Final,28,Toronto Raptors,TOR,119,20,Philadelphia 76ers,PHI,109,Scotiabank Arena,19800,2022-23
+401468215,2022-10-26T23:30Z,Final,15,Milwaukee Bucks,MIL,110,17,Brooklyn Nets,BKN,99,Fiserv Forum,17341,2022-23
+401468216,2022-10-27T00:00Z,Final,4,Chicago Bulls,CHI,124,11,Indiana Pacers,IND,109,United Center,18306,2022-23
+401468217,2022-10-27T00:00Z,Final,16,Minnesota Timberwolves,MIN,134,24,San Antonio Spurs,SA,122,Target Center,16165,2022-23
+401468218,2022-10-27T01:00Z,Final,26,Utah Jazz,UTAH,109,10,Houston Rockets,HOU,101,Delta Center,18206,2022-23
+401468220,2022-10-27T02:00Z,Final,22,Portland Trail Blazers,POR,98,14,Miami Heat,MIA,119,Moda Center,18588,2022-23
+401468219,2022-10-27T02:15Z,Final,7,Denver Nuggets,DEN,110,13,Los Angeles Lakers,LAL,99,Ball Arena,19520,2022-23
+401468221,2022-10-27T23:30Z,Final,17,Brooklyn Nets,BKN,125,6,Dallas Mavericks,DAL,129,Barclays Center,18039,2022-23
+401468222,2022-10-28T00:00Z,Final,25,Oklahoma City Thunder,OKC,118,12,LA Clippers,LAC,110,Paycom Center,14510,2022-23
+401468223,2022-10-28T02:00Z,Final,9,Golden State Warriors,GS,123,14,Miami Heat,MIA,110,Chase Center,18064,2022-23
+401468224,2022-10-28T02:00Z,Final,23,Sacramento Kings,SAC,110,29,Memphis Grizzlies,MEM,125,Golden 1 Center,15511,2022-23
+401468225,2022-10-28T23:00Z,Final,8,Detroit Pistons,DET,112,1,Atlanta Hawks,ATL,136,Little Caesars Arena,18923,2022-23
+401468226,2022-10-28T23:00Z,Final,19,Orlando Magic,ORL,113,30,Charlotte Hornets,CHA,93,Kia Center,18846,2022-23
+401468227,2022-10-28T23:30Z,Final,2,Boston Celtics,BOS,123,5,Cleveland Cavaliers,CLE,132,TD Garden,19156,2022-23
+401468228,2022-10-28T23:30Z,Final,28,Toronto Raptors,TOR,90,20,Philadelphia 76ers,PHI,112,Scotiabank Arena,19800,2022-23
+401468229,2022-10-28T23:30Z,Final,27,Washington Wizards,WSH,117,11,Indiana Pacers,IND,127,Capital One Arena,13463,2022-23
+401468230,2022-10-29T00:00Z,Final,15,Milwaukee Bucks,MIL,119,18,New York Knicks,NY,108,Fiserv Forum,17341,2022-23
+401468231,2022-10-29T00:00Z,Final,16,Minnesota Timberwolves,MIN,111,13,Los Angeles Lakers,LAL,102,Target Center,17136,2022-23
+401468232,2022-10-29T00:30Z,Final,24,San Antonio Spurs,SA,129,4,Chicago Bulls,CHI,124,Frost Bank Center,16562,2022-23
+401468233,2022-10-29T01:00Z,Final,7,Denver Nuggets,DEN,117,26,Utah Jazz,UTAH,101,Ball Arena,19560,2022-23
+401468235,2022-10-29T02:00Z,Final,22,Portland Trail Blazers,POR,125,10,Houston Rockets,HOU,111,Moda Center,19082,2022-23
+401468234,2022-10-29T02:15Z,Final,21,Phoenix Suns,PHX,124,3,New Orleans Pelicans,NO,111,PHX Arena,17071,2022-23
+401468236,2022-10-29T22:00Z,Final,23,Sacramento Kings,SAC,119,14,Miami Heat,MIA,113,Golden 1 Center,14618,2022-23
+401468237,2022-10-29T23:00Z,Final,30,Charlotte Hornets,CHA,120,9,Golden State Warriors,GS,113,Spectrum Center,19079,2022-23
+401468238,2022-10-29T23:30Z,Final,17,Brooklyn Nets,BKN,116,11,Indiana Pacers,IND,125,Barclays Center,17732,2022-23
+401468239,2022-10-30T00:00Z,Final,4,Chicago Bulls,CHI,109,20,Philadelphia 76ers,PHI,114,United Center,19010,2022-23
+401468240,2022-10-30T00:00Z,Final,15,Milwaukee Bucks,MIL,123,1,Atlanta Hawks,ATL,115,Fiserv Forum,17341,2022-23
+401468241,2022-10-30T01:00Z,Final,6,Dallas Mavericks,DAL,111,25,Oklahoma City Thunder,OKC,117,American Airlines Center,20307,2022-23
+401468242,2022-10-30T01:00Z,Final,26,Utah Jazz,UTAH,124,29,Memphis Grizzlies,MEM,123,Delta Center,18206,2022-23
+401468243,2022-10-30T19:00Z,Final,12,LA Clippers,LAC,91,3,New Orleans Pelicans,NO,112,crypto.com Arena,18142,2022-23
+401468244,2022-10-30T22:00Z,Final,2,Boston Celtics,BOS,112,27,Washington Wizards,WSH,94,TD Garden,19156,2022-23
+401468245,2022-10-30T22:00Z,Final,5,Cleveland Cavaliers,CLE,121,18,New York Knicks,NY,108,Rocket Arena,19432,2022-23
+401468246,2022-10-30T22:00Z,Final,8,Detroit Pistons,DET,128,9,Golden State Warriors,GS,114,Little Caesars Arena,20190,2022-23
+401468247,2022-10-30T23:00Z,Final,24,San Antonio Spurs,SA,107,16,Minnesota Timberwolves,MIN,98,Frost Bank Center,15053,2022-23
+401468248,2022-10-30T23:30Z,Final,6,Dallas Mavericks,DAL,114,19,Orlando Magic,ORL,105,American Airlines Center,20042,2022-23
+401468249,2022-10-31T01:00Z,Final,21,Phoenix Suns,PHX,124,10,Houston Rockets,HOU,109,PHX Arena,17071,2022-23
+401468250,2022-10-31T01:30Z,Final,13,Los Angeles Lakers,LAL,121,7,Denver Nuggets,DEN,110,crypto.com Arena,18997,2022-23
+401468251,2022-10-31T23:00Z,Final,30,Charlotte Hornets,CHA,108,23,Sacramento Kings,SAC,115,Spectrum Center,12020,2022-23
+401468252,2022-10-31T23:00Z,Final,27,Washington Wizards,WSH,111,20,Philadelphia 76ers,PHI,118,Capital One Arena,13746,2022-23
+401468253,2022-10-31T23:30Z,Final,17,Brooklyn Nets,BKN,116,11,Indiana Pacers,IND,109,Barclays Center,15770,2022-23
+401468254,2022-10-31T23:30Z,Final,28,Toronto Raptors,TOR,139,1,Atlanta Hawks,ATL,109,Scotiabank Arena,19800,2022-23
+401468255,2022-11-01T00:00Z,Final,15,Milwaukee Bucks,MIL,110,8,Detroit Pistons,DET,108,Fiserv Forum,17341,2022-23
+401468256,2022-11-01T01:00Z,Final,26,Utah Jazz,UTAH,121,29,Memphis Grizzlies,MEM,105,Delta Center,18206,2022-23
+401468257,2022-11-01T02:30Z,Final,12,LA Clippers,LAC,95,10,Houston Rockets,HOU,93,crypto.com Arena,14887,2022-23
+401468258,2022-11-01T23:30Z,Final,17,Brooklyn Nets,BKN,99,4,Chicago Bulls,CHI,108,Barclays Center,17732,2022-23
+401468259,2022-11-01T23:30Z,Final,14,Miami Heat,MIA,116,9,Golden State Warriors,GS,109,Kaseya Center,19600,2022-23
+401468260,2022-11-02T00:00Z,Final,25,Oklahoma City Thunder,OKC,116,19,Orlando Magic,ORL,108,Paycom Center,13109,2022-23
+401468261,2022-11-02T02:00Z,Final,21,Phoenix Suns,PHX,116,16,Minnesota Timberwolves,MIN,107,PHX Arena,17071,2022-23
+401468263,2022-11-02T22:00Z,Final,20,Philadelphia 76ers,PHI,111,27,Washington Wizards,WSH,121,Xfinity Mobile Arena,19855,2022-23
+401468262,2022-11-02T23:30Z,Final,5,Cleveland Cavaliers,CLE,114,2,Boston Celtics,BOS,113,Rocket Arena,19432,2022-23
+401468264,2022-11-02T23:30Z,Final,14,Miami Heat,MIA,110,23,Sacramento Kings,SAC,107,Kaseya Center,19600,2022-23
+401468265,2022-11-02T23:30Z,Final,18,New York Knicks,NY,99,1,Atlanta Hawks,ATL,112,Madison Square Garden,19812,2022-23
+401468266,2022-11-03T00:00Z,Final,4,Chicago Bulls,CHI,106,30,Charlotte Hornets,CHA,88,United Center,17886,2022-23
+401468267,2022-11-03T00:00Z,Final,10,Houston Rockets,HOU,101,12,LA Clippers,LAC,109,Toyota Center (Houston),15860,2022-23
+401468268,2022-11-03T00:00Z,Final,15,Milwaukee Bucks,MIL,116,8,Detroit Pistons,DET,91,Fiserv Forum,17341,2022-23
+401468269,2022-11-03T00:00Z,Final,24,San Antonio Spurs,SA,100,28,Toronto Raptors,TOR,143,Frost Bank Center,12155,2022-23
+401468270,2022-11-03T00:30Z,Final,6,Dallas Mavericks,DAL,103,26,Utah Jazz,UTAH,100,American Airlines Center,19877,2022-23
+401468271,2022-11-03T02:00Z,Final,22,Portland Trail Blazers,POR,106,29,Memphis Grizzlies,MEM,111,Moda Center,19462,2022-23
+401468272,2022-11-03T02:30Z,Final,13,Los Angeles Lakers,LAL,120,3,New Orleans Pelicans,NO,117,crypto.com Arena,18997,2022-23
+401468273,2022-11-03T23:00Z,Final,19,Orlando Magic,ORL,130,9,Golden State Warriors,GS,129,Kia Center,18846,2022-23
+401468274,2022-11-04T00:00Z,Final,25,Oklahoma City Thunder,OKC,110,7,Denver Nuggets,DEN,122,Paycom Center,13791,2022-23
+401468275,2022-11-04T23:00Z,Final,8,Detroit Pistons,DET,88,5,Cleveland Cavaliers,CLE,112,Little Caesars Arena,18744,2022-23
+401468276,2022-11-04T23:00Z,Final,11,Indiana Pacers,IND,101,14,Miami Heat,MIA,99,Gainbridge Fieldhouse,13141,2022-23
+401468277,2022-11-04T23:00Z,Final,20,Philadelphia 76ers,PHI,104,18,New York Knicks,NY,106,Xfinity Mobile Arena,20679,2022-23
+401468278,2022-11-04T23:00Z,Final,27,Washington Wizards,WSH,86,17,Brooklyn Nets,BKN,128,Capital One Arena,17258,2022-23
+401468279,2022-11-04T23:30Z,Final,2,Boston Celtics,BOS,123,4,Chicago Bulls,CHI,119,TD Garden,19156,2022-23
+401468280,2022-11-05T00:00Z,Final,29,Memphis Grizzlies,MEM,130,30,Charlotte Hornets,CHA,99,FedExForum,17187,2022-23
+401468281,2022-11-05T00:00Z,Final,24,San Antonio Spurs,SA,106,12,LA Clippers,LAC,113,Frost Bank Center,12603,2022-23
+401468282,2022-11-05T00:30Z,Final,6,Dallas Mavericks,DAL,111,28,Toronto Raptors,TOR,110,American Airlines Center,20177,2022-23
+401468283,2022-11-05T00:30Z,Final,3,New Orleans Pelicans,NO,114,9,Golden State Warriors,GS,105,Smoothie King Center,18451,2022-23
+401468284,2022-11-05T02:00Z,Final,16,Minnesota Timberwolves,MIN,102,15,Milwaukee Bucks,MIL,115,Target Center,17136,2022-23
+401468285,2022-11-05T02:00Z,Final,21,Phoenix Suns,PHX,106,22,Portland Trail Blazers,POR,108,PHX Arena,17071,2022-23
+401468286,2022-11-05T02:30Z,Final,13,Los Angeles Lakers,LAL,116,26,Utah Jazz,UTAH,130,crypto.com Arena,18997,2022-23
+401468287,2022-11-05T21:00Z,Final,19,Orlando Magic,ORL,123,23,Sacramento Kings,SAC,126,Kia Center,18846,2022-23
+401468288,2022-11-05T23:00Z,Final,30,Charlotte Hornets,CHA,94,17,Brooklyn Nets,BKN,98,Spectrum Center,19398,2022-23
+401468289,2022-11-05T23:30Z,Final,1,Atlanta Hawks,ATL,124,3,New Orleans Pelicans,NO,121,State Farm Arena,17654,2022-23
+401468290,2022-11-05T23:30Z,Final,18,New York Knicks,NY,118,2,Boston Celtics,BOS,133,Madison Square Garden,19812,2022-23
+401468291,2022-11-06T00:00Z,Final,15,Milwaukee Bucks,MIL,108,25,Oklahoma City Thunder,OKC,94,Fiserv Forum,17713,2022-23
+401468292,2022-11-06T00:00Z,Final,16,Minnesota Timberwolves,MIN,129,10,Houston Rockets,HOU,117,Target Center,16412,2022-23
+401468293,2022-11-06T01:00Z,Final,7,Denver Nuggets,DEN,126,24,San Antonio Spurs,SA,101,Ball Arena,19641,2022-23
+401468294,2022-11-06T02:00Z,Final,21,Phoenix Suns,PHX,102,22,Portland Trail Blazers,POR,82,PHX Arena,17071,2022-23
+401468295,2022-11-06T20:30Z,Final,13,Los Angeles Lakers,LAL,100,5,Cleveland Cavaliers,CLE,114,crypto.com Arena,18997,2022-23
+401468296,2022-11-06T23:00Z,Final,28,Toronto Raptors,TOR,113,4,Chicago Bulls,CHI,104,Scotiabank Arena,19800,2022-23
+401468297,2022-11-06T23:00Z,Final,29,Memphis Grizzlies,MEM,103,27,Washington Wizards,WSH,97,FedExForum,16877,2022-23
+401468298,2022-11-07T03:00Z,Final,12,LA Clippers,LAC,102,26,Utah Jazz,UTAH,110,crypto.com Arena,16111,2022-23
+401468299,2022-11-08T00:00Z,Final,30,Charlotte Hornets,CHA,100,27,Washington Wizards,WSH,108,Spectrum Center,13712,2022-23
+401468300,2022-11-08T00:15Z,Final,19,Orlando Magic,ORL,127,10,Houston Rockets,HOU,134,Kia Center,15441,2022-23
+401468301,2022-11-08T00:30Z,Final,8,Detroit Pistons,DET,112,25,Oklahoma City Thunder,OKC,103,Little Caesars Arena,16223,2022-23
+401468302,2022-11-08T00:45Z,Final,11,Indiana Pacers,IND,129,3,New Orleans Pelicans,NO,122,Gainbridge Fieldhouse,14052,2022-23
+401468303,2022-11-08T01:00Z,Final,20,Philadelphia 76ers,PHI,100,21,Phoenix Suns,PHX,88,Xfinity Mobile Arena,20347,2022-23
+401468304,2022-11-08T01:15Z,Final,1,Atlanta Hawks,ATL,117,15,Milwaukee Bucks,MIL,98,State Farm Arena,17494,2022-23
+401468305,2022-11-08T01:30Z,Final,14,Miami Heat,MIA,107,22,Portland Trail Blazers,POR,110,Kaseya Center,19600,2022-23
+401468306,2022-11-08T01:45Z,Final,4,Chicago Bulls,CHI,111,28,Toronto Raptors,TOR,97,United Center,21142,2022-23
+401468307,2022-11-08T02:00Z,Final,29,Memphis Grizzlies,MEM,106,2,Boston Celtics,BOS,109,FedExForum,17371,2022-23
+401468308,2022-11-08T02:15Z,Final,16,Minnesota Timberwolves,MIN,107,18,New York Knicks,NY,120,Target Center,14524,2022-23
+401468309,2022-11-08T02:30Z,Final,24,San Antonio Spurs,SA,109,7,Denver Nuggets,DEN,115,Frost Bank Center,11574,2022-23
+401468310,2022-11-08T02:45Z,Final,6,Dallas Mavericks,DAL,96,17,Brooklyn Nets,BKN,94,American Airlines Center,20011,2022-23
+401468311,2022-11-08T03:00Z,Final,9,Golden State Warriors,GS,116,23,Sacramento Kings,SAC,113,Chase Center,18064,2022-23
+401468312,2022-11-08T03:15Z,Final,26,Utah Jazz,UTAH,139,13,Los Angeles Lakers,LAL,116,Delta Center,18206,2022-23
+401468313,2022-11-08T03:30Z,Final,12,LA Clippers,LAC,119,5,Cleveland Cavaliers,CLE,117,crypto.com Arena,16516,2022-23
+401468316,2022-11-09T22:30Z,Final,19,Orlando Magic,ORL,94,6,Dallas Mavericks,DAL,87,Kia Center,18165,2022-23
+401468314,2022-11-10T00:00Z,Final,30,Charlotte Hornets,CHA,95,22,Portland Trail Blazers,POR,105,Spectrum Center,14774,2022-23
+401468315,2022-11-10T00:00Z,Final,11,Indiana Pacers,IND,119,7,Denver Nuggets,DEN,122,Gainbridge Fieldhouse,14069,2022-23
+401468317,2022-11-10T00:30Z,Final,1,Atlanta Hawks,ATL,119,26,Utah Jazz,UTAH,125,State Farm Arena,15845,2022-23
+401468318,2022-11-10T00:30Z,Final,2,Boston Celtics,BOS,128,8,Detroit Pistons,DET,112,TD Garden,19156,2022-23
+401468319,2022-11-10T00:30Z,Final,17,Brooklyn Nets,BKN,112,18,New York Knicks,NY,85,Barclays Center,18156,2022-23
+401468320,2022-11-10T00:30Z,Final,28,Toronto Raptors,TOR,116,10,Houston Rockets,HOU,109,Scotiabank Arena,19800,2022-23
+401468321,2022-11-10T01:00Z,Final,4,Chicago Bulls,CHI,111,3,New Orleans Pelicans,NO,115,United Center,19621,2022-23
+401468322,2022-11-10T01:00Z,Final,16,Minnesota Timberwolves,MIN,117,21,Phoenix Suns,PHX,129,Target Center,16062,2022-23
+401468323,2022-11-10T01:00Z,Final,25,Oklahoma City Thunder,OKC,132,15,Milwaukee Bucks,MIL,136,Paycom Center,15180,2022-23
+401468324,2022-11-10T01:00Z,Final,24,San Antonio Spurs,SA,122,29,Memphis Grizzlies,MEM,124,Frost Bank Center,13507,2022-23
+401468325,2022-11-10T03:00Z,Final,12,LA Clippers,LAC,114,13,Los Angeles Lakers,LAL,101,crypto.com Arena,19068,2022-23
+401468326,2022-11-10T03:00Z,Final,23,Sacramento Kings,SAC,127,5,Cleveland Cavaliers,CLE,120,Golden 1 Center,13816,2022-23
+401468327,2022-11-11T00:00Z,Final,27,Washington Wizards,WSH,113,6,Dallas Mavericks,DAL,105,Capital One Arena,18320,2022-23
+401468328,2022-11-11T00:30Z,Final,1,Atlanta Hawks,ATL,104,20,Philadelphia 76ers,PHI,95,State Farm Arena,16066,2022-23
+401468329,2022-11-11T00:30Z,Final,14,Miami Heat,MIA,117,30,Charlotte Hornets,CHA,112,Kaseya Center,19600,2022-23
+401468330,2022-11-11T01:00Z,Final,3,New Orleans Pelicans,NO,95,22,Portland Trail Blazers,POR,106,Smoothie King Center,14289,2022-23
+401468331,2022-11-12T00:00Z,Final,2,Boston Celtics,BOS,131,7,Denver Nuggets,DEN,112,TD Garden,19156,2022-23
+401468332,2022-11-12T00:00Z,Final,19,Orlando Magic,ORL,114,21,Phoenix Suns,PHX,97,Kia Center,15879,2022-23
+401468333,2022-11-12T00:30Z,Final,18,New York Knicks,NY,121,8,Detroit Pistons,DET,112,Madison Square Garden,19812,2022-23
+401468334,2022-11-12T01:00Z,Final,25,Oklahoma City Thunder,OKC,132,28,Toronto Raptors,TOR,113,Paycom Center,16104,2022-23
+401468335,2022-11-12T01:00Z,Final,24,San Antonio Spurs,SA,111,15,Milwaukee Bucks,MIL,93,Frost Bank Center,15642,2022-23
+401468336,2022-11-12T02:30Z,Final,29,Memphis Grizzlies,MEM,114,16,Minnesota Timberwolves,MIN,103,FedExForum,16939,2022-23
+401468337,2022-11-12T03:00Z,Final,9,Golden State Warriors,GS,106,5,Cleveland Cavaliers,CLE,101,Chase Center,18064,2022-23
+401468338,2022-11-12T03:30Z,Final,13,Los Angeles Lakers,LAL,114,23,Sacramento Kings,SAC,120,crypto.com Arena,17849,2022-23
+401468339,2022-11-12T21:00Z,Final,12,LA Clippers,LAC,95,17,Brooklyn Nets,BKN,110,crypto.com Arena,17777,2022-23
+401468340,2022-11-12T23:00Z,Final,27,Washington Wizards,WSH,121,26,Utah Jazz,UTAH,112,Capital One Arena,13673,2022-23
+401468341,2022-11-13T00:00Z,Final,8,Detroit Pistons,DET,108,2,Boston Celtics,BOS,117,Little Caesars Arena,20190,2022-23
+401468342,2022-11-13T00:00Z,Final,11,Indiana Pacers,IND,118,28,Toronto Raptors,TOR,104,Gainbridge Fieldhouse,13089,2022-23
+401468343,2022-11-13T00:30Z,Final,20,Philadelphia 76ers,PHI,121,1,Atlanta Hawks,ATL,109,Xfinity Mobile Arena,20245,2022-23
+401468344,2022-11-13T01:00Z,Final,14,Miami Heat,MIA,132,30,Charlotte Hornets,CHA,115,Kaseya Center,19600,2022-23
+401468345,2022-11-13T01:30Z,Final,6,Dallas Mavericks,DAL,117,22,Portland Trail Blazers,POR,112,American Airlines Center,20277,2022-23
+401468346,2022-11-13T01:30Z,Final,3,New Orleans Pelicans,NO,119,10,Houston Rockets,HOU,106,Smoothie King Center,15367,2022-23
+401468347,2022-11-13T17:00Z,Final,18,New York Knicks,NY,135,25,Oklahoma City Thunder,OKC,145,Madison Square Garden,18325,2022-23
+401468348,2022-11-13T23:00Z,Final,5,Cleveland Cavaliers,CLE,124,16,Minnesota Timberwolves,MIN,129,Rocket Arena,19432,2022-23
+401468349,2022-11-13T23:00Z,Final,27,Washington Wizards,WSH,102,29,Memphis Grizzlies,MEM,92,Capital One Arena,17667,2022-23
+401468350,2022-11-14T00:30Z,Final,20,Philadelphia 76ers,PHI,105,26,Utah Jazz,UTAH,98,Xfinity Mobile Arena,19761,2022-23
+401468351,2022-11-14T01:00Z,Final,4,Chicago Bulls,CHI,103,7,Denver Nuggets,DEN,126,United Center,21602,2022-23
+401468352,2022-11-14T02:00Z,Final,23,Sacramento Kings,SAC,122,9,Golden State Warriors,GS,115,Golden 1 Center,16410,2022-23
+401468353,2022-11-14T02:30Z,Final,13,Los Angeles Lakers,LAL,116,17,Brooklyn Nets,BKN,103,crypto.com Arena,18040,2022-23
+401468354,2022-11-15T00:00Z,Final,8,Detroit Pistons,DET,111,28,Toronto Raptors,TOR,115,Little Caesars Arena,16988,2022-23
+401468355,2022-11-15T00:00Z,Final,19,Orlando Magic,ORL,105,30,Charlotte Hornets,CHA,112,Kia Center,15018,2022-23
+401468356,2022-11-15T00:30Z,Final,2,Boston Celtics,BOS,126,25,Oklahoma City Thunder,OKC,122,TD Garden,0,2022-23
+401468357,2022-11-15T00:30Z,Final,14,Miami Heat,MIA,113,21,Phoenix Suns,PHX,112,Kaseya Center,19600,2022-23
+401468358,2022-11-15T01:00Z,Final,10,Houston Rockets,HOU,106,12,LA Clippers,LAC,122,Toyota Center (Houston),16098,2022-23
+401468359,2022-11-15T01:00Z,Final,15,Milwaukee Bucks,MIL,106,1,Atlanta Hawks,ATL,121,Fiserv Forum,17341,2022-23
+401468360,2022-11-15T03:00Z,Final,9,Golden State Warriors,GS,132,24,San Antonio Spurs,SA,95,Chase Center,18064,2022-23
+401468361,2022-11-16T00:30Z,Final,3,New Orleans Pelicans,NO,113,29,Memphis Grizzlies,MEM,102,Smoothie King Center,14032,2022-23
+401468362,2022-11-16T01:30Z,Final,6,Dallas Mavericks,DAL,103,12,LA Clippers,LAC,101,American Airlines Center,19810,2022-23
+401468363,2022-11-16T02:00Z,Final,26,Utah Jazz,UTAH,111,18,New York Knicks,NY,118,Delta Center,18206,2022-23
+401468364,2022-11-16T03:00Z,Final,22,Portland Trail Blazers,POR,117,24,San Antonio Spurs,SA,110,Moda Center,19012,2022-23
+401468365,2022-11-16T03:00Z,Final,23,Sacramento Kings,SAC,153,17,Brooklyn Nets,BKN,121,Golden 1 Center,17611,2022-23
+401468366,2022-11-17T00:00Z,Final,30,Charlotte Hornets,CHA,113,11,Indiana Pacers,IND,125,Spectrum Center,14756,2022-23
+401468367,2022-11-17T00:00Z,Final,19,Orlando Magic,ORL,108,16,Minnesota Timberwolves,MIN,126,Kia Center,16527,2022-23
+401468368,2022-11-17T00:00Z,Final,27,Washington Wizards,WSH,120,25,Oklahoma City Thunder,OKC,121,Capital One Arena,12630,2022-23
+401468369,2022-11-17T00:30Z,Final,1,Atlanta Hawks,ATL,101,2,Boston Celtics,BOS,126,State Farm Arena,18165,2022-23
+401468370,2022-11-17T00:30Z,Final,28,Toronto Raptors,TOR,112,14,Miami Heat,MIA,104,Scotiabank Arena,19800,2022-23
+401468371,2022-11-17T01:00Z,Final,15,Milwaukee Bucks,MIL,113,5,Cleveland Cavaliers,CLE,98,Fiserv Forum,17341,2022-23
+401468372,2022-11-17T01:00Z,Final,3,New Orleans Pelicans,NO,124,4,Chicago Bulls,CHI,110,Smoothie King Center,14658,2022-23
+401468373,2022-11-17T01:30Z,Final,6,Dallas Mavericks,DAL,92,10,Houston Rockets,HOU,101,American Airlines Center,19602,2022-23
+401468374,2022-11-17T03:00Z,Final,7,Denver Nuggets,DEN,103,18,New York Knicks,NY,106,Ball Arena,18210,2022-23
+401468375,2022-11-17T03:00Z,Final,21,Phoenix Suns,PHX,130,9,Golden State Warriors,GS,119,PHX Arena,17071,2022-23
+401468376,2022-11-18T03:00Z,Final,22,Portland Trail Blazers,POR,107,17,Brooklyn Nets,BKN,109,Moda Center,19393,2022-23
+401468377,2022-11-18T03:00Z,Final,23,Sacramento Kings,SAC,130,24,San Antonio Spurs,SA,112,Golden 1 Center,16522,2022-23
+401468378,2022-11-18T03:30Z,Final,12,LA Clippers,LAC,96,8,Detroit Pistons,DET,91,crypto.com Arena,17822,2022-23
+401468379,2022-11-19T00:00Z,Final,27,Washington Wizards,WSH,107,14,Miami Heat,MIA,106,Capital One Arena,18772,2022-23
+401468380,2022-11-19T00:30Z,Final,5,Cleveland Cavaliers,CLE,132,30,Charlotte Hornets,CHA,122,Rocket Arena,19432,2022-23
+401468381,2022-11-19T00:30Z,Final,20,Philadelphia 76ers,PHI,110,15,Milwaukee Bucks,MIL,102,Xfinity Mobile Arena,19769,2022-23
+401468382,2022-11-19T01:00Z,Final,4,Chicago Bulls,CHI,107,19,Orlando Magic,ORL,108,United Center,21031,2022-23
+401468383,2022-11-19T01:00Z,Final,10,Houston Rockets,HOU,91,11,Indiana Pacers,IND,99,Toyota Center (Houston),15882,2022-23
+401468384,2022-11-19T01:00Z,Final,29,Memphis Grizzlies,MEM,121,25,Oklahoma City Thunder,OKC,110,FedExForum,17324,2022-23
+401468385,2022-11-19T01:30Z,Final,6,Dallas Mavericks,DAL,127,7,Denver Nuggets,DEN,99,American Airlines Center,20135,2022-23
+401468386,2022-11-19T01:30Z,Final,3,New Orleans Pelicans,NO,109,2,Boston Celtics,BOS,117,Smoothie King Center,17828,2022-23
+401468387,2022-11-19T02:00Z,Final,26,Utah Jazz,UTAH,134,21,Phoenix Suns,PHX,133,Delta Center,18206,2022-23
+401468388,2022-11-19T03:00Z,Final,9,Golden State Warriors,GS,111,18,New York Knicks,NY,101,Chase Center,18064,2022-23
+401468389,2022-11-19T03:30Z,Final,13,Los Angeles Lakers,LAL,128,8,Detroit Pistons,DET,121,crypto.com Arena,18095,2022-23
+401468390,2022-11-19T23:00Z,Final,1,Atlanta Hawks,ATL,124,28,Toronto Raptors,TOR,122,State Farm Arena,18051,2022-23
+401468391,2022-11-20T00:00Z,Final,11,Indiana Pacers,IND,114,19,Orlando Magic,ORL,113,Gainbridge Fieldhouse,14478,2022-23
+401468392,2022-11-20T00:30Z,Final,20,Philadelphia 76ers,PHI,109,16,Minnesota Timberwolves,MIN,112,Xfinity Mobile Arena,20515,2022-23
+401468393,2022-11-20T03:00Z,Final,22,Portland Trail Blazers,POR,113,26,Utah Jazz,UTAH,118,Moda Center,19595,2022-23
+401468394,2022-11-20T03:30Z,Final,12,LA Clippers,LAC,119,24,San Antonio Spurs,SA,97,crypto.com Arena,18581,2022-23
+401468395,2022-11-20T20:30Z,Final,21,Phoenix Suns,PHX,116,18,New York Knicks,NY,95,PHX Arena,17071,2022-23
+401468396,2022-11-20T23:00Z,Final,27,Washington Wizards,WSH,106,30,Charlotte Hornets,CHA,102,Capital One Arena,14289,2022-23
+401468397,2022-11-20T23:00Z,Final,23,Sacramento Kings,SAC,137,8,Detroit Pistons,DET,129,Golden 1 Center,17866,2022-23
+401468398,2022-11-21T00:00Z,Final,17,Brooklyn Nets,BKN,127,29,Memphis Grizzlies,MEM,115,Barclays Center,18241,2022-23
+401468399,2022-11-21T00:00Z,Final,5,Cleveland Cavaliers,CLE,113,14,Miami Heat,MIA,87,Rocket Arena,19432,2022-23
+401468400,2022-11-21T00:00Z,Final,10,Houston Rockets,HOU,120,9,Golden State Warriors,GS,127,Toyota Center (Houston),18055,2022-23
+401468401,2022-11-21T00:30Z,Final,6,Dallas Mavericks,DAL,97,7,Denver Nuggets,DEN,98,American Airlines Center,20244,2022-23
+401468402,2022-11-21T02:30Z,Final,13,Los Angeles Lakers,LAL,123,24,San Antonio Spurs,SA,92,crypto.com Arena,18211,2022-23
+401468403,2022-11-22T00:00Z,Final,5,Cleveland Cavaliers,CLE,114,1,Atlanta Hawks,ATL,102,Rocket Arena,19432,2022-23
+401468404,2022-11-22T00:00Z,Final,11,Indiana Pacers,IND,123,19,Orlando Magic,ORL,102,Gainbridge Fieldhouse,14029,2022-23
+401468405,2022-11-22T01:00Z,Final,4,Chicago Bulls,CHI,121,2,Boston Celtics,BOS,107,United Center,20786,2022-23
+401468406,2022-11-22T01:00Z,Final,15,Milwaukee Bucks,MIL,119,22,Portland Trail Blazers,POR,111,Fiserv Forum,17341,2022-23
+401468407,2022-11-22T01:00Z,Final,16,Minnesota Timberwolves,MIN,105,14,Miami Heat,MIA,101,Target Center,16583,2022-23
+401468408,2022-11-22T01:00Z,Final,3,New Orleans Pelicans,NO,128,9,Golden State Warriors,GS,83,Smoothie King Center,18589,2022-23
+401468409,2022-11-22T01:00Z,Final,25,Oklahoma City Thunder,OKC,119,18,New York Knicks,NY,129,Paycom Center,15079,2022-23
+401468410,2022-11-22T03:30Z,Final,12,LA Clippers,LAC,121,26,Utah Jazz,UTAH,114,crypto.com Arena,19068,2022-23
+401468411,2022-11-23T00:30Z,Final,20,Philadelphia 76ers,PHI,115,17,Brooklyn Nets,BKN,106,Xfinity Mobile Arena,20184,2022-23
+401468412,2022-11-23T01:00Z,Final,29,Memphis Grizzlies,MEM,109,23,Sacramento Kings,SAC,113,FedExForum,16826,2022-23
+401468413,2022-11-23T02:00Z,Final,7,Denver Nuggets,DEN,108,8,Detroit Pistons,DET,110,Ball Arena,19635,2022-23
+401468414,2022-11-23T03:00Z,Final,21,Phoenix Suns,PHX,115,13,Los Angeles Lakers,LAL,105,PHX Arena,17071,2022-23
+401468415,2022-11-24T00:00Z,Final,30,Charlotte Hornets,CHA,107,20,Philadelphia 76ers,PHI,101,Spectrum Center,16910,2022-23
+401468416,2022-11-24T00:00Z,Final,5,Cleveland Cavaliers,CLE,114,22,Portland Trail Blazers,POR,96,Rocket Arena,19432,2022-23
+401468417,2022-11-24T00:00Z,Final,11,Indiana Pacers,IND,101,16,Minnesota Timberwolves,MIN,115,Gainbridge Fieldhouse,15751,2022-23
+401468418,2022-11-24T00:30Z,Final,1,Atlanta Hawks,ATL,115,23,Sacramento Kings,SAC,106,State Farm Arena,18173,2022-23
+401468419,2022-11-24T00:30Z,Final,2,Boston Celtics,BOS,125,6,Dallas Mavericks,DAL,112,TD Garden,19156,2022-23
+401468420,2022-11-24T00:30Z,Final,14,Miami Heat,MIA,113,27,Washington Wizards,WSH,105,Kaseya Center,19600,2022-23
+401468421,2022-11-24T00:30Z,Final,28,Toronto Raptors,TOR,98,17,Brooklyn Nets,BKN,112,Scotiabank Arena,19800,2022-23
+401468422,2022-11-24T01:00Z,Final,15,Milwaukee Bucks,MIL,113,4,Chicago Bulls,CHI,118,Fiserv Forum,17341,2022-23
+401468423,2022-11-24T01:00Z,Final,25,Oklahoma City Thunder,OKC,126,7,Denver Nuggets,DEN,131,Paycom Center,13656,2022-23
+401468424,2022-11-24T01:00Z,Final,24,San Antonio Spurs,SA,110,3,New Orleans Pelicans,NO,129,Frost Bank Center,14947,2022-23
+401468425,2022-11-24T02:00Z,Final,26,Utah Jazz,UTAH,116,8,Detroit Pistons,DET,125,Delta Center,18206,2022-23
+401468426,2022-11-24T03:00Z,Final,9,Golden State Warriors,GS,124,12,LA Clippers,LAC,107,Chase Center,18064,2022-23
+401468427,2022-11-25T22:00Z,Final,30,Charlotte Hornets,CHA,110,16,Minnesota Timberwolves,MIN,108,Spectrum Center,17924,2022-23
+401468428,2022-11-26T00:00Z,Final,19,Orlando Magic,ORL,99,20,Philadelphia 76ers,PHI,107,Kia Center,15384,2022-23
+401468429,2022-11-26T00:30Z,Final,18,New York Knicks,NY,129,22,Portland Trail Blazers,POR,132,Madison Square Garden,19812,2022-23
+401468430,2022-11-26T01:00Z,Final,2,Boston Celtics,BOS,122,23,Sacramento Kings,SAC,104,TD Garden,19156,2022-23
+401468431,2022-11-26T01:00Z,Final,11,Indiana Pacers,IND,128,17,Brooklyn Nets,BKN,117,Gainbridge Fieldhouse,15404,2022-23
+401468432,2022-11-26T01:00Z,Final,14,Miami Heat,MIA,110,27,Washington Wizards,WSH,107,Kaseya Center,19600,2022-23
+401468433,2022-11-26T01:00Z,Final,10,Houston Rockets,HOU,128,1,Atlanta Hawks,ATL,122,Toyota Center (Houston),16669,2022-23
+401468434,2022-11-26T01:00Z,Final,29,Memphis Grizzlies,MEM,132,3,New Orleans Pelicans,NO,111,FedExForum,17794,2022-23
+401468435,2022-11-26T01:00Z,Final,15,Milwaukee Bucks,MIL,117,5,Cleveland Cavaliers,CLE,102,Fiserv Forum,17447,2022-23
+401468436,2022-11-26T01:00Z,Final,25,Oklahoma City Thunder,OKC,123,4,Chicago Bulls,CHI,119,Paycom Center,16082,2022-23
+401468437,2022-11-26T01:00Z,Final,24,San Antonio Spurs,SA,94,13,Los Angeles Lakers,LAL,105,Frost Bank Center,18354,2022-23
+401468438,2022-11-26T02:00Z,Final,21,Phoenix Suns,PHX,108,8,Detroit Pistons,DET,102,PHX Arena,17071,2022-23
+401468439,2022-11-26T03:00Z,Final,9,Golden State Warriors,GS,129,26,Utah Jazz,UTAH,118,Chase Center,18064,2022-23
+401468440,2022-11-26T03:30Z,Final,12,LA Clippers,LAC,104,7,Denver Nuggets,DEN,114,crypto.com Arena,16559,2022-23
+401468441,2022-11-26T22:00Z,Final,28,Toronto Raptors,TOR,105,6,Dallas Mavericks,DAL,100,Scotiabank Arena,19800,2022-23
+401468442,2022-11-27T01:00Z,Final,10,Houston Rockets,HOU,118,25,Oklahoma City Thunder,OKC,105,Toyota Center (Houston),15151,2022-23
+401468443,2022-11-27T01:00Z,Final,24,San Antonio Spurs,SA,138,13,Los Angeles Lakers,LAL,143,Frost Bank Center,18354,2022-23
+401468444,2022-11-27T02:00Z,Final,21,Phoenix Suns,PHX,113,26,Utah Jazz,UTAH,112,PHX Arena,17071,2022-23
+401468445,2022-11-27T20:00Z,Final,17,Brooklyn Nets,BKN,111,22,Portland Trail Blazers,POR,97,Barclays Center,17732,2022-23
+401468446,2022-11-27T20:30Z,Final,16,Minnesota Timberwolves,MIN,114,9,Golden State Warriors,GS,137,Target Center,17136,2022-23
+401468447,2022-11-27T21:00Z,Final,12,LA Clippers,LAC,114,11,Indiana Pacers,IND,100,crypto.com Arena,16805,2022-23
+401468448,2022-11-27T22:00Z,Final,1,Atlanta Hawks,ATL,98,14,Miami Heat,MIA,106,State Farm Arena,17268,2022-23
+401468449,2022-11-27T23:00Z,Final,2,Boston Celtics,BOS,130,27,Washington Wizards,WSH,121,TD Garden,19156,2022-23
+401468450,2022-11-27T23:00Z,Final,8,Detroit Pistons,DET,94,5,Cleveland Cavaliers,CLE,102,Little Caesars Arena,18240,2022-23
+401468451,2022-11-27T23:00Z,Final,18,New York Knicks,NY,123,29,Memphis Grizzlies,MEM,127,Madison Square Garden,19524,2022-23
+401468452,2022-11-27T23:00Z,Final,19,Orlando Magic,ORL,103,20,Philadelphia 76ers,PHI,133,Kia Center,16218,2022-23
+401468453,2022-11-28T01:00Z,Final,15,Milwaukee Bucks,MIL,124,6,Dallas Mavericks,DAL,115,Fiserv Forum,17341,2022-23
+401468454,2022-11-29T00:00Z,Final,20,Philadelphia 76ers,PHI,104,1,Atlanta Hawks,ATL,101,Xfinity Mobile Arena,19778,2022-23
+401468455,2022-11-29T00:00Z,Final,27,Washington Wizards,WSH,142,16,Minnesota Timberwolves,MIN,127,Capital One Arena,13515,2022-23
+401468456,2022-11-29T00:30Z,Final,2,Boston Celtics,BOS,140,30,Charlotte Hornets,CHA,105,TD Garden,19156,2022-23
+401468457,2022-11-29T00:30Z,Final,17,Brooklyn Nets,BKN,109,19,Orlando Magic,ORL,102,Barclays Center,15704,2022-23
+401468458,2022-11-29T00:30Z,Final,28,Toronto Raptors,TOR,100,5,Cleveland Cavaliers,CLE,88,Scotiabank Arena,19800,2022-23
+401468459,2022-11-29T01:00Z,Final,3,New Orleans Pelicans,NO,105,25,Oklahoma City Thunder,OKC,101,Smoothie King Center,13109,2022-23
+401468460,2022-11-29T02:00Z,Final,7,Denver Nuggets,DEN,129,10,Houston Rockets,HOU,113,Ball Arena,16027,2022-23
+401468461,2022-11-29T02:00Z,Final,26,Utah Jazz,UTAH,107,4,Chicago Bulls,CHI,114,Delta Center,18206,2022-23
+401468462,2022-11-29T03:00Z,Final,23,Sacramento Kings,SAC,117,21,Phoenix Suns,PHX,122,Golden 1 Center,16407,2022-23
+401468463,2022-11-29T03:30Z,Final,13,Los Angeles Lakers,LAL,115,11,Indiana Pacers,IND,116,crypto.com Arena,16034,2022-23
+401468464,2022-11-30T00:00Z,Final,8,Detroit Pistons,DET,110,18,New York Knicks,NY,140,Little Caesars Arena,14864,2022-23
+401468465,2022-11-30T00:30Z,Final,6,Dallas Mavericks,DAL,116,9,Golden State Warriors,GS,113,American Airlines Center,20277,2022-23
+401468466,2022-11-30T03:00Z,Final,22,Portland Trail Blazers,POR,112,12,LA Clippers,LAC,118,Moda Center,17251,2022-23
+401468467,2022-12-01T00:00Z,Final,5,Cleveland Cavaliers,CLE,113,20,Philadelphia 76ers,PHI,85,Rocket Arena,19432,2022-23
+401468468,2022-12-01T00:00Z,Final,19,Orlando Magic,ORL,108,1,Atlanta Hawks,ATL,125,Kia Center,15344,2022-23
+401468469,2022-12-01T00:30Z,Final,2,Boston Celtics,BOS,134,14,Miami Heat,MIA,121,TD Garden,19156,2022-23
+401468470,2022-12-01T00:30Z,Final,17,Brooklyn Nets,BKN,113,27,Washington Wizards,WSH,107,Barclays Center,15963,2022-23
+401468471,2022-12-01T00:30Z,Final,18,New York Knicks,NY,103,15,Milwaukee Bucks,MIL,109,Madison Square Garden,17277,2022-23
+401468472,2022-12-01T01:00Z,Final,16,Minnesota Timberwolves,MIN,109,29,Memphis Grizzlies,MEM,101,Target Center,15980,2022-23
+401468473,2022-12-01T01:00Z,Final,3,New Orleans Pelicans,NO,126,28,Toronto Raptors,TOR,108,Smoothie King Center,14845,2022-23
+401468474,2022-12-01T01:00Z,Final,25,Oklahoma City Thunder,OKC,119,24,San Antonio Spurs,SA,111,Paycom Center,15605,2022-23
+401468475,2022-12-01T02:00Z,Final,7,Denver Nuggets,DEN,120,10,Houston Rockets,HOU,100,Ball Arena,16286,2022-23
+401468476,2022-12-01T02:00Z,Final,21,Phoenix Suns,PHX,132,4,Chicago Bulls,CHI,113,PHX Arena,17071,2022-23
+401468477,2022-12-01T02:00Z,Final,26,Utah Jazz,UTAH,125,12,LA Clippers,LAC,112,Delta Center,18206,2022-23
+401468478,2022-12-01T03:00Z,Final,23,Sacramento Kings,SAC,137,11,Indiana Pacers,IND,114,Golden 1 Center,17611,2022-23
+401468479,2022-12-01T03:30Z,Final,13,Los Angeles Lakers,LAL,128,22,Portland Trail Blazers,POR,109,crypto.com Arena,18560,2022-23
+401468480,2022-12-02T00:00Z,Final,8,Detroit Pistons,DET,131,6,Dallas Mavericks,DAL,125,Little Caesars Arena,18106,2022-23
+401468481,2022-12-03T00:00Z,Final,30,Charlotte Hornets,CHA,117,27,Washington Wizards,WSH,116,Spectrum Center,15231,2022-23
+401468482,2022-12-03T00:30Z,Final,1,Atlanta Hawks,ATL,117,7,Denver Nuggets,DEN,109,State Farm Arena,16974,2022-23
+401468483,2022-12-03T00:30Z,Final,2,Boston Celtics,BOS,116,14,Miami Heat,MIA,120,TD Garden,19156,2022-23
+401468484,2022-12-03T00:30Z,Final,17,Brooklyn Nets,BKN,114,28,Toronto Raptors,TOR,105,Barclays Center,17732,2022-23
+401468485,2022-12-03T00:30Z,Final,5,Cleveland Cavaliers,CLE,107,19,Orlando Magic,ORL,96,Rocket Arena,19432,2022-23
+401468486,2022-12-03T00:30Z,Final,15,Milwaukee Bucks,MIL,129,13,Los Angeles Lakers,LAL,133,Fiserv Forum,17938,2022-23
+401468487,2022-12-03T01:00Z,Final,29,Memphis Grizzlies,MEM,117,20,Philadelphia 76ers,PHI,109,FedExForum,17022,2022-23
+401468488,2022-12-03T01:00Z,Final,24,San Antonio Spurs,SA,99,3,New Orleans Pelicans,NO,117,Frost Bank Center,17202,2022-23
+401468489,2022-12-03T02:00Z,Final,21,Phoenix Suns,PHX,121,10,Houston Rockets,HOU,122,PHX Arena,17071,2022-23
+401468490,2022-12-03T02:00Z,Final,26,Utah Jazz,UTAH,139,11,Indiana Pacers,IND,119,Delta Center,18206,2022-23
+401468491,2022-12-03T03:00Z,Final,9,Golden State Warriors,GS,119,4,Chicago Bulls,CHI,111,Chase Center,18064,2022-23
+401468492,2022-12-03T17:30Z,Final,18,New York Knicks,NY,100,6,Dallas Mavericks,DAL,121,Madison Square Garden,18319,2022-23
+401468493,2022-12-03T21:00Z,Final,12,LA Clippers,LAC,96,23,Sacramento Kings,SAC,123,crypto.com Arena,16587,2022-23
+401468494,2022-12-03T23:00Z,Final,30,Charlotte Hornets,CHA,96,15,Milwaukee Bucks,MIL,105,Spectrum Center,18128,2022-23
+401468495,2022-12-04T01:00Z,Final,28,Toronto Raptors,TOR,121,19,Orlando Magic,ORL,108,Scotiabank Arena,19800,2022-23
+401468496,2022-12-04T01:00Z,Final,16,Minnesota Timberwolves,MIN,128,25,Oklahoma City Thunder,OKC,135,Target Center,17136,2022-23
+401468497,2022-12-04T01:30Z,Final,9,Golden State Warriors,GS,120,10,Houston Rockets,HOU,101,Chase Center,18064,2022-23
+401468498,2022-12-04T02:00Z,Final,26,Utah Jazz,UTAH,111,22,Portland Trail Blazers,POR,116,Delta Center,18206,2022-23
+401468499,2022-12-04T20:30Z,Final,3,New Orleans Pelicans,NO,121,7,Denver Nuggets,DEN,106,Smoothie King Center,15658,2022-23
+401468500,2022-12-04T21:00Z,Final,24,San Antonio Spurs,SA,95,21,Phoenix Suns,PHX,133,Frost Bank Center,16409,2022-23
+401468501,2022-12-04T23:00Z,Final,17,Brooklyn Nets,BKN,92,2,Boston Celtics,BOS,103,Barclays Center,18043,2022-23
+401468502,2022-12-04T23:00Z,Final,8,Detroit Pistons,DET,112,29,Memphis Grizzlies,MEM,122,Little Caesars Arena,20088,2022-23
+401468503,2022-12-04T23:00Z,Final,18,New York Knicks,NY,92,5,Cleveland Cavaliers,CLE,81,Madison Square Garden,19007,2022-23
+401468504,2022-12-04T23:00Z,Final,27,Washington Wizards,WSH,119,13,Los Angeles Lakers,LAL,130,Capital One Arena,19647,2022-23
+401468505,2022-12-04T23:00Z,Final,23,Sacramento Kings,SAC,110,4,Chicago Bulls,CHI,101,Golden 1 Center,17611,2022-23
+401468506,2022-12-05T02:00Z,Final,22,Portland Trail Blazers,POR,116,11,Indiana Pacers,IND,100,Moda Center,17479,2022-23
+401468507,2022-12-06T00:00Z,Final,30,Charlotte Hornets,CHA,117,12,LA Clippers,LAC,119,Spectrum Center,13945,2022-23
+401468508,2022-12-06T00:00Z,Final,19,Orlando Magic,ORL,102,15,Milwaukee Bucks,MIL,109,Kia Center,16174,2022-23
+401468509,2022-12-06T00:30Z,Final,1,Atlanta Hawks,ATL,114,25,Oklahoma City Thunder,OKC,121,State Farm Arena,16301,2022-23
+401468510,2022-12-06T00:30Z,Final,28,Toronto Raptors,TOR,110,2,Boston Celtics,BOS,116,Scotiabank Arena,19800,2022-23
+401468511,2022-12-06T01:00Z,Final,10,Houston Rockets,HOU,132,20,Philadelphia 76ers,PHI,123,Toyota Center (Houston),15331,2022-23
+401468512,2022-12-06T01:00Z,Final,29,Memphis Grizzlies,MEM,101,14,Miami Heat,MIA,93,FedExForum,16122,2022-23
+401468513,2022-12-06T01:30Z,Final,6,Dallas Mavericks,DAL,130,21,Phoenix Suns,PHX,111,American Airlines Center,20227,2022-23
+401468514,2022-12-06T03:00Z,Final,9,Golden State Warriors,GS,104,11,Indiana Pacers,IND,112,Chase Center,18064,2022-23
+401468515,2022-12-07T00:30Z,Final,5,Cleveland Cavaliers,CLE,116,13,Los Angeles Lakers,LAL,102,Rocket Arena,19432,2022-23
+401468516,2022-12-07T00:30Z,Final,14,Miami Heat,MIA,96,8,Detroit Pistons,DET,116,Kaseya Center,19600,2022-23
+401468517,2022-12-07T03:00Z,Final,7,Denver Nuggets,DEN,115,6,Dallas Mavericks,DAL,116,Ball Arena,19520,2022-23
+401468518,2022-12-08T00:00Z,Final,19,Orlando Magic,ORL,116,12,LA Clippers,LAC,111,Kia Center,14429,2022-23
+401468519,2022-12-08T00:30Z,Final,17,Brooklyn Nets,BKN,122,30,Charlotte Hornets,CHA,116,Barclays Center,16903,2022-23
+401468520,2022-12-08T00:30Z,Final,18,New York Knicks,NY,113,1,Atlanta Hawks,ATL,89,Madison Square Garden,18091,2022-23
+401468521,2022-12-08T00:30Z,Final,28,Toronto Raptors,TOR,126,13,Los Angeles Lakers,LAL,113,Scotiabank Arena,19800,2022-23
+401468522,2022-12-08T01:00Z,Final,4,Chicago Bulls,CHI,115,27,Washington Wizards,WSH,111,United Center,19265,2022-23
+401468523,2022-12-08T01:00Z,Final,29,Memphis Grizzlies,MEM,123,25,Oklahoma City Thunder,OKC,102,FedExForum,15942,2022-23
+401468524,2022-12-08T01:00Z,Final,15,Milwaukee Bucks,MIL,126,23,Sacramento Kings,SAC,113,Fiserv Forum,17341,2022-23
+401468525,2022-12-08T01:00Z,Final,16,Minnesota Timberwolves,MIN,121,11,Indiana Pacers,IND,115,Target Center,15472,2022-23
+401468526,2022-12-08T01:00Z,Final,3,New Orleans Pelicans,NO,104,8,Detroit Pistons,DET,98,Smoothie King Center,14073,2022-23
+401468527,2022-12-08T02:00Z,Final,26,Utah Jazz,UTAH,124,9,Golden State Warriors,GS,123,Delta Center,18206,2022-23
+401468528,2022-12-08T03:00Z,Final,21,Phoenix Suns,PHX,98,2,Boston Celtics,BOS,125,PHX Arena,17071,2022-23
+401468529,2022-12-09T00:30Z,Final,14,Miami Heat,MIA,115,12,LA Clippers,LAC,110,Kaseya Center,19600,2022-23
+401468530,2022-12-09T01:30Z,Final,24,San Antonio Spurs,SA,118,10,Houston Rockets,HOU,109,Frost Bank Center,13140,2022-23
+401468531,2022-12-09T03:00Z,Final,22,Portland Trail Blazers,POR,120,7,Denver Nuggets,DEN,121,Moda Center,18189,2022-23
+401468532,2022-12-10T00:00Z,Final,30,Charlotte Hornets,CHA,102,18,New York Knicks,NY,121,Spectrum Center,17696,2022-23
+401468533,2022-12-10T00:00Z,Final,11,Indiana Pacers,IND,121,27,Washington Wizards,WSH,111,Gainbridge Fieldhouse,15039,2022-23
+401468534,2022-12-10T00:00Z,Final,19,Orlando Magic,ORL,113,28,Toronto Raptors,TOR,109,Kia Center,17008,2022-23
+401468535,2022-12-10T00:30Z,Final,17,Brooklyn Nets,BKN,120,1,Atlanta Hawks,ATL,116,Barclays Center,18072,2022-23
+401468536,2022-12-10T00:30Z,Final,5,Cleveland Cavaliers,CLE,95,23,Sacramento Kings,SAC,106,Rocket Arena,19432,2022-23
+401468537,2022-12-10T00:30Z,Final,20,Philadelphia 76ers,PHI,133,13,Los Angeles Lakers,LAL,122,Xfinity Mobile Arena,20852,2022-23
+401468538,2022-12-10T01:00Z,Final,29,Memphis Grizzlies,MEM,114,8,Detroit Pistons,DET,103,FedExForum,17103,2022-23
+401468539,2022-12-10T01:30Z,Final,3,New Orleans Pelicans,NO,128,21,Phoenix Suns,PHX,117,Smoothie King Center,16381,2022-23
+401468540,2022-12-10T02:00Z,Final,26,Utah Jazz,UTAH,108,16,Minnesota Timberwolves,MIN,118,Delta Center,18206,2022-23
+401468541,2022-12-10T03:00Z,Final,6,Dallas Mavericks,DAL,105,15,Milwaukee Bucks,MIL,106,American Airlines Center,20277,2022-23
+401468542,2022-12-10T22:00Z,Final,14,Miami Heat,MIA,111,24,San Antonio Spurs,SA,115,Kaseya Center,19600,2022-23
+401468543,2022-12-11T00:00Z,Final,11,Indiana Pacers,IND,133,17,Brooklyn Nets,BKN,136,Gainbridge Fieldhouse,14280,2022-23
+401468544,2022-12-11T00:00Z,Final,27,Washington Wizards,WSH,107,12,LA Clippers,LAC,114,Capital One Arena,18404,2022-23
+401468545,2022-12-11T00:30Z,Final,5,Cleveland Cavaliers,CLE,110,25,Oklahoma City Thunder,OKC,102,Rocket Arena,19432,2022-23
+401468546,2022-12-11T01:00Z,Final,4,Chicago Bulls,CHI,144,6,Dallas Mavericks,DAL,115,United Center,19528,2022-23
+401468547,2022-12-11T01:30Z,Final,9,Golden State Warriors,GS,123,2,Boston Celtics,BOS,107,Chase Center,18064,2022-23
+401468548,2022-12-11T02:00Z,Final,7,Denver Nuggets,DEN,115,26,Utah Jazz,UTAH,110,Ball Arena,19636,2022-23
+401468549,2022-12-11T03:00Z,Final,22,Portland Trail Blazers,POR,124,16,Minnesota Timberwolves,MIN,118,Moda Center,18324,2022-23
+401468550,2022-12-11T20:30Z,Final,3,New Orleans Pelicans,NO,129,21,Phoenix Suns,PHX,124,Smoothie King Center,18681,2022-23
+401468551,2022-12-11T23:00Z,Final,8,Detroit Pistons,DET,117,13,Los Angeles Lakers,LAL,124,Little Caesars Arena,20190,2022-23
+401468552,2022-12-11T23:00Z,Final,18,New York Knicks,NY,112,23,Sacramento Kings,SAC,99,Madison Square Garden,19812,2022-23
+401468553,2022-12-11T23:00Z,Final,19,Orlando Magic,ORL,111,28,Toronto Raptors,TOR,99,Kia Center,16891,2022-23
+401468554,2022-12-11T23:00Z,Final,20,Philadelphia 76ers,PHI,131,30,Charlotte Hornets,CHA,113,Xfinity Mobile Arena,19765,2022-23
+401468555,2022-12-11T23:30Z,Final,1,Atlanta Hawks,ATL,123,4,Chicago Bulls,CHI,122,State Farm Arena,17227,2022-23
+401468556,2022-12-12T00:00Z,Final,10,Houston Rockets,HOU,97,15,Milwaukee Bucks,MIL,92,Toyota Center (Houston),16268,2022-23
+401468557,2022-12-13T00:00Z,Final,11,Indiana Pacers,IND,82,14,Miami Heat,MIA,87,Gainbridge Fieldhouse,15309,2022-23
+401468558,2022-12-13T00:00Z,Final,27,Washington Wizards,WSH,100,17,Brooklyn Nets,BKN,112,Capital One Arena,16090,2022-23
+401468559,2022-12-13T01:00Z,Final,29,Memphis Grizzlies,MEM,128,1,Atlanta Hawks,ATL,103,FedExForum,16544,2022-23
+401468560,2022-12-13T01:30Z,Final,6,Dallas Mavericks,DAL,121,25,Oklahoma City Thunder,OKC,114,American Airlines Center,19877,2022-23
+401468561,2022-12-13T01:30Z,Final,24,San Antonio Spurs,SA,112,5,Cleveland Cavaliers,CLE,111,Frost Bank Center,13434,2022-23
+401468562,2022-12-13T03:00Z,Final,22,Portland Trail Blazers,POR,133,16,Minnesota Timberwolves,MIN,112,Moda Center,18021,2022-23
+401468563,2022-12-13T03:30Z,Final,12,LA Clippers,LAC,113,2,Boston Celtics,BOS,93,crypto.com Arena,19068,2022-23
+401468564,2022-12-14T00:00Z,Final,20,Philadelphia 76ers,PHI,123,23,Sacramento Kings,SAC,103,Xfinity Mobile Arena,19768,2022-23
+401468565,2022-12-14T00:30Z,Final,15,Milwaukee Bucks,MIL,128,9,Golden State Warriors,GS,111,Fiserv Forum,17628,2022-23
+401468566,2022-12-14T01:00Z,Final,10,Houston Rockets,HOU,111,21,Phoenix Suns,PHX,97,Toyota Center (Houston),15128,2022-23
+401468567,2022-12-14T02:00Z,Final,26,Utah Jazz,UTAH,121,3,New Orleans Pelicans,NO,100,Delta Center,18206,2022-23
+401468568,2022-12-14T03:00Z,Final,13,Los Angeles Lakers,LAL,118,2,Boston Celtics,BOS,122,crypto.com Arena,18661,2022-23
+401468569,2022-12-15T00:00Z,Final,30,Charlotte Hornets,CHA,134,8,Detroit Pistons,DET,141,Spectrum Center,14303,2022-23
+401468570,2022-12-15T00:00Z,Final,11,Indiana Pacers,IND,125,9,Golden State Warriors,GS,119,Gainbridge Fieldhouse,15069,2022-23
+401468571,2022-12-15T00:00Z,Final,19,Orlando Magic,ORL,135,1,Atlanta Hawks,ATL,124,Kia Center,16002,2022-23
+401468572,2022-12-15T00:30Z,Final,28,Toronto Raptors,TOR,123,23,Sacramento Kings,SAC,124,Scotiabank Arena,19800,2022-23
+401468573,2022-12-15T00:30Z,Final,4,Chicago Bulls,CHI,120,18,New York Knicks,NY,128,United Center,18820,2022-23
+401468574,2022-12-15T01:00Z,Final,25,Oklahoma City Thunder,OKC,108,14,Miami Heat,MIA,110,Paycom Center,14783,2022-23
+401468575,2022-12-15T01:00Z,Final,24,San Antonio Spurs,SA,112,22,Portland Trail Blazers,POR,128,Frost Bank Center,13657,2022-23
+401468576,2022-12-15T02:00Z,Final,6,Dallas Mavericks,DAL,90,5,Cleveland Cavaliers,CLE,105,American Airlines Center,20093,2022-23
+401468577,2022-12-15T02:00Z,Final,7,Denver Nuggets,DEN,141,27,Washington Wizards,WSH,128,Ball Arena,19550,2022-23
+401468578,2022-12-15T03:00Z,Final,12,LA Clippers,LAC,99,16,Minnesota Timberwolves,MIN,88,crypto.com Arena,14063,2022-23
+401468579,2022-12-16T01:00Z,Final,10,Houston Rockets,HOU,108,14,Miami Heat,MIA,111,Toyota Center (Houston),16210,2022-23
+401468580,2022-12-16T01:00Z,Final,29,Memphis Grizzlies,MEM,142,15,Milwaukee Bucks,MIL,101,FedExForum,17794,2022-23
+401468581,2022-12-16T02:00Z,Final,26,Utah Jazz,UTAH,132,3,New Orleans Pelicans,NO,129,Delta Center,18206,2022-23
+401468582,2022-12-16T03:30Z,Final,12,LA Clippers,LAC,95,21,Phoenix Suns,PHX,111,crypto.com Arena,15778,2022-23
+401468583,2022-12-17T00:00Z,Final,30,Charlotte Hornets,CHA,106,1,Atlanta Hawks,ATL,125,Spectrum Center,17772,2022-23
+401468584,2022-12-17T00:00Z,Final,8,Detroit Pistons,DET,113,23,Sacramento Kings,SAC,122,Little Caesars Arena,17892,2022-23
+401468585,2022-12-17T00:30Z,Final,2,Boston Celtics,BOS,109,19,Orlando Magic,ORL,117,TD Garden,19156,2022-23
+401468586,2022-12-17T00:30Z,Final,5,Cleveland Cavaliers,CLE,118,11,Indiana Pacers,IND,112,Rocket Arena,19432,2022-23
+401468587,2022-12-17T00:30Z,Final,20,Philadelphia 76ers,PHI,118,9,Golden State Warriors,GS,106,Xfinity Mobile Arena,20567,2022-23
+401468588,2022-12-17T00:30Z,Final,28,Toronto Raptors,TOR,116,17,Brooklyn Nets,BKN,119,Scotiabank Arena,19800,2022-23
+401468589,2022-12-17T01:00Z,Final,4,Chicago Bulls,CHI,91,18,New York Knicks,NY,114,United Center,19661,2022-23
+401468590,2022-12-17T01:00Z,Final,25,Oklahoma City Thunder,OKC,110,16,Minnesota Timberwolves,MIN,112,Paycom Center,14885,2022-23
+401468591,2022-12-17T01:30Z,Final,6,Dallas Mavericks,DAL,130,22,Portland Trail Blazers,POR,110,American Airlines Center,20191,2022-23
+401468592,2022-12-17T03:00Z,Final,13,Los Angeles Lakers,LAL,126,7,Denver Nuggets,DEN,108,crypto.com Arena,18505,2022-23
+401468593,2022-12-17T21:00Z,Final,12,LA Clippers,LAC,102,27,Washington Wizards,WSH,93,crypto.com Arena,15018,2022-23
+401468594,2022-12-17T22:00Z,Final,24,San Antonio Spurs,SA,101,14,Miami Heat,MIA,111,Arena CDMX,20160,2022-23
+401468595,2022-12-18T01:00Z,Final,5,Cleveland Cavaliers,CLE,100,6,Dallas Mavericks,DAL,99,Rocket Arena,19432,2022-23
+401468596,2022-12-18T01:00Z,Final,10,Houston Rockets,HOU,95,22,Portland Trail Blazers,POR,107,Toyota Center (Houston),16217,2022-23
+401468597,2022-12-18T01:00Z,Final,15,Milwaukee Bucks,MIL,123,26,Utah Jazz,UTAH,97,Fiserv Forum,17587,2022-23
+401468598,2022-12-18T01:00Z,Final,25,Oklahoma City Thunder,OKC,115,29,Memphis Grizzlies,MEM,109,Paycom Center,16895,2022-23
+401468599,2022-12-18T02:00Z,Final,21,Phoenix Suns,PHX,118,3,New Orleans Pelicans,NO,114,PHX Arena,17071,2022-23
+401468600,2022-12-18T20:00Z,Final,2,Boston Celtics,BOS,92,19,Orlando Magic,ORL,95,TD Garden,19156,2022-23
+401468601,2022-12-18T22:00Z,Final,11,Indiana Pacers,IND,106,18,New York Knicks,NY,109,Gainbridge Fieldhouse,14513,2022-23
+401468602,2022-12-18T23:00Z,Final,8,Detroit Pistons,DET,121,17,Brooklyn Nets,BKN,124,Little Caesars Arena,19488,2022-23
+401468603,2022-12-18T23:00Z,Final,28,Toronto Raptors,TOR,110,9,Golden State Warriors,GS,126,Scotiabank Arena,19800,2022-23
+401468604,2022-12-19T00:00Z,Final,16,Minnesota Timberwolves,MIN,150,4,Chicago Bulls,CHI,126,Target Center,16294,2022-23
+401468605,2022-12-19T01:00Z,Final,7,Denver Nuggets,DEN,119,30,Charlotte Hornets,CHA,115,Ball Arena,19235,2022-23
+401468606,2022-12-19T02:30Z,Final,13,Los Angeles Lakers,LAL,119,27,Washington Wizards,WSH,117,crypto.com Arena,18153,2022-23
+401468607,2022-12-20T00:00Z,Final,5,Cleveland Cavaliers,CLE,122,26,Utah Jazz,UTAH,99,Rocket Arena,19432,2022-23
+401468608,2022-12-20T00:00Z,Final,20,Philadelphia 76ers,PHI,104,28,Toronto Raptors,TOR,101,Xfinity Mobile Arena,20408,2022-23
+401468609,2022-12-20T00:30Z,Final,1,Atlanta Hawks,ATL,126,19,Orlando Magic,ORL,125,State Farm Arena,17809,2022-23
+401468610,2022-12-20T01:00Z,Final,10,Houston Rockets,HOU,105,24,San Antonio Spurs,SA,124,Toyota Center (Houston),15928,2022-23
+401468611,2022-12-20T01:00Z,Final,16,Minnesota Timberwolves,MIN,116,6,Dallas Mavericks,DAL,106,Target Center,16627,2022-23
+401468612,2022-12-20T01:00Z,Final,3,New Orleans Pelicans,NO,119,15,Milwaukee Bucks,MIL,128,Smoothie King Center,18271,2022-23
+401468613,2022-12-20T01:00Z,Final,25,Oklahoma City Thunder,OKC,123,22,Portland Trail Blazers,POR,121,Paycom Center,14672,2022-23
+401468614,2022-12-20T02:00Z,Final,21,Phoenix Suns,PHX,130,13,Los Angeles Lakers,LAL,104,PHX Arena,17071,2022-23
+401468615,2022-12-20T03:00Z,Final,23,Sacramento Kings,SAC,119,30,Charlotte Hornets,CHA,125,Golden 1 Center,17803,2022-23
+401468616,2022-12-21T00:00Z,Final,8,Detroit Pistons,DET,111,26,Utah Jazz,UTAH,126,Little Caesars Arena,15622,2022-23
+401468617,2022-12-21T00:30Z,Final,14,Miami Heat,MIA,103,4,Chicago Bulls,CHI,113,Kaseya Center,19969,2022-23
+401468618,2022-12-21T00:30Z,Final,18,New York Knicks,NY,132,9,Golden State Warriors,GS,94,Madison Square Garden,19812,2022-23
+401468619,2022-12-21T02:00Z,Final,21,Phoenix Suns,PHX,110,27,Washington Wizards,WSH,113,PHX Arena,17071,2022-23
+401468620,2022-12-21T03:00Z,Final,7,Denver Nuggets,DEN,105,29,Memphis Grizzlies,MEM,91,Ball Arena,19605,2022-23
+401468621,2022-12-22T00:00Z,Final,5,Cleveland Cavaliers,CLE,114,15,Milwaukee Bucks,MIL,106,Rocket Arena,19432,2022-23
+401468622,2022-12-22T00:00Z,Final,20,Philadelphia 76ers,PHI,113,8,Detroit Pistons,DET,93,Xfinity Mobile Arena,20615,2022-23
+401468623,2022-12-22T00:30Z,Final,1,Atlanta Hawks,ATL,108,4,Chicago Bulls,CHI,110,State Farm Arena,17226,2022-23
+401468624,2022-12-22T00:30Z,Final,2,Boston Celtics,BOS,112,11,Indiana Pacers,IND,117,TD Garden,19156,2022-23
+401468625,2022-12-22T00:30Z,Final,17,Brooklyn Nets,BKN,143,9,Golden State Warriors,GS,113,Barclays Center,18026,2022-23
+401468626,2022-12-22T00:30Z,Final,18,New York Knicks,NY,106,28,Toronto Raptors,TOR,113,Madison Square Garden,19294,2022-23
+401468627,2022-12-22T01:00Z,Final,10,Houston Rockets,HOU,110,19,Orlando Magic,ORL,116,Toyota Center (Houston),15965,2022-23
+401468628,2022-12-22T01:00Z,Final,16,Minnesota Timberwolves,MIN,99,6,Dallas Mavericks,DAL,104,Target Center,16164,2022-23
+401468629,2022-12-22T01:00Z,Final,25,Oklahoma City Thunder,OKC,101,22,Portland Trail Blazers,POR,98,Paycom Center,15107,2022-23
+401468630,2022-12-22T03:00Z,Final,23,Sacramento Kings,SAC,134,13,Los Angeles Lakers,LAL,120,Golden 1 Center,17611,2022-23
+401468631,2022-12-22T03:30Z,Final,12,LA Clippers,LAC,126,30,Charlotte Hornets,CHA,105,crypto.com Arena,19068,2022-23
+401468632,2022-12-23T01:00Z,Final,3,New Orleans Pelicans,NO,126,24,San Antonio Spurs,SA,117,Smoothie King Center,16417,2022-23
+401468633,2022-12-23T02:00Z,Final,26,Utah Jazz,UTAH,120,27,Washington Wizards,WSH,112,Delta Center,18206,2022-23
+401468634,2022-12-24T00:00Z,Final,19,Orlando Magic,ORL,133,24,San Antonio Spurs,SA,113,Kia Center,18425,2022-23
+401468635,2022-12-24T00:00Z,Final,20,Philadelphia 76ers,PHI,119,12,LA Clippers,LAC,114,Xfinity Mobile Arena,19996,2022-23
+401468636,2022-12-24T00:30Z,Final,1,Atlanta Hawks,ATL,130,8,Detroit Pistons,DET,105,State Farm Arena,17028,2022-23
+401468637,2022-12-24T00:30Z,Final,2,Boston Celtics,BOS,121,16,Minnesota Timberwolves,MIN,109,TD Garden,19156,2022-23
+401468638,2022-12-24T00:30Z,Final,17,Brooklyn Nets,BKN,118,15,Milwaukee Bucks,MIL,100,Barclays Center,18169,2022-23
+401468639,2022-12-24T00:30Z,Final,5,Cleveland Cavaliers,CLE,107,28,Toronto Raptors,TOR,118,Rocket Arena,19432,2022-23
+401468640,2022-12-24T00:30Z,Final,18,New York Knicks,NY,117,4,Chicago Bulls,CHI,118,Madison Square Garden,19812,2022-23
+401468641,2022-12-24T01:00Z,Final,14,Miami Heat,MIA,108,11,Indiana Pacers,IND,111,Kaseya Center,19600,2022-23
+401468642,2022-12-24T01:00Z,Final,10,Houston Rockets,HOU,106,6,Dallas Mavericks,DAL,112,Toyota Center (Houston),16989,2022-23
+401468643,2022-12-24T01:00Z,Final,25,Oklahoma City Thunder,OKC,125,3,New Orleans Pelicans,NO,128,Paycom Center,15214,2022-23
+401468644,2022-12-24T02:00Z,Final,7,Denver Nuggets,DEN,120,22,Portland Trail Blazers,POR,107,Ball Arena,19619,2022-23
+401468645,2022-12-24T03:00Z,Final,21,Phoenix Suns,PHX,100,29,Memphis Grizzlies,MEM,125,PHX Arena,17071,2022-23
+401468646,2022-12-24T03:00Z,Final,23,Sacramento Kings,SAC,111,27,Washington Wizards,WSH,125,Golden 1 Center,17894,2022-23
+401468647,2022-12-24T03:30Z,Final,13,Los Angeles Lakers,LAL,130,30,Charlotte Hornets,CHA,134,crypto.com Arena,18997,2022-23
+401468648,2022-12-25T17:00Z,Final,18,New York Knicks,NY,112,20,Philadelphia 76ers,PHI,119,Madison Square Garden,19812,2022-23
+401468649,2022-12-25T19:30Z,Final,6,Dallas Mavericks,DAL,124,13,Los Angeles Lakers,LAL,115,American Airlines Center,20441,2022-23
+401468650,2022-12-25T22:00Z,Final,2,Boston Celtics,BOS,139,15,Milwaukee Bucks,MIL,118,TD Garden,19156,2022-23
+401468651,2022-12-26T01:00Z,Final,9,Golden State Warriors,GS,123,29,Memphis Grizzlies,MEM,109,Chase Center,18064,2022-23
+401468652,2022-12-26T03:30Z,Final,7,Denver Nuggets,DEN,128,21,Phoenix Suns,PHX,125,Ball Arena,19642,2022-23
+401468653,2022-12-27T00:00Z,Final,5,Cleveland Cavaliers,CLE,117,17,Brooklyn Nets,BKN,125,Rocket Arena,19432,2022-23
+401468654,2022-12-27T00:00Z,Final,8,Detroit Pistons,DET,131,12,LA Clippers,LAC,142,Little Caesars Arena,20190,2022-23
+401468655,2022-12-27T00:30Z,Final,14,Miami Heat,MIA,113,16,Minnesota Timberwolves,MIN,110,Kaseya Center,19911,2022-23
+401468656,2022-12-27T01:00Z,Final,4,Chicago Bulls,CHI,118,10,Houston Rockets,HOU,133,United Center,21561,2022-23
+401468657,2022-12-27T01:00Z,Final,3,New Orleans Pelicans,NO,113,11,Indiana Pacers,IND,93,Smoothie King Center,18636,2022-23
+401468658,2022-12-27T01:30Z,Final,24,San Antonio Spurs,SA,126,26,Utah Jazz,UTAH,122,Frost Bank Center,16351,2022-23
+401468659,2022-12-27T03:00Z,Final,22,Portland Trail Blazers,POR,124,30,Charlotte Hornets,CHA,113,Moda Center,19530,2022-23
+401468660,2022-12-28T00:00Z,Final,19,Orlando Magic,ORL,110,13,Los Angeles Lakers,LAL,129,Kia Center,19482,2022-23
+401468661,2022-12-28T00:00Z,Final,27,Washington Wizards,WSH,116,20,Philadelphia 76ers,PHI,111,Capital One Arena,20476,2022-23
+401468662,2022-12-28T00:30Z,Final,2,Boston Celtics,BOS,126,10,Houston Rockets,HOU,102,TD Garden,19156,2022-23
+401468663,2022-12-28T00:30Z,Final,11,Indiana Pacers,IND,129,1,Atlanta Hawks,ATL,114,Gainbridge Fieldhouse,16738,2022-23
+401468664,2022-12-28T00:30Z,Final,28,Toronto Raptors,TOR,113,12,LA Clippers,LAC,124,Scotiabank Arena,19800,2022-23
+401468665,2022-12-28T01:00Z,Final,29,Memphis Grizzlies,MEM,108,21,Phoenix Suns,PHX,125,FedExForum,18239,2022-23
+401468666,2022-12-28T01:00Z,Final,25,Oklahoma City Thunder,OKC,130,24,San Antonio Spurs,SA,114,Paycom Center,16229,2022-23
+401468667,2022-12-28T01:30Z,Final,6,Dallas Mavericks,DAL,126,18,New York Knicks,NY,121,American Airlines Center,20377,2022-23
+401468668,2022-12-28T03:00Z,Final,9,Golden State Warriors,GS,110,30,Charlotte Hornets,CHA,105,Chase Center,18064,2022-23
+401468669,2022-12-28T03:00Z,Final,23,Sacramento Kings,SAC,106,7,Denver Nuggets,DEN,113,Golden 1 Center,17937,2022-23
+401468670,2022-12-29T00:00Z,Final,8,Detroit Pistons,DET,121,19,Orlando Magic,ORL,101,Little Caesars Arena,20190,2022-23
+401468671,2022-12-29T00:00Z,Final,27,Washington Wizards,WSH,127,21,Phoenix Suns,PHX,102,Capital One Arena,20476,2022-23
+401468672,2022-12-29T00:30Z,Final,1,Atlanta Hawks,ATL,107,17,Brooklyn Nets,BKN,108,State Farm Arena,18030,2022-23
+401468673,2022-12-29T00:30Z,Final,14,Miami Heat,MIA,112,13,Los Angeles Lakers,LAL,98,Kaseya Center,20221,2022-23
+401468674,2022-12-29T01:00Z,Final,4,Chicago Bulls,CHI,119,15,Milwaukee Bucks,MIL,113,United Center,21537,2022-23
+401468675,2022-12-29T01:00Z,Final,3,New Orleans Pelicans,NO,119,16,Minnesota Timberwolves,MIN,118,Smoothie King Center,18669,2022-23
+401468676,2022-12-29T03:00Z,Final,9,Golden State Warriors,GS,112,26,Utah Jazz,UTAH,107,Chase Center,18064,2022-23
+401468677,2022-12-29T03:00Z,Final,23,Sacramento Kings,SAC,127,7,Denver Nuggets,DEN,126,Golden 1 Center,17985,2022-23
+401468678,2022-12-30T00:00Z,Final,30,Charlotte Hornets,CHA,121,25,Oklahoma City Thunder,OKC,113,Spectrum Center,19425,2022-23
+401468679,2022-12-30T00:00Z,Final,11,Indiana Pacers,IND,135,5,Cleveland Cavaliers,CLE,126,Gainbridge Fieldhouse,17274,2022-23
+401468680,2022-12-30T00:30Z,Final,2,Boston Celtics,BOS,116,12,LA Clippers,LAC,110,TD Garden,19156,2022-23
+401468681,2022-12-30T00:30Z,Final,28,Toronto Raptors,TOR,106,29,Memphis Grizzlies,MEM,119,Scotiabank Arena,19800,2022-23
+401468682,2022-12-30T01:00Z,Final,24,San Antonio Spurs,SA,122,18,New York Knicks,NY,115,Frost Bank Center,18354,2022-23
+401468683,2022-12-30T01:30Z,Final,6,Dallas Mavericks,DAL,129,10,Houston Rockets,HOU,114,American Airlines Center,20307,2022-23
+401468684,2022-12-31T00:00Z,Final,19,Orlando Magic,ORL,100,27,Washington Wizards,WSH,119,Kia Center,19040,2022-23
+401468685,2022-12-31T00:30Z,Final,1,Atlanta Hawks,ATL,121,13,Los Angeles Lakers,LAL,130,State Farm Arena,17984,2022-23
+401468686,2022-12-31T00:30Z,Final,28,Toronto Raptors,TOR,113,21,Phoenix Suns,PHX,104,Scotiabank Arena,19800,2022-23
+401468687,2022-12-31T01:00Z,Final,4,Chicago Bulls,CHI,132,8,Detroit Pistons,DET,118,United Center,21667,2022-23
+401468688,2022-12-31T01:00Z,Final,15,Milwaukee Bucks,MIL,123,16,Minnesota Timberwolves,MIN,114,Fiserv Forum,18018,2022-23
+401468689,2022-12-31T01:30Z,Final,3,New Orleans Pelicans,NO,127,20,Philadelphia 76ers,PHI,116,Smoothie King Center,18656,2022-23
+401468690,2022-12-31T02:00Z,Final,7,Denver Nuggets,DEN,124,14,Miami Heat,MIA,119,Ball Arena,19638,2022-23
+401468691,2022-12-31T03:00Z,Final,9,Golden State Warriors,GS,118,22,Portland Trail Blazers,POR,112,Chase Center,18064,2022-23
+401468692,2022-12-31T03:00Z,Final,23,Sacramento Kings,SAC,126,26,Utah Jazz,UTAH,125,Golden 1 Center,17946,2022-23
+401468693,2022-12-31T20:00Z,Final,11,Indiana Pacers,IND,131,12,LA Clippers,LAC,130,Gainbridge Fieldhouse,16731,2022-23
+401468694,2023-01-01T00:00Z,Final,30,Charlotte Hornets,CHA,106,17,Brooklyn Nets,BKN,123,Spectrum Center,19386,2022-23
+401468695,2023-01-01T00:00Z,Final,4,Chicago Bulls,CHI,102,5,Cleveland Cavaliers,CLE,103,United Center,21524,2022-23
+401468696,2023-01-01T00:00Z,Final,10,Houston Rockets,HOU,88,18,New York Knicks,NY,108,Toyota Center (Houston),18055,2022-23
+401468697,2023-01-01T00:00Z,Final,24,San Antonio Spurs,SA,125,6,Dallas Mavericks,DAL,126,Frost Bank Center,18354,2022-23
+401468698,2023-01-01T01:00Z,Final,29,Memphis Grizzlies,MEM,116,3,New Orleans Pelicans,NO,101,FedExForum,17951,2022-23
+401468699,2023-01-01T01:00Z,Final,16,Minnesota Timberwolves,MIN,104,8,Detroit Pistons,DET,116,Target Center,16233,2022-23
+401468700,2023-01-01T01:00Z,Final,25,Oklahoma City Thunder,OKC,96,20,Philadelphia 76ers,PHI,115,Paycom Center,17147,2022-23
+401468701,2023-01-01T02:00Z,Final,26,Utah Jazz,UTAH,123,14,Miami Heat,MIA,126,Delta Center,18206,2022-23
+401468702,2023-01-02T01:00Z,Final,29,Memphis Grizzlies,MEM,118,23,Sacramento Kings,SAC,108,FedExForum,17794,2022-23
+401468703,2023-01-02T01:00Z,Final,15,Milwaukee Bucks,MIL,95,27,Washington Wizards,WSH,118,Fiserv Forum,17341,2022-23
+401468704,2023-01-02T01:00Z,Final,7,Denver Nuggets,DEN,123,2,Boston Celtics,BOS,111,Ball Arena,19641,2022-23
+401468705,2023-01-02T20:00Z,Final,18,New York Knicks,NY,102,21,Phoenix Suns,PHX,83,Madison Square Garden,19812,2022-23
+401468706,2023-01-03T00:00Z,Final,30,Charlotte Hornets,CHA,115,13,Los Angeles Lakers,LAL,121,Spectrum Center,19210,2022-23
+401468707,2023-01-03T00:00Z,Final,5,Cleveland Cavaliers,CLE,145,4,Chicago Bulls,CHI,134,Rocket Arena,19432,2022-23
+401468708,2023-01-03T00:00Z,Final,11,Indiana Pacers,IND,122,28,Toronto Raptors,TOR,114,Gainbridge Fieldhouse,14054,2022-23
+401468709,2023-01-03T00:00Z,Final,20,Philadelphia 76ers,PHI,120,3,New Orleans Pelicans,NO,111,Xfinity Mobile Arena,20531,2022-23
+401468710,2023-01-03T00:30Z,Final,17,Brooklyn Nets,BKN,139,24,San Antonio Spurs,SA,103,Barclays Center,18224,2022-23
+401468711,2023-01-03T01:00Z,Final,10,Houston Rockets,HOU,106,6,Dallas Mavericks,DAL,111,Toyota Center (Houston),18055,2022-23
+401468712,2023-01-03T01:00Z,Final,16,Minnesota Timberwolves,MIN,124,7,Denver Nuggets,DEN,111,Target Center,15962,2022-23
+401468713,2023-01-03T03:00Z,Final,9,Golden State Warriors,GS,143,1,Atlanta Hawks,ATL,141,Chase Center,18064,2022-23
+401468714,2023-01-03T03:00Z,Final,22,Portland Trail Blazers,POR,135,8,Detroit Pistons,DET,106,Moda Center,19393,2022-23
+401468715,2023-01-03T03:30Z,Final,12,LA Clippers,LAC,100,14,Miami Heat,MIA,110,crypto.com Arena,19068,2022-23
+401468716,2023-01-04T01:00Z,Final,15,Milwaukee Bucks,MIL,123,27,Washington Wizards,WSH,113,Fiserv Forum,17341,2022-23
+401468717,2023-01-04T01:00Z,Final,25,Oklahoma City Thunder,OKC,150,2,Boston Celtics,BOS,117,Paycom Center,16778,2022-23
+401468718,2023-01-04T02:00Z,Final,26,Utah Jazz,UTAH,115,23,Sacramento Kings,SAC,117,Delta Center,18206,2022-23
+401468719,2023-01-05T00:00Z,Final,30,Charlotte Hornets,CHA,107,29,Memphis Grizzlies,MEM,131,Spectrum Center,19249,2022-23
+401468720,2023-01-05T00:00Z,Final,5,Cleveland Cavaliers,CLE,90,21,Phoenix Suns,PHX,88,Rocket Arena,19432,2022-23
+401468721,2023-01-05T00:00Z,Final,19,Orlando Magic,ORL,126,25,Oklahoma City Thunder,OKC,115,Kia Center,18925,2022-23
+401468722,2023-01-05T00:00Z,Final,20,Philadelphia 76ers,PHI,129,11,Indiana Pacers,IND,126,Xfinity Mobile Arena,20033,2022-23
+401468723,2023-01-05T00:30Z,Final,18,New York Knicks,NY,117,24,San Antonio Spurs,SA,114,Madison Square Garden,19812,2022-23
+401468724,2023-01-05T00:30Z,Final,28,Toronto Raptors,TOR,101,15,Milwaukee Bucks,MIL,104,Scotiabank Arena,19800,2022-23
+401468725,2023-01-05T01:00Z,Final,4,Chicago Bulls,CHI,121,17,Brooklyn Nets,BKN,112,United Center,21418,2022-23
+401468726,2023-01-05T01:00Z,Final,16,Minnesota Timberwolves,MIN,113,22,Portland Trail Blazers,POR,106,Target Center,15434,2022-23
+401468727,2023-01-05T01:00Z,Final,3,New Orleans Pelicans,NO,119,10,Houston Rockets,HOU,108,Smoothie King Center,17295,2022-23
+401468728,2023-01-05T03:00Z,Final,9,Golden State Warriors,GS,119,8,Detroit Pistons,DET,122,Chase Center,18064,2022-23
+401468729,2023-01-05T03:00Z,Final,13,Los Angeles Lakers,LAL,112,14,Miami Heat,MIA,109,crypto.com Arena,18997,2022-23
+401468730,2023-01-05T03:00Z,Final,23,Sacramento Kings,SAC,117,1,Atlanta Hawks,ATL,120,Golden 1 Center,17611,2022-23
+401468731,2023-01-06T00:00Z,Final,19,Orlando Magic,ORL,115,29,Memphis Grizzlies,MEM,123,Kia Center,19184,2022-23
+401468732,2023-01-06T00:30Z,Final,6,Dallas Mavericks,DAL,95,2,Boston Celtics,BOS,124,American Airlines Center,20413,2022-23
+401468733,2023-01-06T01:00Z,Final,10,Houston Rockets,HOU,114,26,Utah Jazz,UTAH,131,Toyota Center (Houston),16320,2022-23
+401468734,2023-01-06T03:00Z,Final,7,Denver Nuggets,DEN,122,12,LA Clippers,LAC,91,Ball Arena,19087,2022-23
+401468735,2023-01-07T00:00Z,Final,11,Indiana Pacers,IND,108,22,Portland Trail Blazers,POR,99,Gainbridge Fieldhouse,16548,2022-23
+401468736,2023-01-07T00:00Z,Final,20,Philadelphia 76ers,PHI,112,4,Chicago Bulls,CHI,126,Xfinity Mobile Arena,20766,2022-23
+401468737,2023-01-07T00:30Z,Final,28,Toronto Raptors,TOR,108,18,New York Knicks,NY,112,Scotiabank Arena,19800,2022-23
+401468741,2023-01-07T00:30Z,Final,3,New Orleans Pelicans,NO,102,17,Brooklyn Nets,BKN,108,Smoothie King Center,18636,2022-23
+401468738,2023-01-07T01:00Z,Final,15,Milwaukee Bucks,MIL,109,30,Charlotte Hornets,CHA,138,Fiserv Forum,17627,2022-23
+401468739,2023-01-07T01:00Z,Final,25,Oklahoma City Thunder,OKC,127,27,Washington Wizards,WSH,110,Paycom Center,14790,2022-23
+401468740,2023-01-07T01:00Z,Final,24,San Antonio Spurs,SA,121,8,Detroit Pistons,DET,109,Frost Bank Center,13107,2022-23
+401468742,2023-01-07T02:00Z,Final,16,Minnesota Timberwolves,MIN,128,12,LA Clippers,LAC,115,Target Center,17136,2022-23
+401468743,2023-01-07T02:00Z,Final,7,Denver Nuggets,DEN,121,5,Cleveland Cavaliers,CLE,108,Ball Arena,19638,2022-23
+401468744,2023-01-07T03:00Z,Final,21,Phoenix Suns,PHX,96,14,Miami Heat,MIA,104,PHX Arena,17071,2022-23
+401468745,2023-01-07T03:30Z,Final,13,Los Angeles Lakers,LAL,130,1,Atlanta Hawks,ATL,114,crypto.com Arena,18997,2022-23
+401468746,2023-01-07T23:00Z,Final,24,San Antonio Spurs,SA,116,2,Boston Celtics,BOS,121,Frost Bank Center,18354,2022-23
+401468747,2023-01-08T01:00Z,Final,4,Chicago Bulls,CHI,126,26,Utah Jazz,UTAH,118,United Center,21694,2022-23
+401468748,2023-01-08T01:00Z,Final,6,Dallas Mavericks,DAL,127,3,New Orleans Pelicans,NO,117,American Airlines Center,20300,2022-23
+401468749,2023-01-08T01:30Z,Final,9,Golden State Warriors,GS,101,19,Orlando Magic,ORL,115,Chase Center,18064,2022-23
+401468750,2023-01-08T03:00Z,Final,23,Sacramento Kings,SAC,134,13,Los Angeles Lakers,LAL,136,Golden 1 Center,17611,2022-23
+401468751,2023-01-08T20:00Z,Final,8,Detroit Pistons,DET,111,20,Philadelphia 76ers,PHI,123,Little Caesars Arena,18898,2022-23
+401468752,2023-01-08T20:30Z,Final,28,Toronto Raptors,TOR,117,22,Portland Trail Blazers,POR,105,Scotiabank Arena,19800,2022-23
+401468753,2023-01-08T22:00Z,Final,11,Indiana Pacers,IND,116,30,Charlotte Hornets,CHA,111,Gainbridge Fieldhouse,15805,2022-23
+401468754,2023-01-08T23:00Z,Final,14,Miami Heat,MIA,101,17,Brooklyn Nets,BKN,102,Kaseya Center,19901,2022-23
+401468755,2023-01-08T23:00Z,Final,29,Memphis Grizzlies,MEM,123,26,Utah Jazz,UTAH,118,FedExForum,17794,2022-23
+401468756,2023-01-09T00:00Z,Final,10,Houston Rockets,HOU,96,16,Minnesota Timberwolves,MIN,104,Toyota Center (Houston),18055,2022-23
+401468757,2023-01-09T00:00Z,Final,25,Oklahoma City Thunder,OKC,120,6,Dallas Mavericks,DAL,109,Paycom Center,16317,2022-23
+401468758,2023-01-09T01:00Z,Final,21,Phoenix Suns,PHX,98,5,Cleveland Cavaliers,CLE,112,PHX Arena,17071,2022-23
+401468759,2023-01-09T02:00Z,Final,12,LA Clippers,LAC,108,1,Atlanta Hawks,ATL,112,crypto.com Arena,19068,2022-23
+401468760,2023-01-10T00:00Z,Final,27,Washington Wizards,WSH,112,3,New Orleans Pelicans,NO,132,Capital One Arena,16223,2022-23
+401468761,2023-01-10T00:30Z,Final,2,Boston Celtics,BOS,107,4,Chicago Bulls,CHI,99,TD Garden,19156,2022-23
+401468762,2023-01-10T00:30Z,Final,18,New York Knicks,NY,107,15,Milwaukee Bucks,MIL,111,Madison Square Garden,18167,2022-23
+401468763,2023-01-10T01:00Z,Final,29,Memphis Grizzlies,MEM,121,24,San Antonio Spurs,SA,113,FedExForum,16013,2022-23
+401468764,2023-01-10T02:00Z,Final,7,Denver Nuggets,DEN,122,13,Los Angeles Lakers,LAL,109,Ball Arena,19609,2022-23
+401468765,2023-01-10T03:00Z,Final,23,Sacramento Kings,SAC,136,19,Orlando Magic,ORL,111,Golden 1 Center,16499,2022-23
+401468767,2023-01-11T00:00Z,Final,20,Philadelphia 76ers,PHI,147,8,Detroit Pistons,DET,116,Xfinity Mobile Arena,20221,2022-23
+401468766,2023-01-11T00:30Z,Final,14,Miami Heat,MIA,112,25,Oklahoma City Thunder,OKC,111,Kaseya Center,19600,2022-23
+401468768,2023-01-11T00:30Z,Final,28,Toronto Raptors,TOR,132,30,Charlotte Hornets,CHA,120,Scotiabank Arena,19800,2022-23
+401468769,2023-01-11T02:00Z,Final,26,Utah Jazz,UTAH,116,5,Cleveland Cavaliers,CLE,114,Delta Center,18206,2022-23
+401468770,2023-01-11T03:00Z,Final,9,Golden State Warriors,GS,113,21,Phoenix Suns,PHX,125,Chase Center,18064,2022-23
+401468771,2023-01-11T03:00Z,Final,22,Portland Trail Blazers,POR,106,19,Orlando Magic,ORL,109,Moda Center,18176,2022-23
+401468772,2023-01-11T03:30Z,Final,12,LA Clippers,LAC,113,6,Dallas Mavericks,DAL,101,crypto.com Arena,15828,2022-23
+401468773,2023-01-12T00:00Z,Final,8,Detroit Pistons,DET,135,16,Minnesota Timberwolves,MIN,118,Little Caesars Arena,15906,2022-23
+401468774,2023-01-12T00:00Z,Final,27,Washington Wizards,WSH,100,4,Chicago Bulls,CHI,97,Capital One Arena,17032,2022-23
+401468775,2023-01-12T00:30Z,Final,1,Atlanta Hawks,ATL,105,15,Milwaukee Bucks,MIL,114,State Farm Arena,17154,2022-23
+401468776,2023-01-12T00:30Z,Final,2,Boston Celtics,BOS,125,3,New Orleans Pelicans,NO,114,TD Garden,19156,2022-23
+401468777,2023-01-12T00:30Z,Final,18,New York Knicks,NY,119,11,Indiana Pacers,IND,113,Madison Square Garden,18249,2022-23
+401468778,2023-01-12T01:00Z,Final,29,Memphis Grizzlies,MEM,135,24,San Antonio Spurs,SA,129,FedExForum,16454,2022-23
+401468779,2023-01-12T03:00Z,Final,7,Denver Nuggets,DEN,126,21,Phoenix Suns,PHX,97,Ball Arena,18872,2022-23
+401468780,2023-01-12T03:00Z,Final,23,Sacramento Kings,SAC,135,10,Houston Rockets,HOU,115,Golden 1 Center,16057,2022-23
+401468781,2023-01-13T00:00Z,Final,20,Philadelphia 76ers,PHI,114,25,Oklahoma City Thunder,OKC,133,Xfinity Mobile Arena,20892,2022-23
+401468782,2023-01-13T00:30Z,Final,17,Brooklyn Nets,BKN,98,2,Boston Celtics,BOS,109,Barclays Center,18125,2022-23
+401468783,2023-01-13T00:30Z,Final,14,Miami Heat,MIA,108,15,Milwaukee Bucks,MIL,102,Kaseya Center,19600,2022-23
+401468784,2023-01-13T00:30Z,Final,28,Toronto Raptors,TOR,124,30,Charlotte Hornets,CHA,114,Scotiabank Arena,19800,2022-23
+401468785,2023-01-13T03:00Z,Final,13,Los Angeles Lakers,LAL,115,6,Dallas Mavericks,DAL,119,crypto.com Arena,18997,2022-23
+401468786,2023-01-13T03:00Z,Final,22,Portland Trail Blazers,POR,113,5,Cleveland Cavaliers,CLE,119,Moda Center,18105,2022-23
+401468787,2023-01-14T00:00Z,Final,8,Detroit Pistons,DET,110,3,New Orleans Pelicans,NO,116,Little Caesars Arena,18989,2022-23
+401468788,2023-01-14T00:00Z,Final,11,Indiana Pacers,IND,111,1,Atlanta Hawks,ATL,113,Gainbridge Fieldhouse,16071,2022-23
+401468789,2023-01-14T00:00Z,Final,27,Washington Wizards,WSH,108,18,New York Knicks,NY,112,Capital One Arena,20476,2022-23
+401468790,2023-01-14T00:30Z,Final,24,San Antonio Spurs,SA,113,9,Golden State Warriors,GS,144,Alamodome,68323,2022-23
+401468791,2023-01-14T01:00Z,Final,4,Chicago Bulls,CHI,110,25,Oklahoma City Thunder,OKC,124,United Center,21342,2022-23
+401468792,2023-01-14T01:00Z,Final,16,Minnesota Timberwolves,MIN,121,21,Phoenix Suns,PHX,116,Target Center,16460,2022-23
+401468793,2023-01-14T02:00Z,Final,26,Utah Jazz,UTAH,112,19,Orlando Magic,ORL,108,Delta Center,18206,2022-23
+401468794,2023-01-14T03:00Z,Final,12,LA Clippers,LAC,103,7,Denver Nuggets,DEN,115,crypto.com Arena,16005,2022-23
+401468795,2023-01-14T03:00Z,Final,23,Sacramento Kings,SAC,139,10,Houston Rockets,HOU,114,Golden 1 Center,17894,2022-23
+401468796,2023-01-14T18:00Z,Final,14,Miami Heat,MIA,111,15,Milwaukee Bucks,MIL,95,Kaseya Center,19620,2022-23
+401468797,2023-01-15T00:00Z,Final,30,Charlotte Hornets,CHA,106,2,Boston Celtics,BOS,122,Spectrum Center,19608,2022-23
+401468798,2023-01-15T00:00Z,Final,11,Indiana Pacers,IND,112,29,Memphis Grizzlies,MEM,130,Gainbridge Fieldhouse,17274,2022-23
+401468799,2023-01-15T00:30Z,Final,28,Toronto Raptors,TOR,103,1,Atlanta Hawks,ATL,114,Scotiabank Arena,19800,2022-23
+401468800,2023-01-15T01:00Z,Final,16,Minnesota Timberwolves,MIN,110,5,Cleveland Cavaliers,CLE,102,Target Center,17136,2022-23
+401468801,2023-01-15T02:00Z,Final,26,Utah Jazz,UTAH,117,20,Philadelphia 76ers,PHI,118,Delta Center,18206,2022-23
+401468802,2023-01-15T03:00Z,Final,22,Portland Trail Blazers,POR,136,6,Dallas Mavericks,DAL,119,Moda Center,19393,2022-23
+401468803,2023-01-15T18:00Z,Final,8,Detroit Pistons,DET,104,18,New York Knicks,NY,117,Little Caesars Arena,19894,2022-23
+401468804,2023-01-15T20:00Z,Final,12,LA Clippers,LAC,121,10,Houston Rockets,HOU,100,crypto.com Arena,17238,2022-23
+401468805,2023-01-15T20:30Z,Final,4,Chicago Bulls,CHI,132,9,Golden State Warriors,GS,118,United Center,20139,2022-23
+401468806,2023-01-15T23:00Z,Final,17,Brooklyn Nets,BKN,102,25,Oklahoma City Thunder,OKC,112,Barclays Center,18165,2022-23
+401468807,2023-01-16T00:00Z,Final,24,San Antonio Spurs,SA,119,23,Sacramento Kings,SAC,132,Frost Bank Center,12339,2022-23
+401468808,2023-01-16T01:00Z,Final,7,Denver Nuggets,DEN,119,19,Orlando Magic,ORL,116,Ball Arena,19641,2022-23
+401468809,2023-01-16T02:00Z,Final,22,Portland Trail Blazers,POR,140,6,Dallas Mavericks,DAL,123,Moda Center,19393,2022-23
+401468810,2023-01-16T02:30Z,Final,13,Los Angeles Lakers,LAL,112,20,Philadelphia 76ers,PHI,113,crypto.com Arena,18020,2022-23
+401468811,2023-01-16T18:00Z,Final,30,Charlotte Hornets,CHA,118,2,Boston Celtics,BOS,130,Spectrum Center,19227,2022-23
+401468812,2023-01-16T19:30Z,Final,15,Milwaukee Bucks,MIL,132,11,Indiana Pacers,IND,119,Fiserv Forum,17412,2022-23
+401468813,2023-01-16T20:00Z,Final,5,Cleveland Cavaliers,CLE,113,3,New Orleans Pelicans,NO,103,Rocket Arena,19432,2022-23
+401468814,2023-01-16T20:00Z,Final,18,New York Knicks,NY,121,28,Toronto Raptors,TOR,123,Madison Square Garden,19812,2022-23
+401468815,2023-01-16T20:00Z,Final,27,Washington Wizards,WSH,118,9,Golden State Warriors,GS,127,Capital One Arena,20476,2022-23
+401468816,2023-01-16T20:30Z,Final,1,Atlanta Hawks,ATL,121,14,Miami Heat,MIA,113,State Farm Arena,18007,2022-23
+401468817,2023-01-16T21:00Z,Final,16,Minnesota Timberwolves,MIN,125,26,Utah Jazz,UTAH,126,Target Center,16477,2022-23
+401468818,2023-01-16T23:00Z,Final,29,Memphis Grizzlies,MEM,136,21,Phoenix Suns,PHX,106,FedExForum,17794,2022-23
+401468819,2023-01-17T03:30Z,Final,13,Los Angeles Lakers,LAL,140,10,Houston Rockets,HOU,132,crypto.com Arena,17657,2022-23
+401468820,2023-01-18T00:30Z,Final,15,Milwaukee Bucks,MIL,130,28,Toronto Raptors,TOR,122,Fiserv Forum,17341,2022-23
+401468821,2023-01-18T01:00Z,Final,24,San Antonio Spurs,SA,106,17,Brooklyn Nets,BKN,98,Frost Bank Center,13532,2022-23
+401468822,2023-01-18T02:00Z,Final,7,Denver Nuggets,DEN,122,22,Portland Trail Blazers,POR,113,Ball Arena,18258,2022-23
+401468823,2023-01-18T03:00Z,Final,12,LA Clippers,LAC,110,20,Philadelphia 76ers,PHI,120,crypto.com Arena,15155,2022-23
+401468824,2023-01-19T00:30Z,Final,18,New York Knicks,NY,105,27,Washington Wizards,WSH,116,Madison Square Garden,19164,2022-23
+401468825,2023-01-19T00:30Z,Final,6,Dallas Mavericks,DAL,122,1,Atlanta Hawks,ATL,130,American Airlines Center,20125,2022-23
+401468826,2023-01-19T01:00Z,Final,10,Houston Rockets,HOU,117,30,Charlotte Hornets,CHA,122,Toyota Center (Houston),15678,2022-23
+401468827,2023-01-19T01:00Z,Final,29,Memphis Grizzlies,MEM,115,5,Cleveland Cavaliers,CLE,114,FedExForum,16892,2022-23
+401468828,2023-01-19T01:00Z,Final,3,New Orleans Pelicans,NO,98,14,Miami Heat,MIA,124,Smoothie King Center,17736,2022-23
+401468829,2023-01-19T01:00Z,Final,25,Oklahoma City Thunder,OKC,126,11,Indiana Pacers,IND,106,Paycom Center,14748,2022-23
+401468830,2023-01-19T02:00Z,Final,26,Utah Jazz,UTAH,126,12,LA Clippers,LAC,103,Delta Center,18206,2022-23
+401468831,2023-01-19T03:12Z,Final,7,Denver Nuggets,DEN,122,16,Minnesota Timberwolves,MIN,118,Ball Arena,16112,2022-23
+401468832,2023-01-19T03:30Z,Final,13,Los Angeles Lakers,LAL,111,23,Sacramento Kings,SAC,116,crypto.com Arena,18142,2022-23
+401468833,2023-01-19T20:00Z,Final,8,Detroit Pistons,DET,108,4,Chicago Bulls,CHI,126,Bercy Arena,15885,2022-23
+401468834,2023-01-20T00:30Z,Final,2,Boston Celtics,BOS,121,9,Golden State Warriors,GS,118,TD Garden,19156,2022-23
+401468835,2023-01-20T01:00Z,Final,16,Minnesota Timberwolves,MIN,128,28,Toronto Raptors,TOR,126,Target Center,16318,2022-23
+401468836,2023-01-20T03:00Z,Final,21,Phoenix Suns,PHX,117,17,Brooklyn Nets,BKN,112,PHX Arena,17071,2022-23
+401468837,2023-01-20T03:00Z,Final,22,Portland Trail Blazers,POR,95,20,Philadelphia 76ers,PHI,105,Moda Center,18113,2022-23
+401468838,2023-01-21T00:00Z,Final,19,Orlando Magic,ORL,123,3,New Orleans Pelicans,NO,110,Kia Center,19025,2022-23
+401468839,2023-01-21T00:30Z,Final,1,Atlanta Hawks,ATL,139,18,New York Knicks,NY,124,State Farm Arena,17711,2022-23
+401468840,2023-01-21T00:30Z,Final,5,Cleveland Cavaliers,CLE,114,9,Golden State Warriors,GS,120,Rocket Arena,19432,2022-23
+401468841,2023-01-21T00:30Z,Final,6,Dallas Mavericks,DAL,115,14,Miami Heat,MIA,90,American Airlines Center,20326,2022-23
+401468842,2023-01-21T01:00Z,Final,24,San Antonio Spurs,SA,126,12,LA Clippers,LAC,131,Frost Bank Center,15190,2022-23
+401468843,2023-01-21T02:00Z,Final,7,Denver Nuggets,DEN,134,11,Indiana Pacers,IND,111,Ball Arena,19609,2022-23
+401468844,2023-01-21T02:00Z,Final,26,Utah Jazz,UTAH,106,17,Brooklyn Nets,BKN,117,Delta Center,18206,2022-23
+401468845,2023-01-21T03:00Z,Final,13,Los Angeles Lakers,LAL,122,29,Memphis Grizzlies,MEM,121,crypto.com Arena,18997,2022-23
+401468846,2023-01-21T03:00Z,Final,23,Sacramento Kings,SAC,118,25,Oklahoma City Thunder,OKC,113,Golden 1 Center,17932,2022-23
+401468847,2023-01-21T22:00Z,Final,28,Toronto Raptors,TOR,104,2,Boston Celtics,BOS,106,Scotiabank Arena,19800,2022-23
+401468848,2023-01-22T00:00Z,Final,27,Washington Wizards,WSH,138,19,Orlando Magic,ORL,118,Capital One Arena,18171,2022-23
+401468849,2023-01-22T00:30Z,Final,1,Atlanta Hawks,ATL,118,30,Charlotte Hornets,CHA,122,State Farm Arena,17928,2022-23
+401468850,2023-01-22T00:30Z,Final,5,Cleveland Cavaliers,CLE,114,15,Milwaukee Bucks,MIL,102,Rocket Arena,19432,2022-23
+401468851,2023-01-22T01:00Z,Final,16,Minnesota Timberwolves,MIN,113,10,Houston Rockets,HOU,104,Target Center,17136,2022-23
+401468852,2023-01-22T02:00Z,Final,21,Phoenix Suns,PHX,112,11,Indiana Pacers,IND,107,PHX Arena,17071,2022-23
+401468853,2023-01-22T03:00Z,Final,23,Sacramento Kings,SAC,127,20,Philadelphia 76ers,PHI,129,Golden 1 Center,17861,2022-23
+401468856,2023-01-22T19:30Z,Final,6,Dallas Mavericks,DAL,98,12,LA Clippers,LAC,112,American Airlines Center,20026,2022-23
+401468854,2023-01-22T20:30Z,Final,14,Miami Heat,MIA,100,3,New Orleans Pelicans,NO,96,Kaseya Center,19600,2022-23
+401468855,2023-01-22T23:00Z,Final,28,Toronto Raptors,TOR,125,18,New York Knicks,NY,116,Scotiabank Arena,19261,2022-23
+401468857,2023-01-23T01:00Z,Final,7,Denver Nuggets,DEN,99,25,Oklahoma City Thunder,OKC,101,Ball Arena,19557,2022-23
+401468858,2023-01-23T01:00Z,Final,21,Phoenix Suns,PHX,112,29,Memphis Grizzlies,MEM,110,PHX Arena,17071,2022-23
+401468859,2023-01-23T01:30Z,Final,9,Golden State Warriors,GS,116,17,Brooklyn Nets,BKN,120,Chase Center,18064,2022-23
+401468860,2023-01-23T02:00Z,Final,22,Portland Trail Blazers,POR,112,13,Los Angeles Lakers,LAL,121,Moda Center,19393,2022-23
+401468861,2023-01-24T00:00Z,Final,8,Detroit Pistons,DET,130,15,Milwaukee Bucks,MIL,150,Little Caesars Arena,18011,2022-23
+401468862,2023-01-24T00:00Z,Final,19,Orlando Magic,ORL,113,2,Boston Celtics,BOS,98,Kia Center,19196,2022-23
+401468863,2023-01-24T01:00Z,Final,4,Chicago Bulls,CHI,111,1,Atlanta Hawks,ATL,100,United Center,20938,2022-23
+401468864,2023-01-24T01:00Z,Final,10,Houston Rockets,HOU,119,16,Minnesota Timberwolves,MIN,114,Toyota Center (Houston),13811,2022-23
+401468865,2023-01-24T02:00Z,Final,26,Utah Jazz,UTAH,120,30,Charlotte Hornets,CHA,102,Delta Center,18206,2022-23
+401468866,2023-01-24T03:00Z,Final,22,Portland Trail Blazers,POR,147,24,San Antonio Spurs,SA,127,Moda Center,17874,2022-23
+401468867,2023-01-24T03:30Z,Final,23,Sacramento Kings,SAC,133,29,Memphis Grizzlies,MEM,100,Golden 1 Center,17821,2022-23
+401468868,2023-01-25T00:00Z,Final,11,Indiana Pacers,IND,116,4,Chicago Bulls,CHI,110,Gainbridge Fieldhouse,16102,2022-23
+401468869,2023-01-25T00:30Z,Final,14,Miami Heat,MIA,98,2,Boston Celtics,BOS,95,Kaseya Center,19705,2022-23
+401468870,2023-01-25T00:30Z,Final,18,New York Knicks,NY,105,5,Cleveland Cavaliers,CLE,103,Madison Square Garden,19812,2022-23
+401468871,2023-01-25T01:00Z,Final,3,New Orleans Pelicans,NO,98,7,Denver Nuggets,DEN,99,Smoothie King Center,14699,2022-23
+401468872,2023-01-25T01:30Z,Final,6,Dallas Mavericks,DAL,126,27,Washington Wizards,WSH,127,American Airlines Center,20077,2022-23
+401468873,2023-01-25T02:00Z,Final,21,Phoenix Suns,PHX,128,30,Charlotte Hornets,CHA,97,PHX Arena,17071,2022-23
+401468874,2023-01-25T03:00Z,Final,13,Los Angeles Lakers,LAL,115,12,LA Clippers,LAC,133,crypto.com Arena,17604,2022-23
+401468875,2023-01-26T00:00Z,Final,19,Orlando Magic,ORL,126,11,Indiana Pacers,IND,120,Kia Center,18846,2022-23
+401468876,2023-01-26T00:30Z,Final,20,Philadelphia 76ers,PHI,137,17,Brooklyn Nets,BKN,133,Xfinity Mobile Arena,19772,2022-23
+401468877,2023-01-26T01:00Z,Final,10,Houston Rockets,HOU,103,27,Washington Wizards,WSH,108,Toyota Center (Houston),15302,2022-23
+401468878,2023-01-26T01:00Z,Final,15,Milwaukee Bucks,MIL,107,7,Denver Nuggets,DEN,99,Fiserv Forum,17352,2022-23
+401468879,2023-01-26T01:00Z,Final,3,New Orleans Pelicans,NO,102,16,Minnesota Timberwolves,MIN,111,Smoothie King Center,14887,2022-23
+401468880,2023-01-26T01:00Z,Final,25,Oklahoma City Thunder,OKC,132,1,Atlanta Hawks,ATL,137,Paycom Center,15079,2022-23
+401468881,2023-01-26T03:00Z,Final,9,Golden State Warriors,GS,122,29,Memphis Grizzlies,MEM,120,Chase Center,18064,2022-23
+401468882,2023-01-26T03:00Z,Final,22,Portland Trail Blazers,POR,134,26,Utah Jazz,UTAH,124,Moda Center,18154,2022-23
+401468883,2023-01-26T03:00Z,Final,23,Sacramento Kings,SAC,95,28,Toronto Raptors,TOR,113,Golden 1 Center,17767,2022-23
+401468884,2023-01-26T03:30Z,Final,13,Los Angeles Lakers,LAL,113,24,San Antonio Spurs,SA,104,crypto.com Arena,17955,2022-23
+401468885,2023-01-27T00:30Z,Final,2,Boston Celtics,BOS,117,18,New York Knicks,NY,120,TD Garden,19156,2022-23
+401468886,2023-01-27T00:30Z,Final,17,Brooklyn Nets,BKN,122,8,Detroit Pistons,DET,130,Barclays Center,17732,2022-23
+401468887,2023-01-27T00:30Z,Final,30,Charlotte Hornets,CHA,111,4,Chicago Bulls,CHI,96,Spectrum Center,17697,2022-23
+401468888,2023-01-27T01:00Z,Final,10,Houston Rockets,HOU,95,5,Cleveland Cavaliers,CLE,113,Toyota Center (Houston),16327,2022-23
+401468889,2023-01-27T03:00Z,Final,21,Phoenix Suns,PHX,95,6,Dallas Mavericks,DAL,99,PHX Arena,17071,2022-23
+401468890,2023-01-27T03:30Z,Final,12,LA Clippers,LAC,138,24,San Antonio Spurs,SA,100,crypto.com Arena,16958,2022-23
+401468891,2023-01-28T00:00Z,Final,11,Indiana Pacers,IND,131,15,Milwaukee Bucks,MIL,141,Gainbridge Fieldhouse,16090,2022-23
+401468892,2023-01-28T00:30Z,Final,16,Minnesota Timberwolves,MIN,111,29,Memphis Grizzlies,MEM,100,Target Center,17136,2022-23
+401468893,2023-01-28T01:00Z,Final,14,Miami Heat,MIA,110,19,Orlando Magic,ORL,105,Kaseya Center,19788,2022-23
+401468894,2023-01-28T01:00Z,Final,25,Oklahoma City Thunder,OKC,112,5,Cleveland Cavaliers,CLE,100,Paycom Center,16236,2022-23
+401468895,2023-01-28T03:00Z,Final,9,Golden State Warriors,GS,129,28,Toronto Raptors,TOR,117,Chase Center,18064,2022-23
+401468896,2023-01-28T20:00Z,Final,20,Philadelphia 76ers,PHI,126,7,Denver Nuggets,DEN,119,Xfinity Mobile Arena,21255,2022-23
+401468897,2023-01-28T22:30Z,Final,17,Brooklyn Nets,BKN,122,18,New York Knicks,NY,115,Barclays Center,18100,2022-23
+401468898,2023-01-29T00:00Z,Final,8,Detroit Pistons,DET,114,10,Houston Rockets,HOU,117,Little Caesars Arena,19411,2022-23
+401468899,2023-01-29T00:00Z,Final,19,Orlando Magic,ORL,109,4,Chicago Bulls,CHI,128,Kia Center,18846,2022-23
+401468900,2023-01-29T00:30Z,Final,1,Atlanta Hawks,ATL,113,12,LA Clippers,LAC,120,State Farm Arena,18448,2022-23
+401468901,2023-01-29T01:00Z,Final,16,Minnesota Timberwolves,MIN,117,23,Sacramento Kings,SAC,110,Target Center,17136,2022-23
+401468902,2023-01-29T01:00Z,Final,3,New Orleans Pelicans,NO,103,27,Washington Wizards,WSH,113,Smoothie King Center,17692,2022-23
+401468903,2023-01-29T01:00Z,Final,24,San Antonio Spurs,SA,118,21,Phoenix Suns,PHX,128,Frost Bank Center,18354,2022-23
+401468904,2023-01-29T01:30Z,Final,2,Boston Celtics,BOS,125,13,Los Angeles Lakers,LAL,121,TD Garden,19156,2022-23
+401468905,2023-01-29T02:00Z,Final,26,Utah Jazz,UTAH,108,6,Dallas Mavericks,DAL,100,Delta Center,18206,2022-23
+401468906,2023-01-29T03:00Z,Final,22,Portland Trail Blazers,POR,105,28,Toronto Raptors,TOR,123,Moda Center,19393,2022-23
+401468907,2023-01-29T18:00Z,Final,30,Charlotte Hornets,CHA,122,14,Miami Heat,MIA,117,Spectrum Center,19254,2022-23
+401468908,2023-01-29T23:00Z,Final,29,Memphis Grizzlies,MEM,112,11,Indiana Pacers,IND,100,FedExForum,17794,2022-23
+401468909,2023-01-30T00:00Z,Final,5,Cleveland Cavaliers,CLE,122,12,LA Clippers,LAC,99,Rocket Arena,19432,2022-23
+401468910,2023-01-30T01:00Z,Final,15,Milwaukee Bucks,MIL,135,3,New Orleans Pelicans,NO,110,Fiserv Forum,17341,2022-23
+401468911,2023-01-31T00:00Z,Final,20,Philadelphia 76ers,PHI,109,19,Orlando Magic,ORL,119,Xfinity Mobile Arena,19812,2022-23
+401468912,2023-01-31T00:30Z,Final,17,Brooklyn Nets,BKN,121,13,Los Angeles Lakers,LAL,104,Barclays Center,17924,2022-23
+401468913,2023-01-31T01:00Z,Final,16,Minnesota Timberwolves,MIN,111,23,Sacramento Kings,SAC,118,Target Center,15342,2022-23
+401468914,2023-01-31T01:00Z,Final,25,Oklahoma City Thunder,OKC,120,9,Golden State Warriors,GS,128,Paycom Center,16854,2022-23
+401468915,2023-01-31T01:00Z,Final,24,San Antonio Spurs,SA,106,27,Washington Wizards,WSH,127,Frost Bank Center,11970,2022-23
+401468916,2023-01-31T01:30Z,Final,6,Dallas Mavericks,DAL,111,8,Detroit Pistons,DET,105,American Airlines Center,19777,2022-23
+401468917,2023-01-31T02:00Z,Final,21,Phoenix Suns,PHX,114,28,Toronto Raptors,TOR,106,PHX Arena,17071,2022-23
+401468918,2023-01-31T03:00Z,Final,22,Portland Trail Blazers,POR,129,1,Atlanta Hawks,ATL,125,Moda Center,18262,2022-23
+401468919,2023-02-01T00:00Z,Final,5,Cleveland Cavaliers,CLE,97,14,Miami Heat,MIA,100,Rocket Arena,19432,2022-23
+401468920,2023-02-01T00:30Z,Final,18,New York Knicks,NY,123,13,Los Angeles Lakers,LAL,129,Madison Square Garden,19812,2022-23
+401468921,2023-02-01T01:00Z,Final,4,Chicago Bulls,CHI,103,12,LA Clippers,LAC,108,United Center,20068,2022-23
+401468922,2023-02-01T01:00Z,Final,15,Milwaukee Bucks,MIL,124,30,Charlotte Hornets,CHA,115,Fiserv Forum,17341,2022-23
+401468923,2023-02-01T03:00Z,Final,7,Denver Nuggets,DEN,122,3,New Orleans Pelicans,NO,113,Ball Arena,18868,2022-23
+401468924,2023-02-02T00:00Z,Postponed,8,Detroit Pistons,DET,0,27,Washington Wizards,WSH,0,Little Caesars Arena,0,2022-23
+401468925,2023-02-02T00:00Z,Final,20,Philadelphia 76ers,PHI,105,19,Orlando Magic,ORL,94,Xfinity Mobile Arena,20885,2022-23
+401468926,2023-02-02T00:00Z,Final,29,Memphis Grizzlies,MEM,112,22,Portland Trail Blazers,POR,122,FedExForum,14589,2022-23
+401468927,2023-02-02T00:30Z,Final,2,Boston Celtics,BOS,139,17,Brooklyn Nets,BKN,96,TD Garden,19156,2022-23
+401468928,2023-02-02T01:00Z,Final,10,Houston Rockets,HOU,112,25,Oklahoma City Thunder,OKC,106,Toyota Center (Houston),15181,2022-23
+401468929,2023-02-02T01:00Z,Final,16,Minnesota Timberwolves,MIN,119,9,Golden State Warriors,GS,114,Target Center,17136,2022-23
+401468930,2023-02-02T01:00Z,Final,24,San Antonio Spurs,SA,109,23,Sacramento Kings,SAC,119,Frost Bank Center,13207,2022-23
+401468931,2023-02-02T02:00Z,Final,26,Utah Jazz,UTAH,131,28,Toronto Raptors,TOR,128,Delta Center,18206,2022-23
+401468932,2023-02-02T03:00Z,Final,21,Phoenix Suns,PHX,100,1,Atlanta Hawks,ATL,132,PHX Arena,17071,2022-23
+401468933,2023-02-03T00:00Z,Final,11,Indiana Pacers,IND,111,13,Los Angeles Lakers,LAL,112,Gainbridge Fieldhouse,17274,2022-23
+401468934,2023-02-03T00:30Z,Final,5,Cleveland Cavaliers,CLE,128,29,Memphis Grizzlies,MEM,113,Rocket Arena,19432,2022-23
+401468935,2023-02-03T00:30Z,Final,18,New York Knicks,NY,106,14,Miami Heat,MIA,104,Madison Square Garden,19044,2022-23
+401468936,2023-02-03T01:00Z,Final,4,Chicago Bulls,CHI,114,30,Charlotte Hornets,CHA,98,United Center,20072,2022-23
+401468937,2023-02-03T01:30Z,Final,6,Dallas Mavericks,DAL,111,3,New Orleans Pelicans,NO,106,American Airlines Center,19670,2022-23
+401468938,2023-02-03T02:00Z,Final,7,Denver Nuggets,DEN,134,9,Golden State Warriors,GS,117,Ball Arena,19555,2022-23
+401468939,2023-02-03T03:00Z,Final,15,Milwaukee Bucks,MIL,106,12,LA Clippers,LAC,105,Fiserv Forum,17341,2022-23
+401468940,2023-02-04T00:00Z,Final,8,Detroit Pistons,DET,118,30,Charlotte Hornets,CHA,112,Little Caesars Arena,18007,2022-23
+401468941,2023-02-04T00:00Z,Final,11,Indiana Pacers,IND,107,23,Sacramento Kings,SAC,104,Gainbridge Fieldhouse,17274,2022-23
+401468942,2023-02-04T00:00Z,Final,27,Washington Wizards,WSH,116,22,Portland Trail Blazers,POR,124,Capital One Arena,20476,2022-23
+401468943,2023-02-04T00:30Z,Final,2,Boston Celtics,BOS,94,21,Phoenix Suns,PHX,106,TD Garden,19156,2022-23
+401468944,2023-02-04T01:00Z,Final,10,Houston Rockets,HOU,111,28,Toronto Raptors,TOR,117,Toyota Center (Houston),16585,2022-23
+401468945,2023-02-04T01:00Z,Final,16,Minnesota Timberwolves,MIN,120,19,Orlando Magic,ORL,127,Target Center,17136,2022-23
+401468946,2023-02-04T01:00Z,Final,24,San Antonio Spurs,SA,125,20,Philadelphia 76ers,PHI,137,Frost Bank Center,15252,2022-23
+401468947,2023-02-04T02:00Z,Final,26,Utah Jazz,UTAH,108,1,Atlanta Hawks,ATL,115,Delta Center,18206,2022-23
+401468948,2023-02-04T23:00Z,Final,17,Brooklyn Nets,BKN,125,27,Washington Wizards,WSH,123,Barclays Center,17732,2022-23
+401468953,2023-02-04T23:00Z,Final,3,New Orleans Pelicans,NO,131,13,Los Angeles Lakers,LAL,126,Smoothie King Center,18886,2022-23
+401468949,2023-02-05T00:00Z,Final,8,Detroit Pistons,DET,100,21,Phoenix Suns,PHX,116,Little Caesars Arena,19788,2022-23
+401468950,2023-02-05T00:00Z,Final,18,New York Knicks,NY,128,12,LA Clippers,LAC,134,Madison Square Garden,19812,2022-23
+401468951,2023-02-05T01:00Z,Final,4,Chicago Bulls,CHI,129,22,Portland Trail Blazers,POR,121,United Center,20135,2022-23
+401468952,2023-02-05T01:00Z,Final,15,Milwaukee Bucks,MIL,123,14,Miami Heat,MIA,115,Fiserv Forum,18008,2022-23
+401468954,2023-02-05T01:00Z,Final,25,Oklahoma City Thunder,OKC,153,10,Houston Rockets,HOU,121,Paycom Center,16994,2022-23
+401468955,2023-02-05T01:30Z,Final,9,Golden State Warriors,GS,119,6,Dallas Mavericks,DAL,113,Chase Center,18064,2022-23
+401468956,2023-02-05T02:00Z,Final,7,Denver Nuggets,DEN,128,1,Atlanta Hawks,ATL,108,Ball Arena,19630,2022-23
+401468957,2023-02-05T18:00Z,Final,30,Charlotte Hornets,CHA,113,19,Orlando Magic,ORL,119,Spectrum Center,18510,2022-23
+401468958,2023-02-05T22:00Z,Final,11,Indiana Pacers,IND,103,5,Cleveland Cavaliers,CLE,122,Gainbridge Fieldhouse,17274,2022-23
+401468959,2023-02-05T23:00Z,Final,18,New York Knicks,NY,108,20,Philadelphia 76ers,PHI,97,Madison Square Garden,17586,2022-23
+401468960,2023-02-05T23:00Z,Final,29,Memphis Grizzlies,MEM,103,28,Toronto Raptors,TOR,106,FedExForum,17794,2022-23
+401468961,2023-02-06T00:00Z,Final,16,Minnesota Timberwolves,MIN,128,7,Denver Nuggets,DEN,98,Target Center,17136,2022-23
+401468962,2023-02-06T00:00Z,Final,3,New Orleans Pelicans,NO,136,23,Sacramento Kings,SAC,104,Smoothie King Center,17779,2022-23
+401468963,2023-02-07T00:00Z,Final,8,Detroit Pistons,DET,99,2,Boston Celtics,BOS,111,Little Caesars Arena,17933,2022-23
+401468964,2023-02-07T00:00Z,Final,27,Washington Wizards,WSH,91,5,Cleveland Cavaliers,CLE,114,Capital One Arena,16744,2022-23
+401468965,2023-02-07T00:30Z,Final,17,Brooklyn Nets,BKN,116,12,LA Clippers,LAC,124,Barclays Center,16981,2022-23
+401468966,2023-02-07T01:00Z,Final,4,Chicago Bulls,CHI,128,24,San Antonio Spurs,SA,104,United Center,19291,2022-23
+401468967,2023-02-07T01:00Z,Final,10,Houston Rockets,HOU,120,23,Sacramento Kings,SAC,140,Toyota Center (Houston),15405,2022-23
+401468968,2023-02-07T02:00Z,Final,26,Utah Jazz,UTAH,111,6,Dallas Mavericks,DAL,124,Delta Center,18206,2022-23
+401468969,2023-02-07T03:00Z,Final,9,Golden State Warriors,GS,141,25,Oklahoma City Thunder,OKC,114,Chase Center,18064,2022-23
+401468970,2023-02-07T03:00Z,Final,22,Portland Trail Blazers,POR,108,15,Milwaukee Bucks,MIL,127,Moda Center,18110,2022-23
+401468971,2023-02-08T00:00Z,Final,19,Orlando Magic,ORL,98,18,New York Knicks,NY,102,Kia Center,19438,2022-23
+401468972,2023-02-08T00:30Z,Final,17,Brooklyn Nets,BKN,112,21,Phoenix Suns,PHX,116,Barclays Center,17093,2022-23
+401468973,2023-02-08T00:30Z,Final,3,New Orleans Pelicans,NO,116,1,Atlanta Hawks,ATL,107,Smoothie King Center,16669,2022-23
+401468974,2023-02-08T01:00Z,Final,29,Memphis Grizzlies,MEM,104,4,Chicago Bulls,CHI,89,FedExForum,17012,2022-23
+401468975,2023-02-08T02:00Z,Final,7,Denver Nuggets,DEN,146,16,Minnesota Timberwolves,MIN,112,Ball Arena,18307,2022-23
+401468976,2023-02-08T03:00Z,Final,13,Los Angeles Lakers,LAL,130,25,Oklahoma City Thunder,OKC,133,crypto.com Arena,18997,2022-23
+401468977,2023-02-09T00:00Z,Final,5,Cleveland Cavaliers,CLE,113,8,Detroit Pistons,DET,85,Rocket Arena,19432,2022-23
+401468978,2023-02-09T00:00Z,Final,27,Washington Wizards,WSH,118,30,Charlotte Hornets,CHA,104,Capital One Arena,16097,2022-23
+401468979,2023-02-09T00:30Z,Final,2,Boston Celtics,BOS,106,20,Philadelphia 76ers,PHI,99,TD Garden,19156,2022-23
+401468980,2023-02-09T00:30Z,Final,14,Miami Heat,MIA,116,11,Indiana Pacers,IND,111,Kaseya Center,19600,2022-23
+401468981,2023-02-09T00:30Z,Final,28,Toronto Raptors,TOR,112,24,San Antonio Spurs,SA,98,Scotiabank Arena,19800,2022-23
+401468982,2023-02-09T01:00Z,Final,10,Houston Rockets,HOU,128,23,Sacramento Kings,SAC,130,Toyota Center (Houston),15881,2022-23
+401468983,2023-02-09T02:00Z,Final,26,Utah Jazz,UTAH,118,16,Minnesota Timberwolves,MIN,143,Delta Center,18206,2022-23
+401468984,2023-02-09T03:00Z,Final,12,LA Clippers,LAC,104,6,Dallas Mavericks,DAL,110,crypto.com Arena,18377,2022-23
+401468985,2023-02-09T03:00Z,Final,22,Portland Trail Blazers,POR,125,9,Golden State Warriors,GS,122,Moda Center,18450,2022-23
+401468986,2023-02-10T00:00Z,Final,19,Orlando Magic,ORL,115,7,Denver Nuggets,DEN,104,Kia Center,18846,2022-23
+401468987,2023-02-10T00:30Z,Final,1,Atlanta Hawks,ATL,116,21,Phoenix Suns,PHX,107,State Farm Arena,17003,2022-23
+401468988,2023-02-10T00:30Z,Final,17,Brooklyn Nets,BKN,116,4,Chicago Bulls,CHI,105,Barclays Center,16938,2022-23
+401468989,2023-02-10T03:00Z,Final,13,Los Angeles Lakers,LAL,106,15,Milwaukee Bucks,MIL,115,crypto.com Arena,18997,2022-23
+401468990,2023-02-11T00:00Z,Final,8,Detroit Pistons,DET,138,24,San Antonio Spurs,SA,131,Little Caesars Arena,17899,2022-23
+401468991,2023-02-11T00:00Z,Final,11,Indiana Pacers,IND,104,21,Phoenix Suns,PHX,117,Gainbridge Fieldhouse,16522,2022-23
+401468992,2023-02-11T00:00Z,Final,20,Philadelphia 76ers,PHI,119,18,New York Knicks,NY,108,Xfinity Mobile Arena,21057,2022-23
+401468993,2023-02-11T00:30Z,Final,2,Boston Celtics,BOS,127,30,Charlotte Hornets,CHA,116,TD Garden,19156,2022-23
+401468994,2023-02-11T00:30Z,Final,28,Toronto Raptors,TOR,116,26,Utah Jazz,UTAH,122,Scotiabank Arena,19800,2022-23
+401468995,2023-02-11T01:00Z,Final,14,Miami Heat,MIA,97,10,Houston Rockets,HOU,95,Kaseya Center,19600,2022-23
+401468996,2023-02-11T01:00Z,Final,29,Memphis Grizzlies,MEM,128,16,Minnesota Timberwolves,MIN,107,FedExForum,17794,2022-23
+401468997,2023-02-11T03:00Z,Final,3,New Orleans Pelicans,NO,107,5,Cleveland Cavaliers,CLE,118,Smoothie King Center,16398,2022-23
+401468998,2023-02-11T03:00Z,Final,22,Portland Trail Blazers,POR,129,25,Oklahoma City Thunder,OKC,138,Moda Center,19424,2022-23
+401468999,2023-02-11T03:00Z,Final,23,Sacramento Kings,SAC,114,6,Dallas Mavericks,DAL,122,Golden 1 Center,18111,2022-23
+401469000,2023-02-11T03:30Z,Final,12,LA Clippers,LAC,106,15,Milwaukee Bucks,MIL,119,crypto.com Arena,16614,2022-23
+401469001,2023-02-11T23:00Z,Final,17,Brooklyn Nets,BKN,98,20,Philadelphia 76ers,PHI,101,Barclays Center,17732,2022-23
+401469002,2023-02-12T00:00Z,Final,30,Charlotte Hornets,CHA,105,7,Denver Nuggets,DEN,119,Spectrum Center,19256,2022-23
+401469003,2023-02-12T00:00Z,Final,19,Orlando Magic,ORL,103,14,Miami Heat,MIA,107,Kia Center,18223,2022-23
+401469004,2023-02-12T00:00Z,Final,27,Washington Wizards,WSH,127,11,Indiana Pacers,IND,113,Capital One Arena,18387,2022-23
+401469005,2023-02-12T00:30Z,Final,1,Atlanta Hawks,ATL,125,24,San Antonio Spurs,SA,106,State Farm Arena,17875,2022-23
+401469006,2023-02-12T00:30Z,Final,18,New York Knicks,NY,126,26,Utah Jazz,UTAH,120,Madison Square Garden,19339,2022-23
+401469007,2023-02-12T01:00Z,Final,5,Cleveland Cavaliers,CLE,97,4,Chicago Bulls,CHI,89,Rocket Arena,19432,2022-23
+401469008,2023-02-12T01:30Z,Final,9,Golden State Warriors,GS,103,13,Los Angeles Lakers,LAL,109,Chase Center,18064,2022-23
+401469009,2023-02-12T03:00Z,Final,23,Sacramento Kings,SAC,133,6,Dallas Mavericks,DAL,128,Golden 1 Center,18111,2022-23
+401469012,2023-02-14T00:00Z,Final,30,Charlotte Hornets,CHA,144,1,Atlanta Hawks,ATL,138,Spectrum Center,14078,2022-23
+401469013,2023-02-14T00:00Z,Final,5,Cleveland Cavaliers,CLE,117,24,San Antonio Spurs,SA,109,Rocket Arena,19432,2022-23
+401469014,2023-02-14T00:00Z,Final,11,Indiana Pacers,IND,117,26,Utah Jazz,UTAH,123,Gainbridge Fieldhouse,15004,2022-23
+401469015,2023-02-14T00:00Z,Final,20,Philadelphia 76ers,PHI,123,10,Houston Rockets,HOU,104,Xfinity Mobile Arena,19850,2022-23
+401469016,2023-02-14T00:30Z,Final,14,Miami Heat,MIA,108,7,Denver Nuggets,DEN,112,Kaseya Center,19755,2022-23
+401469017,2023-02-14T00:30Z,Final,18,New York Knicks,NY,124,17,Brooklyn Nets,BKN,106,Madison Square Garden,19812,2022-23
+401469018,2023-02-14T01:00Z,Final,4,Chicago Bulls,CHI,91,19,Orlando Magic,ORL,100,United Center,20767,2022-23
+401469019,2023-02-14T01:00Z,Final,25,Oklahoma City Thunder,OKC,100,3,New Orleans Pelicans,NO,103,Paycom Center,14920,2022-23
+401469020,2023-02-14T01:30Z,Final,6,Dallas Mavericks,DAL,121,16,Minnesota Timberwolves,MIN,124,American Airlines Center,20325,2022-23
+401469021,2023-02-14T03:00Z,Final,9,Golden State Warriors,GS,135,27,Washington Wizards,WSH,126,Chase Center,18064,2022-23
+401469022,2023-02-14T03:00Z,Final,22,Portland Trail Blazers,POR,127,13,Los Angeles Lakers,LAL,115,Moda Center,18299,2022-23
+401469023,2023-02-15T00:30Z,Final,28,Toronto Raptors,TOR,123,19,Orlando Magic,ORL,113,Scotiabank Arena,19800,2022-23
+401469024,2023-02-15T00:30Z,Final,15,Milwaukee Bucks,MIL,131,2,Boston Celtics,BOS,125,Fiserv Forum,17623,2022-23
+401469025,2023-02-15T02:00Z,Final,21,Phoenix Suns,PHX,120,23,Sacramento Kings,SAC,109,PHX Arena,17071,2022-23
+401469026,2023-02-15T03:00Z,Final,12,LA Clippers,LAC,134,9,Golden State Warriors,GS,124,crypto.com Arena,16741,2022-23
+401469027,2023-02-15T03:00Z,Final,22,Portland Trail Blazers,POR,101,27,Washington Wizards,WSH,126,Moda Center,18004,2022-23
+401469028,2023-02-16T00:00Z,Final,30,Charlotte Hornets,CHA,120,24,San Antonio Spurs,SA,110,Spectrum Center,14155,2022-23
+401469029,2023-02-16T00:00Z,Final,11,Indiana Pacers,IND,117,4,Chicago Bulls,CHI,113,Gainbridge Fieldhouse,15599,2022-23
+401469030,2023-02-16T00:30Z,Final,20,Philadelphia 76ers,PHI,118,5,Cleveland Cavaliers,CLE,112,Xfinity Mobile Arena,21134,2022-23
+401469031,2023-02-16T00:30Z,Final,1,Atlanta Hawks,ATL,101,18,New York Knicks,NY,122,State Farm Arena,17771,2022-23
+401469032,2023-02-16T00:30Z,Final,2,Boston Celtics,BOS,127,8,Detroit Pistons,DET,109,TD Garden,19156,2022-23
+401469033,2023-02-16T00:30Z,Final,17,Brooklyn Nets,BKN,116,14,Miami Heat,MIA,105,Barclays Center,17963,2022-23
+401469034,2023-02-16T01:00Z,Final,29,Memphis Grizzlies,MEM,117,26,Utah Jazz,UTAH,111,FedExForum,16748,2022-23
+401469035,2023-02-16T01:00Z,Final,25,Oklahoma City Thunder,OKC,133,10,Houston Rockets,HOU,96,Paycom Center,14988,2022-23
+401469036,2023-02-16T02:00Z,Final,7,Denver Nuggets,DEN,118,6,Dallas Mavericks,DAL,109,Ball Arena,19627,2022-23
+401469037,2023-02-16T03:00Z,Final,13,Los Angeles Lakers,LAL,120,3,New Orleans Pelicans,NO,102,crypto.com Arena,18997,2022-23
+401469038,2023-02-17T00:30Z,Final,4,Chicago Bulls,CHI,100,15,Milwaukee Bucks,MIL,112,United Center,20308,2022-23
+401469039,2023-02-17T01:00Z,Final,16,Minnesota Timberwolves,MIN,106,27,Washington Wizards,WSH,114,Target Center,17136,2022-23
+401469040,2023-02-17T03:00Z,Final,21,Phoenix Suns,PHX,107,12,LA Clippers,LAC,116,PHX Arena,17071,2022-23
+401469041,2023-02-24T00:00Z,Final,5,Cleveland Cavaliers,CLE,109,7,Denver Nuggets,DEN,115,Rocket Arena,19432,2022-23
+401469042,2023-02-24T00:00Z,Final,11,Indiana Pacers,IND,138,2,Boston Celtics,BOS,142,Gainbridge Fieldhouse,16125,2022-23
+401469043,2023-02-24T00:00Z,Final,19,Orlando Magic,ORL,108,8,Detroit Pistons,DET,106,Kia Center,18846,2022-23
+401469044,2023-02-24T00:30Z,Final,20,Philadelphia 76ers,PHI,110,29,Memphis Grizzlies,MEM,105,Xfinity Mobile Arena,21205,2022-23
+401469045,2023-02-24T00:30Z,Final,28,Toronto Raptors,TOR,115,3,New Orleans Pelicans,NO,110,Scotiabank Arena,19800,2022-23
+401469046,2023-02-24T01:30Z,Final,6,Dallas Mavericks,DAL,142,24,San Antonio Spurs,SA,116,American Airlines Center,20287,2022-23
+401469047,2023-02-24T02:00Z,Final,26,Utah Jazz,UTAH,120,25,Oklahoma City Thunder,OKC,119,Delta Center,18206,2022-23
+401469048,2023-02-24T03:00Z,Final,13,Los Angeles Lakers,LAL,124,9,Golden State Warriors,GS,111,crypto.com Arena,18997,2022-23
+401469049,2023-02-24T03:00Z,Final,23,Sacramento Kings,SAC,133,22,Portland Trail Blazers,POR,116,Golden 1 Center,18041,2022-23
+401469050,2023-02-25T00:00Z,Final,27,Washington Wizards,WSH,109,18,New York Knicks,NY,115,Capital One Arena,20476,2022-23
+401469051,2023-02-25T00:30Z,Final,1,Atlanta Hawks,ATL,136,5,Cleveland Cavaliers,CLE,119,State Farm Arena,18065,2022-23
+401469052,2023-02-25T00:30Z,Final,15,Milwaukee Bucks,MIL,128,14,Miami Heat,MIA,99,Fiserv Forum,17676,2022-23
+401469053,2023-02-25T01:00Z,Final,16,Minnesota Timberwolves,MIN,113,30,Charlotte Hornets,CHA,121,Target Center,17136,2022-23
+401469055,2023-02-25T01:00Z,Final,4,Chicago Bulls,CHI,131,17,Brooklyn Nets,BKN,87,United Center,21286,2022-23
+401469054,2023-02-25T03:00Z,Final,21,Phoenix Suns,PHX,124,25,Oklahoma City Thunder,OKC,115,PHX Arena,17071,2022-23
+401469056,2023-02-25T03:00Z,Final,9,Golden State Warriors,GS,116,10,Houston Rockets,HOU,101,Chase Center,18064,2022-23
+401469057,2023-02-25T03:30Z,Final,12,LA Clippers,LAC,175,23,Sacramento Kings,SAC,176,crypto.com Arena,19068,2022-23
+401469058,2023-02-25T17:00Z,Final,8,Detroit Pistons,DET,91,28,Toronto Raptors,TOR,95,Little Caesars Arena,20190,2022-23
+401469059,2023-02-26T00:00Z,Final,30,Charlotte Hornets,CHA,108,14,Miami Heat,MIA,103,Spectrum Center,19109,2022-23
+401469060,2023-02-26T00:00Z,Final,19,Orlando Magic,ORL,108,11,Indiana Pacers,IND,121,Kia Center,19231,2022-23
+401469061,2023-02-26T00:30Z,Final,18,New York Knicks,NY,128,3,New Orleans Pelicans,NO,106,Madison Square Garden,19812,2022-23
+401469062,2023-02-26T01:00Z,Final,29,Memphis Grizzlies,MEM,112,7,Denver Nuggets,DEN,94,FedExForum,18302,2022-23
+401469063,2023-02-26T01:30Z,Final,20,Philadelphia 76ers,PHI,107,2,Boston Celtics,BOS,110,Xfinity Mobile Arena,20993,2022-23
+401469064,2023-02-26T02:00Z,Final,26,Utah Jazz,UTAH,118,24,San Antonio Spurs,SA,102,Delta Center,18206,2022-23
+401469065,2023-02-26T18:00Z,Final,15,Milwaukee Bucks,MIL,104,21,Phoenix Suns,PHX,101,Fiserv Forum,17636,2022-23
+401469066,2023-02-26T20:00Z,Final,1,Atlanta Hawks,ATL,129,17,Brooklyn Nets,BKN,127,State Farm Arena,16983,2022-23
+401469067,2023-02-26T20:30Z,Final,4,Chicago Bulls,CHI,102,27,Washington Wizards,WSH,82,United Center,21106,2022-23
+401469068,2023-02-26T20:30Z,Final,6,Dallas Mavericks,DAL,108,13,Los Angeles Lakers,LAL,111,American Airlines Center,20411,2022-23
+401469069,2023-02-26T23:00Z,Final,5,Cleveland Cavaliers,CLE,118,28,Toronto Raptors,TOR,93,Rocket Arena,19432,2022-23
+401469070,2023-02-27T00:00Z,Final,25,Oklahoma City Thunder,OKC,115,23,Sacramento Kings,SAC,124,Paycom Center,15147,2022-23
+401469071,2023-02-27T00:30Z,Final,9,Golden State Warriors,GS,109,16,Minnesota Timberwolves,MIN,104,Chase Center,18064,2022-23
+401469072,2023-02-27T02:00Z,Final,22,Portland Trail Blazers,POR,131,10,Houston Rockets,HOU,114,Moda Center,19215,2022-23
+401469073,2023-02-27T03:00Z,Final,7,Denver Nuggets,DEN,134,12,LA Clippers,LAC,124,Ball Arena,19689,2022-23
+401469074,2023-02-28T00:00Z,Final,30,Charlotte Hornets,CHA,117,8,Detroit Pistons,DET,106,Spectrum Center,14184,2022-23
+401469075,2023-02-28T00:00Z,Final,20,Philadelphia 76ers,PHI,99,14,Miami Heat,MIA,101,Xfinity Mobile Arena,20859,2022-23
+401469076,2023-02-28T00:30Z,Final,18,New York Knicks,NY,109,2,Boston Celtics,BOS,94,Madison Square Garden,19812,2022-23
+401469077,2023-02-28T01:00Z,Final,3,New Orleans Pelicans,NO,93,19,Orlando Magic,ORL,101,Smoothie King Center,16038,2022-23
+401469078,2023-03-01T00:30Z,Final,1,Atlanta Hawks,ATL,116,27,Washington Wizards,WSH,119,State Farm Arena,17395,2022-23
+401469079,2023-03-01T00:30Z,Final,17,Brooklyn Nets,BKN,104,15,Milwaukee Bucks,MIL,118,Barclays Center,17732,2022-23
+401469080,2023-03-01T00:30Z,Final,28,Toronto Raptors,TOR,104,4,Chicago Bulls,CHI,98,Scotiabank Arena,19800,2022-23
+401469082,2023-03-01T00:30Z,Final,29,Memphis Grizzlies,MEM,121,13,Los Angeles Lakers,LAL,109,FedExForum,17794,2022-23
+401469081,2023-03-01T01:00Z,Final,10,Houston Rockets,HOU,112,7,Denver Nuggets,DEN,133,Toyota Center (Houston),15368,2022-23
+401469083,2023-03-01T01:00Z,Final,25,Oklahoma City Thunder,OKC,117,23,Sacramento Kings,SAC,123,Paycom Center,13353,2022-23
+401469084,2023-03-01T01:30Z,Final,6,Dallas Mavericks,DAL,122,11,Indiana Pacers,IND,124,American Airlines Center,20277,2022-23
+401469085,2023-03-01T02:00Z,Final,26,Utah Jazz,UTAH,94,24,San Antonio Spurs,SA,102,Delta Center,18206,2022-23
+401469086,2023-03-01T03:00Z,Final,9,Golden State Warriors,GS,123,22,Portland Trail Blazers,POR,105,Chase Center,18064,2022-23
+401469087,2023-03-01T03:00Z,Final,12,LA Clippers,LAC,101,16,Minnesota Timberwolves,MIN,108,crypto.com Arena,17022,2022-23
+401469088,2023-03-02T00:00Z,Final,30,Charlotte Hornets,CHA,91,21,Phoenix Suns,PHX,105,Spectrum Center,19137,2022-23
+401469089,2023-03-02T00:00Z,Final,8,Detroit Pistons,DET,115,4,Chicago Bulls,CHI,117,Little Caesars Arena,18098,2022-23
+401469090,2023-03-02T00:30Z,Final,2,Boston Celtics,BOS,117,5,Cleveland Cavaliers,CLE,113,TD Garden,19156,2022-23
+401469091,2023-03-02T00:30Z,Final,14,Miami Heat,MIA,96,20,Philadelphia 76ers,PHI,119,Kaseya Center,19600,2022-23
+401469092,2023-03-02T00:30Z,Final,18,New York Knicks,NY,142,17,Brooklyn Nets,BKN,118,Madison Square Garden,19812,2022-23
+401469093,2023-03-02T01:00Z,Final,10,Houston Rockets,HOU,99,29,Memphis Grizzlies,MEM,113,Toyota Center (Houston),15919,2022-23
+401469094,2023-03-02T01:00Z,Final,15,Milwaukee Bucks,MIL,139,19,Orlando Magic,ORL,117,Fiserv Forum,17354,2022-23
+401469095,2023-03-02T01:00Z,Final,25,Oklahoma City Thunder,OKC,117,13,Los Angeles Lakers,LAL,123,Paycom Center,17114,2022-23
+401469096,2023-03-02T03:00Z,Final,22,Portland Trail Blazers,POR,110,3,New Orleans Pelicans,NO,121,Moda Center,18566,2022-23
+401469097,2023-03-03T00:00Z,Final,27,Washington Wizards,WSH,119,28,Toronto Raptors,TOR,108,Capital One Arena,14643,2022-23
+401469098,2023-03-03T00:30Z,Final,6,Dallas Mavericks,DAL,133,20,Philadelphia 76ers,PHI,126,American Airlines Center,20002,2022-23
+401469099,2023-03-03T01:30Z,Final,24,San Antonio Spurs,SA,110,11,Indiana Pacers,IND,99,Frost Bank Center,14617,2022-23
+401469100,2023-03-03T03:00Z,Final,9,Golden State Warriors,GS,115,12,LA Clippers,LAC,91,Chase Center,18064,2022-23
+401469101,2023-03-04T00:00Z,Final,30,Charlotte Hornets,CHA,106,19,Orlando Magic,ORL,117,Spectrum Center,16683,2022-23
+401469102,2023-03-04T00:30Z,Final,1,Atlanta Hawks,ATL,129,22,Portland Trail Blazers,POR,111,State Farm Arena,17521,2022-23
+401469103,2023-03-04T00:30Z,Final,2,Boston Celtics,BOS,105,17,Brooklyn Nets,BKN,115,TD Garden,19156,2022-23
+401469104,2023-03-04T01:00Z,Final,14,Miami Heat,MIA,120,18,New York Knicks,NY,122,Kaseya Center,19600,2022-23
+401469105,2023-03-04T01:00Z,Final,4,Chicago Bulls,CHI,104,21,Phoenix Suns,PHX,125,United Center,21169,2022-23
+401469106,2023-03-04T01:00Z,Final,25,Oklahoma City Thunder,OKC,130,26,Utah Jazz,UTAH,103,Paycom Center,16538,2022-23
+401469107,2023-03-04T03:00Z,Final,7,Denver Nuggets,DEN,113,29,Memphis Grizzlies,MEM,97,Ball Arena,19641,2022-23
+401469108,2023-03-04T03:00Z,Final,9,Golden State Warriors,GS,108,3,New Orleans Pelicans,NO,99,Chase Center,18064,2022-23
+401469109,2023-03-04T03:00Z,Final,23,Sacramento Kings,SAC,128,12,LA Clippers,LAC,127,Golden 1 Center,18111,2022-23
+401469110,2023-03-04T03:30Z,Final,13,Los Angeles Lakers,LAL,102,16,Minnesota Timberwolves,MIN,110,crypto.com Arena,18997,2022-23
+401469111,2023-03-04T22:00Z,Final,27,Washington Wizards,WSH,109,28,Toronto Raptors,TOR,116,Capital One Arena,18174,2022-23
+401469112,2023-03-05T00:30Z,Final,5,Cleveland Cavaliers,CLE,114,8,Detroit Pistons,DET,90,Rocket Arena,19432,2022-23
+401469113,2023-03-05T01:00Z,Final,14,Miami Heat,MIA,117,1,Atlanta Hawks,ATL,109,Kaseya Center,19600,2022-23
+401469114,2023-03-05T01:00Z,Final,24,San Antonio Spurs,SA,110,10,Houston Rockets,HOU,122,Frost Bank Center,18354,2022-23
+401469115,2023-03-05T01:30Z,Final,15,Milwaukee Bucks,MIL,130,20,Philadelphia 76ers,PHI,133,Fiserv Forum,18100,2022-23
+401469116,2023-03-05T03:00Z,Final,23,Sacramento Kings,SAC,134,16,Minnesota Timberwolves,MIN,138,Golden 1 Center,18111,2022-23
+401469117,2023-03-05T18:00Z,Final,6,Dallas Mavericks,DAL,126,21,Phoenix Suns,PHX,130,American Airlines Center,20311,2022-23
+401469118,2023-03-05T20:30Z,Final,4,Chicago Bulls,CHI,122,11,Indiana Pacers,IND,125,United Center,21225,2022-23
+401469119,2023-03-05T20:45Z,Final,13,Los Angeles Lakers,LAL,113,9,Golden State Warriors,GS,105,crypto.com Arena,18997,2022-23
+401469120,2023-03-05T23:00Z,Final,17,Brooklyn Nets,BKN,102,30,Charlotte Hornets,CHA,86,Barclays Center,17921,2022-23
+401469121,2023-03-05T23:00Z,Final,19,Orlando Magic,ORL,119,22,Portland Trail Blazers,POR,122,Kia Center,18846,2022-23
+401469122,2023-03-06T00:00Z,Final,10,Houston Rockets,HOU,142,24,San Antonio Spurs,SA,110,Toyota Center (Houston),16721,2022-23
+401469123,2023-03-06T00:00Z,Final,25,Oklahoma City Thunder,OKC,129,26,Utah Jazz,UTAH,119,Paycom Center,14778,2022-23
+401469124,2023-03-06T00:30Z,Final,2,Boston Celtics,BOS,129,18,New York Knicks,NY,131,TD Garden,19156,2022-23
+401469128,2023-03-06T00:30Z,Final,27,Washington Wizards,WSH,111,15,Milwaukee Bucks,MIL,117,Capital One Arena,18746,2022-23
+401469125,2023-03-06T03:00Z,Final,12,LA Clippers,LAC,135,29,Memphis Grizzlies,MEM,129,crypto.com Arena,19068,2022-23
+401469126,2023-03-07T00:00Z,Final,5,Cleveland Cavaliers,CLE,118,2,Boston Celtics,BOS,114,Rocket Arena,19432,2022-23
+401469127,2023-03-07T00:00Z,Final,11,Indiana Pacers,IND,143,20,Philadelphia 76ers,PHI,147,Gainbridge Fieldhouse,15008,2022-23
+401469132,2023-03-07T00:00Z,Final,8,Detroit Pistons,DET,104,22,Portland Trail Blazers,POR,110,Little Caesars Arena,16989,2022-23
+401469129,2023-03-07T00:30Z,Final,14,Miami Heat,MIA,130,1,Atlanta Hawks,ATL,128,Kaseya Center,19600,2022-23
+401469130,2023-03-07T02:00Z,Final,7,Denver Nuggets,DEN,118,28,Toronto Raptors,TOR,113,Ball Arena,19520,2022-23
+401469131,2023-03-07T03:00Z,Final,23,Sacramento Kings,SAC,123,3,New Orleans Pelicans,NO,108,Golden 1 Center,17708,2022-23
+401469133,2023-03-08T00:00Z,Final,19,Orlando Magic,ORL,123,15,Milwaukee Bucks,MIL,134,Kia Center,16110,2022-23
+401526670,2023-03-08T00:00Z,Final,8,Detroit Pistons,DET,117,27,Washington Wizards,WSH,119,Little Caesars Arena,17855,2022-23
+401469134,2023-03-08T00:30Z,Final,18,New York Knicks,NY,105,30,Charlotte Hornets,CHA,112,Madison Square Garden,19812,2022-23
+401469135,2023-03-08T00:30Z,Final,16,Minnesota Timberwolves,MIN,94,20,Philadelphia 76ers,PHI,117,Target Center,17136,2022-23
+401469136,2023-03-08T01:00Z,Final,10,Houston Rockets,HOU,96,17,Brooklyn Nets,BKN,118,Toyota Center (Houston),14833,2022-23
+401469137,2023-03-08T01:00Z,Final,25,Oklahoma City Thunder,OKC,137,9,Golden State Warriors,GS,128,Paycom Center,16142,2022-23
+401469138,2023-03-08T01:30Z,Final,6,Dallas Mavericks,DAL,120,26,Utah Jazz,UTAH,116,American Airlines Center,20277,2022-23
+401469139,2023-03-08T03:00Z,Final,13,Los Angeles Lakers,LAL,112,29,Memphis Grizzlies,MEM,103,crypto.com Arena,18997,2022-23
+401469140,2023-03-09T00:00Z,Final,27,Washington Wizards,WSH,120,1,Atlanta Hawks,ATL,122,Capital One Arena,15087,2022-23
+401469141,2023-03-09T00:30Z,Final,2,Boston Celtics,BOS,115,22,Portland Trail Blazers,POR,93,TD Garden,19156,2022-23
+401469142,2023-03-09T00:30Z,Final,14,Miami Heat,MIA,100,5,Cleveland Cavaliers,CLE,104,Kaseya Center,19600,2022-23
+401469143,2023-03-09T00:30Z,Final,3,New Orleans Pelicans,NO,113,6,Dallas Mavericks,DAL,106,Smoothie King Center,17473,2022-23
+401469144,2023-03-09T02:00Z,Final,7,Denver Nuggets,DEN,96,4,Chicago Bulls,CHI,117,Ball Arena,19896,2022-23
+401469145,2023-03-09T02:00Z,Final,21,Phoenix Suns,PHX,132,25,Oklahoma City Thunder,OKC,101,PHX Arena,17071,2022-23
+401469146,2023-03-09T03:00Z,Final,12,LA Clippers,LAC,108,28,Toronto Raptors,TOR,100,crypto.com Arena,17397,2022-23
+401469147,2023-03-10T00:00Z,Final,8,Detroit Pistons,DET,103,30,Charlotte Hornets,CHA,113,Little Caesars Arena,17121,2022-23
+401469148,2023-03-10T00:00Z,Final,11,Indiana Pacers,IND,134,10,Houston Rockets,HOU,125,Gainbridge Fieldhouse,16027,2022-23
+401469149,2023-03-10T00:00Z,Final,19,Orlando Magic,ORL,124,26,Utah Jazz,UTAH,131,Kia Center,16552,2022-23
+401469151,2023-03-10T00:30Z,Final,29,Memphis Grizzlies,MEM,131,9,Golden State Warriors,GS,110,FedExForum,17794,2022-23
+401469150,2023-03-10T01:00Z,Final,15,Milwaukee Bucks,MIL,118,17,Brooklyn Nets,BKN,113,Fiserv Forum,17341,2022-23
+401469152,2023-03-10T03:00Z,Final,23,Sacramento Kings,SAC,122,18,New York Knicks,NY,117,Golden 1 Center,18068,2022-23
+401469153,2023-03-11T00:00Z,Final,20,Philadelphia 76ers,PHI,120,22,Portland Trail Blazers,POR,119,Xfinity Mobile Arena,21001,2022-23
+401469154,2023-03-11T00:00Z,Final,27,Washington Wizards,WSH,107,1,Atlanta Hawks,ATL,114,Capital One Arena,18161,2022-23
+401469155,2023-03-11T01:00Z,Final,14,Miami Heat,MIA,119,5,Cleveland Cavaliers,CLE,115,Kaseya Center,19757,2022-23
+401469156,2023-03-11T01:00Z,Final,16,Minnesota Timberwolves,MIN,123,17,Brooklyn Nets,BKN,124,Target Center,17136,2022-23
+401469157,2023-03-11T01:00Z,Final,24,San Antonio Spurs,SA,128,7,Denver Nuggets,DEN,120,Frost Bank Center,18354,2022-23
+401469158,2023-03-11T03:30Z,Final,13,Los Angeles Lakers,LAL,122,28,Toronto Raptors,TOR,112,crypto.com Arena,18322,2022-23
+401469159,2023-03-11T21:00Z,Final,12,LA Clippers,LAC,106,18,New York Knicks,NY,95,crypto.com Arena,19068,2022-23
+401469160,2023-03-12T00:00Z,Final,30,Charlotte Hornets,CHA,111,26,Utah Jazz,UTAH,119,Spectrum Center,17221,2022-23
+401469161,2023-03-12T00:00Z,Final,8,Detroit Pistons,DET,115,11,Indiana Pacers,IND,121,Little Caesars Arena,20190,2022-23
+401469162,2023-03-12T00:00Z,Final,19,Orlando Magic,ORL,126,14,Miami Heat,MIA,114,Kia Center,17347,2022-23
+401469163,2023-03-12T00:30Z,Final,1,Atlanta Hawks,ATL,125,2,Boston Celtics,BOS,134,State Farm Arena,17884,2022-23
+401469164,2023-03-12T01:00Z,Final,10,Houston Rockets,HOU,111,4,Chicago Bulls,CHI,119,Toyota Center (Houston),18055,2022-23
+401469165,2023-03-12T01:00Z,Final,29,Memphis Grizzlies,MEM,112,6,Dallas Mavericks,DAL,108,FedExForum,17794,2022-23
+401469166,2023-03-12T01:30Z,Final,3,New Orleans Pelicans,NO,96,25,Oklahoma City Thunder,OKC,110,Smoothie King Center,17606,2022-23
+401469167,2023-03-12T01:30Z,Final,9,Golden State Warriors,GS,125,15,Milwaukee Bucks,MIL,116,Chase Center,18064,2022-23
+401469168,2023-03-12T02:00Z,Final,21,Phoenix Suns,PHX,119,23,Sacramento Kings,SAC,128,PHX Arena,17071,2022-23
+401469169,2023-03-12T19:30Z,Final,7,Denver Nuggets,DEN,120,17,Brooklyn Nets,BKN,122,Ball Arena,19739,2022-23
+401469170,2023-03-12T21:00Z,Final,30,Charlotte Hornets,CHA,108,5,Cleveland Cavaliers,CLE,114,Spectrum Center,17342,2022-23
+401469171,2023-03-12T22:00Z,Final,20,Philadelphia 76ers,PHI,112,27,Washington Wizards,WSH,93,Xfinity Mobile Arena,21220,2022-23
+401469172,2023-03-12T23:00Z,Final,3,New Orleans Pelicans,NO,127,22,Portland Trail Blazers,POR,110,Smoothie King Center,16676,2022-23
+401469173,2023-03-12T23:00Z,Final,24,San Antonio Spurs,SA,90,25,Oklahoma City Thunder,OKC,102,Frost Bank Center,17314,2022-23
+401469174,2023-03-13T01:00Z,Final,13,Los Angeles Lakers,LAL,108,18,New York Knicks,NY,112,crypto.com Arena,18997,2022-23
+401469175,2023-03-13T23:00Z,Final,8,Detroit Pistons,DET,117,11,Indiana Pacers,IND,97,Little Caesars Arena,18313,2022-23
+401469176,2023-03-13T23:30Z,Final,1,Atlanta Hawks,ATL,115,16,Minnesota Timberwolves,MIN,136,State Farm Arena,17799,2022-23
+401469177,2023-03-13T23:30Z,Final,14,Miami Heat,MIA,119,26,Utah Jazz,UTAH,115,Kaseya Center,19721,2022-23
+401469178,2023-03-13T23:30Z,Final,6,Dallas Mavericks,DAL,88,29,Memphis Grizzlies,MEM,104,American Airlines Center,20303,2022-23
+401469179,2023-03-14T00:00Z,Final,10,Houston Rockets,HOU,111,2,Boston Celtics,BOS,109,Toyota Center (Houston),18055,2022-23
+401469180,2023-03-14T02:00Z,Final,9,Golden State Warriors,GS,123,21,Phoenix Suns,PHX,112,Chase Center,18064,2022-23
+401469181,2023-03-14T02:00Z,Final,23,Sacramento Kings,SAC,124,15,Milwaukee Bucks,MIL,133,Golden 1 Center,18111,2022-23
+401469182,2023-03-14T23:00Z,Final,30,Charlotte Hornets,CHA,104,5,Cleveland Cavaliers,CLE,120,Spectrum Center,14690,2022-23
+401469183,2023-03-14T23:00Z,Final,27,Washington Wizards,WSH,117,8,Detroit Pistons,DET,97,Capital One Arena,15279,2022-23
+401469184,2023-03-14T23:30Z,Final,28,Toronto Raptors,TOR,125,7,Denver Nuggets,DEN,110,Scotiabank Arena,19800,2022-23
+401469185,2023-03-15T00:00Z,Final,3,New Orleans Pelicans,NO,108,13,Los Angeles Lakers,LAL,123,Smoothie King Center,18625,2022-23
+401469186,2023-03-15T00:00Z,Final,25,Oklahoma City Thunder,OKC,121,17,Brooklyn Nets,BKN,107,Paycom Center,16976,2022-23
+401469187,2023-03-15T00:00Z,Final,24,San Antonio Spurs,SA,132,19,Orlando Magic,ORL,114,Frost Bank Center,13708,2022-23
+401469188,2023-03-15T02:00Z,Final,21,Phoenix Suns,PHX,104,15,Milwaukee Bucks,MIL,116,PHX Arena,17071,2022-23
+401469189,2023-03-15T02:00Z,Final,22,Portland Trail Blazers,POR,107,18,New York Knicks,NY,123,Moda Center,19488,2022-23
+401469190,2023-03-15T23:30Z,Final,5,Cleveland Cavaliers,CLE,109,20,Philadelphia 76ers,PHI,118,Rocket Arena,19432,2022-23
+401469191,2023-03-15T23:30Z,Final,14,Miami Heat,MIA,138,29,Memphis Grizzlies,MEM,119,Kaseya Center,19794,2022-23
+401469192,2023-03-16T00:00Z,Final,4,Chicago Bulls,CHI,114,23,Sacramento Kings,SAC,117,United Center,21886,2022-23
+401469193,2023-03-16T00:00Z,Final,10,Houston Rockets,HOU,114,13,Los Angeles Lakers,LAL,110,Toyota Center (Houston),18055,2022-23
+401469194,2023-03-16T00:00Z,Final,16,Minnesota Timberwolves,MIN,102,2,Boston Celtics,BOS,104,Target Center,17136,2022-23
+401469195,2023-03-16T00:30Z,Final,24,San Antonio Spurs,SA,128,6,Dallas Mavericks,DAL,137,Frost Bank Center,18354,2022-23
+401469196,2023-03-16T02:00Z,Final,12,LA Clippers,LAC,134,9,Golden State Warriors,GS,126,crypto.com Arena,19068,2022-23
+401469197,2023-03-16T23:00Z,Final,8,Detroit Pistons,DET,100,7,Denver Nuggets,DEN,119,Little Caesars Arena,17987,2022-23
+401469198,2023-03-16T23:30Z,Final,17,Brooklyn Nets,BKN,96,23,Sacramento Kings,SAC,101,Barclays Center,18172,2022-23
+401469199,2023-03-16T23:30Z,Final,28,Toronto Raptors,TOR,128,25,Oklahoma City Thunder,OKC,111,Scotiabank Arena,19800,2022-23
+401469200,2023-03-17T00:00Z,Final,15,Milwaukee Bucks,MIL,123,11,Indiana Pacers,IND,139,Fiserv Forum,17797,2022-23
+401469201,2023-03-17T02:00Z,Final,21,Phoenix Suns,PHX,116,19,Orlando Magic,ORL,113,PHX Arena,17071,2022-23
+401469202,2023-03-17T23:00Z,Final,30,Charlotte Hornets,CHA,82,20,Philadelphia 76ers,PHI,121,Spectrum Center,19096,2022-23
+401469203,2023-03-17T23:30Z,Final,1,Atlanta Hawks,ATL,127,9,Golden State Warriors,GS,119,State Farm Arena,18201,2022-23
+401469204,2023-03-17T23:30Z,Final,5,Cleveland Cavaliers,CLE,117,27,Washington Wizards,WSH,94,Rocket Arena,19432,2022-23
+401469205,2023-03-18T00:00Z,Final,4,Chicago Bulls,CHI,139,16,Minnesota Timberwolves,MIN,131,United Center,20109,2022-23
+401469206,2023-03-18T00:00Z,Final,10,Houston Rockets,HOU,114,3,New Orleans Pelicans,NO,112,Toyota Center (Houston),15841,2022-23
+401469207,2023-03-18T00:00Z,Final,24,San Antonio Spurs,SA,120,29,Memphis Grizzlies,MEM,126,Frost Bank Center,15221,2022-23
+401469208,2023-03-18T02:00Z,Final,22,Portland Trail Blazers,POR,112,2,Boston Celtics,BOS,126,Moda Center,19393,2022-23
+401469209,2023-03-18T02:30Z,Final,13,Los Angeles Lakers,LAL,110,6,Dallas Mavericks,DAL,111,crypto.com Arena,18997,2022-23
+401469210,2023-03-18T17:00Z,Final,18,New York Knicks,NY,116,7,Denver Nuggets,DEN,110,Madison Square Garden,19812,2022-23
+401469211,2023-03-18T19:00Z,Final,12,LA Clippers,LAC,108,19,Orlando Magic,ORL,113,crypto.com Arena,17533,2022-23
+401469212,2023-03-18T23:00Z,Final,11,Indiana Pacers,IND,121,20,Philadelphia 76ers,PHI,141,Gainbridge Fieldhouse,17274,2022-23
+401469213,2023-03-18T23:00Z,Final,28,Toronto Raptors,TOR,122,16,Minnesota Timberwolves,MIN,107,Scotiabank Arena,19800,2022-23
+401469214,2023-03-19T00:00Z,Final,27,Washington Wizards,WSH,118,23,Sacramento Kings,SAC,132,Capital One Arena,18529,2022-23
+401469215,2023-03-19T00:00Z,Final,4,Chicago Bulls,CHI,113,14,Miami Heat,MIA,99,United Center,20094,2022-23
+401469216,2023-03-19T00:00Z,Final,29,Memphis Grizzlies,MEM,133,9,Golden State Warriors,GS,119,FedExForum,18396,2022-23
+401469217,2023-03-19T01:00Z,Final,26,Utah Jazz,UTAH,118,2,Boston Celtics,BOS,117,Delta Center,18206,2022-23
+401469218,2023-03-19T19:30Z,Final,17,Brooklyn Nets,BKN,102,7,Denver Nuggets,DEN,108,Barclays Center,18235,2022-23
+401469219,2023-03-19T19:30Z,Final,25,Oklahoma City Thunder,OKC,124,21,Phoenix Suns,PHX,120,Paycom Center,17897,2022-23
+401469220,2023-03-19T20:00Z,Final,24,San Antonio Spurs,SA,126,1,Atlanta Hawks,ATL,118,Frost Bank Center,16311,2022-23
+401469221,2023-03-19T22:00Z,Final,8,Detroit Pistons,DET,100,14,Miami Heat,MIA,112,Little Caesars Arena,20190,2022-23
+401469222,2023-03-19T23:00Z,Final,10,Houston Rockets,HOU,107,3,New Orleans Pelicans,NO,117,Toyota Center (Houston),14209,2022-23
+401469223,2023-03-20T00:00Z,Final,15,Milwaukee Bucks,MIL,118,28,Toronto Raptors,TOR,111,Fiserv Forum,17341,2022-23
+401469224,2023-03-20T01:00Z,Final,22,Portland Trail Blazers,POR,102,12,LA Clippers,LAC,117,Moda Center,18714,2022-23
+401469225,2023-03-20T01:30Z,Final,13,Los Angeles Lakers,LAL,111,19,Orlando Magic,ORL,105,crypto.com Arena,18997,2022-23
+401469226,2023-03-20T23:00Z,Final,30,Charlotte Hornets,CHA,115,11,Indiana Pacers,IND,109,Spectrum Center,12449,2022-23
+401469227,2023-03-20T23:00Z,Final,20,Philadelphia 76ers,PHI,105,4,Chicago Bulls,CHI,109,Xfinity Mobile Arena,21145,2022-23
+401469228,2023-03-20T23:30Z,Final,18,New York Knicks,NY,134,16,Minnesota Timberwolves,MIN,140,Madison Square Garden,19812,2022-23
+401469229,2023-03-21T00:00Z,Final,10,Houston Rockets,HOU,108,9,Golden State Warriors,GS,121,Toyota Center (Houston),16116,2022-23
+401469230,2023-03-21T00:00Z,Final,29,Memphis Grizzlies,MEM,112,6,Dallas Mavericks,DAL,108,FedExForum,17794,2022-23
+401469231,2023-03-21T01:00Z,Final,26,Utah Jazz,UTAH,128,23,Sacramento Kings,SAC,120,Delta Center,18206,2022-23
+401469232,2023-03-21T23:00Z,Final,19,Orlando Magic,ORL,122,27,Washington Wizards,WSH,112,Kia Center,16096,2022-23
+401469233,2023-03-21T23:30Z,Final,1,Atlanta Hawks,ATL,129,8,Detroit Pistons,DET,107,State Farm Arena,17129,2022-23
+401469234,2023-03-21T23:30Z,Final,17,Brooklyn Nets,BKN,109,5,Cleveland Cavaliers,CLE,115,Barclays Center,17732,2022-23
+401469235,2023-03-22T00:00Z,Final,3,New Orleans Pelicans,NO,119,24,San Antonio Spurs,SA,84,Smoothie King Center,15466,2022-23
+401469236,2023-03-22T02:00Z,Final,23,Sacramento Kings,SAC,109,2,Boston Celtics,BOS,132,Golden 1 Center,18111,2022-23
+401469237,2023-03-22T02:30Z,Final,12,LA Clippers,LAC,100,25,Oklahoma City Thunder,OKC,101,crypto.com Arena,19068,2022-23
+401469238,2023-03-22T23:00Z,Final,27,Washington Wizards,WSH,104,7,Denver Nuggets,DEN,118,Capital One Arena,16508,2022-23
+401469239,2023-03-22T23:30Z,Final,14,Miami Heat,MIA,127,18,New York Knicks,NY,120,Kaseya Center,19863,2022-23
+401469240,2023-03-22T23:30Z,Final,28,Toronto Raptors,TOR,114,11,Indiana Pacers,IND,118,Scotiabank Arena,19800,2022-23
+401469241,2023-03-22T23:30Z,Final,6,Dallas Mavericks,DAL,125,9,Golden State Warriors,GS,127,American Airlines Center,20377,2022-23
+401469242,2023-03-23T00:00Z,Final,4,Chicago Bulls,CHI,91,20,Philadelphia 76ers,PHI,116,United Center,20946,2022-23
+401469243,2023-03-23T00:00Z,Final,29,Memphis Grizzlies,MEM,130,10,Houston Rockets,HOU,125,FedExForum,17794,2022-23
+401469244,2023-03-23T00:00Z,Final,15,Milwaukee Bucks,MIL,130,24,San Antonio Spurs,SA,94,Fiserv Forum,17756,2022-23
+401469245,2023-03-23T00:00Z,Final,16,Minnesota Timberwolves,MIN,125,1,Atlanta Hawks,ATL,124,Target Center,17136,2022-23
+401469246,2023-03-23T01:00Z,Final,26,Utah Jazz,UTAH,115,22,Portland Trail Blazers,POR,127,Delta Center,0,2022-23
+401469247,2023-03-23T02:00Z,Final,13,Los Angeles Lakers,LAL,122,21,Phoenix Suns,PHX,111,crypto.com Arena,18435,2022-23
+401469248,2023-03-23T23:00Z,Final,19,Orlando Magic,ORL,111,18,New York Knicks,NY,106,Kia Center,17607,2022-23
+401469249,2023-03-23T23:30Z,Final,17,Brooklyn Nets,BKN,114,5,Cleveland Cavaliers,CLE,116,Barclays Center,17732,2022-23
+401469250,2023-03-24T00:00Z,Final,3,New Orleans Pelicans,NO,115,30,Charlotte Hornets,CHA,96,Smoothie King Center,15749,2022-23
+401469251,2023-03-24T02:30Z,Final,12,LA Clippers,LAC,127,25,Oklahoma City Thunder,OKC,105,crypto.com Arena,17307,2022-23
+401469252,2023-03-24T23:00Z,Final,2,Boston Celtics,BOS,120,11,Indiana Pacers,IND,95,TD Garden,19156,2022-23
+401469253,2023-03-24T23:00Z,Final,27,Washington Wizards,WSH,136,24,San Antonio Spurs,SA,124,Capital One Arena,17004,2022-23
+401469254,2023-03-24T23:30Z,Final,28,Toronto Raptors,TOR,118,8,Detroit Pistons,DET,97,Scotiabank Arena,19800,2022-23
+401469255,2023-03-25T00:00Z,Final,29,Memphis Grizzlies,MEM,151,10,Houston Rockets,HOU,114,FedExForum,17851,2022-23
+401469256,2023-03-25T00:30Z,Final,6,Dallas Mavericks,DAL,109,30,Charlotte Hornets,CHA,117,American Airlines Center,20347,2022-23
+401469257,2023-03-25T01:00Z,Final,26,Utah Jazz,UTAH,116,15,Milwaukee Bucks,MIL,144,Delta Center,18206,2022-23
+401469258,2023-03-25T02:00Z,Final,9,Golden State Warriors,GS,120,20,Philadelphia 76ers,PHI,112,Chase Center,18064,2022-23
+401469259,2023-03-25T02:00Z,Final,22,Portland Trail Blazers,POR,96,4,Chicago Bulls,CHI,124,Moda Center,19393,2022-23
+401469260,2023-03-25T02:00Z,Final,23,Sacramento Kings,SAC,135,21,Phoenix Suns,PHX,127,Golden 1 Center,18151,2022-23
+401469261,2023-03-25T02:30Z,Final,13,Los Angeles Lakers,LAL,116,25,Oklahoma City Thunder,OKC,111,crypto.com Arena,18997,2022-23
+401469262,2023-03-25T21:00Z,Final,1,Atlanta Hawks,ATL,143,11,Indiana Pacers,IND,130,State Farm Arena,17699,2022-23
+401469263,2023-03-26T00:00Z,Final,14,Miami Heat,MIA,100,17,Brooklyn Nets,BKN,129,Kaseya Center,19680,2022-23
+401469264,2023-03-26T01:00Z,Final,7,Denver Nuggets,DEN,129,15,Milwaukee Bucks,MIL,106,Ball Arena,19919,2022-23
+401469265,2023-03-26T02:00Z,Final,21,Phoenix Suns,PHX,125,20,Philadelphia 76ers,PHI,105,PHX Arena,17071,2022-23
+401469266,2023-03-26T02:00Z,Final,23,Sacramento Kings,SAC,121,26,Utah Jazz,UTAH,113,Golden 1 Center,18151,2022-23
+401469267,2023-03-26T02:30Z,Final,12,LA Clippers,LAC,110,3,New Orleans Pelicans,NO,131,crypto.com Arena,17702,2022-23
+401469268,2023-03-26T17:00Z,Final,30,Charlotte Hornets,CHA,110,6,Dallas Mavericks,DAL,104,Spectrum Center,19264,2022-23
+401469269,2023-03-26T19:30Z,Final,13,Los Angeles Lakers,LAL,108,4,Chicago Bulls,CHI,118,crypto.com Arena,18997,2022-23
+401469270,2023-03-26T22:00Z,Final,1,Atlanta Hawks,ATL,119,29,Memphis Grizzlies,MEM,123,State Farm Arena,18056,2022-23
+401469271,2023-03-26T22:00Z,Final,2,Boston Celtics,BOS,137,24,San Antonio Spurs,SA,93,TD Garden,19156,2022-23
+401469272,2023-03-26T22:00Z,Final,5,Cleveland Cavaliers,CLE,108,10,Houston Rockets,HOU,91,Rocket Arena,19432,2022-23
+401469273,2023-03-26T22:00Z,Final,19,Orlando Magic,ORL,119,17,Brooklyn Nets,BKN,106,Kia Center,17862,2022-23
+401469274,2023-03-26T22:00Z,Final,28,Toronto Raptors,TOR,114,27,Washington Wizards,WSH,104,Scotiabank Arena,19800,2022-23
+401469275,2023-03-26T23:00Z,Final,22,Portland Trail Blazers,POR,112,25,Oklahoma City Thunder,OKC,118,Moda Center,18626,2022-23
+401469276,2023-03-27T00:30Z,Final,9,Golden State Warriors,GS,96,16,Minnesota Timberwolves,MIN,99,Chase Center,18064,2022-23
+401469277,2023-03-27T23:00Z,Final,8,Detroit Pistons,DET,117,15,Milwaukee Bucks,MIL,126,Little Caesars Arena,21090,2022-23
+401469278,2023-03-27T23:00Z,Final,11,Indiana Pacers,IND,104,6,Dallas Mavericks,DAL,127,Gainbridge Fieldhouse,17022,2022-23
+401469279,2023-03-27T23:30Z,Final,18,New York Knicks,NY,137,10,Houston Rockets,HOU,115,Madison Square Garden,19812,2022-23
+401469280,2023-03-28T01:00Z,Final,26,Utah Jazz,UTAH,103,21,Phoenix Suns,PHX,117,Delta Center,18206,2022-23
+401469281,2023-03-28T01:30Z,Final,7,Denver Nuggets,DEN,116,20,Philadelphia 76ers,PHI,111,Ball Arena,19781,2022-23
+401469282,2023-03-28T02:00Z,Final,22,Portland Trail Blazers,POR,90,3,New Orleans Pelicans,NO,124,Moda Center,17943,2022-23
+401469283,2023-03-28T02:00Z,Final,23,Sacramento Kings,SAC,115,16,Minnesota Timberwolves,MIN,119,Golden 1 Center,18151,2022-23
+401469284,2023-03-28T02:30Z,Final,12,LA Clippers,LAC,124,4,Chicago Bulls,CHI,112,crypto.com Arena,19068,2022-23
+401469285,2023-03-28T23:00Z,Final,27,Washington Wizards,WSH,130,2,Boston Celtics,BOS,111,Capital One Arena,20476,2022-23
+401469286,2023-03-28T23:30Z,Final,1,Atlanta Hawks,ATL,120,5,Cleveland Cavaliers,CLE,118,State Farm Arena,17748,2022-23
+401469287,2023-03-28T23:30Z,Final,28,Toronto Raptors,TOR,106,14,Miami Heat,MIA,92,Scotiabank Arena,19800,2022-23
+401469288,2023-03-29T00:00Z,Final,29,Memphis Grizzlies,MEM,113,19,Orlando Magic,ORL,108,FedExForum,16507,2022-23
+401469289,2023-03-29T00:00Z,Final,25,Oklahoma City Thunder,OKC,134,30,Charlotte Hornets,CHA,137,Paycom Center,15428,2022-23
+401469290,2023-03-29T02:00Z,Final,9,Golden State Warriors,GS,120,3,New Orleans Pelicans,NO,109,Chase Center,18064,2022-23
+401469291,2023-03-29T23:00Z,Final,11,Indiana Pacers,IND,136,15,Milwaukee Bucks,MIL,149,Gainbridge Fieldhouse,16524,2022-23
+401469292,2023-03-29T23:30Z,Final,17,Brooklyn Nets,BKN,123,10,Houston Rockets,HOU,114,Barclays Center,17074,2022-23
+401469293,2023-03-29T23:30Z,Final,18,New York Knicks,NY,101,14,Miami Heat,MIA,92,Madison Square Garden,19812,2022-23
+401469294,2023-03-29T23:30Z,Final,20,Philadelphia 76ers,PHI,116,6,Dallas Mavericks,DAL,108,Xfinity Mobile Arena,20583,2022-23
+401469295,2023-03-30T00:00Z,Final,4,Chicago Bulls,CHI,110,13,Los Angeles Lakers,LAL,121,United Center,21739,2022-23
+401469296,2023-03-30T00:00Z,Final,29,Memphis Grizzlies,MEM,132,12,LA Clippers,LAC,141,FedExForum,16775,2022-23
+401469297,2023-03-30T00:00Z,Final,25,Oklahoma City Thunder,OKC,107,8,Detroit Pistons,DET,106,Paycom Center,15047,2022-23
+401469298,2023-03-30T00:00Z,Final,24,San Antonio Spurs,SA,117,26,Utah Jazz,UTAH,128,Frost Bank Center,18354,2022-23
+401469300,2023-03-30T02:00Z,Final,22,Portland Trail Blazers,POR,80,23,Sacramento Kings,SAC,120,Moda Center,18550,2022-23
+401469299,2023-03-30T02:15Z,Final,21,Phoenix Suns,PHX,107,16,Minnesota Timberwolves,MIN,100,PHX Arena,17071,2022-23
+401469301,2023-03-30T23:30Z,Final,15,Milwaukee Bucks,MIL,99,2,Boston Celtics,BOS,140,Fiserv Forum,18073,2022-23
+401469302,2023-03-31T02:00Z,Final,7,Denver Nuggets,DEN,88,3,New Orleans Pelicans,NO,107,Ball Arena,19728,2022-23
+401469303,2023-03-31T23:00Z,Final,30,Charlotte Hornets,CHA,91,4,Chicago Bulls,CHI,121,Spectrum Center,18768,2022-23
+401469304,2023-03-31T23:00Z,Final,11,Indiana Pacers,IND,121,25,Oklahoma City Thunder,OKC,117,Gainbridge Fieldhouse,16506,2022-23
+401469305,2023-03-31T23:00Z,Final,20,Philadelphia 76ers,PHI,117,28,Toronto Raptors,TOR,110,Xfinity Mobile Arena,20993,2022-23
+401469306,2023-03-31T23:00Z,Final,27,Washington Wizards,WSH,109,19,Orlando Magic,ORL,116,Capital One Arena,16411,2022-23
+401469307,2023-03-31T23:30Z,Final,2,Boston Celtics,BOS,122,26,Utah Jazz,UTAH,114,TD Garden,19156,2022-23
+401469308,2023-03-31T23:30Z,Final,17,Brooklyn Nets,BKN,124,1,Atlanta Hawks,ATL,107,Barclays Center,17849,2022-23
+401469309,2023-03-31T23:30Z,Final,5,Cleveland Cavaliers,CLE,116,18,New York Knicks,NY,130,Rocket Arena,19432,2022-23
+401469310,2023-04-01T00:00Z,Final,10,Houston Rockets,HOU,121,8,Detroit Pistons,DET,115,Toyota Center (Houston),15844,2022-23
+401469311,2023-04-01T00:00Z,Final,29,Memphis Grizzlies,MEM,108,12,LA Clippers,LAC,94,FedExForum,16376,2022-23
+401469312,2023-04-01T00:00Z,Final,16,Minnesota Timberwolves,MIN,111,13,Los Angeles Lakers,LAL,123,Target Center,18978,2022-23
+401469313,2023-04-01T02:00Z,Final,9,Golden State Warriors,GS,130,24,San Antonio Spurs,SA,115,Chase Center,18064,2022-23
+401469314,2023-04-01T02:00Z,Final,22,Portland Trail Blazers,POR,114,23,Sacramento Kings,SAC,138,Moda Center,18389,2022-23
+401469315,2023-04-01T02:30Z,Final,21,Phoenix Suns,PHX,100,7,Denver Nuggets,DEN,93,PHX Arena,17071,2022-23
+401469316,2023-04-01T23:30Z,Final,14,Miami Heat,MIA,129,6,Dallas Mavericks,DAL,122,Kaseya Center,20011,2022-23
+401469317,2023-04-02T00:30Z,Final,3,New Orleans Pelicans,NO,122,12,LA Clippers,LAC,114,Smoothie King Center,18399,2022-23
+401469318,2023-04-02T17:00Z,Final,30,Charlotte Hornets,CHA,108,28,Toronto Raptors,TOR,128,Spectrum Center,16052,2022-23
+401469319,2023-04-02T19:30Z,Final,17,Brooklyn Nets,BKN,111,26,Utah Jazz,UTAH,110,Barclays Center,17732,2022-23
+401469320,2023-04-02T19:30Z,Final,4,Chicago Bulls,CHI,128,29,Memphis Grizzlies,MEM,107,United Center,20944,2022-23
+401469321,2023-04-02T19:30Z,Final,16,Minnesota Timberwolves,MIN,105,22,Portland Trail Blazers,POR,107,Target Center,18978,2022-23
+401469322,2023-04-02T22:00Z,Final,1,Atlanta Hawks,ATL,132,6,Dallas Mavericks,DAL,130,State Farm Arena,17678,2022-23
+401469323,2023-04-02T22:00Z,Final,18,New York Knicks,NY,118,27,Washington Wizards,WSH,109,Madison Square Garden,19812,2022-23
+401469324,2023-04-02T22:00Z,Final,19,Orlando Magic,ORL,128,8,Detroit Pistons,DET,102,Kia Center,19431,2022-23
+401469325,2023-04-02T22:00Z,Final,23,Sacramento Kings,SAC,134,24,San Antonio Spurs,SA,142,Golden 1 Center,18183,2022-23
+401469326,2023-04-02T23:00Z,Final,10,Houston Rockets,HOU,109,13,Los Angeles Lakers,LAL,134,Toyota Center (Houston),18204,2022-23
+401469327,2023-04-02T23:00Z,Final,25,Oklahoma City Thunder,OKC,118,21,Phoenix Suns,PHX,128,Paycom Center,17981,2022-23
+401469328,2023-04-03T00:00Z,Final,5,Cleveland Cavaliers,CLE,115,11,Indiana Pacers,IND,105,Rocket Arena,19432,2022-23
+401469329,2023-04-03T00:00Z,Final,15,Milwaukee Bucks,MIL,117,20,Philadelphia 76ers,PHI,104,Fiserv Forum,17532,2022-23
+401469330,2023-04-03T00:30Z,Final,7,Denver Nuggets,DEN,112,9,Golden State Warriors,GS,110,Ball Arena,19752,2022-23
+401469331,2023-04-04T23:00Z,Final,30,Charlotte Hornets,CHA,100,28,Toronto Raptors,TOR,120,Spectrum Center,14965,2022-23
+401469332,2023-04-04T23:00Z,Final,8,Detroit Pistons,DET,105,14,Miami Heat,MIA,118,Little Caesars Arena,18453,2022-23
+401469333,2023-04-04T23:00Z,Final,19,Orlando Magic,ORL,113,5,Cleveland Cavaliers,CLE,117,Kia Center,19449,2022-23
+401469334,2023-04-04T23:00Z,Final,27,Washington Wizards,WSH,128,15,Milwaukee Bucks,MIL,140,Capital One Arena,19098,2022-23
+401469335,2023-04-04T23:30Z,Final,17,Brooklyn Nets,BKN,102,16,Minnesota Timberwolves,MIN,107,Barclays Center,17893,2022-23
+401469336,2023-04-05T00:00Z,Final,20,Philadelphia 76ers,PHI,103,2,Boston Celtics,BOS,101,Xfinity Mobile Arena,21104,2022-23
+401469337,2023-04-05T00:00Z,Final,4,Chicago Bulls,CHI,105,1,Atlanta Hawks,ATL,123,United Center,21717,2022-23
+401469338,2023-04-05T00:00Z,Final,10,Houston Rockets,HOU,124,7,Denver Nuggets,DEN,103,Toyota Center (Houston),16924,2022-23
+401469339,2023-04-05T00:00Z,Final,29,Memphis Grizzlies,MEM,119,22,Portland Trail Blazers,POR,109,FedExForum,17558,2022-23
+401469340,2023-04-05T00:00Z,Final,3,New Orleans Pelicans,NO,103,23,Sacramento Kings,SAC,121,Smoothie King Center,15799,2022-23
+401469341,2023-04-05T01:00Z,Final,26,Utah Jazz,UTAH,133,13,Los Angeles Lakers,LAL,135,Delta Center,18206,2022-23
+401469342,2023-04-05T02:00Z,Final,9,Golden State Warriors,GS,136,25,Oklahoma City Thunder,OKC,125,Chase Center,18064,2022-23
+401469343,2023-04-05T02:00Z,Final,21,Phoenix Suns,PHX,115,24,San Antonio Spurs,SA,94,PHX Arena,17071,2022-23
+401469344,2023-04-05T23:00Z,Final,8,Detroit Pistons,DET,108,17,Brooklyn Nets,BKN,123,Little Caesars Arena,18313,2022-23
+401469345,2023-04-05T23:00Z,Final,11,Indiana Pacers,IND,129,18,New York Knicks,NY,138,Gainbridge Fieldhouse,16789,2022-23
+401469346,2023-04-05T23:30Z,Final,1,Atlanta Hawks,ATL,134,27,Washington Wizards,WSH,116,State Farm Arena,17727,2022-23
+401469347,2023-04-05T23:30Z,Final,2,Boston Celtics,BOS,97,28,Toronto Raptors,TOR,93,TD Garden,19156,2022-23
+401469348,2023-04-05T23:30Z,Final,15,Milwaukee Bucks,MIL,105,4,Chicago Bulls,CHI,92,Fiserv Forum,17679,2022-23
+401469349,2023-04-06T00:00Z,Final,3,New Orleans Pelicans,NO,138,29,Memphis Grizzlies,MEM,131,Smoothie King Center,17232,2022-23
+401469350,2023-04-06T00:30Z,Final,6,Dallas Mavericks,DAL,123,23,Sacramento Kings,SAC,119,American Airlines Center,20271,2022-23
+401469351,2023-04-06T02:00Z,Final,12,LA Clippers,LAC,125,13,Los Angeles Lakers,LAL,118,crypto.com Arena,19068,2022-23
+401469352,2023-04-06T23:00Z,Final,19,Orlando Magic,ORL,94,5,Cleveland Cavaliers,CLE,118,Kia Center,19235,2022-23
+401469353,2023-04-06T23:30Z,Final,20,Philadelphia 76ers,PHI,101,14,Miami Heat,MIA,129,Xfinity Mobile Arena,21178,2022-23
+401469354,2023-04-07T00:00Z,Final,24,San Antonio Spurs,SA,129,22,Portland Trail Blazers,POR,127,Moody Center,16023,2022-23
+401469355,2023-04-07T01:00Z,Final,26,Utah Jazz,UTAH,98,25,Oklahoma City Thunder,OKC,114,Delta Center,18206,2022-23
+401469356,2023-04-07T02:00Z,Final,21,Phoenix Suns,PHX,119,7,Denver Nuggets,DEN,115,PHX Arena,17071,2022-23
+401469357,2023-04-07T23:00Z,Final,30,Charlotte Hornets,CHA,109,10,Houston Rockets,HOU,112,Spectrum Center,19102,2022-23
+401469358,2023-04-07T23:00Z,Final,11,Indiana Pacers,IND,115,8,Detroit Pistons,DET,122,Gainbridge Fieldhouse,17274,2022-23
+401469359,2023-04-07T23:00Z,Final,27,Washington Wizards,WSH,114,14,Miami Heat,MIA,108,Capital One Arena,20476,2022-23
+401469360,2023-04-07T23:30Z,Final,1,Atlanta Hawks,ATL,131,20,Philadelphia 76ers,PHI,136,State Farm Arena,17627,2022-23
+401469361,2023-04-07T23:30Z,Final,2,Boston Celtics,BOS,121,28,Toronto Raptors,TOR,102,TD Garden,19156,2022-23
+401469362,2023-04-07T23:30Z,Final,17,Brooklyn Nets,BKN,101,19,Orlando Magic,ORL,84,Barclays Center,18177,2022-23
+401469363,2023-04-08T00:00Z,Final,15,Milwaukee Bucks,MIL,114,29,Memphis Grizzlies,MEM,137,Fiserv Forum,18010,2022-23
+401469364,2023-04-08T00:00Z,Final,3,New Orleans Pelicans,NO,113,18,New York Knicks,NY,105,Smoothie King Center,18656,2022-23
+401469365,2023-04-08T00:30Z,Final,6,Dallas Mavericks,DAL,112,4,Chicago Bulls,CHI,115,American Airlines Center,20313,2022-23
+401469366,2023-04-08T02:00Z,Final,23,Sacramento Kings,SAC,97,9,Golden State Warriors,GS,119,Golden 1 Center,18253,2022-23
+401469367,2023-04-08T02:30Z,Final,13,Los Angeles Lakers,LAL,121,21,Phoenix Suns,PHX,107,crypto.com Arena,18997,2022-23
+401469368,2023-04-08T19:30Z,Final,26,Utah Jazz,UTAH,118,7,Denver Nuggets,DEN,114,Delta Center,18206,2022-23
+401469369,2023-04-08T20:00Z,Final,24,San Antonio Spurs,SA,131,16,Minnesota Timberwolves,MIN,151,Moody Center,16148,2022-23
+401469370,2023-04-08T20:00Z,Final,12,LA Clippers,LAC,136,22,Portland Trail Blazers,POR,125,crypto.com Arena,19068,2022-23
+401469371,2023-04-09T17:00Z,Final,2,Boston Celtics,BOS,120,1,Atlanta Hawks,ATL,114,TD Garden,19156,2022-23
+401469372,2023-04-09T17:00Z,Final,17,Brooklyn Nets,BKN,105,20,Philadelphia 76ers,PHI,134,Barclays Center,17732,2022-23
+401469373,2023-04-09T17:00Z,Final,5,Cleveland Cavaliers,CLE,95,30,Charlotte Hornets,CHA,106,Rocket Arena,19432,2022-23
+401469374,2023-04-09T17:00Z,Final,14,Miami Heat,MIA,123,19,Orlando Magic,ORL,110,Kaseya Center,19894,2022-23
+401469375,2023-04-09T17:00Z,Final,18,New York Knicks,NY,136,11,Indiana Pacers,IND,141,Madison Square Garden,19812,2022-23
+401469376,2023-04-09T17:00Z,Final,28,Toronto Raptors,TOR,121,15,Milwaukee Bucks,MIL,105,Scotiabank Arena,19800,2022-23
+401469377,2023-04-09T17:00Z,Final,27,Washington Wizards,WSH,109,10,Houston Rockets,HOU,114,Capital One Arena,15233,2022-23
+401469378,2023-04-09T17:00Z,Final,4,Chicago Bulls,CHI,103,8,Detroit Pistons,DET,81,United Center,21530,2022-23
+401469379,2023-04-09T19:30Z,Final,6,Dallas Mavericks,DAL,117,24,San Antonio Spurs,SA,138,American Airlines Center,20141,2022-23
+401469380,2023-04-09T19:30Z,Final,16,Minnesota Timberwolves,MIN,113,3,New Orleans Pelicans,NO,108,Target Center,18978,2022-23
+401469381,2023-04-09T19:30Z,Final,25,Oklahoma City Thunder,OKC,115,29,Memphis Grizzlies,MEM,100,Paycom Center,16601,2022-23
+401469382,2023-04-09T19:30Z,Final,7,Denver Nuggets,DEN,109,23,Sacramento Kings,SAC,95,Ball Arena,19652,2022-23
+401469383,2023-04-09T19:30Z,Final,13,Los Angeles Lakers,LAL,128,26,Utah Jazz,UTAH,117,crypto.com Arena,18997,2022-23
+401469384,2023-04-09T19:30Z,Final,21,Phoenix Suns,PHX,114,12,LA Clippers,LAC,119,PHX Arena,17071,2022-23
+401469385,2023-04-09T19:30Z,Final,22,Portland Trail Blazers,POR,101,9,Golden State Warriors,GS,157,Moda Center,19731,2022-23
