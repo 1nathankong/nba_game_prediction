@@ -1,0 +1,770 @@
+{
+  "header": "NBA News",
+  "link": {
+    "language": "en",
+    "rel": [
+      "index",
+      "desktop",
+      "league"
+    ],
+    "href": "https://www.espn.com/nba/",
+    "text": "All NBA News",
+    "shortText": "All News",
+    "isExternal": false,
+    "isPremium": false
+  },
+  "articles": [
+    {
+      "id": 46216537,
+      "nowId": "1-46216537",
+      "contentKey": "46216537-1-5-1",
+      "dataSourceIdentifier": "ace5b809084ce",
+      "type": "HeadlineNews",
+      "headline": "Sources: Knicks to hire Saint Joseph's Billy Lange as a coach",
+      "description": "Saint Joseph's head coach, Billy Lange, is expected to be hired by the Knicks for a role on the coaching staff, sources told ESPN on Wednesday.",
+      "lastModified": "2025-09-10T20:20:58Z",
+      "published": "2025-09-10T20:21:00Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "eaf51312b51d0",
+          "id": 46216467,
+          "type": "header",
+          "name": "Billy Lange [600x400]",
+          "credit": "AP Photo/Matt Slocum",
+          "height": 400,
+          "width": 600,
+          "url": "https://a.espncdn.com/photo/2025/0910/r1543592_600x400_3-2.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 409224,
+          "type": "topic",
+          "guid": "52313677-19f8-b106-ec91-d8d17e6087fe",
+          "description": "news",
+          "sportId": 0,
+          "topicId": 781
+        },
+        {
+          "id": 647280,
+          "type": "contributor",
+          "guid": "37be3dad-8916-3040-bba4-167834f0afd0",
+          "description": "Pete Thamel",
+          "slug": "pete-thamel",
+          "contributor": {
+            "id": 3899,
+            "description": "Pete Thamel",
+            "links": {
+              "web": {
+                "contributors": {
+                  "href": "https://www.espn.com/contributor/pete-thamel"
+                }
+              },
+              "mobile": {
+                "contributors": {
+                  "href": "https://www.espn.com/contributor/pete-thamel"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 4293,
+          "type": "team",
+          "uid": "s:40~l:46~t:18",
+          "guid": "61719eb2-11c3-4e3d-90c3-0a1319fd850b",
+          "description": "New York Knicks",
+          "sportId": 46,
+          "teamId": 18,
+          "team": {
+            "id": 18,
+            "description": "New York Knicks",
+            "links": {
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/nba/team/_/name/ny/new-york-knicks"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "https://www.espn.com/nba/team/_/name/ny/new-york-knicks"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 12153,
+          "type": "team",
+          "uid": "s:40~l:41~t:2603",
+          "guid": "5df7b8a2-673e-554a-6fe3-a0e452cad526",
+          "description": "Saint Joseph's Hawks",
+          "sportId": 41,
+          "teamId": 2603,
+          "team": {
+            "id": 2603,
+            "description": "Saint Joseph's Hawks",
+            "links": {
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/mens-college-basketball/team/_/id/2603/saint-josephs-hawks"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "https://www.espn.com/mens-college-basketball/team/_/id/2603/saint-josephs-hawks"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 9577,
+          "type": "league",
+          "uid": "s:40~l:46",
+          "guid": "7b3729c9-7f69-308a-bf8a-ee15a6aba154",
+          "description": "NBA",
+          "sportId": 46,
+          "leagueId": 46,
+          "league": {
+            "id": 46,
+            "description": "NBA",
+            "abbreviation": "NBA",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/nba/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/nba/"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 701833,
+          "type": "contributor",
+          "guid": "21d6b480-a77e-3151-9e69-227ad7836c9a",
+          "description": "Jeff Borzello",
+          "slug": "jeff-borzello",
+          "contributor": {
+            "id": 2392,
+            "description": "Jeff Borzello",
+            "links": {
+              "web": {},
+              "mobile": {}
+            }
+          }
+        },
+        {
+          "id": 9576,
+          "type": "league",
+          "uid": "s:40~l:41",
+          "guid": "11965179-4504-3b99-983e-83ea0e36d5f3",
+          "description": "NCAA Men's Basketball",
+          "sportId": 41,
+          "leagueId": 41,
+          "league": {
+            "id": 41,
+            "description": "NCAA Men's Basketball",
+            "abbreviation": "NCAAM",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/mens-college-basketball/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/mens-college-basketball/"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": "guid",
+          "guid": "52313677-19f8-b106-ec91-d8d17e6087fe"
+        },
+        {
+          "type": "guid",
+          "guid": "37be3dad-8916-3040-bba4-167834f0afd0"
+        },
+        {
+          "type": "guid",
+          "guid": "61719eb2-11c3-4e3d-90c3-0a1319fd850b"
+        },
+        {
+          "type": "guid",
+          "guid": "5df7b8a2-673e-554a-6fe3-a0e452cad526"
+        },
+        {
+          "type": "guid",
+          "guid": "7b3729c9-7f69-308a-bf8a-ee15a6aba154"
+        },
+        {
+          "type": "guid",
+          "guid": "21d6b480-a77e-3151-9e69-227ad7836c9a"
+        },
+        {
+          "type": "guid",
+          "guid": "11965179-4504-3b99-983e-83ea0e36d5f3"
+        },
+        {
+          "type": "guid",
+          "guid": "2b2f7e63-8d08-3e7b-bffe-7d65a44d7216"
+        }
+      ],
+      "premium": false,
+      "links": {
+        "web": {
+          "href": "https://www.espn.com/nba/story/_/id/46216537/sources-knicks-hire-saint-joseph-billy-lange-coach"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/nba/story?storyId=46216537"
+        },
+        "api": {
+          "self": {
+            "href": "https://content.core.api.espn.com/v1/sports/news/46216537"
+          }
+        },
+        "app": {
+          "sportscenter": {
+            "href": "sportscenter://x-callback-url/showStory?uid=46216537"
+          }
+        }
+      },
+      "byline": "Pete Thamel and Jeff Borzello"
+    },
+    {
+      "id": 46217260,
+      "nowId": "1-46217260",
+      "contentKey": "46217260-1-5-1",
+      "dataSourceIdentifier": "2967562ca3884",
+      "type": "HeadlineNews",
+      "headline": "Long end-of-quarter shots to count against NBA teams, not players",
+      "description": "The NBA will implement a change for the 2025-26 season with unsuccessful end-of-period heaves being recorded as a missed attempt for the team, not the player.",
+      "lastModified": "2025-09-10T20:14:13Z",
+      "published": "2025-09-10T20:14:29Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "4b6ac98c81907",
+          "id": 46217373,
+          "type": "header",
+          "name": "250910 Ballrim [1296x729]",
+          "credit": "Jaime Valdez-Imagn Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0910/r1543652_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "b50bc5985d6fb",
+          "id": 35076770,
+          "type": "header",
+          "name": "NBA basketball (Nov. 21, 2022) [1296x864]",
+          "credit": "Fernando Medina/NBAE via Getty Images",
+          "height": 864,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2022/1121/r1094522_1296x864_3-2.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Perk reacts to NBA rule change for end-of-quarter heaves",
+          "caption": "Kendrick Perkins reacts to Shams Charania's report on the NBA's rule change for end-of-quarter heaves, recalling Doc Rivers' stance encouraging players to take those shots.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/0910/67b810bf30e04ec89be3538b64f62d83972/67b810bf30e04ec89be3538b64f62d83972.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 409224,
+          "type": "topic",
+          "guid": "52313677-19f8-b106-ec91-d8d17e6087fe",
+          "description": "news",
+          "sportId": 0,
+          "topicId": 781
+        },
+        {
+          "id": 9577,
+          "type": "league",
+          "uid": "s:40~l:46",
+          "guid": "7b3729c9-7f69-308a-bf8a-ee15a6aba154",
+          "description": "NBA",
+          "sportId": 46,
+          "leagueId": 46,
+          "league": {
+            "id": 46,
+            "description": "NBA",
+            "abbreviation": "NBA",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/nba/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/nba/"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": "guid",
+          "guid": "52313677-19f8-b106-ec91-d8d17e6087fe"
+        },
+        {
+          "type": "guid",
+          "guid": "7b3729c9-7f69-308a-bf8a-ee15a6aba154"
+        }
+      ],
+      "premium": false,
+      "links": {
+        "web": {
+          "href": "https://www.espn.com/nba/story/_/id/46217260/long-end-quarter-shots-count-nba-teams-not-players"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/nba/story?storyId=46217260"
+        },
+        "api": {
+          "self": {
+            "href": "https://content.core.api.espn.com/v1/sports/news/46217260"
+          }
+        },
+        "app": {
+          "sportscenter": {
+            "href": "sportscenter://x-callback-url/showStory?uid=46217260"
+          }
+        }
+      }
+    },
+    {
+      "id": 46217996,
+      "nowId": "1-46217996",
+      "contentKey": "46217996-1-293-1",
+      "dataSourceIdentifier": "444b0f339fe28",
+      "type": "Media",
+      "headline": "Perk reacts to NBA rule change for end-of-quarter heaves",
+      "description": "Kendrick Perkins reacts to Shams Charania's report on the NBA's rule change for end-of-quarter heaves, recalling Doc Rivers' stance encouraging players to take those shots.",
+      "lastModified": "2025-09-10T20:13:48Z",
+      "published": "2025-09-10T20:01:39Z",
+      "images": [
+        {
+          "name": "Perk reacts to NBA rule change for end-of-quarter heaves",
+          "caption": "Kendrick Perkins reacts to Shams Charania's report on the NBA's rule change for end-of-quarter heaves, recalling Doc Rivers' stance encouraging players to take those shots.",
+          "alt": "",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/0910/67b810bf30e04ec89be3538b64f62d83972/67b810bf30e04ec89be3538b64f62d83972.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 9577,
+          "type": "league",
+          "uid": "s:40~l:46",
+          "guid": "7b3729c9-7f69-308a-bf8a-ee15a6aba154",
+          "description": "NBA",
+          "sportId": 46,
+          "leagueId": 46,
+          "league": {
+            "id": 46,
+            "description": "NBA",
+            "abbreviation": "NBA",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/nba/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/nba/"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 664675,
+          "type": "editorialindicator",
+          "guid": "e8acf0b3-14b1-3a2f-813e-54390eff67c3",
+          "description": "League Boost"
+        },
+        {
+          "type": "guid",
+          "guid": "7b3729c9-7f69-308a-bf8a-ee15a6aba154"
+        },
+        {
+          "type": "guid",
+          "guid": "e8acf0b3-14b1-3a2f-813e-54390eff67c3"
+        }
+      ],
+      "premium": false,
+      "links": {
+        "web": {
+          "href": "https://www.espn.com/video/clip?id=46217996",
+          "self": {
+            "href": "https://www.espn.com/video/clip?id=46217996"
+          },
+          "seo": {
+            "href": "https://www.espn.com/video/clip/_/id/46217996"
+          }
+        },
+        "api": {
+          "self": {
+            "href": "https://content.core.api.espn.com/v1/video/clips/46217996"
+          },
+          "artwork": {
+            "href": "https://artwork.api.espn.com/artwork/collections/media/f4d65c01-1a2f-4386-98c0-5215ec4969af"
+          }
+        },
+        "sportscenter": {
+          "href": "sportscenter://x-callback-url/showVideo?videoID=46217996&videoDSI=444b0f339fe28"
+        }
+      }
+    },
+    {
+      "id": 46015801,
+      "nowId": "1-46015801",
+      "contentKey": "46015801-1-6-1",
+      "dataSourceIdentifier": "09fb22164f785",
+      "type": "Story",
+      "headline": "EuroBasket 2025: Scores, schedules, teams, news and updates",
+      "description": "EuroBasket hits the court for the first time since 2022. We have all the news, scores and schedules as 24 teams compete for champion of Europe.",
+      "lastModified": "2025-09-10T20:11:13Z",
+      "published": "2025-09-10T20:00:00Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "44cf63f0f644c",
+          "id": 46015772,
+          "type": "header",
+          "name": "Luka KP [608x342]",
+          "credit": "Photo by TOMS KALNINS/EPA/Shutterstock (15444097ai)",
+          "height": 342,
+          "width": 608,
+          "url": "https://a.espncdn.com/photo/2025/0819/r1533790_608x342_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "What are the expectations for Luka Doncic during EuroBasket?",
+          "caption": "Dave McMenamin discusses how a new-look Luka Doncic will approach representing Slovenia in EuroBasket 2025.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/0805/dc9ec65b34184f9192218cf5ac44f4df1040/dc9ec65b34184f9192218cf5ac44f4df1040.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 409221,
+          "type": "topic",
+          "guid": "b95f420f-72e3-eee7-c241-735028efdf13",
+          "description": "event",
+          "sportId": 0,
+          "topicId": 778
+        },
+        {
+          "id": 9577,
+          "type": "league",
+          "uid": "s:40~l:46",
+          "guid": "7b3729c9-7f69-308a-bf8a-ee15a6aba154",
+          "description": "NBA",
+          "sportId": 46,
+          "leagueId": 46,
+          "league": {
+            "id": 46,
+            "description": "NBA",
+            "abbreviation": "NBA",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/nba/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/nba/"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": "guid",
+          "guid": "b95f420f-72e3-eee7-c241-735028efdf13"
+        },
+        {
+          "type": "guid",
+          "guid": "7b3729c9-7f69-308a-bf8a-ee15a6aba154"
+        }
+      ],
+      "premium": false,
+      "links": {
+        "web": {
+          "href": "https://www.espn.com/nba/story/_/id/46015801/eurobasket-2025-scores-schedules-teams-news-updates"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/nba/story?storyId=46015801"
+        },
+        "api": {
+          "self": {
+            "href": "https://content.core.api.espn.com/v1/sports/news/46015801"
+          }
+        },
+        "app": {
+          "sportscenter": {
+            "href": "sportscenter://x-callback-url/showStory?uid=46015801"
+          }
+        }
+      },
+      "byline": "ESPN"
+    },
+    {
+      "id": 46215397,
+      "nowId": "1-46215397",
+      "contentKey": "46215397-1-6-1",
+      "dataSourceIdentifier": "a21613645d655",
+      "type": "Story",
+      "headline": "Who has won EuroBasket? Men's and women's champions by year",
+      "description": "The EuroBasket is the top international basketball competition for European teams. Check out all-time men's and women's winners now.",
+      "lastModified": "2025-09-10T19:22:24Z",
+      "published": "2025-09-10T19:21:00Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "6f69c281ee559",
+          "id": 44431394,
+          "type": "header",
+          "name": "Eurobasket Trophy [608x342]",
+          "caption": "The Soviet Union has won more men's EuroBasket championships than any other team, with 14 titles.",
+          "credit": "AP Photo/Thanassis Stavrakis",
+          "height": 342,
+          "width": 608,
+          "url": "https://a.espncdn.com/photo/2025/0327/r1470114_608x342_16-9.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 9579,
+          "type": "league",
+          "uid": "s:40~l:59",
+          "guid": "f74a6d24-af0c-30a0-bc20-e987c7093a68",
+          "description": "WNBA",
+          "sportId": 59,
+          "leagueId": 59,
+          "league": {
+            "id": 59,
+            "description": "WNBA",
+            "abbreviation": "WNBA",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/wnba/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/wnba/"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 9577,
+          "type": "league",
+          "uid": "s:40~l:46",
+          "guid": "7b3729c9-7f69-308a-bf8a-ee15a6aba154",
+          "description": "NBA",
+          "sportId": 46,
+          "leagueId": 46,
+          "league": {
+            "id": 46,
+            "description": "NBA",
+            "abbreviation": "NBA",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/nba/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/nba/"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": "guid",
+          "guid": "f74a6d24-af0c-30a0-bc20-e987c7093a68"
+        },
+        {
+          "type": "guid",
+          "guid": "7b3729c9-7f69-308a-bf8a-ee15a6aba154"
+        }
+      ],
+      "premium": false,
+      "links": {
+        "web": {
+          "href": "https://www.espn.com/nba/story/_/id/46215397/who-won-eurobasket-men-women-champions-year"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/nba/story?storyId=46215397"
+        },
+        "api": {
+          "self": {
+            "href": "https://content.core.api.espn.com/v1/sports/news/46215397"
+          }
+        },
+        "app": {
+          "sportscenter": {
+            "href": "sportscenter://x-callback-url/showStory?uid=46215397"
+          }
+        }
+      },
+      "byline": "ESPN"
+    },
+    {
+      "id": 46216115,
+      "nowId": "1-46216115",
+      "contentKey": "46216115-1-5-1",
+      "dataSourceIdentifier": "920e2c39dd2ab",
+      "type": "HeadlineNews",
+      "headline": "Trey Lyles signs with Real Madrid, leaves NBA after 10 years",
+      "description": "Trey Lyles, a 10-year NBA veteran, signed a one-year deal Wednesday with Real Madrid, which plays in Spain and in the EuroLeague.",
+      "lastModified": "2025-09-10T16:24:48Z",
+      "published": "2025-09-10T16:24:50Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "38cb34b583cc8",
+          "id": 46216131,
+          "type": "header",
+          "name": "Trey Lyles [600x400]",
+          "credit": "AP Photo/Jacob Kupferman, File",
+          "height": 400,
+          "width": 600,
+          "url": "https://a.espncdn.com/photo/2025/0910/r1543580_600x400_3-2.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 4676,
+          "type": "team",
+          "uid": "s:40~l:46~t:23",
+          "guid": "e266c4ea-9af3-1bd8-06fb-fd608fd30e26",
+          "description": "Sacramento Kings",
+          "sportId": 46,
+          "teamId": 23,
+          "team": {
+            "id": 23,
+            "description": "Sacramento Kings",
+            "links": {
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/nba/team/_/name/sac/sacramento-kings"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "https://www.espn.com/nba/team/_/name/sac/sacramento-kings"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 409224,
+          "type": "topic",
+          "guid": "52313677-19f8-b106-ec91-d8d17e6087fe",
+          "description": "news",
+          "sportId": 0,
+          "topicId": 781
+        },
+        {
+          "id": 9577,
+          "type": "league",
+          "uid": "s:40~l:46",
+          "guid": "7b3729c9-7f69-308a-bf8a-ee15a6aba154",
+          "description": "NBA",
+          "sportId": 46,
+          "leagueId": 46,
+          "league": {
+            "id": 46,
+            "description": "NBA",
+            "abbreviation": "NBA",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/nba/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/nba/"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 140944,
+          "type": "athlete",
+          "uid": "s:40~l:53~a:3136196",
+          "guid": "c212e512-d1cf-291c-43df-7725c8fd19c2",
+          "description": "Trey Lyles",
+          "sportId": 53,
+          "athleteId": 3136196,
+          "athlete": {
+            "id": 3136196,
+            "description": "Trey Lyles",
+            "links": {
+              "web": {},
+              "mobile": {}
+            }
+          }
+        },
+        {
+          "type": "guid",
+          "guid": "e266c4ea-9af3-1bd8-06fb-fd608fd30e26"
+        },
+        {
+          "type": "guid",
+          "guid": "52313677-19f8-b106-ec91-d8d17e6087fe"
+        },
+        {
+          "type": "guid",
+          "guid": "7b3729c9-7f69-308a-bf8a-ee15a6aba154"
+        },
+        {
+          "type": "guid",
+          "guid": "c212e512-d1cf-291c-43df-7725c8fd19c2"
+        }
+      ],
+      "premium": false,
+      "links": {
+        "web": {
+          "href": "https://www.espn.com/nba/story/_/id/46216115/trey-lyles-signs-real-madrid-leaves-nba-10-years"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/nba/story?storyId=46216115"
+        },
+        "api": {
+          "self": {
+            "href": "https://content.core.api.espn.com/v1/sports/news/46216115"
+          }
+        },
+        "app": {
+          "sportscenter": {
+            "href": "sportscenter://x-callback-url/showStory?uid=46216115"
+          }
+        }
+      }
+    }
+  ]
+}

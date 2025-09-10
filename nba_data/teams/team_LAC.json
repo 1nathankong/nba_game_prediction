@@ -1,0 +1,828 @@
+{
+  "team": {
+    "id": "12",
+    "uid": "s:40~l:46~t:12",
+    "slug": "la-clippers",
+    "location": "LA",
+    "name": "Clippers",
+    "abbreviation": "LAC",
+    "displayName": "LA Clippers",
+    "shortDisplayName": "Clippers",
+    "color": "12173f",
+    "alternateColor": "c8102e",
+    "isActive": true,
+    "logos": [
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "lastUpdated": "2024-06-25T21:17Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/lac.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "lastUpdated": "2024-06-25T21:13Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "lastUpdated": "2024-06-25T21:18Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/lac.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "lastUpdated": "2024-06-25T21:14Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/primary_logo_on_white_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "lastUpdated": "2024-12-03T19:34Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/primary_logo_on_black_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "lastUpdated": "2024-12-03T19:34Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/primary_logo_on_primary_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "lastUpdated": "2024-12-03T19:34Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/primary_logo_on_secondary_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "lastUpdated": "2024-12-03T19:34Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/secondary_logo_on_white_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "lastUpdated": "2024-12-03T19:34Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/secondary_logo_on_black_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "lastUpdated": "2024-12-03T19:34Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/secondary_logo_on_primary_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "lastUpdated": "2024-12-03T19:34Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/secondary_logo_on_secondary_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "lastUpdated": "2024-12-03T19:34Z"
+      }
+    ],
+    "record": {},
+    "groups": {
+      "id": "4",
+      "parent": {
+        "id": "6"
+      },
+      "isConference": false
+    },
+    "links": [
+      {
+        "language": "en-US",
+        "rel": [
+          "clubhouse",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/_/name/lac/la-clippers",
+        "text": "Clubhouse",
+        "shortText": "Clubhouse",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "roster",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/roster/_/name/lac/la-clippers",
+        "text": "Roster",
+        "shortText": "Roster",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "stats",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/stats/_/name/lac/la-clippers",
+        "text": "Statistics",
+        "shortText": "Statistics",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "schedule",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/schedule/_/name/lac",
+        "text": "Schedule",
+        "shortText": "Schedule",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "photos",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/photos/_/name/lac",
+        "text": "photos",
+        "shortText": "photos",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "tickets",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.vividseats.com/la-clippers-tickets--sports-nba-basketball/performer/480?wsUser=717",
+        "text": "Tickets",
+        "shortText": "Tickets",
+        "isExternal": true,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "draftpicks",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/draft/teams/_/name/lac/la-clippers",
+        "text": "Draft Picks",
+        "shortText": "Draft Picks",
+        "isExternal": false,
+        "isPremium": true
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "transactions",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/transactions/_/name/lac",
+        "text": "Transactions",
+        "shortText": "Transactions",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "injuries",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/injuries/_/name/lac",
+        "text": "Injuries",
+        "shortText": "Injuries",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "depthchart",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/depth/_/name/lac",
+        "text": "Depth Chart",
+        "shortText": "Depth Chart",
+        "isExternal": false,
+        "isPremium": false
+      }
+    ],
+    "franchise": {
+      "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/franchises/12?lang=en&region=us",
+      "id": "12",
+      "uid": "s:40~l:46~f:12",
+      "slug": "la-clippers",
+      "location": "LA",
+      "name": "Clippers",
+      "abbreviation": "LAC",
+      "displayName": "LA Clippers",
+      "shortDisplayName": "Clippers",
+      "color": "12173f",
+      "isActive": true,
+      "venue": {
+        "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/venues/1841?lang=en&region=us",
+        "id": "1841",
+        "guid": "cd3244eb-8bc6-36ec-9ce7-5f620a9ea5d6",
+        "fullName": "crypto.com Arena",
+        "shortName": "Staples Center",
+        "address": {
+          "city": "Los Angeles",
+          "state": "CA"
+        },
+        "grass": false,
+        "indoor": true,
+        "images": [
+          {
+            "href": "https://a.espncdn.com/i/venues/nba/day/1841.jpg",
+            "width": 2000,
+            "height": 1125,
+            "alt": "",
+            "rel": [
+              "full",
+              "day"
+            ]
+          }
+        ]
+      },
+      "team": {
+        "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2025/teams/12?lang=en&region=us"
+      }
+    },
+    "nextEvent": [
+      {
+        "id": "401812695",
+        "date": "2025-10-10T02:30Z",
+        "name": "Guangzhou Long-Lions at LA Clippers",
+        "shortName": "GUANGZHOU VS LAC",
+        "season": {
+          "year": 2026,
+          "displayName": "2025-26"
+        },
+        "seasonType": {
+          "id": "1",
+          "type": 1,
+          "name": "Preseason",
+          "abbreviation": "pre"
+        },
+        "timeValid": true,
+        "competitions": [
+          {
+            "id": "401812695",
+            "date": "2025-10-10T02:30Z",
+            "attendance": 0,
+            "type": {
+              "id": "1",
+              "text": "Standard",
+              "abbreviation": "STD",
+              "slug": "standard",
+              "type": "standard"
+            },
+            "timeValid": true,
+            "neutralSite": true,
+            "boxscoreAvailable": false,
+            "ticketsAvailable": true,
+            "venue": {
+              "fullName": "Frontwave Arena",
+              "address": {
+                "city": "Oceanside",
+                "state": "CA"
+              }
+            },
+            "competitors": [
+              {
+                "id": "12",
+                "type": "team",
+                "order": 0,
+                "homeAway": "home",
+                "team": {
+                  "id": "12",
+                  "location": "LA",
+                  "abbreviation": "LAC",
+                  "displayName": "LA Clippers",
+                  "shortDisplayName": "Clippers",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "default"
+                      ],
+                      "lastUpdated": "2024-06-25T21:17Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/lac.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "dark"
+                      ],
+                      "lastUpdated": "2024-06-25T21:13Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "scoreboard"
+                      ],
+                      "lastUpdated": "2024-06-25T21:18Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/lac.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "scoreboard",
+                        "dark"
+                      ],
+                      "lastUpdated": "2024-06-25T21:14Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/primary_logo_on_white_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_white_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:34Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/primary_logo_on_black_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_black_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:34Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/primary_logo_on_primary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_primary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:34Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/primary_logo_on_secondary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_secondary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:34Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/secondary_logo_on_white_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_white_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:34Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/secondary_logo_on_black_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_black_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:34Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/secondary_logo_on_primary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_primary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:34Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/083a58a6-b849-3501-e67b-059290d12295/logos/secondary_logo_on_secondary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_secondary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:34Z"
+                    }
+                  ],
+                  "links": [
+                    {
+                      "rel": [
+                        "clubhouse",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/_/name/lac/la-clippers",
+                      "text": "Clubhouse"
+                    },
+                    {
+                      "rel": [
+                        "roster",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/roster/_/name/lac/la-clippers",
+                      "text": "Roster"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/stats/_/name/lac/la-clippers",
+                      "text": "Statistics"
+                    },
+                    {
+                      "rel": [
+                        "schedule",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/schedule/_/name/lac",
+                      "text": "Schedule"
+                    },
+                    {
+                      "rel": [
+                        "photos",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/photos/_/name/lac",
+                      "text": "photos"
+                    },
+                    {
+                      "rel": [
+                        "tickets",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.vividseats.com/la-clippers-tickets--sports-nba-basketball/performer/480?wsUser=717",
+                      "text": "Tickets"
+                    },
+                    {
+                      "rel": [
+                        "draftpicks",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/draft/teams/_/name/lac/la-clippers",
+                      "text": "Draft Picks"
+                    },
+                    {
+                      "rel": [
+                        "transactions",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/transactions/_/name/lac",
+                      "text": "Transactions"
+                    },
+                    {
+                      "rel": [
+                        "injuries",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/injuries/_/name/lac",
+                      "text": "Injuries"
+                    },
+                    {
+                      "rel": [
+                        "depthchart",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/depth/_/name/lac",
+                      "text": "Depth Chart"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "111136",
+                "type": "team",
+                "order": 1,
+                "homeAway": "away",
+                "team": {
+                  "id": "111136",
+                  "location": "Guangzhou",
+                  "nickname": "Guangzhou",
+                  "abbreviation": "GUANGZHOU",
+                  "displayName": "Guangzhou Long-Lions",
+                  "shortDisplayName": "Long-Lions",
+                  "links": [
+                    {
+                      "rel": [
+                        "clubhouse",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/_/name/guangzhou/guangzhou-long-lions",
+                      "text": "Clubhouse"
+                    },
+                    {
+                      "rel": [
+                        "roster",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/roster/_/name/guangzhou/guangzhou-long-lions",
+                      "text": "Roster"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/stats/_/name/guangzhou/guangzhou-long-lions",
+                      "text": "Statistics"
+                    },
+                    {
+                      "rel": [
+                        "schedule",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/schedule/_/name/guangzhou",
+                      "text": "Schedule"
+                    },
+                    {
+                      "rel": [
+                        "photos",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/photos/_/name/guangzhou",
+                      "text": "photos"
+                    },
+                    {
+                      "rel": [
+                        "draftpicks",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/draft/teams/_/name/guangzhou/guangzhou-long-lions",
+                      "text": "Draft Picks"
+                    },
+                    {
+                      "rel": [
+                        "transactions",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/transactions/_/name/guangzhou",
+                      "text": "Transactions"
+                    },
+                    {
+                      "rel": [
+                        "injuries",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/injuries/_/name/guangzhou",
+                      "text": "Injuries"
+                    },
+                    {
+                      "rel": [
+                        "depthchart",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/depth/_/name/guangzhou",
+                      "text": "Depth Chart"
+                    }
+                  ]
+                }
+              }
+            ],
+            "notes": [],
+            "broadcasts": [],
+            "tickets": [
+              {
+                "id": "5933527",
+                "summary": "Tickets as low as $30",
+                "description": "NBA Preseason - Guangzhou Loong Lions at LA Clippers",
+                "maxPrice": 557.59,
+                "startingPrice": 30.51,
+                "numberAvailable": 557,
+                "totalPostings": 105,
+                "links": [
+                  {
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "event"
+                    ],
+                    "href": "https://www.vividseats.com/la-clippers-tickets-frontwave-arena-10-9-2025--sports-nba-basketball/production/5933527?wsUser=717"
+                  },
+                  {
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "venue"
+                    ],
+                    "href": "https://www.vividseats.com/venues/frontwave-arena-tickets.html?wsUser=717"
+                  }
+                ]
+              }
+            ],
+            "status": {
+              "clock": 0.0,
+              "displayClock": "0.0",
+              "period": 0,
+              "type": {
+                "id": "1",
+                "name": "STATUS_SCHEDULED",
+                "state": "pre",
+                "completed": false,
+                "description": "Scheduled",
+                "detail": "Thu, October 9th at 10:30 PM EDT",
+                "shortDetail": "10/9 - 10:30 PM EDT"
+              }
+            }
+          }
+        ],
+        "links": [
+          {
+            "language": "en-US",
+            "rel": [
+              "summary",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/nba/game/_/gameId/401812695/long-lions-clippers",
+            "text": "Gamecast",
+            "shortText": "Summary",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "summary",
+              "sportscenter",
+              "app",
+              "event"
+            ],
+            "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401812695",
+            "text": "Gamecast",
+            "shortText": "Summary",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "now",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/nba/game/_/gameId/401812695",
+            "text": "Now",
+            "shortText": "Now",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "odds",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/nba/odds/_/gameId/401812695",
+            "text": "Odds",
+            "shortText": "Odds",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "odds",
+              "mobile",
+              "event"
+            ],
+            "href": "https://m.espn.com/nba/odds/_/gameId/401812695",
+            "text": "Odds",
+            "shortText": "Odds",
+            "isExternal": false,
+            "isPremium": false
+          }
+        ]
+      }
+    ],
+    "standingSummary": "1st in Pacific Division"
+  }
+}

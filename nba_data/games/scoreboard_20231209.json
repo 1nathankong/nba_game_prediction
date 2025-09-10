@@ -1,0 +1,1576 @@
+{
+  "leagues": [
+    {
+      "id": "46",
+      "uid": "s:40~l:46",
+      "name": "National Basketball Association",
+      "abbreviation": "NBA",
+      "slug": "nba",
+      "season": {
+        "year": 2024,
+        "startDate": "2023-10-05T07:00Z",
+        "endDate": "2024-06-21T06:59Z",
+        "displayName": "2023-24",
+        "type": {
+          "id": "2",
+          "type": 2,
+          "name": "Regular Season",
+          "abbreviation": "reg"
+        }
+      },
+      "logos": [
+        {
+          "href": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
+          "width": 500,
+          "height": 500,
+          "alt": "",
+          "rel": [
+            "full",
+            "default"
+          ],
+          "lastUpdated": "2018-06-05T12:07Z"
+        },
+        {
+          "href": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500-dark/nba.png&w=500&h=500&transparent=true",
+          "width": 500,
+          "height": 500,
+          "alt": "",
+          "rel": [
+            "full",
+            "dark"
+          ],
+          "lastUpdated": "2025-09-09T03:44Z"
+        }
+      ],
+      "calendarType": "day",
+      "calendarIsWhitelist": true,
+      "calendarStartDate": "2023-10-05T07:00Z",
+      "calendarEndDate": "2024-06-21T06:59Z",
+      "calendar": [
+        "2023-10-05T07:00Z",
+        "2023-10-07T07:00Z",
+        "2023-10-08T07:00Z",
+        "2023-10-09T07:00Z",
+        "2023-10-10T07:00Z",
+        "2023-10-11T07:00Z",
+        "2023-10-12T07:00Z",
+        "2023-10-13T07:00Z",
+        "2023-10-14T07:00Z",
+        "2023-10-15T07:00Z",
+        "2023-10-16T07:00Z",
+        "2023-10-17T07:00Z",
+        "2023-10-18T07:00Z",
+        "2023-10-19T07:00Z",
+        "2023-10-20T07:00Z",
+        "2023-10-24T07:00Z",
+        "2023-10-25T07:00Z",
+        "2023-10-26T07:00Z",
+        "2023-10-27T07:00Z",
+        "2023-10-28T07:00Z",
+        "2023-10-29T07:00Z",
+        "2023-10-30T07:00Z",
+        "2023-10-31T07:00Z",
+        "2023-11-01T07:00Z",
+        "2023-11-02T07:00Z",
+        "2023-11-03T07:00Z",
+        "2023-11-04T07:00Z",
+        "2023-11-05T07:00Z",
+        "2023-11-06T08:00Z",
+        "2023-11-08T08:00Z",
+        "2023-11-09T08:00Z",
+        "2023-11-10T08:00Z",
+        "2023-11-11T08:00Z",
+        "2023-11-12T08:00Z",
+        "2023-11-13T08:00Z",
+        "2023-11-14T08:00Z",
+        "2023-11-15T08:00Z",
+        "2023-11-16T08:00Z",
+        "2023-11-17T08:00Z",
+        "2023-11-18T08:00Z",
+        "2023-11-19T08:00Z",
+        "2023-11-20T08:00Z",
+        "2023-11-21T08:00Z",
+        "2023-11-22T08:00Z",
+        "2023-11-24T08:00Z",
+        "2023-11-25T08:00Z",
+        "2023-11-26T08:00Z",
+        "2023-11-27T08:00Z",
+        "2023-11-28T08:00Z",
+        "2023-11-29T08:00Z",
+        "2023-11-30T08:00Z",
+        "2023-12-01T08:00Z",
+        "2023-12-02T08:00Z",
+        "2023-12-04T08:00Z",
+        "2023-12-05T08:00Z",
+        "2023-12-06T08:00Z",
+        "2023-12-07T08:00Z",
+        "2023-12-08T08:00Z",
+        "2023-12-09T08:00Z",
+        "2023-12-11T08:00Z",
+        "2023-12-12T08:00Z",
+        "2023-12-13T08:00Z",
+        "2023-12-14T08:00Z",
+        "2023-12-15T08:00Z",
+        "2023-12-16T08:00Z",
+        "2023-12-17T08:00Z",
+        "2023-12-18T08:00Z",
+        "2023-12-19T08:00Z",
+        "2023-12-20T08:00Z",
+        "2023-12-21T08:00Z",
+        "2023-12-22T08:00Z",
+        "2023-12-23T08:00Z",
+        "2023-12-25T08:00Z",
+        "2023-12-26T08:00Z",
+        "2023-12-27T08:00Z",
+        "2023-12-28T08:00Z",
+        "2023-12-29T08:00Z",
+        "2023-12-30T08:00Z",
+        "2023-12-31T08:00Z",
+        "2024-01-01T08:00Z",
+        "2024-01-02T08:00Z",
+        "2024-01-03T08:00Z",
+        "2024-01-04T08:00Z",
+        "2024-01-05T08:00Z",
+        "2024-01-06T08:00Z",
+        "2024-01-07T08:00Z",
+        "2024-01-08T08:00Z",
+        "2024-01-09T08:00Z",
+        "2024-01-10T08:00Z",
+        "2024-01-11T08:00Z",
+        "2024-01-12T08:00Z",
+        "2024-01-13T08:00Z",
+        "2024-01-14T08:00Z",
+        "2024-01-15T08:00Z",
+        "2024-01-16T08:00Z",
+        "2024-01-17T08:00Z",
+        "2024-01-18T08:00Z",
+        "2024-01-19T08:00Z",
+        "2024-01-20T08:00Z",
+        "2024-01-21T08:00Z",
+        "2024-01-22T08:00Z",
+        "2024-01-23T08:00Z",
+        "2024-01-24T08:00Z",
+        "2024-01-25T08:00Z",
+        "2024-01-26T08:00Z",
+        "2024-01-27T08:00Z",
+        "2024-01-28T08:00Z",
+        "2024-01-29T08:00Z",
+        "2024-01-30T08:00Z",
+        "2024-01-31T08:00Z",
+        "2024-02-01T08:00Z",
+        "2024-02-02T08:00Z",
+        "2024-02-03T08:00Z",
+        "2024-02-04T08:00Z",
+        "2024-02-05T08:00Z",
+        "2024-02-06T08:00Z",
+        "2024-02-07T08:00Z",
+        "2024-02-08T08:00Z",
+        "2024-02-09T08:00Z",
+        "2024-02-10T08:00Z",
+        "2024-02-11T08:00Z",
+        "2024-02-12T08:00Z",
+        "2024-02-13T08:00Z",
+        "2024-02-14T08:00Z",
+        "2024-02-15T08:00Z",
+        "2024-02-18T08:00Z",
+        "2024-02-22T08:00Z",
+        "2024-02-23T08:00Z",
+        "2024-02-24T08:00Z",
+        "2024-02-25T08:00Z",
+        "2024-02-26T08:00Z",
+        "2024-02-27T08:00Z",
+        "2024-02-28T08:00Z",
+        "2024-02-29T08:00Z",
+        "2024-03-01T08:00Z",
+        "2024-03-02T08:00Z",
+        "2024-03-03T08:00Z",
+        "2024-03-04T08:00Z",
+        "2024-03-05T08:00Z",
+        "2024-03-06T08:00Z",
+        "2024-03-07T08:00Z",
+        "2024-03-08T08:00Z",
+        "2024-03-09T08:00Z",
+        "2024-03-10T08:00Z",
+        "2024-03-11T07:00Z",
+        "2024-03-12T07:00Z",
+        "2024-03-13T07:00Z",
+        "2024-03-14T07:00Z",
+        "2024-03-15T07:00Z",
+        "2024-03-16T07:00Z",
+        "2024-03-17T07:00Z",
+        "2024-03-18T07:00Z",
+        "2024-03-19T07:00Z",
+        "2024-03-20T07:00Z",
+        "2024-03-21T07:00Z",
+        "2024-03-22T07:00Z",
+        "2024-03-23T07:00Z",
+        "2024-03-24T07:00Z",
+        "2024-03-25T07:00Z",
+        "2024-03-26T07:00Z",
+        "2024-03-27T07:00Z",
+        "2024-03-28T07:00Z",
+        "2024-03-29T07:00Z",
+        "2024-03-30T07:00Z",
+        "2024-03-31T07:00Z",
+        "2024-04-01T07:00Z",
+        "2024-04-02T07:00Z",
+        "2024-04-03T07:00Z",
+        "2024-04-04T07:00Z",
+        "2024-04-05T07:00Z",
+        "2024-04-06T07:00Z",
+        "2024-04-07T07:00Z",
+        "2024-04-09T07:00Z",
+        "2024-04-10T07:00Z",
+        "2024-04-11T07:00Z",
+        "2024-04-12T07:00Z",
+        "2024-04-14T07:00Z",
+        "2024-04-16T07:00Z",
+        "2024-04-17T07:00Z",
+        "2024-04-19T07:00Z",
+        "2024-04-20T07:00Z",
+        "2024-04-21T07:00Z",
+        "2024-04-22T07:00Z",
+        "2024-04-23T07:00Z",
+        "2024-04-24T07:00Z",
+        "2024-04-25T07:00Z",
+        "2024-04-26T07:00Z",
+        "2024-04-27T07:00Z",
+        "2024-04-28T07:00Z",
+        "2024-04-29T07:00Z",
+        "2024-04-30T07:00Z",
+        "2024-05-01T07:00Z",
+        "2024-05-02T07:00Z",
+        "2024-05-03T07:00Z",
+        "2024-05-04T07:00Z",
+        "2024-05-05T07:00Z",
+        "2024-05-06T07:00Z",
+        "2024-05-07T07:00Z",
+        "2024-05-08T07:00Z",
+        "2024-05-09T07:00Z",
+        "2024-05-10T07:00Z",
+        "2024-05-11T07:00Z",
+        "2024-05-12T07:00Z",
+        "2024-05-13T07:00Z",
+        "2024-05-14T07:00Z",
+        "2024-05-15T07:00Z",
+        "2024-05-16T07:00Z",
+        "2024-05-17T07:00Z",
+        "2024-05-18T07:00Z",
+        "2024-05-19T07:00Z",
+        "2024-05-21T07:00Z",
+        "2024-05-22T07:00Z",
+        "2024-05-23T07:00Z",
+        "2024-05-24T07:00Z",
+        "2024-05-25T07:00Z",
+        "2024-05-26T07:00Z",
+        "2024-05-27T07:00Z",
+        "2024-05-28T07:00Z",
+        "2024-05-30T07:00Z",
+        "2024-06-06T07:00Z",
+        "2024-06-09T07:00Z",
+        "2024-06-12T07:00Z",
+        "2024-06-14T07:00Z",
+        "2024-06-17T07:00Z"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "401607495",
+      "uid": "s:40~l:46~e:401607495",
+      "date": "2023-12-10T01:30Z",
+      "name": "Indiana Pacers at Los Angeles Lakers",
+      "shortName": "IND VS LAL",
+      "season": {
+        "year": 2024,
+        "type": 2,
+        "slug": "regular-season"
+      },
+      "competitions": [
+        {
+          "id": "401607495",
+          "uid": "s:40~l:46~e:401607495~c:401607495",
+          "date": "2023-12-10T01:30Z",
+          "attendance": 19021,
+          "type": {
+            "id": "39",
+            "abbreviation": "CC"
+          },
+          "timeValid": true,
+          "neutralSite": true,
+          "conferenceCompetition": false,
+          "playByPlayAvailable": true,
+          "recent": false,
+          "venue": {
+            "id": "5060",
+            "fullName": "T-Mobile Arena",
+            "address": {
+              "city": "Las Vegas",
+              "state": "NV"
+            },
+            "indoor": true
+          },
+          "competitors": [
+            {
+              "id": "13",
+              "uid": "s:40~l:46~t:13",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "winner": true,
+              "team": {
+                "id": "13",
+                "uid": "s:40~l:46~t:13",
+                "location": "Los Angeles",
+                "name": "Lakers",
+                "abbreviation": "LAL",
+                "displayName": "Los Angeles Lakers",
+                "shortDisplayName": "Lakers",
+                "color": "552583",
+                "alternateColor": "fdb927",
+                "isActive": true,
+                "venue": {
+                  "id": "1841"
+                },
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nba/team/_/name/lal/los-angeles-lakers",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "roster",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nba/team/roster/_/name/lal/los-angeles-lakers",
+                    "text": "Roster",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nba/team/stats/_/name/lal/los-angeles-lakers",
+                    "text": "Statistics",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nba/team/schedule/_/name/lal",
+                    "text": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                  }
+                ],
+                "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
+              },
+              "score": "123",
+              "linescores": [
+                {
+                  "value": 34.0,
+                  "displayValue": "34",
+                  "period": 1
+                },
+                {
+                  "value": 31.0,
+                  "displayValue": "31",
+                  "period": 2
+                },
+                {
+                  "value": 25.0,
+                  "displayValue": "25",
+                  "period": 3
+                },
+                {
+                  "value": 33.0,
+                  "displayValue": "33",
+                  "period": 4
+                }
+              ],
+              "statistics": [
+                {
+                  "name": "rebounds",
+                  "abbreviation": "REB",
+                  "displayValue": "55"
+                },
+                {
+                  "name": "avgRebounds",
+                  "abbreviation": "REB",
+                  "displayValue": "55.0"
+                },
+                {
+                  "name": "assists",
+                  "abbreviation": "AST",
+                  "displayValue": "25"
+                },
+                {
+                  "name": "fieldGoalsAttempted",
+                  "abbreviation": "FGA",
+                  "displayValue": "88"
+                },
+                {
+                  "name": "fieldGoalsMade",
+                  "abbreviation": "FGM",
+                  "displayValue": "47"
+                },
+                {
+                  "name": "fieldGoalPct",
+                  "abbreviation": "FG%",
+                  "displayValue": "53.4"
+                },
+                {
+                  "name": "freeThrowPct",
+                  "abbreviation": "FT%",
+                  "displayValue": "77.1"
+                },
+                {
+                  "name": "freeThrowsAttempted",
+                  "abbreviation": "FTA",
+                  "displayValue": "35"
+                },
+                {
+                  "name": "freeThrowsMade",
+                  "abbreviation": "FTM",
+                  "displayValue": "27"
+                },
+                {
+                  "name": "points",
+                  "abbreviation": "PTS",
+                  "displayValue": "123"
+                },
+                {
+                  "name": "threePointPct",
+                  "abbreviation": "3P%",
+                  "displayValue": "15.4"
+                },
+                {
+                  "name": "threePointFieldGoalsAttempted",
+                  "abbreviation": "3PA",
+                  "displayValue": "13"
+                },
+                {
+                  "name": "threePointFieldGoalsMade",
+                  "abbreviation": "3PM",
+                  "displayValue": "2"
+                },
+                {
+                  "name": "avgPoints",
+                  "abbreviation": "PTS",
+                  "displayValue": "123.0"
+                },
+                {
+                  "name": "avgAssists",
+                  "abbreviation": "AST",
+                  "displayValue": "25.0"
+                },
+                {
+                  "name": "threePointFieldGoalPct",
+                  "abbreviation": "3P%",
+                  "displayValue": "15.4"
+                }
+              ],
+              "leaders": [
+                {
+                  "name": "points",
+                  "displayName": "Points",
+                  "shortDisplayName": "Pts",
+                  "abbreviation": "Pts",
+                  "leaders": [
+                    {
+                      "displayValue": "41",
+                      "value": 41.0,
+                      "athlete": {
+                        "id": "6583",
+                        "fullName": "Anthony Davis",
+                        "displayName": "Anthony Davis",
+                        "shortName": "A. Davis",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nba/player/_/id/6583/anthony-davis"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/6583.png",
+                        "jersey": "3",
+                        "position": {
+                          "abbreviation": "PF"
+                        },
+                        "team": {
+                          "id": "13"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "13"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "rebounds",
+                  "displayName": "Rebounds",
+                  "shortDisplayName": "Reb",
+                  "abbreviation": "Reb",
+                  "leaders": [
+                    {
+                      "displayValue": "20",
+                      "value": 20.0,
+                      "athlete": {
+                        "id": "6583",
+                        "fullName": "Anthony Davis",
+                        "displayName": "Anthony Davis",
+                        "shortName": "A. Davis",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nba/player/_/id/6583/anthony-davis"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/6583.png",
+                        "jersey": "3",
+                        "position": {
+                          "abbreviation": "PF"
+                        },
+                        "team": {
+                          "id": "13"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "13"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "assists",
+                  "displayName": "Assists",
+                  "shortDisplayName": "Ast",
+                  "abbreviation": "Ast",
+                  "leaders": [
+                    {
+                      "displayValue": "7",
+                      "value": 7.0,
+                      "athlete": {
+                        "id": "3136776",
+                        "fullName": "D'Angelo Russell",
+                        "displayName": "D'Angelo Russell",
+                        "shortName": "D. Russell",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nba/player/_/id/3136776/dangelo-russell"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3136776.png",
+                        "jersey": "5",
+                        "position": {
+                          "abbreviation": "PG"
+                        },
+                        "team": {
+                          "id": "13"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "13"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "rating",
+                  "displayName": "Rating",
+                  "shortDisplayName": "RAT",
+                  "abbreviation": "RAT",
+                  "leaders": [
+                    {
+                      "displayValue": "41 PTS, 20 REB, 4 BLK",
+                      "value": 79.44999694824219,
+                      "athlete": {
+                        "id": "6583",
+                        "fullName": "Anthony Davis",
+                        "displayName": "Anthony Davis",
+                        "shortName": "A. Davis",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nba/player/_/id/6583/anthony-davis"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/6583.png",
+                        "jersey": "3",
+                        "position": {
+                          "abbreviation": "PF"
+                        },
+                        "team": {
+                          "id": "13"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "13"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "11",
+              "uid": "s:40~l:46~t:11",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "winner": false,
+              "team": {
+                "id": "11",
+                "uid": "s:40~l:46~t:11",
+                "location": "Indiana",
+                "name": "Pacers",
+                "abbreviation": "IND",
+                "displayName": "Indiana Pacers",
+                "shortDisplayName": "Pacers",
+                "color": "002d62",
+                "alternateColor": "ffd520",
+                "isActive": true,
+                "venue": {
+                  "id": "2183"
+                },
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nba/team/_/name/ind/indiana-pacers",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "roster",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nba/team/roster/_/name/ind/indiana-pacers",
+                    "text": "Roster",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nba/team/stats/_/name/ind/indiana-pacers",
+                    "text": "Statistics",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nba/team/schedule/_/name/ind",
+                    "text": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                  }
+                ],
+                "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png"
+              },
+              "score": "109",
+              "linescores": [
+                {
+                  "value": 29.0,
+                  "displayValue": "29",
+                  "period": 1
+                },
+                {
+                  "value": 31.0,
+                  "displayValue": "31",
+                  "period": 2
+                },
+                {
+                  "value": 22.0,
+                  "displayValue": "22",
+                  "period": 3
+                },
+                {
+                  "value": 27.0,
+                  "displayValue": "27",
+                  "period": 4
+                }
+              ],
+              "statistics": [
+                {
+                  "name": "rebounds",
+                  "abbreviation": "REB",
+                  "displayValue": "32"
+                },
+                {
+                  "name": "avgRebounds",
+                  "abbreviation": "REB",
+                  "displayValue": "32.0"
+                },
+                {
+                  "name": "assists",
+                  "abbreviation": "AST",
+                  "displayValue": "27"
+                },
+                {
+                  "name": "fieldGoalsAttempted",
+                  "abbreviation": "FGA",
+                  "displayValue": "95"
+                },
+                {
+                  "name": "fieldGoalsMade",
+                  "abbreviation": "FGM",
+                  "displayValue": "35"
+                },
+                {
+                  "name": "fieldGoalPct",
+                  "abbreviation": "FG%",
+                  "displayValue": "36.8"
+                },
+                {
+                  "name": "freeThrowPct",
+                  "abbreviation": "FT%",
+                  "displayValue": "87.9"
+                },
+                {
+                  "name": "freeThrowsAttempted",
+                  "abbreviation": "FTA",
+                  "displayValue": "33"
+                },
+                {
+                  "name": "freeThrowsMade",
+                  "abbreviation": "FTM",
+                  "displayValue": "29"
+                },
+                {
+                  "name": "points",
+                  "abbreviation": "PTS",
+                  "displayValue": "109"
+                },
+                {
+                  "name": "threePointPct",
+                  "abbreviation": "3P%",
+                  "displayValue": "24.4"
+                },
+                {
+                  "name": "threePointFieldGoalsAttempted",
+                  "abbreviation": "3PA",
+                  "displayValue": "41"
+                },
+                {
+                  "name": "threePointFieldGoalsMade",
+                  "abbreviation": "3PM",
+                  "displayValue": "10"
+                },
+                {
+                  "name": "avgPoints",
+                  "abbreviation": "PTS",
+                  "displayValue": "109.0"
+                },
+                {
+                  "name": "avgAssists",
+                  "abbreviation": "AST",
+                  "displayValue": "27.0"
+                },
+                {
+                  "name": "threePointFieldGoalPct",
+                  "abbreviation": "3P%",
+                  "displayValue": "24.4"
+                }
+              ],
+              "leaders": [
+                {
+                  "name": "points",
+                  "displayName": "Points",
+                  "shortDisplayName": "Pts",
+                  "abbreviation": "Pts",
+                  "leaders": [
+                    {
+                      "displayValue": "20",
+                      "value": 20.0,
+                      "athlete": {
+                        "id": "4683634",
+                        "fullName": "Bennedict Mathurin",
+                        "displayName": "Bennedict Mathurin",
+                        "shortName": "B. Mathurin",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nba/player/_/id/4683634/bennedict-mathurin"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683634.png",
+                        "jersey": "00",
+                        "position": {
+                          "abbreviation": "SG"
+                        },
+                        "team": {
+                          "id": "11"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "11"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "rebounds",
+                  "displayName": "Rebounds",
+                  "shortDisplayName": "Reb",
+                  "abbreviation": "Reb",
+                  "leaders": [
+                    {
+                      "displayValue": "7",
+                      "value": 7.0,
+                      "athlete": {
+                        "id": "3133628",
+                        "fullName": "Myles Turner",
+                        "displayName": "Myles Turner",
+                        "shortName": "M. Turner",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nba/player/_/id/3133628/myles-turner"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3133628.png",
+                        "jersey": "33",
+                        "position": {
+                          "abbreviation": "C"
+                        },
+                        "team": {
+                          "id": "11"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "11"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "assists",
+                  "displayName": "Assists",
+                  "shortDisplayName": "Ast",
+                  "abbreviation": "Ast",
+                  "leaders": [
+                    {
+                      "displayValue": "11",
+                      "value": 11.0,
+                      "athlete": {
+                        "id": "4396993",
+                        "fullName": "Tyrese Haliburton",
+                        "displayName": "Tyrese Haliburton",
+                        "shortName": "T. Haliburton",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nba/player/_/id/4396993/tyrese-haliburton"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4396993.png",
+                        "jersey": "0",
+                        "position": {
+                          "abbreviation": "PG"
+                        },
+                        "team": {
+                          "id": "11"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "11"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "rating",
+                  "displayName": "Rating",
+                  "shortDisplayName": "RAT",
+                  "abbreviation": "RAT",
+                  "leaders": [
+                    {
+                      "displayValue": "20 PTS, 11 AST",
+                      "value": 40.599998474121094,
+                      "athlete": {
+                        "id": "4396993",
+                        "fullName": "Tyrese Haliburton",
+                        "displayName": "Tyrese Haliburton",
+                        "shortName": "T. Haliburton",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nba/player/_/id/4396993/tyrese-haliburton"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4396993.png",
+                        "jersey": "0",
+                        "position": {
+                          "abbreviation": "PG"
+                        },
+                        "team": {
+                          "id": "11"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "11"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "notes": [
+            {
+              "type": "event",
+              "headline": "NBA In-Season Tournament Championship"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "state": "post",
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "shortDetail": "Final"
+            }
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "ABC",
+                "ESPN2"
+              ]
+            }
+          ],
+          "format": {
+            "regulation": {
+              "periods": 4
+            }
+          },
+          "startDate": "2023-12-10T01:30Z",
+          "broadcast": "ABC/ESPN2",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "ABC",
+                "logo": "https://a.espncdn.com/guid/2acff74d-269f-36ac-96eb-9c66f8ba52ff/logos/default.png",
+                "darkLogo": "https://a.espncdn.com/guid/2acff74d-269f-36ac-96eb-9c66f8ba52ff/logos/default-dark.png"
+              },
+              "lang": "en",
+              "region": "us"
+            },
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "ESPN2",
+                "logo": "https://a.espncdn.com/guid/4bab8fd8-cd13-379f-9558-c3614851bf91/logos/default.png",
+                "darkLogo": ""
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ],
+          "headlines": [
+            {
+              "type": "Recap",
+              "description": "\u2014 As Commissioner Adam Silver prepared to hand LeBron James the MVP trophy of the inaugural NBA In-Season Tournament, he cautioned that \u201cit doesn't come with a franchise.\u201d",
+              "shortLinkText": "Anthony Davis leads Lakers to NBA In-Season Tournament title, 123-109 over Pacers",
+              "video": [
+                {
+                  "id": 39080519,
+                  "source": "espn",
+                  "headline": "Lakers take over down the stretch to win inaugural in-season tournament",
+                  "thumbnail": "https://a.espncdn.com/media/motion/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight.jpg",
+                  "duration": 174,
+                  "tracking": {
+                    "sportName": "nba",
+                    "leagueName": "No League",
+                    "coverageType": "Final Game Highlight",
+                    "trackingName": "COM_NBA Highlight (Lakers take over down the stretch to win inaugural in-season tournament) 2023/12/10 ESHEET SOTFULL SC",
+                    "trackingId": "dm_231210_lakers_sc_highlight"
+                  },
+                  "deviceRestrictions": {
+                    "type": "whitelist",
+                    "devices": [
+                      "desktop",
+                      "ipad",
+                      "settop",
+                      "handset",
+                      "tablet"
+                    ]
+                  },
+                  "geoRestrictions": {
+                    "type": "whitelist",
+                    "countries": [
+                      "GW",
+                      "VI",
+                      "CF",
+                      "NA",
+                      "RW",
+                      "GF",
+                      "NI",
+                      "BF",
+                      "GH",
+                      "VE",
+                      "BS",
+                      "TZ",
+                      "AO",
+                      "PA",
+                      "UY",
+                      "MW",
+                      "BW",
+                      "BI",
+                      "KE",
+                      "KN",
+                      "PW",
+                      "GA",
+                      "ZA",
+                      "UG",
+                      "MS",
+                      "VG",
+                      "BQ",
+                      "GT",
+                      "SL",
+                      "CV",
+                      "FJ",
+                      "LS",
+                      "PY",
+                      "LR",
+                      "KY",
+                      "GN",
+                      "SR",
+                      "TG",
+                      "PE",
+                      "CD",
+                      "GM",
+                      "CO",
+                      "ST",
+                      "AU",
+                      "HT",
+                      "NG",
+                      "BM",
+                      "ZM",
+                      "GD",
+                      "CM",
+                      "AG",
+                      "AM",
+                      "ET",
+                      "US",
+                      "AS",
+                      "GU",
+                      "MP",
+                      "PR",
+                      "UM",
+                      "MH",
+                      "CL",
+                      "SX",
+                      "AW",
+                      "MU",
+                      "SZ",
+                      "MF",
+                      "MX",
+                      "TC",
+                      "ER",
+                      "NZ",
+                      "CU",
+                      "VC",
+                      "ML",
+                      "GY",
+                      "BB",
+                      "MZ",
+                      "MQ",
+                      "GB",
+                      "UK",
+                      "EC",
+                      "SC",
+                      "FM",
+                      "ZW",
+                      "KM",
+                      "BZ",
+                      "JM",
+                      "CG",
+                      "LC",
+                      "MG",
+                      "GQ",
+                      "CI",
+                      "BR",
+                      "SV",
+                      "BO",
+                      "GP",
+                      "AI",
+                      "TT",
+                      "SS",
+                      "DO",
+                      "BJ",
+                      "RE",
+                      "NE",
+                      "CR",
+                      "HN",
+                      "SN"
+                    ]
+                  },
+                  "links": {
+                    "web": {
+                      "href": "https://www.espn.com/video/clip?id=39080519",
+                      "self": {
+                        "href": "https://www.espn.com/video/clip?id=39080519",
+                        "dsi": {
+                          "href": "https://www.espn.com/video/clip?id=d3b4281d48b6a"
+                        }
+                      },
+                      "seo": {
+                        "href": "https://www.espn.com/video/clip/_/id/39080519"
+                      }
+                    },
+                    "mobile": {
+                      "href": "https://watch.auth.api.espn.com/video/auth/brightcove/5eed799a-e60a-4996-9611-5993f08560a8/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39080519",
+                      "source": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight.mp4"
+                      },
+                      "alert": {
+                        "href": "https://m.espn.com/general/video/videoAlert?vid=39080519"
+                      },
+                      "streaming": {
+                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/5eed799a-e60a-4996-9611-5993f08560a8/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39080519"
+                      },
+                      "progressiveDownload": {
+                        "href": "https://watch.auth.api.espn.com/video/auth/brightcove/5eed799a-e60a-4996-9611-5993f08560a8/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39080519"
+                      }
+                    },
+                    "api": {
+                      "self": {
+                        "href": "https://content.core.api.espn.com/v1/video/clips/39080519"
+                      },
+                      "artwork": {
+                        "href": "https://artwork.api.espn.com/artwork/collections/media/5eed799a-e60a-4996-9611-5993f08560a8"
+                      }
+                    },
+                    "source": {
+                      "href": "https://media.video-cdn.espn.com/motion/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight_360p30_1464k.mp4",
+                      "mezzanine": {
+                        "href": "https://media.video-origin.espn.com/espnvideo/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight.mp4"
+                      },
+                      "flash": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight.smil"
+                      },
+                      "hds": {
+                        "href": "https://hds.video-cdn.espn.com/z/motion/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight_rel.smil/manifest.f4m"
+                      },
+                      "HLS": {
+                        "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight/playlist.m3u8",
+                        "HD": {
+                          "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight/playlist.m3u8"
+                        },
+                        "cmaf": {
+                          "href": "https://service-pkgespn.akamaized.net/opp/cmaf/espn/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight/playlist.m3u8"
+                        },
+                        "shield": {
+                          "href": "https://watch.auth.api.espn.com/video/auth/media/5eed799a-e60a-4996-9611-5993f08560a8/asset"
+                        }
+                      },
+                      "HD": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight_720p30_2896k.mp4"
+                      },
+                      "full": {
+                        "href": "https://media.video-cdn.espn.com/motion/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight_360p30_1464k.mp4"
+                      }
+                    },
+                    "sportscenter": {
+                      "href": "sportscenter://x-callback-url/showVideo?videoID=39080519&videoDSI=d3b4281d48b6a"
+                    }
+                  }
+                }
+              ]
+            }
+          ],
+          "highlights": [
+            {
+              "id": 39080519,
+              "cerebroId": "65754b29be6ab32506333b41",
+              "source": "espn",
+              "headline": "Lakers take over down the stretch to win inaugural in-season tournament",
+              "description": "The Lakers take control down the stretch to win the inaugural NBA in-season tournament over the Pacers.",
+              "lastModified": "2023-12-10T05:24:22Z",
+              "originalPublishDate": "2023-12-10T05:20:58Z",
+              "duration": 174,
+              "timeRestrictions": {
+                "embargoDate": "2023-12-10T05:20:58Z",
+                "expirationDate": "2037-07-31T04:20:58Z"
+              },
+              "deviceRestrictions": {
+                "type": "whitelist",
+                "devices": [
+                  "desktop",
+                  "ipad",
+                  "settop",
+                  "handset",
+                  "tablet"
+                ]
+              },
+              "geoRestrictions": {
+                "type": "whitelist",
+                "countries": [
+                  "GW",
+                  "VI",
+                  "CF",
+                  "NA",
+                  "RW",
+                  "GF",
+                  "NI",
+                  "BF",
+                  "GH",
+                  "VE",
+                  "BS",
+                  "TZ",
+                  "AO",
+                  "PA",
+                  "UY",
+                  "MW",
+                  "BW",
+                  "BI",
+                  "KE",
+                  "KN",
+                  "PW",
+                  "GA",
+                  "ZA",
+                  "UG",
+                  "MS",
+                  "VG",
+                  "BQ",
+                  "GT",
+                  "SL",
+                  "CV",
+                  "FJ",
+                  "LS",
+                  "PY",
+                  "LR",
+                  "KY",
+                  "GN",
+                  "SR",
+                  "TG",
+                  "PE",
+                  "CD",
+                  "GM",
+                  "CO",
+                  "ST",
+                  "AU",
+                  "HT",
+                  "NG",
+                  "BM",
+                  "ZM",
+                  "GD",
+                  "CM",
+                  "AG",
+                  "AM",
+                  "ET",
+                  "US",
+                  "AS",
+                  "GU",
+                  "MP",
+                  "PR",
+                  "UM",
+                  "MH",
+                  "CL",
+                  "SX",
+                  "AW",
+                  "MU",
+                  "SZ",
+                  "MF",
+                  "MX",
+                  "TC",
+                  "ER",
+                  "NZ",
+                  "CU",
+                  "VC",
+                  "ML",
+                  "GY",
+                  "BB",
+                  "MZ",
+                  "MQ",
+                  "GB",
+                  "UK",
+                  "EC",
+                  "SC",
+                  "FM",
+                  "ZW",
+                  "KM",
+                  "BZ",
+                  "JM",
+                  "CG",
+                  "LC",
+                  "MG",
+                  "GQ",
+                  "CI",
+                  "BR",
+                  "SV",
+                  "BO",
+                  "GP",
+                  "AI",
+                  "TT",
+                  "SS",
+                  "DO",
+                  "BJ",
+                  "RE",
+                  "NE",
+                  "CR",
+                  "HN",
+                  "SN"
+                ]
+              },
+              "thumbnail": "https://a.espncdn.com/media/motion/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight.jpg",
+              "links": {
+                "web": {
+                  "href": "https://www.espn.com/video/clip?id=39080519",
+                  "self": {
+                    "href": "https://www.espn.com/video/clip?id=39080519",
+                    "dsi": {
+                      "href": "https://www.espn.com/video/clip?id=d3b4281d48b6a"
+                    }
+                  },
+                  "seo": {
+                    "href": "https://www.espn.com/video/clip/_/id/39080519"
+                  }
+                },
+                "mobile": {
+                  "href": "https://watch.auth.api.espn.com/video/auth/brightcove/5eed799a-e60a-4996-9611-5993f08560a8/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39080519",
+                  "source": {
+                    "href": "https://media.video-cdn.espn.com/motion/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight.mp4"
+                  },
+                  "alert": {
+                    "href": "https://m.espn.com/general/video/videoAlert?vid=39080519"
+                  },
+                  "streaming": {
+                    "href": "https://watch.auth.api.espn.com/video/auth/brightcove/5eed799a-e60a-4996-9611-5993f08560a8/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39080519"
+                  },
+                  "progressiveDownload": {
+                    "href": "https://watch.auth.api.espn.com/video/auth/brightcove/5eed799a-e60a-4996-9611-5993f08560a8/asset?UMADPARAMreferer=http://www.espn.com/video/clip?id=39080519"
+                  }
+                },
+                "api": {
+                  "self": {
+                    "href": "https://content.core.api.espn.com/v1/video/clips/39080519"
+                  },
+                  "artwork": {
+                    "href": "https://artwork.api.espn.com/artwork/collections/media/5eed799a-e60a-4996-9611-5993f08560a8"
+                  }
+                },
+                "source": {
+                  "href": "https://media.video-cdn.espn.com/motion/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight_360p30_1464k.mp4",
+                  "mezzanine": {
+                    "href": "https://media.video-origin.espn.com/espnvideo/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight.mp4"
+                  },
+                  "flash": {
+                    "href": "https://media.video-cdn.espn.com/motion/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight.smil"
+                  },
+                  "hds": {
+                    "href": "https://hds.video-cdn.espn.com/z/motion/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight_rel.smil/manifest.f4m"
+                  },
+                  "HLS": {
+                    "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight/playlist.m3u8",
+                    "HD": {
+                      "href": "https://service-pkgespn.akamaized.net/opp/hls/espn/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight/playlist.m3u8"
+                    },
+                    "cmaf": {
+                      "href": "https://service-pkgespn.akamaized.net/opp/cmaf/espn/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight/playlist.m3u8"
+                    },
+                    "shield": {
+                      "href": "https://watch.auth.api.espn.com/video/auth/media/5eed799a-e60a-4996-9611-5993f08560a8/asset"
+                    }
+                  },
+                  "HD": {
+                    "href": "https://media.video-cdn.espn.com/motion/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight_720p30_2896k.mp4"
+                  },
+                  "full": {
+                    "href": "https://media.video-cdn.espn.com/motion/2023/1210/dm_231210_lakers_sc_highlight/dm_231210_lakers_sc_highlight_360p30_1464k.mp4"
+                  }
+                },
+                "sportscenter": {
+                  "href": "sportscenter://x-callback-url/showVideo?videoID=39080519&videoDSI=d3b4281d48b6a"
+                }
+              },
+              "ad": {
+                "sport": "nba",
+                "bundle": "nba_highlights"
+              },
+              "tracking": {
+                "sportName": "nba",
+                "leagueName": "No League",
+                "coverageType": "Final Game Highlight",
+                "trackingName": "COM_NBA Highlight (Lakers take over down the stretch to win inaugural in-season tournament) 2023/12/10 ESHEET SOTFULL SC",
+                "trackingId": "dm_231210_lakers_sc_highlight"
+              }
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nba/game/_/gameId/401607495/pacers-lakers",
+          "text": "Gamecast",
+          "shortText": "Gamecast",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401607495",
+          "text": "Box Score",
+          "shortText": "Box Score",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "highlights",
+            "desktop"
+          ],
+          "href": "https://www.espn.com/nba/video?gameId=401607495",
+          "text": "Highlights",
+          "shortText": "Highlights",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401607495",
+          "text": "Play-by-Play",
+          "shortText": "Play-by-Play",
+          "isExternal": false,
+          "isPremium": false
+        },
+        {
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nba/recap?gameId=401607495",
+          "text": "Recap",
+          "shortText": "Recap",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "status": {
+        "clock": 0.0,
+        "displayClock": "0.0",
+        "period": 4,
+        "type": {
+          "id": "3",
+          "name": "STATUS_FINAL",
+          "state": "post",
+          "completed": true,
+          "description": "Final",
+          "detail": "Final",
+          "shortDetail": "Final"
+        }
+      }
+    }
+  ]
+}

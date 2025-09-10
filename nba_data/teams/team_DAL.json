@@ -1,0 +1,971 @@
+{
+  "team": {
+    "id": "6",
+    "uid": "s:40~l:46~t:6",
+    "slug": "dallas-mavericks",
+    "location": "Dallas",
+    "name": "Mavericks",
+    "abbreviation": "DAL",
+    "displayName": "Dallas Mavericks",
+    "shortDisplayName": "Mavericks",
+    "color": "0064b1",
+    "alternateColor": "bbc4ca",
+    "isActive": true,
+    "logos": [
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "lastUpdated": "2024-06-25T21:17Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/dal.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "lastUpdated": "2024-06-25T21:13Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "lastUpdated": "2024-06-25T21:18Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/dal.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "lastUpdated": "2024-06-25T21:14Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/primary_logo_on_white_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "lastUpdated": "2024-12-03T19:30Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/primary_logo_on_black_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "lastUpdated": "2024-12-03T19:30Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/primary_logo_on_primary_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "lastUpdated": "2024-12-03T19:30Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/primary_logo_on_secondary_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "lastUpdated": "2024-12-03T19:30Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/secondary_logo_on_white_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "lastUpdated": "2024-12-03T19:30Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/secondary_logo_on_black_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "lastUpdated": "2024-12-03T19:30Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/secondary_logo_on_primary_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "lastUpdated": "2024-12-03T19:30Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/secondary_logo_on_secondary_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "lastUpdated": "2024-12-03T19:30Z"
+      }
+    ],
+    "record": {},
+    "groups": {
+      "id": "10",
+      "parent": {
+        "id": "6"
+      },
+      "isConference": false
+    },
+    "links": [
+      {
+        "language": "en-US",
+        "rel": [
+          "clubhouse",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/_/name/dal/dallas-mavericks",
+        "text": "Clubhouse",
+        "shortText": "Clubhouse",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "roster",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/roster/_/name/dal/dallas-mavericks",
+        "text": "Roster",
+        "shortText": "Roster",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "stats",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/stats/_/name/dal/dallas-mavericks",
+        "text": "Statistics",
+        "shortText": "Statistics",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "schedule",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/schedule/_/name/dal",
+        "text": "Schedule",
+        "shortText": "Schedule",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "photos",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/photos/_/name/dal",
+        "text": "photos",
+        "shortText": "photos",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "tickets",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.vividseats.com/dallas-mavericks-tickets--sports-nba-basketball/performer/215?wsUser=717",
+        "text": "Tickets",
+        "shortText": "Tickets",
+        "isExternal": true,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "draftpicks",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/draft/teams/_/name/dal/dallas-mavericks",
+        "text": "Draft Picks",
+        "shortText": "Draft Picks",
+        "isExternal": false,
+        "isPremium": true
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "transactions",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/transactions/_/name/dal",
+        "text": "Transactions",
+        "shortText": "Transactions",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "injuries",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/injuries/_/name/dal",
+        "text": "Injuries",
+        "shortText": "Injuries",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "depthchart",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/depth/_/name/dal",
+        "text": "Depth Chart",
+        "shortText": "Depth Chart",
+        "isExternal": false,
+        "isPremium": false
+      }
+    ],
+    "franchise": {
+      "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/franchises/6?lang=en&region=us",
+      "id": "6",
+      "uid": "s:40~l:46~f:6",
+      "slug": "dallas-mavericks",
+      "location": "Dallas",
+      "name": "Mavericks",
+      "abbreviation": "DAL",
+      "displayName": "Dallas Mavericks",
+      "shortDisplayName": "Mavericks",
+      "color": "0064b1",
+      "isActive": true,
+      "venue": {
+        "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/venues/516?lang=en&region=us",
+        "id": "516",
+        "guid": "0851fc18-2469-30e6-96a6-e9f00b75343b",
+        "fullName": "American Airlines Center",
+        "shortName": "American Airlines Ce",
+        "address": {
+          "city": "Dallas",
+          "state": "TX"
+        },
+        "grass": false,
+        "indoor": true,
+        "images": [
+          {
+            "href": "https://a.espncdn.com/i/venues/nba/day/516.jpg",
+            "width": 2000,
+            "height": 1125,
+            "alt": "",
+            "rel": [
+              "full",
+              "day"
+            ]
+          }
+        ]
+      },
+      "team": {
+        "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2025/teams/6?lang=en&region=us"
+      }
+    },
+    "nextEvent": [
+      {
+        "id": "401812682",
+        "date": "2025-10-07T00:30Z",
+        "name": "Oklahoma City Thunder at Dallas Mavericks",
+        "shortName": "OKC VS DAL",
+        "season": {
+          "year": 2026,
+          "displayName": "2025-26"
+        },
+        "seasonType": {
+          "id": "1",
+          "type": 1,
+          "name": "Preseason",
+          "abbreviation": "pre"
+        },
+        "timeValid": true,
+        "competitions": [
+          {
+            "id": "401812682",
+            "date": "2025-10-07T00:30Z",
+            "attendance": 0,
+            "type": {
+              "id": "1",
+              "text": "Standard",
+              "abbreviation": "STD",
+              "slug": "standard",
+              "type": "standard"
+            },
+            "timeValid": true,
+            "neutralSite": true,
+            "boxscoreAvailable": false,
+            "ticketsAvailable": true,
+            "venue": {
+              "fullName": "Dickies Arena",
+              "address": {
+                "city": "Fort Worth",
+                "state": "TX"
+              }
+            },
+            "competitors": [
+              {
+                "id": "6",
+                "type": "team",
+                "order": 0,
+                "homeAway": "home",
+                "team": {
+                  "id": "6",
+                  "location": "Dallas",
+                  "abbreviation": "DAL",
+                  "displayName": "Dallas Mavericks",
+                  "shortDisplayName": "Mavericks",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "default"
+                      ],
+                      "lastUpdated": "2024-06-25T21:17Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/dal.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "dark"
+                      ],
+                      "lastUpdated": "2024-06-25T21:13Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "scoreboard"
+                      ],
+                      "lastUpdated": "2024-06-25T21:18Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/dal.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "scoreboard",
+                        "dark"
+                      ],
+                      "lastUpdated": "2024-06-25T21:14Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/primary_logo_on_white_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_white_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:30Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/primary_logo_on_black_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_black_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:30Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/primary_logo_on_primary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_primary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:30Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/primary_logo_on_secondary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_secondary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:30Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/secondary_logo_on_white_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_white_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:30Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/secondary_logo_on_black_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_black_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:30Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/secondary_logo_on_primary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_primary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:30Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/f00d1f4e-4ce6-d581-466c-5b52531cf7ad/logos/secondary_logo_on_secondary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_secondary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:30Z"
+                    }
+                  ],
+                  "links": [
+                    {
+                      "rel": [
+                        "clubhouse",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/_/name/dal/dallas-mavericks",
+                      "text": "Clubhouse"
+                    },
+                    {
+                      "rel": [
+                        "roster",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/roster/_/name/dal/dallas-mavericks",
+                      "text": "Roster"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/stats/_/name/dal/dallas-mavericks",
+                      "text": "Statistics"
+                    },
+                    {
+                      "rel": [
+                        "schedule",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/schedule/_/name/dal",
+                      "text": "Schedule"
+                    },
+                    {
+                      "rel": [
+                        "photos",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/photos/_/name/dal",
+                      "text": "photos"
+                    },
+                    {
+                      "rel": [
+                        "tickets",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.vividseats.com/dallas-mavericks-tickets--sports-nba-basketball/performer/215?wsUser=717",
+                      "text": "Tickets"
+                    },
+                    {
+                      "rel": [
+                        "draftpicks",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/draft/teams/_/name/dal/dallas-mavericks",
+                      "text": "Draft Picks"
+                    },
+                    {
+                      "rel": [
+                        "transactions",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/transactions/_/name/dal",
+                      "text": "Transactions"
+                    },
+                    {
+                      "rel": [
+                        "injuries",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/injuries/_/name/dal",
+                      "text": "Injuries"
+                    },
+                    {
+                      "rel": [
+                        "depthchart",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/depth/_/name/dal",
+                      "text": "Depth Chart"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "25",
+                "type": "team",
+                "order": 1,
+                "homeAway": "away",
+                "team": {
+                  "id": "25",
+                  "location": "Oklahoma City",
+                  "abbreviation": "OKC",
+                  "displayName": "Oklahoma City Thunder",
+                  "shortDisplayName": "Thunder",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "default"
+                      ],
+                      "lastUpdated": "2024-06-25T21:17Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/okc.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "dark"
+                      ],
+                      "lastUpdated": "2024-06-25T21:13Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "scoreboard"
+                      ],
+                      "lastUpdated": "2024-06-25T21:18Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/okc.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "scoreboard",
+                        "dark"
+                      ],
+                      "lastUpdated": "2024-06-25T21:14Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_white_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_white_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:32Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_black_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_black_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:32Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_primary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_primary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:32Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_secondary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_secondary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:32Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_white_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_white_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:32Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_black_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_black_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:32Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_primary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_primary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:32Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_secondary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_secondary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:32Z"
+                    }
+                  ],
+                  "links": [
+                    {
+                      "rel": [
+                        "clubhouse",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/_/name/okc/oklahoma-city-thunder",
+                      "text": "Clubhouse"
+                    },
+                    {
+                      "rel": [
+                        "roster",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/roster/_/name/okc/oklahoma-city-thunder",
+                      "text": "Roster"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/stats/_/name/okc/oklahoma-city-thunder",
+                      "text": "Statistics"
+                    },
+                    {
+                      "rel": [
+                        "schedule",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/schedule/_/name/okc",
+                      "text": "Schedule"
+                    },
+                    {
+                      "rel": [
+                        "photos",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/photos/_/name/okc",
+                      "text": "photos"
+                    },
+                    {
+                      "rel": [
+                        "tickets",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.vividseats.com/oklahoma-city-thunder-tickets--sports-nba-basketball/performer/16164?wsUser=717",
+                      "text": "Tickets"
+                    },
+                    {
+                      "rel": [
+                        "draftpicks",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/draft/teams/_/name/okc/oklahoma-city-thunder",
+                      "text": "Draft Picks"
+                    },
+                    {
+                      "rel": [
+                        "transactions",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/transactions/_/name/okc",
+                      "text": "Transactions"
+                    },
+                    {
+                      "rel": [
+                        "injuries",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/injuries/_/name/okc",
+                      "text": "Injuries"
+                    },
+                    {
+                      "rel": [
+                        "depthchart",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/depth/_/name/okc",
+                      "text": "Depth Chart"
+                    }
+                  ]
+                }
+              }
+            ],
+            "notes": [],
+            "broadcasts": [],
+            "tickets": [
+              {
+                "id": "5879302",
+                "summary": "Tickets as low as $37",
+                "description": "NBA Preseason - Oklahoma City Thunder at Dallas Mavericks",
+                "maxPrice": 1373.65,
+                "startingPrice": 37.08,
+                "numberAvailable": 4508,
+                "totalPostings": 1112,
+                "links": [
+                  {
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "event"
+                    ],
+                    "href": "https://www.vividseats.com/dallas-mavericks-tickets-dickies-arena-10-6-2025--sports-nba-basketball/production/5879302?wsUser=717"
+                  },
+                  {
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "venue"
+                    ],
+                    "href": "https://www.vividseats.com/venues/dickies-arena-tickets.html?wsUser=717"
+                  }
+                ]
+              }
+            ],
+            "status": {
+              "clock": 0.0,
+              "displayClock": "0.0",
+              "period": 0,
+              "type": {
+                "id": "1",
+                "name": "STATUS_SCHEDULED",
+                "state": "pre",
+                "completed": false,
+                "description": "Scheduled",
+                "detail": "Mon, October 6th at 8:30 PM EDT",
+                "shortDetail": "10/6 - 8:30 PM EDT"
+              }
+            }
+          }
+        ],
+        "links": [
+          {
+            "language": "en-US",
+            "rel": [
+              "summary",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/nba/game/_/gameId/401812682/thunder-mavericks",
+            "text": "Gamecast",
+            "shortText": "Summary",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "summary",
+              "sportscenter",
+              "app",
+              "event"
+            ],
+            "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401812682",
+            "text": "Gamecast",
+            "shortText": "Summary",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "now",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/nba/game/_/gameId/401812682",
+            "text": "Now",
+            "shortText": "Now",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "odds",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/nba/odds/_/gameId/401812682",
+            "text": "Odds",
+            "shortText": "Odds",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "odds",
+              "mobile",
+              "event"
+            ],
+            "href": "https://m.espn.com/nba/odds/_/gameId/401812682",
+            "text": "Odds",
+            "shortText": "Odds",
+            "isExternal": false,
+            "isPremium": false
+          }
+        ]
+      }
+    ],
+    "standingSummary": "3rd in Southwest Division"
+  }
+}

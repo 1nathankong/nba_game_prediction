@@ -1,0 +1,987 @@
+{
+  "team": {
+    "id": "27",
+    "uid": "s:40~l:46~t:27",
+    "slug": "washington-wizards",
+    "location": "Washington",
+    "name": "Wizards",
+    "abbreviation": "WSH",
+    "displayName": "Washington Wizards",
+    "shortDisplayName": "Wizards",
+    "color": "e31837",
+    "alternateColor": "002b5c",
+    "isActive": true,
+    "logos": [
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "lastUpdated": "2024-06-25T21:17Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/wsh.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "lastUpdated": "2024-06-25T21:13Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "lastUpdated": "2024-06-25T21:18Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/wsh.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "lastUpdated": "2024-06-25T21:14Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/primary_logo_on_white_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "lastUpdated": "2024-12-04T21:08Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/primary_logo_on_black_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "lastUpdated": "2024-12-04T21:08Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/primary_logo_on_primary_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "lastUpdated": "2024-12-04T21:08Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/primary_logo_on_secondary_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "lastUpdated": "2024-12-04T21:08Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/secondary_logo_on_white_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "lastUpdated": "2024-12-04T21:08Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/secondary_logo_on_black_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "lastUpdated": "2024-12-04T21:08Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/secondary_logo_on_primary_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "lastUpdated": "2024-12-04T21:08Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/secondary_logo_on_secondary_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "lastUpdated": "2024-12-04T21:08Z"
+      }
+    ],
+    "record": {},
+    "groups": {
+      "id": "9",
+      "parent": {
+        "id": "5"
+      },
+      "isConference": false
+    },
+    "links": [
+      {
+        "language": "en-US",
+        "rel": [
+          "clubhouse",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/_/name/wsh/washington-wizards",
+        "text": "Clubhouse",
+        "shortText": "Clubhouse",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "roster",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/roster/_/name/wsh/washington-wizards",
+        "text": "Roster",
+        "shortText": "Roster",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "stats",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/stats/_/name/wsh/washington-wizards",
+        "text": "Statistics",
+        "shortText": "Statistics",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "schedule",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/schedule/_/name/wsh",
+        "text": "Schedule",
+        "shortText": "Schedule",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "photos",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/photos/_/name/wsh",
+        "text": "photos",
+        "shortText": "photos",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "tickets",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.vividseats.com/washington-wizards-tickets--sports-nba-basketball/performer/926?wsUser=717",
+        "text": "Tickets",
+        "shortText": "Tickets",
+        "isExternal": true,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "draftpicks",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/draft/teams/_/name/wsh/washington-wizards",
+        "text": "Draft Picks",
+        "shortText": "Draft Picks",
+        "isExternal": false,
+        "isPremium": true
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "transactions",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/transactions/_/name/wsh",
+        "text": "Transactions",
+        "shortText": "Transactions",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "injuries",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/injuries/_/name/wsh",
+        "text": "Injuries",
+        "shortText": "Injuries",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "depthchart",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/depth/_/name/wsh",
+        "text": "Depth Chart",
+        "shortText": "Depth Chart",
+        "isExternal": false,
+        "isPremium": false
+      }
+    ],
+    "franchise": {
+      "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/franchises/27?lang=en&region=us",
+      "id": "27",
+      "uid": "s:40~l:46~f:27",
+      "slug": "washington-wizards",
+      "location": "Washington",
+      "name": "Wizards",
+      "abbreviation": "WSH",
+      "displayName": "Washington Wizards",
+      "shortDisplayName": "Wizards",
+      "color": "e31837",
+      "isActive": true,
+      "venue": {
+        "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/venues/1823?lang=en&region=us",
+        "id": "1823",
+        "guid": "6ae0ec9b-ec2f-35f3-a3c8-98b1076a9623",
+        "fullName": "Capital One Arena",
+        "shortName": "Capital One Arena",
+        "address": {
+          "city": "Washington",
+          "state": "DC"
+        },
+        "grass": false,
+        "indoor": true,
+        "images": [
+          {
+            "href": "https://a.espncdn.com/i/venues/nba/day/1823.jpg",
+            "width": 2000,
+            "height": 1125,
+            "alt": "",
+            "rel": [
+              "full",
+              "day"
+            ]
+          }
+        ]
+      },
+      "team": {
+        "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2025/teams/27?lang=en&region=us"
+      }
+    },
+    "nextEvent": [
+      {
+        "id": "401812705",
+        "date": "2025-10-12T19:00Z",
+        "name": "Toronto Raptors at Washington Wizards",
+        "shortName": "TOR @ WSH",
+        "season": {
+          "year": 2026,
+          "displayName": "2025-26"
+        },
+        "seasonType": {
+          "id": "1",
+          "type": 1,
+          "name": "Preseason",
+          "abbreviation": "pre"
+        },
+        "timeValid": true,
+        "competitions": [
+          {
+            "id": "401812705",
+            "date": "2025-10-12T19:00Z",
+            "attendance": 0,
+            "type": {
+              "id": "1",
+              "text": "Standard",
+              "abbreviation": "STD",
+              "slug": "standard",
+              "type": "standard"
+            },
+            "timeValid": true,
+            "neutralSite": false,
+            "boxscoreAvailable": false,
+            "ticketsAvailable": true,
+            "venue": {
+              "fullName": "Capital One Arena",
+              "address": {
+                "city": "Washington",
+                "state": "DC"
+              }
+            },
+            "competitors": [
+              {
+                "id": "27",
+                "type": "team",
+                "order": 0,
+                "homeAway": "home",
+                "team": {
+                  "id": "27",
+                  "location": "Washington",
+                  "abbreviation": "WSH",
+                  "displayName": "Washington Wizards",
+                  "shortDisplayName": "Wizards",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "default"
+                      ],
+                      "lastUpdated": "2024-06-25T21:17Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/wsh.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "dark"
+                      ],
+                      "lastUpdated": "2024-06-25T21:13Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "scoreboard"
+                      ],
+                      "lastUpdated": "2024-06-25T21:18Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/wsh.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "scoreboard",
+                        "dark"
+                      ],
+                      "lastUpdated": "2024-06-25T21:14Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/primary_logo_on_white_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_white_color"
+                      ],
+                      "lastUpdated": "2024-12-04T21:08Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/primary_logo_on_black_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_black_color"
+                      ],
+                      "lastUpdated": "2024-12-04T21:08Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/primary_logo_on_primary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_primary_color"
+                      ],
+                      "lastUpdated": "2024-12-04T21:08Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/primary_logo_on_secondary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_secondary_color"
+                      ],
+                      "lastUpdated": "2024-12-04T21:08Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/secondary_logo_on_white_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_white_color"
+                      ],
+                      "lastUpdated": "2024-12-04T21:08Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/secondary_logo_on_black_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_black_color"
+                      ],
+                      "lastUpdated": "2024-12-04T21:08Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/secondary_logo_on_primary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_primary_color"
+                      ],
+                      "lastUpdated": "2024-12-04T21:08Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/64d73af6-b8ec-e213-87e8-a4eab3a692e7/logos/secondary_logo_on_secondary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_secondary_color"
+                      ],
+                      "lastUpdated": "2024-12-04T21:08Z"
+                    }
+                  ],
+                  "links": [
+                    {
+                      "rel": [
+                        "clubhouse",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/_/name/wsh/washington-wizards",
+                      "text": "Clubhouse"
+                    },
+                    {
+                      "rel": [
+                        "roster",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/roster/_/name/wsh/washington-wizards",
+                      "text": "Roster"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/stats/_/name/wsh/washington-wizards",
+                      "text": "Statistics"
+                    },
+                    {
+                      "rel": [
+                        "schedule",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/schedule/_/name/wsh",
+                      "text": "Schedule"
+                    },
+                    {
+                      "rel": [
+                        "photos",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/photos/_/name/wsh",
+                      "text": "photos"
+                    },
+                    {
+                      "rel": [
+                        "tickets",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.vividseats.com/washington-wizards-tickets--sports-nba-basketball/performer/926?wsUser=717",
+                      "text": "Tickets"
+                    },
+                    {
+                      "rel": [
+                        "draftpicks",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/draft/teams/_/name/wsh/washington-wizards",
+                      "text": "Draft Picks"
+                    },
+                    {
+                      "rel": [
+                        "transactions",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/transactions/_/name/wsh",
+                      "text": "Transactions"
+                    },
+                    {
+                      "rel": [
+                        "injuries",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/injuries/_/name/wsh",
+                      "text": "Injuries"
+                    },
+                    {
+                      "rel": [
+                        "depthchart",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/depth/_/name/wsh",
+                      "text": "Depth Chart"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "28",
+                "type": "team",
+                "order": 1,
+                "homeAway": "away",
+                "team": {
+                  "id": "28",
+                  "location": "Toronto",
+                  "abbreviation": "TOR",
+                  "displayName": "Toronto Raptors",
+                  "shortDisplayName": "Raptors",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "default"
+                      ],
+                      "lastUpdated": "2024-06-25T21:17Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/tor.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "dark"
+                      ],
+                      "lastUpdated": "2025-01-21T22:35Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "scoreboard"
+                      ],
+                      "lastUpdated": "2024-06-25T21:18Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/tor.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "scoreboard",
+                        "dark"
+                      ],
+                      "lastUpdated": "2025-01-22T15:28Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/5a9c33b8-63fd-ff34-a833-925fe89320a6/logos/primary_logo_on_white_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_white_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:33Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/5a9c33b8-63fd-ff34-a833-925fe89320a6/logos/primary_logo_on_black_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_black_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:33Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/5a9c33b8-63fd-ff34-a833-925fe89320a6/logos/primary_logo_on_primary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_primary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:33Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/5a9c33b8-63fd-ff34-a833-925fe89320a6/logos/primary_logo_on_secondary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_secondary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:33Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/5a9c33b8-63fd-ff34-a833-925fe89320a6/logos/secondary_logo_on_white_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_white_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:33Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/5a9c33b8-63fd-ff34-a833-925fe89320a6/logos/secondary_logo_on_black_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_black_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:33Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/5a9c33b8-63fd-ff34-a833-925fe89320a6/logos/secondary_logo_on_primary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_primary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:33Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/5a9c33b8-63fd-ff34-a833-925fe89320a6/logos/secondary_logo_on_secondary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_secondary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:33Z"
+                    }
+                  ],
+                  "links": [
+                    {
+                      "rel": [
+                        "clubhouse",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/_/name/tor/toronto-raptors",
+                      "text": "Clubhouse"
+                    },
+                    {
+                      "rel": [
+                        "roster",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/roster/_/name/tor/toronto-raptors",
+                      "text": "Roster"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/stats/_/name/tor/toronto-raptors",
+                      "text": "Statistics"
+                    },
+                    {
+                      "rel": [
+                        "schedule",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/schedule/_/name/tor",
+                      "text": "Schedule"
+                    },
+                    {
+                      "rel": [
+                        "photos",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/photos/_/name/tor",
+                      "text": "photos"
+                    },
+                    {
+                      "rel": [
+                        "tickets",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.vividseats.com/toronto-raptors-tickets--sports-nba-basketball/performer/879?wsUser=717",
+                      "text": "Tickets"
+                    },
+                    {
+                      "rel": [
+                        "draftpicks",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/draft/teams/_/name/tor/toronto-raptors",
+                      "text": "Draft Picks"
+                    },
+                    {
+                      "rel": [
+                        "transactions",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/transactions/_/name/tor",
+                      "text": "Transactions"
+                    },
+                    {
+                      "rel": [
+                        "injuries",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/injuries/_/name/tor",
+                      "text": "Injuries"
+                    },
+                    {
+                      "rel": [
+                        "depthchart",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/depth/_/name/tor",
+                      "text": "Depth Chart"
+                    }
+                  ]
+                }
+              }
+            ],
+            "notes": [],
+            "broadcasts": [
+              {
+                "type": {
+                  "id": "1",
+                  "shortName": "TV"
+                },
+                "market": {
+                  "id": "2",
+                  "type": "Home"
+                },
+                "media": {
+                  "shortName": "MNMT"
+                },
+                "lang": "en",
+                "region": "us"
+              }
+            ],
+            "tickets": [
+              {
+                "id": "5920375",
+                "summary": "Tickets as low as $15",
+                "description": "NBA Preseason - Toronto Raptors at Washington Wizards",
+                "maxPrice": 13443.37,
+                "startingPrice": 15.52,
+                "numberAvailable": 6170,
+                "totalPostings": 1007,
+                "links": [
+                  {
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "event"
+                    ],
+                    "href": "https://www.vividseats.com/washington-wizards-tickets-capital-one-arena-10-12-2025--sports-nba-basketball/production/5920375?wsUser=717"
+                  },
+                  {
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "venue"
+                    ],
+                    "href": "https://www.vividseats.com/capital-one-arena-tickets/venue/1034?wsUser=717"
+                  }
+                ]
+              }
+            ],
+            "status": {
+              "clock": 0.0,
+              "displayClock": "0.0",
+              "period": 0,
+              "type": {
+                "id": "1",
+                "name": "STATUS_SCHEDULED",
+                "state": "pre",
+                "completed": false,
+                "description": "Scheduled",
+                "detail": "Sun, October 12th at 3:00 PM EDT",
+                "shortDetail": "10/12 - 3:00 PM EDT"
+              }
+            }
+          }
+        ],
+        "links": [
+          {
+            "language": "en-US",
+            "rel": [
+              "summary",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/nba/game/_/gameId/401812705/raptors-wizards",
+            "text": "Gamecast",
+            "shortText": "Summary",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "summary",
+              "sportscenter",
+              "app",
+              "event"
+            ],
+            "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401812705",
+            "text": "Gamecast",
+            "shortText": "Summary",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "now",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/nba/game/_/gameId/401812705",
+            "text": "Now",
+            "shortText": "Now",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "odds",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/nba/odds/_/gameId/401812705",
+            "text": "Odds",
+            "shortText": "Odds",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "odds",
+              "mobile",
+              "event"
+            ],
+            "href": "https://m.espn.com/nba/odds/_/gameId/401812705",
+            "text": "Odds",
+            "shortText": "Odds",
+            "isExternal": false,
+            "isPremium": false
+          }
+        ]
+      }
+    ],
+    "standingSummary": "5th in Southeast Division"
+  }
+}

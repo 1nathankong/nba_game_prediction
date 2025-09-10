@@ -1,0 +1,971 @@
+{
+  "team": {
+    "id": "22",
+    "uid": "s:40~l:46~t:22",
+    "slug": "portland-trail-blazers",
+    "location": "Portland",
+    "name": "Trail Blazers",
+    "abbreviation": "POR",
+    "displayName": "Portland Trail Blazers",
+    "shortDisplayName": "Trail Blazers",
+    "color": "e03a3e",
+    "alternateColor": "000000",
+    "isActive": true,
+    "logos": [
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "default"
+        ],
+        "lastUpdated": "2024-06-25T21:17Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/por.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "dark"
+        ],
+        "lastUpdated": "2024-06-25T21:13Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "scoreboard"
+        ],
+        "lastUpdated": "2024-06-25T21:18Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/por.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": [
+          "full",
+          "scoreboard",
+          "dark"
+        ],
+        "lastUpdated": "2024-06-25T21:14Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/primary_logo_on_white_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "primary_logo_on_white_color"
+        ],
+        "lastUpdated": "2024-12-03T19:31Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/primary_logo_on_black_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "primary_logo_on_black_color"
+        ],
+        "lastUpdated": "2024-12-03T19:31Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/primary_logo_on_primary_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "primary_logo_on_primary_color"
+        ],
+        "lastUpdated": "2024-12-03T19:31Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/primary_logo_on_secondary_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "primary_logo_on_secondary_color"
+        ],
+        "lastUpdated": "2024-12-03T19:31Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/secondary_logo_on_white_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "secondary_logo_on_white_color"
+        ],
+        "lastUpdated": "2024-12-03T19:31Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/secondary_logo_on_black_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "secondary_logo_on_black_color"
+        ],
+        "lastUpdated": "2024-12-03T19:31Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/secondary_logo_on_primary_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "secondary_logo_on_primary_color"
+        ],
+        "lastUpdated": "2024-12-03T19:31Z"
+      },
+      {
+        "href": "https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/secondary_logo_on_secondary_color.png",
+        "width": 4096,
+        "height": 4096,
+        "alt": "",
+        "rel": [
+          "full",
+          "secondary_logo_on_secondary_color"
+        ],
+        "lastUpdated": "2024-12-03T19:31Z"
+      }
+    ],
+    "record": {},
+    "groups": {
+      "id": "11",
+      "parent": {
+        "id": "6"
+      },
+      "isConference": false
+    },
+    "links": [
+      {
+        "language": "en-US",
+        "rel": [
+          "clubhouse",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/_/name/por/portland-trail-blazers",
+        "text": "Clubhouse",
+        "shortText": "Clubhouse",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "roster",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/roster/_/name/por/portland-trail-blazers",
+        "text": "Roster",
+        "shortText": "Roster",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "stats",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/stats/_/name/por/portland-trail-blazers",
+        "text": "Statistics",
+        "shortText": "Statistics",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "schedule",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/schedule/_/name/por",
+        "text": "Schedule",
+        "shortText": "Schedule",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "photos",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/photos/_/name/por",
+        "text": "photos",
+        "shortText": "photos",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "tickets",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.vividseats.com/portland-trail-blazers-tickets--sports-nba-basketball/performer/690?wsUser=717",
+        "text": "Tickets",
+        "shortText": "Tickets",
+        "isExternal": true,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "draftpicks",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/draft/teams/_/name/por/portland-trail-blazers",
+        "text": "Draft Picks",
+        "shortText": "Draft Picks",
+        "isExternal": false,
+        "isPremium": true
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "transactions",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/transactions/_/name/por",
+        "text": "Transactions",
+        "shortText": "Transactions",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "injuries",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/injuries/_/name/por",
+        "text": "Injuries",
+        "shortText": "Injuries",
+        "isExternal": false,
+        "isPremium": false
+      },
+      {
+        "language": "en-US",
+        "rel": [
+          "depthchart",
+          "desktop",
+          "team"
+        ],
+        "href": "https://www.espn.com/nba/team/depth/_/name/por",
+        "text": "Depth Chart",
+        "shortText": "Depth Chart",
+        "isExternal": false,
+        "isPremium": false
+      }
+    ],
+    "franchise": {
+      "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/franchises/22?lang=en&region=us",
+      "id": "22",
+      "uid": "s:40~l:46~f:22",
+      "slug": "portland-trail-blazers",
+      "location": "Portland",
+      "name": "Trail Blazers",
+      "abbreviation": "POR",
+      "displayName": "Portland Trail Blazers",
+      "shortDisplayName": "Trail Blazers",
+      "color": "e03a3e",
+      "isActive": true,
+      "venue": {
+        "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/venues/3423?lang=en&region=us",
+        "id": "3423",
+        "guid": "63cbab82-c76b-38ed-a372-da9d99772a60",
+        "fullName": "Moda Center",
+        "shortName": "Moda Center",
+        "address": {
+          "city": "Portland",
+          "state": "OR"
+        },
+        "grass": false,
+        "indoor": true,
+        "images": [
+          {
+            "href": "https://a.espncdn.com/i/venues/nba/day/3423.jpg",
+            "width": 2000,
+            "height": 1125,
+            "alt": "",
+            "rel": [
+              "full",
+              "day"
+            ]
+          }
+        ]
+      },
+      "team": {
+        "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2025/teams/22?lang=en&region=us"
+      }
+    },
+    "nextEvent": [
+      {
+        "id": "401812689",
+        "date": "2025-10-09T02:00Z",
+        "name": "Portland Trail Blazers at Golden State Warriors",
+        "shortName": "POR @ GS",
+        "season": {
+          "year": 2026,
+          "displayName": "2025-26"
+        },
+        "seasonType": {
+          "id": "1",
+          "type": 1,
+          "name": "Preseason",
+          "abbreviation": "pre"
+        },
+        "timeValid": true,
+        "competitions": [
+          {
+            "id": "401812689",
+            "date": "2025-10-09T02:00Z",
+            "attendance": 0,
+            "type": {
+              "id": "1",
+              "text": "Standard",
+              "abbreviation": "STD",
+              "slug": "standard",
+              "type": "standard"
+            },
+            "timeValid": true,
+            "neutralSite": false,
+            "boxscoreAvailable": false,
+            "ticketsAvailable": true,
+            "venue": {
+              "fullName": "Chase Center",
+              "address": {
+                "city": "San Francisco",
+                "state": "CA"
+              }
+            },
+            "competitors": [
+              {
+                "id": "9",
+                "type": "team",
+                "order": 0,
+                "homeAway": "home",
+                "team": {
+                  "id": "9",
+                  "location": "Golden State",
+                  "abbreviation": "GS",
+                  "displayName": "Golden State Warriors",
+                  "shortDisplayName": "Warriors",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "default"
+                      ],
+                      "lastUpdated": "2024-06-25T21:17Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/gs.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "dark"
+                      ],
+                      "lastUpdated": "2024-06-25T21:13Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "scoreboard"
+                      ],
+                      "lastUpdated": "2024-06-25T21:18Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/gs.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "scoreboard",
+                        "dark"
+                      ],
+                      "lastUpdated": "2024-06-25T21:14Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/77a8546f-24bf-a333-8161-bf9f75396c49/logos/primary_logo_on_white_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_white_color"
+                      ],
+                      "lastUpdated": "2024-12-06T15:26Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/77a8546f-24bf-a333-8161-bf9f75396c49/logos/primary_logo_on_black_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_black_color"
+                      ],
+                      "lastUpdated": "2024-12-06T15:26Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/77a8546f-24bf-a333-8161-bf9f75396c49/logos/primary_logo_on_primary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_primary_color"
+                      ],
+                      "lastUpdated": "2024-12-06T15:26Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/77a8546f-24bf-a333-8161-bf9f75396c49/logos/primary_logo_on_secondary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_secondary_color"
+                      ],
+                      "lastUpdated": "2024-12-06T15:26Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/77a8546f-24bf-a333-8161-bf9f75396c49/logos/secondary_logo_on_white_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_white_color"
+                      ],
+                      "lastUpdated": "2024-12-06T15:26Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/77a8546f-24bf-a333-8161-bf9f75396c49/logos/secondary_logo_on_black_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_black_color"
+                      ],
+                      "lastUpdated": "2024-12-06T15:26Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/77a8546f-24bf-a333-8161-bf9f75396c49/logos/secondary_logo_on_primary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_primary_color"
+                      ],
+                      "lastUpdated": "2024-12-06T15:26Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/77a8546f-24bf-a333-8161-bf9f75396c49/logos/secondary_logo_on_secondary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_secondary_color"
+                      ],
+                      "lastUpdated": "2024-12-06T15:26Z"
+                    }
+                  ],
+                  "links": [
+                    {
+                      "rel": [
+                        "clubhouse",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/_/name/gs/golden-state-warriors",
+                      "text": "Clubhouse"
+                    },
+                    {
+                      "rel": [
+                        "roster",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/roster/_/name/gs/golden-state-warriors",
+                      "text": "Roster"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/stats/_/name/gs/golden-state-warriors",
+                      "text": "Statistics"
+                    },
+                    {
+                      "rel": [
+                        "schedule",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/schedule/_/name/gs",
+                      "text": "Schedule"
+                    },
+                    {
+                      "rel": [
+                        "photos",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/photos/_/name/gs",
+                      "text": "photos"
+                    },
+                    {
+                      "rel": [
+                        "tickets",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.vividseats.com/golden-state-warriors-tickets--sports-nba-basketball/performer/328?wsUser=717",
+                      "text": "Tickets"
+                    },
+                    {
+                      "rel": [
+                        "draftpicks",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/draft/teams/_/name/gs/golden-state-warriors",
+                      "text": "Draft Picks"
+                    },
+                    {
+                      "rel": [
+                        "transactions",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/transactions/_/name/gs",
+                      "text": "Transactions"
+                    },
+                    {
+                      "rel": [
+                        "injuries",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/injuries/_/name/gs",
+                      "text": "Injuries"
+                    },
+                    {
+                      "rel": [
+                        "depthchart",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/depth/_/name/gs",
+                      "text": "Depth Chart"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "22",
+                "type": "team",
+                "order": 1,
+                "homeAway": "away",
+                "team": {
+                  "id": "22",
+                  "location": "Portland",
+                  "abbreviation": "POR",
+                  "displayName": "Portland Trail Blazers",
+                  "shortDisplayName": "Trail Blazers",
+                  "logos": [
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "default"
+                      ],
+                      "lastUpdated": "2024-06-25T21:17Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/por.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "dark"
+                      ],
+                      "lastUpdated": "2024-06-25T21:13Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "scoreboard"
+                      ],
+                      "lastUpdated": "2024-06-25T21:18Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/por.png",
+                      "width": 500,
+                      "height": 500,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "scoreboard",
+                        "dark"
+                      ],
+                      "lastUpdated": "2024-06-25T21:14Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/primary_logo_on_white_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_white_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:31Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/primary_logo_on_black_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_black_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:31Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/primary_logo_on_primary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_primary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:31Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/primary_logo_on_secondary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "primary_logo_on_secondary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:31Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/secondary_logo_on_white_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_white_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:31Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/secondary_logo_on_black_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_black_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:31Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/secondary_logo_on_primary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_primary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:31Z"
+                    },
+                    {
+                      "href": "https://a.espncdn.com/guid/ed294c02-3c44-db14-9e06-1b4e8cff9558/logos/secondary_logo_on_secondary_color.png",
+                      "width": 4096,
+                      "height": 4096,
+                      "alt": "",
+                      "rel": [
+                        "full",
+                        "secondary_logo_on_secondary_color"
+                      ],
+                      "lastUpdated": "2024-12-03T19:31Z"
+                    }
+                  ],
+                  "links": [
+                    {
+                      "rel": [
+                        "clubhouse",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/_/name/por/portland-trail-blazers",
+                      "text": "Clubhouse"
+                    },
+                    {
+                      "rel": [
+                        "roster",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/roster/_/name/por/portland-trail-blazers",
+                      "text": "Roster"
+                    },
+                    {
+                      "rel": [
+                        "stats",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/stats/_/name/por/portland-trail-blazers",
+                      "text": "Statistics"
+                    },
+                    {
+                      "rel": [
+                        "schedule",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/schedule/_/name/por",
+                      "text": "Schedule"
+                    },
+                    {
+                      "rel": [
+                        "photos",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/photos/_/name/por",
+                      "text": "photos"
+                    },
+                    {
+                      "rel": [
+                        "tickets",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.vividseats.com/portland-trail-blazers-tickets--sports-nba-basketball/performer/690?wsUser=717",
+                      "text": "Tickets"
+                    },
+                    {
+                      "rel": [
+                        "draftpicks",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/draft/teams/_/name/por/portland-trail-blazers",
+                      "text": "Draft Picks"
+                    },
+                    {
+                      "rel": [
+                        "transactions",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/transactions/_/name/por",
+                      "text": "Transactions"
+                    },
+                    {
+                      "rel": [
+                        "injuries",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/injuries/_/name/por",
+                      "text": "Injuries"
+                    },
+                    {
+                      "rel": [
+                        "depthchart",
+                        "desktop",
+                        "team"
+                      ],
+                      "href": "https://www.espn.com/nba/team/depth/_/name/por",
+                      "text": "Depth Chart"
+                    }
+                  ]
+                }
+              }
+            ],
+            "notes": [],
+            "broadcasts": [],
+            "tickets": [
+              {
+                "id": "5879352",
+                "summary": "Tickets as low as $46",
+                "description": "NBA Preseason - Portland Trail Blazers at Golden State Warriors",
+                "maxPrice": 11035.06,
+                "startingPrice": 46.95,
+                "numberAvailable": 2953,
+                "totalPostings": 849,
+                "links": [
+                  {
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "event"
+                    ],
+                    "href": "https://www.vividseats.com/golden-state-warriors-tickets-chase-center-10-8-2025--sports-nba-basketball/production/5879352?wsUser=717"
+                  },
+                  {
+                    "rel": [
+                      "tickets",
+                      "desktop",
+                      "venue"
+                    ],
+                    "href": "https://www.vividseats.com/chase-center-tickets/venue/23001?wsUser=717"
+                  }
+                ]
+              }
+            ],
+            "status": {
+              "clock": 0.0,
+              "displayClock": "0.0",
+              "period": 0,
+              "type": {
+                "id": "1",
+                "name": "STATUS_SCHEDULED",
+                "state": "pre",
+                "completed": false,
+                "description": "Scheduled",
+                "detail": "Wed, October 8th at 10:00 PM EDT",
+                "shortDetail": "10/8 - 10:00 PM EDT"
+              }
+            }
+          }
+        ],
+        "links": [
+          {
+            "language": "en-US",
+            "rel": [
+              "summary",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/nba/game/_/gameId/401812689/trail-blazers-warriors",
+            "text": "Gamecast",
+            "shortText": "Summary",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "summary",
+              "sportscenter",
+              "app",
+              "event"
+            ],
+            "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401812689",
+            "text": "Gamecast",
+            "shortText": "Summary",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "now",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/nba/game/_/gameId/401812689",
+            "text": "Now",
+            "shortText": "Now",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "odds",
+              "desktop",
+              "event"
+            ],
+            "href": "https://www.espn.com/nba/odds/_/gameId/401812689",
+            "text": "Odds",
+            "shortText": "Odds",
+            "isExternal": false,
+            "isPremium": false
+          },
+          {
+            "language": "en-US",
+            "rel": [
+              "odds",
+              "mobile",
+              "event"
+            ],
+            "href": "https://m.espn.com/nba/odds/_/gameId/401812689",
+            "text": "Odds",
+            "shortText": "Odds",
+            "isExternal": false,
+            "isPremium": false
+          }
+        ]
+      }
+    ],
+    "standingSummary": "4th in Northwest Division"
+  }
+}
